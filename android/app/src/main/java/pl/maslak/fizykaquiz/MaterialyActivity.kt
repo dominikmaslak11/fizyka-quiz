@@ -83,7 +83,7 @@ class MaterialyActivity : AppCompatActivity() {
             val lista = wg[m.id] ?: return@forEach
             naglowekModulu(m.id, lista.size)
             lista.forEach { w ->
-                box.addView(ImageView(this).apply {
+                val obrazek = ImageView(this).apply {
                     try {
                         assets.open("kluczowe/${w.plik}.png").use {
                             setImageBitmap(BitmapFactory.decodeStream(it))
@@ -100,12 +100,35 @@ class MaterialyActivity : AppCompatActivity() {
                     layoutParams = LinearLayout.LayoutParams(
                         docelowa, LinearLayout.LayoutParams.WRAP_CONTENT
                     ).apply { topMargin = dp(10) }
-                })
-                box.addView(TextView(this).apply {
-                    text = "str. ${w.strona}"
-                    setTextColor(resources.getColor(R.color.szary, null))
+                }
+                box.addView(obrazek)
+
+                val podpis = TextView(this).apply {
+                    text = buildString {
+                        append("str. ${w.strona}")
+                        if (w.rozdzial.isNotBlank()) append("  ·  ${w.rozdzial}")
+                        if (w.komentarz != null) append("   ▾ dotknij, aby zobaczyć zastosowanie")
+                    }
+                    setTextColor(if (w.komentarz != null) kolor(m.id)
+                                 else resources.getColor(R.color.szary, null))
                     setTextSize(TypedValue.COMPLEX_UNIT_SP, 10f)
-                })
+                }
+                box.addView(podpis)
+
+                // Komentarz rozwijany po dotknieciu wzoru — domyslnie zwiniety,
+                // zeby lista wzorow zostala przegladalna.
+                if (w.komentarz != null) {
+                    val szczegoly = zbudujKomentarz(w.komentarz, kolor(m.id)).apply {
+                        visibility = View.GONE
+                    }
+                    box.addView(szczegoly)
+                    val przelacz = View.OnClickListener {
+                        szczegoly.visibility =
+                            if (szczegoly.visibility == View.GONE) View.VISIBLE else View.GONE
+                    }
+                    obrazek.setOnClickListener(przelacz)
+                    podpis.setOnClickListener(przelacz)
+                }
             }
         }
         box.addView(stopka())
@@ -157,6 +180,38 @@ class MaterialyActivity : AppCompatActivity() {
             }
         }
         box.addView(stopka())
+    }
+
+    /** Rozwijana karta: czego wzór dotyczy, kiedy go użyć i przykład z liczbami. */
+    private fun zbudujKomentarz(k: Komentarz, kolorModulu: Int): View {
+        val karta = LinearLayout(this).apply {
+            orientation = LinearLayout.VERTICAL
+            setBackgroundResource(R.drawable.tlo_karty)
+            setPadding(dp(12), dp(10), dp(12), dp(12))
+            layoutParams = LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.MATCH_PARENT,
+                LinearLayout.LayoutParams.WRAP_CONTENT).apply { topMargin = dp(6) }
+        }
+        fun sekcja(tytul: String, tresc: String) {
+            if (tresc.isBlank()) return
+            karta.addView(TextView(this).apply {
+                text = tytul
+                setTextColor(kolorModulu)
+                setTextSize(TypedValue.COMPLEX_UNIT_SP, 10f)
+                setTypeface(typeface, Typeface.BOLD)
+                setPadding(0, dp(6), 0, dp(2))
+            })
+            karta.addView(TextView(this).apply {
+                text = tresc
+                setTextColor(resources.getColor(R.color.tekst, null))
+                setTextSize(TypedValue.COMPLEX_UNIT_SP, 13f)
+                setLineSpacing(0f, 1.25f)
+            })
+        }
+        sekcja("CZEGO DOTYCZY", k.czego)
+        sekcja("KIEDY GO UŻYWAĆ", k.kiedy)
+        sekcja("PRZYKŁAD", k.przyklad)
+        return karta
     }
 
     private fun wstep(t: String) = TextView(this).apply {

@@ -6,7 +6,10 @@ import org.json.JSONObject
 data class Modul(val id: String, val nazwa: String, val kolor: String, val rozdzialy: String)
 
 /** Wzór wyróżniony przez autora żółtym tłem — wycinek ze strony podręcznika. */
-data class Wzor(val plik: String, val modul: String, val strona: Int, val w: Int, val h: Int)
+data class Komentarz(val czego: String, val kiedy: String, val przyklad: String)
+
+data class Wzor(val plik: String, val modul: String, val strona: Int, val w: Int, val h: Int,
+                val rozdzial: String = "", val komentarz: Komentarz? = null)
 
 /** Definicja, prawo albo zadanie z testu — tekst wyciągnięty z podręcznika. */
 data class Wpis(val id: String, val modul: String, val strona: Int,
@@ -19,7 +22,11 @@ data class Pytanie(
     val tresc: String,
     val odpowiedzi: List<String>,
     val poprawna: Int,
-    val wyjasnienie: String
+    val wyjasnienie: String,
+    /** Obrazek wzoru pokazywany przy treści pytania (pytania typu „czego dotyczy ten wzór”). */
+    val obrazek: String? = null,
+    /** Obrazki wzorów jako odpowiedzi — wtedy lista [odpowiedzi] jest pusta. */
+    val odpowiedziObrazki: List<String>? = null
 )
 
 /** Bank wczytywany raz z assets/pytania.json — ten sam plik, ktory generuje narzedzia/zbuduj.py. */
@@ -61,15 +68,23 @@ object Bank {
             (0 until a.length()).map { i ->
                 val p = a.getJSONObject(i)
                 val odp = p.getJSONArray("odpowiedzi").let { o -> (0 until o.length()).map { o.getString(it) } }
+                val obrazki = p.optJSONArray("odpowiedzi_obrazki")?.let { o ->
+                    (0 until o.length()).map { o.getString(it) }
+                }
                 Pytanie(p.getString("id"), p.getString("modul"), p.optString("rozdzial", ""),
-                        p.getString("pytanie"), odp, p.getInt("poprawna"), p.getString("wyjasnienie"))
+                        p.getString("pytanie"), odp, p.getInt("poprawna"), p.getString("wyjasnienie"),
+                        p.optString("obrazek").takeIf { it.isNotBlank() }, obrazki)
             }
         }
         kluczowe = root.optJSONArray("kluczowe")?.let { a ->
             (0 until a.length()).map { i ->
                 val w = a.getJSONObject(i)
+                val k = w.optJSONObject("komentarz")?.let {
+                    Komentarz(it.optString("czego"), it.optString("kiedy"), it.optString("przyklad"))
+                }
                 Wzor(w.getString("plik"), w.optString("modul", "M1"),
-                     w.optInt("strona"), w.optInt("w"), w.optInt("h"))
+                     w.optInt("strona"), w.optInt("w"), w.optInt("h"),
+                     w.optString("rozdzial"), k)
             }
         } ?: emptyList()
 

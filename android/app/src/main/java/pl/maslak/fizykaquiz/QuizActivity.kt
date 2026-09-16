@@ -92,14 +92,32 @@ class QuizActivity : AppCompatActivity() {
         val rozmiar = Wzory.sp(this, 17f)
         findViewById<TextView>(R.id.txtPytanie).text = Wzory.zloz(this, p.tresc, rozmiar)
 
+        // wzór dołączony do treści pytania — wtedy ilustracja modułu ustępuje mu miejsca
+        findViewById<ImageView>(R.id.grafika).let { g ->
+            if (p.obrazek != null) {
+                try {
+                    assets.open("kluczowe/${p.obrazek}.png").use {
+                        g.setImageBitmap(BitmapFactory.decodeStream(it))
+                    }
+                    g.visibility = View.VISIBLE
+                } catch (e: Exception) { g.visibility = View.GONE }
+            }
+        }
+
         boxWyj.visibility = View.GONE
         btnDalej.visibility = View.GONE
         findViewById<ScrollView>(R.id.scroll).scrollTo(0, 0)
 
         boxOdp.removeAllViews()
         val rozmiarOdp = Wzory.sp(this, 15f)
-        p.odpowiedzi.forEachIndexed { i, tresc ->
-            boxOdp.addView(zbudujOdpowiedz(i, tresc, rozmiarOdp))
+        if (p.odpowiedziObrazki != null) {
+            p.odpowiedziObrazki.forEachIndexed { i, plik ->
+                boxOdp.addView(zbudujOdpowiedzObrazkowa(i, plik))
+            }
+        } else {
+            p.odpowiedzi.forEachIndexed { i, tresc ->
+                boxOdp.addView(zbudujOdpowiedz(i, tresc, rozmiarOdp))
+            }
         }
     }
 
@@ -140,6 +158,40 @@ class QuizActivity : AppCompatActivity() {
             // i bez tego znaki gorne (np. stopien albo potega) sa przycinane.
             includeFontPadding = false
             setPadding(0, (rozmiar * 0.45f).toInt(), 0, (rozmiar * 0.12f).toInt())
+            layoutParams = LinearLayout.LayoutParams(
+                0, LinearLayout.LayoutParams.WRAP_CONTENT, 1f)
+        })
+        return wiersz
+    }
+
+    /** Wiersz odpowiedzi, w którym treścią jest obrazek wzoru wycięty z podręcznika. */
+    private fun zbudujOdpowiedzObrazkowa(i: Int, plik: String): View {
+        val wiersz = LinearLayout(this).apply {
+            orientation = LinearLayout.HORIZONTAL
+            gravity = Gravity.CENTER_VERTICAL
+            setBackgroundResource(R.drawable.tlo_odpowiedzi)
+            setPadding(26, 22, 26, 22)
+            isClickable = true
+            layoutParams = LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.MATCH_PARENT,
+                LinearLayout.LayoutParams.WRAP_CONTENT).apply { topMargin = 14 }
+            setOnClickListener { wybierz(i) }
+        }
+        wiersz.addView(TextView(this).apply {
+            text = "${LITERY[i]})"
+            setTextSize(TypedValue.COMPLEX_UNIT_SP, 15f)
+            setTextColor(resources.getColor(R.color.szary, null))
+            setTypeface(typeface, android.graphics.Typeface.BOLD)
+            layoutParams = LinearLayout.LayoutParams(
+                (34 * resources.displayMetrics.density).toInt(),
+                LinearLayout.LayoutParams.WRAP_CONTENT)
+        })
+        wiersz.addView(ImageView(this).apply {
+            try {
+                assets.open("kluczowe/$plik.png").use { setImageBitmap(BitmapFactory.decodeStream(it)) }
+            } catch (e: Exception) { }
+            adjustViewBounds = true
+            scaleType = ImageView.ScaleType.FIT_START
             layoutParams = LinearLayout.LayoutParams(
                 0, LinearLayout.LayoutParams.WRAP_CONTENT, 1f)
         })

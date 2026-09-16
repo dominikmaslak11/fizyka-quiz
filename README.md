@@ -4,7 +4,7 @@ Aplikacja do powtórki przed egzaminem rocznym z fizyki. **Wzory składane w LaT
 i wyświetlane w treści pytań, wykresy i schematy rysowane programowo.
 Działa w pełni offline.
 
-**78 pytań** w 11 modułach, **304 wzorów** złożonych w LaTeX-u
+**725 pytań** w 11 modułach, **304 wzorów** złożonych w LaTeX-u
 i 11 ilustracji rysowanych programowo. Do tego **wyciąg z całego podręcznika**:
 **310 wzorów kluczowych**, **52 definicji**,
 **82 praw i twierdzeń** oraz **101 zadań** z testów kończących moduły.
@@ -43,6 +43,31 @@ zachowania atrybucji i tej samej licencji dla utworów pochodnych.
 | M9 | Optyka | 6 | 28–31 (optyka geometryczna i falowa, interferencja, dyfrakcja, polaryzacja) |
 | M10 | Fizyka kwantowa | 6 | 32–35 (fizyka kwantowa, fale i cząstki, mechanika kwantowa) |
 | M11 | Atomy, ciało stałe, jądro | 6 | 36–38 (atomy wieloelektronowe, materia skondensowana, fizyka jądrowa) |
+
+## Skąd bierze się 725 pytań
+
+| źródło | ile | jak powstaje |
+|---|---|---|
+| pisane ręcznie | 78 | wzory w LaTeX-u, wyjaśnienie i odsyłacz do rozdziału |
+| definicja → pojęcie | 29 | treść definicji z podręcznika, dystraktory to inne pojęcia z tego samego modułu |
+| pojęcie → definicja | 29 | odwrotność powyższego |
+| treść prawa → nazwa | 19 | „Które prawo brzmi…", nazwa brana z tytułu nad blokiem |
+| wzór → zagadnienie | 310 | obrazek wzoru, odpowiedzi to rozdziały |
+| **zagadnienie → wzór** | **260** | odpowiedziami są **obrazki wzorów** — najmocniejsze ćwiczenie, bo wymaga rozpoznania wzoru wśród czterech z tego samego modułu |
+
+**Pytania generowane nie są zmyślane.** Generator tylko przestawia materiał wyjęty z książki
+w pytania zamknięte i dobiera dystraktory z tego samego modułu, żeby nie dało się zgadnąć.
+Pytanie powstaje wyłącznie wtedy, gdy uda się wyłuskać czystą nazwę i znaleźć trzy różne
+dystraktory — reszta jest pomijana.
+
+## Komentarze do wzorów
+
+Dotknięcie wzoru na liście rozwija kartę z trzema sekcjami: **czego dotyczy**,
+**kiedy go używać** i **przykład** z konkretnymi liczbami.
+
+Komentarze są kluczowane **numerem rozdziału**, a nie nazwą pliku obrazka — nazwy plików
+zależą od numeru strony i kolejności wycinania, więc zmieniałyby się przy każdej zmianie
+filtra. Jeden wpis w `bank/komentarze.py` obsługuje wszystkie wzory z danego rozdziału.
 
 ## Wyciąg z podręcznika
 

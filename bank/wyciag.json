@@ -2,809 +2,749 @@
  "definicje": [
   {
    "strona": 20,
-   "modul": "M1",
    "kontekst": "Dział Fizyki zajmujący się opisem ruchu ciał nazywamy kinematyką.",
-   "tresc": "Pod pojęciem ruchu rozumiemy zmiany wzajemnego położenia jednych ciał względem drugich wraz z upływem czasu."
+   "tresc": "Pod pojęciem ruchu rozumiemy zmiany wzajemnego położenia jednych ciał względem drugich wraz z upływem czasu.",
+   "modul": "M1"
   },
   {
    "strona": 20,
-   "modul": "M1",
    "kontekst": "będziemy posługiwać się pojęciem punktu materialnego .",
-   "tresc": "Punkty materialne to obiekty obdarzone masą, których rozmiary (objętość) możemy zaniedbać."
+   "tresc": "Punkty materialne to obiekty obdarzone masą, których rozmiary (objętość) możemy",
+   "modul": "M1"
   },
   {
    "strona": 20,
-   "modul": "M1",
    "kontekst": "2.2 Prędkość",
-   "tresc": "Prędkość definiujemy jako zmianę położenia ciała w jednostce czasu."
+   "tresc": "Prędkość definiujemy jako zmianę położenia ciała w jednostce czasu.",
+   "modul": "M1"
   },
   {
    "strona": 22,
-   "modul": "M1",
    "kontekst": "",
-   "tresc": "Prędkość chwilowa jest pochodną drogi względem czasu."
-  },
-  {
-   "strona": 22,
-   "modul": "M1",
-   "kontekst": "średniej . Prędkość średnia ciała w przedziale czasu t jest zdefiniowana jako",
-   "tresc": "x  x0 v                                        (2.4) t"
+   "tresc": "Prędkość chwilowa jest pochodną drogi względem czasu.",
+   "modul": "M1"
   },
   {
    "strona": 23,
-   "modul": "M1",
    "kontekst": "2.3 Przyspieszenie",
-   "tresc": "Przyspieszeniem nazywamy tempo zmian prędkości."
-  },
-  {
-   "strona": 24,
-   "modul": "M1",
-   "kontekst": "względem t.",
-   "tresc": "dv a                                         (2.6) dt"
+   "tresc": "Przyspieszeniem nazywamy tempo zmian prędkości.",
+   "modul": "M1"
   },
   {
    "strona": 35,
-   "modul": "M1",
    "kontekst": "Nieznaną masę m definiujemy jako",
-   "tresc": "v0 m  m0                                          (4.1) v"
+   "tresc": "m  m0                                          (4.1)",
+   "modul": "M1"
   },
   {
    "strona": 35,
-   "modul": "M1",
    "kontekst": "4.1.3 Pęd",
-   "tresc": "Pęd ciała definiujemy jako iloczyn jego masy i prędkości (wektorowej)"
+   "tresc": "Pęd ciała definiujemy jako iloczyn jego masy i prędkości (wektorowej)",
+   "modul": "M1"
   },
   {
    "strona": 35,
-   "modul": "M1",
    "kontekst": "4.1.4 Siła",
-   "tresc": "Jeżeli na ciało o masie m działa siła F, to definiujemy ją jako zmianę w czasie pędu tego ciała."
+   "tresc": "Jeżeli na ciało o masie m działa siła F, to definiujemy ją jako zmianę w czasie pędu",
+   "modul": "M1"
   },
   {
    "strona": 37,
-   "modul": "M1",
    "kontekst": "fizyczne: definicję inercjalnego układu odniesienia .",
-   "tresc": "Pierwsza zasada dynamiki stwierdza, że jeżeli na ciało nie działa żadna siła (lub gdy siła wypadkowa jest równa zeru) to istnieje taki układ odniesienia, w którym to ciało spoczywa lub porusza się ruchem jednostajnym prostoliniowym. Taki układ nazywamy układem inercjalnym."
+   "tresc": "Pierwsza zasada dynamiki stwierdza, że jeżeli na ciało nie działa żadna siła (lub gdy siła wypadkowa jest równa zeru) to istnieje taki układ odniesienia, w którym to ciało spoczywa lub porusza się ruchem jednostajnym prostoliniowym. Taki układ nazywamy układem inercjalnym.",
+   "modul": "M1"
   },
   {
    "strona": 45,
-   "modul": "M1",
    "kontekst": "o iloczyn ma0.",
-   "tresc": "Iloczyn masy i przyspieszenia unoszenia (ze znakiem minus) nazywamy siłą bezwładności Fb."
+   "tresc": "Iloczyn masy i przyspieszenia unoszenia (ze znakiem minus) nazywamy siłą",
+   "modul": "M1"
   },
   {
    "strona": 51,
-   "modul": "M1",
    "kontekst": "6.3 Ciężar",
-   "tresc": "Ciężar definiujemy jako siłę ciężkości działającą na ciało."
+   "tresc": "Ciężar definiujemy jako siłę ciężkości działającą na ciało.",
+   "modul": "M1"
   },
   {
    "strona": 52,
-   "modul": "M1",
    "kontekst": "m     r",
-   "tresc": "Wektor γ(r) dany równaniem (6.13) nazywamy natężeniem pola grawitacyjnego."
+   "tresc": "Wektor γ(r) dany równaniem (6.13) nazywamy natężeniem pola grawitacyjnego.",
+   "modul": "M1"
   },
   {
    "strona": 71,
-   "modul": "M2",
    "kontekst": "i kierunku zgodnym z kierunkiem ruchu, możemy zdefiniować pracę W.",
-   "tresc": "Praca W wykonana przez stałą siłę F jest iloczynem skalarnym tej siły F i wektora przesunięcia s."
+   "tresc": "Praca W wykonana przez stałą siłę F jest iloczynem skalarnym tej siły F i wektora",
+   "modul": "M2"
   },
   {
    "strona": 76,
-   "modul": "M2",
    "kontekst": " t  2                2    2",
-   "tresc": "Połowę iloczynu masy ciała i kwadratu prędkości nazywamy energią kinetyczną Ek ciała o masie m."
+   "tresc": "Połowę iloczynu masy ciała i kwadratu prędkości nazywamy energią kinetyczną Ek ciała o masie m.",
+   "modul": "M2"
   },
   {
    "strona": 77,
-   "modul": "M2",
    "kontekst": "większą moc .",
-   "tresc": "Moc definiujemy jako ilość wykonanej pracy (lub przekazanej energii) do czasu w jakim została ona wykonana."
+   "tresc": "Moc definiujemy jako ilość wykonanej pracy (lub przekazanej energii) do czasu w jakim została ona wykonana.",
+   "modul": "M2"
   },
   {
    "strona": 79,
-   "modul": "M2",
    "kontekst": "całkowita praca jest równa zeru.",
-   "tresc": "Siła jest zachowawcza, jeżeli praca wykonana przez tę siłę nad punktem materialnym, który porusza się po dowolnej drodze zamkniętej jest równa zeru."
+   "tresc": "Siła jest zachowawcza, jeżeli praca wykonana przez tę siłę nad punktem materialnym, który porusza się po dowolnej drodze zamkniętej jest równa zeru.",
+   "modul": "M2"
   },
   {
    "strona": 79,
-   "modul": "M2",
    "kontekst": "wykonana praca różna od zera.",
-   "tresc": "Siła jest niezachowawcza jeżeli praca wykonana przez tę siłę nad punktem materialnym, który porusza się po dowolnej drodze zamkniętej nie jest równa zeru."
+   "tresc": "Siła jest niezachowawcza jeżeli praca wykonana przez tę siłę nad punktem materialnym, który porusza się po dowolnej drodze zamkniętej nie jest równa zeru.",
+   "modul": "M2"
   },
   {
    "strona": 81,
-   "modul": "M2",
    "kontekst": "te same punkty A i B.",
-   "tresc": "Siłę nazywamy zachowawczą jeżeli praca wykonana przez nią nad punktem materialnym poruszającym się między dwoma punktami zależy tylko od tych punktów, a nie od łączącej je drogi. Siłę nazywamy niezachowawczą jeżeli praca wykonana przez nią nad punktem materialnym poruszającym się między dwoma punktami zależy od drogi łączącej te punkty."
+   "tresc": "Siłę nazywamy zachowawczą jeżeli praca wykonana przez nią nad punktem materialnym poruszającym się między dwoma punktami zależy tylko od tych punktów, a nie od łączącej je drogi. Siłę nazywamy niezachowawczą jeżeli praca wykonana przez nią nad punktem materialnym poruszającym się między dwoma punktami zależy od drogi łączącej te punkty.",
+   "modul": "M2"
   },
   {
    "strona": 86,
-   "modul": "M2",
    "kontekst": "E p (r )  mV (r )                                        (8.19)",
-   "tresc": "Funkcję V(r) nazywamy potencjałem pola grawitacyjnego i definiujemy jako stosunek grawitacyjnej energii potencjalnej masy m do wartości tej masy."
+   "tresc": "Funkcję V(r) nazywamy potencjałem pola grawitacyjnego i definiujemy jako stosunek grawitacyjnej energii potencjalnej masy m do wartości tej masy.",
+   "modul": "M2"
   },
   {
    "strona": 98,
-   "modul": "M2",
    "kontekst": "przewidzieć wynik zderzenia.",
-   "tresc": "Gdy dwa ciała zderzają się to zderzenie może być sprężyste (elastyczne) lub niesprężyste (nieelastyczne) w zależności od tego czy energia kinetyczna jest zachowana podczas tego zderzenia czy też nie."
+   "tresc": "Gdy dwa ciała zderzają się to zderzenie może być sprężyste (elastyczne) lub niesprężyste (nieelastyczne) w zależności od tego czy energia kinetyczna jest zachowana podczas tego zderzenia czy też nie.",
+   "modul": "M2"
   },
   {
    "strona": 119,
-   "modul": "M3",
    "kontekst": "tego punktu jest definiowany jako",
-   "tresc": "τ  rF                                    (11.5)"
+   "tresc": "τ  rF                                    (11.5)",
+   "modul": "M3"
   },
   {
    "strona": 120,
-   "modul": "M3",
    "kontekst": "pędu. Wielkość L nazywamy momentem pędu       i definiujemy jako",
-   "tresc": "L r p                                    (11.7)"
+   "tresc": "L r p                                    (11.7)",
+   "modul": "M3"
   },
   {
    "strona": 122,
-   "modul": "M3",
    "kontekst": "Wielkość w nawiasie nazywamy momentem bezwładności I                   , który definiujemy jako",
-   "tresc": "I   ri 2 mi                                   (11.14) i"
+   "tresc": "I   ri 2 mi                                   (11.14)",
+   "modul": "M3"
   },
   {
    "strona": 122,
-   "modul": "M3",
    "kontekst": "a dla ciągłego rozkładu masy",
-   "tresc": "I   r2 d m                                     (11.15)"
+   "tresc": "I   r2 d m                                     (11.15)",
+   "modul": "M3"
   },
   {
    "strona": 127,
-   "modul": "M3",
    "kontekst": "12.1 Siła harmoniczna, drgania swobodne",
-   "tresc": "Siłą harmoniczną (sprężystości) nazywamy siłę działającą na ciało proporcjonalną do przesunięcia tego ciała od początku układu i skierowaną ku początkowi układu."
+   "tresc": "Siłą harmoniczną (sprężystości) nazywamy siłę działającą na ciało proporcjonalną do przesunięcia tego ciała od początku układu i skierowaną ku początkowi układu.",
+   "modul": "M3"
   },
   {
    "strona": 136,
-   "modul": "M3",
    "kontekst": "Q , który jest definiowany jako",
-   "tresc": "Ezmagazynowana               E     E Q  2π                          2π                                (12.33) Estracona w1okresie          P / f P /"
+   "tresc": "Ezmagazynowana               E     E Q  2π                          2π                                (12.33) Estracona w1okresie          P / f P /",
+   "modul": "M3"
   },
   {
    "strona": 160,
-   "modul": "M4",
    "kontekst": "zaczynają drgać. W ten sposób zaburzenie przechodzi przez cały ośrodek.",
-   "tresc": "Ruchem falowym nazywamy rozchodzenie się zaburzenia w ośrodku."
+   "tresc": "Ruchem falowym nazywamy rozchodzenie się zaburzenia w ośrodku.",
+   "modul": "M4"
   },
   {
    "strona": 177,
-   "modul": "M4",
    "kontekst": "następująco:",
-   "tresc": "Ciśnienie definiujemy jako stosunek siły parcia działającej na jednostkę powierzchni do wielkości tej powierzchni."
+   "tresc": "Ciśnienie definiujemy jako stosunek siły parcia działającej na jednostkę powierzchni do wielkości tej powierzchni.",
+   "modul": "M4"
   },
   {
    "strona": 178,
-   "modul": "M4",
    "kontekst": "",
-   "tresc": "Długość wektora S jest równa polu powierzchni S, jego kierunek jest prostopadły do powierzchni, a zwrot na zewnątrz powierzchni."
+   "tresc": "Długość wektora S jest równa polu powierzchni S, jego kierunek jest prostopadły do powierzchni, a zwrot na zewnątrz powierzchni.",
+   "modul": "M4"
   },
   {
    "strona": 199,
-   "modul": "M5",
    "kontekst": "następujące założenia dotyczące cząsteczek gazów:",
-   "tresc": "Cząsteczki gazu doskonałego traktujemy jako punkty materialne (objętość cząsteczek gazu jest o wiele mniejsza niż objętość zajmowana przez gaz i dlatego z dobrym przybliżeniem przyjmujemy, że ich objętość jest równa zeru). W gazie doskonałym zderzenia z innymi cząsteczkami oraz ze ściankami naczynia są sprężyste i dlatego całkowita energia cząsteczek jest równa ich energii kinetycznej; energia potencjalna jest stale równa zeru (nie ma przyciągania ani odpychania pomiędzy cząsteczkami)."
+   "tresc": "Cząsteczki gazu doskonałego traktujemy jako punkty materialne (objętość cząsteczek gazu jest o wiele mniejsza niż objętość zajmowana przez gaz i dlatego z dobrym przybliżeniem przyjmujemy, że ich objętość jest równa zeru). W gazie doskonałym zderzenia z innymi cząsteczkami oraz ze ściankami naczynia są sprężyste i dlatego całkowita energia cząsteczek jest równa ich energii kinetycznej; energia potencjalna jest stale równa zeru (nie ma przyciągania ani odpychania",
+   "modul": "M5"
   },
   {
    "strona": 202,
-   "modul": "M5",
    "kontekst": "teorii kinetycznej, czyli przy podejściu mikroskopowym.",
-   "tresc": "Temperaturę bezwzględną definiujmy jako wielkość wprost proporcjonalną do średniej energii kinetycznej cząsteczek."
+   "tresc": "Temperaturę bezwzględną definiujmy jako wielkość wprost proporcjonalną do średniej energii kinetycznej cząsteczek.",
+   "modul": "M5"
   },
   {
    "strona": 208,
-   "modul": "M5",
    "kontekst": "15.5 Ciepło właściwe",
-   "tresc": "Ciepło właściwe substancji definiujemy jako dQ/dT czyli ilość ciepła, którą trzeba dostarczyć do jednostki masy, żeby spowodować jednostkową zmianę jej temperatury."
+   "tresc": "Ciepło właściwe substancji definiujemy jako dQ/dT czyli ilość ciepła, którą trzeba dostarczyć do jednostki masy, żeby spowodować jednostkową zmianę jej",
+   "modul": "M5"
   },
   {
    "strona": 213,
-   "modul": "M5",
    "kontekst": "teraz pojęcie średniej drogi swobodnej    .",
-   "tresc": "Średnią drogę swobodną definiujemy jako średnią odległość przemywaną przez cząsteczkę pomiędzy kolejnymi zderzeniami."
+   "tresc": "Średnią drogę swobodną definiujemy jako średnią odległość przemywaną przez cząsteczkę pomiędzy kolejnymi zderzeniami.",
+   "modul": "M5"
   },
   {
    "strona": 218,
-   "modul": "M5",
    "kontekst": "",
-   "tresc": "Proces nazywamy odwracalnym gdy za pomocą bardzo małej (różniczkowej) zmiany otoczenia można wywołać proces odwrotny do niego tzn. przebiegający po tej samej drodze w przeciwnym kierunku."
+   "tresc": "Proces nazywamy odwracalnym gdy za pomocą bardzo małej (różniczkowej) zmiany otoczenia można wywołać proces odwrotny do niego tzn. przebiegający po tej samej drodze w przeciwnym kierunku.",
+   "modul": "M5"
   },
   {
    "strona": 221,
-   "modul": "M5",
    "kontekst": "określoną dla stanu równowagi, taką że dla procesu odwracalnego",
-   "tresc": "dQ dS                                      (16.15) T"
+   "tresc": "dS                                      (16.15)",
+   "modul": "M5"
   },
   {
    "strona": 223,
-   "modul": "M5",
    "kontekst": "Z definicji entropia układu jest równa",
-   "tresc": "S = k ln                                (16.23"
+   "tresc": "S = k ln                                (16.23",
+   "modul": "M5"
   },
   {
    "strona": 241,
-   "modul": "M6",
    "kontekst": "",
-   "tresc": "Analogicznie definiujemy natężenie pola elektrycznego jako siłę działającą na ładunek próbny q (umieszczony w danym punkcie przestrzeni) podzieloną przez ten ładunek."
+   "tresc": "Analogicznie definiujemy natężenie pola elektrycznego jako siłę działającą na ładunek próbny q (umieszczony w danym punkcie przestrzeni) podzieloną przez ten",
+   "modul": "M6"
   },
   {
    "strona": 244,
-   "modul": "M6",
    "kontekst": "Żeby móc z niego skorzystać poznamy najpierw pojęcie strumienia pola elektrycznego .",
-   "tresc": "Strumień  pola elektrycznego przez powierzchnię S definiujemy jako iloczyn skalarny wektora powierzchni S i natężenia pola elektrycznego E."
+   "tresc": "Strumień  pola elektrycznego przez powierzchnię S definiujemy jako iloczyn skalarny wektora powierzchni S i natężenia pola elektrycznego E.",
+   "modul": "M6"
   },
   {
    "strona": 254,
-   "modul": "M6",
    "kontekst": "elektrycznym.",
-   "tresc": "Potencjał elektryczny definiujemy jako energię potencjalną pola elektrycznego podzieloną przez jednostkowy ładunek."
+   "tresc": "Potencjał elektryczny definiujemy jako energię potencjalną pola elektrycznego podzieloną przez jednostkowy ładunek.",
+   "modul": "M6"
   },
   {
    "strona": 261,
-   "modul": "M6",
    "kontekst": "następująco",
-   "tresc": "Pojemnością elektryczną nazywamy stosunek ładunku kondensatora do różnicy potencjałów (napięcia) między okładkami."
+   "tresc": "Pojemnością elektryczną nazywamy stosunek ładunku kondensatora do różnicy potencjałów (napięcia) między okładkami.",
+   "modul": "M6"
   },
   {
    "strona": 262,
-   "modul": "M6",
    "kontekst": "przewodnika.",
-   "tresc": "Pojemnością elektryczną przewodnika nazywamy stosunek ładunku umieszczonego na przewodniku do potencjału jaki ma ten przewodnik w polu elektrycznym wytworzonym przez ten ładunek."
+   "tresc": "Pojemnością elektryczną przewodnika nazywamy stosunek ładunku umieszczonego na przewodniku do potencjału jaki ma ten przewodnik w polu elektrycznym wytworzonym przez ten ładunek.",
+   "modul": "M6"
   },
   {
    "strona": 282,
-   "modul": "M7",
    "kontekst": "Przepływ prądu przez przewodnik jest opisywany przez natężenie prądu.",
-   "tresc": "Natężenie prądu elektrycznego definiujemy jako ilość ładunku jaka przepływa przez przekrój poprzeczny przewodnika w jednostce czasu. Q I                                              (21.1) t"
+   "tresc": "Natężenie prądu elektrycznego definiujemy jako ilość ładunku jaka przepływa przez przekrój poprzeczny przewodnika w jednostce czasu.",
+   "modul": "M7"
   },
   {
    "strona": 283,
-   "modul": "M7",
    "kontekst": "Wielkością związaną z natężeniem prądu jest gęstość prądu.",
-   "tresc": "Gęstość prądu elektrycznego definiowana jest jako natężenie prądu na jednostkę powierzchni przekroju poprzecznego przewodnika."
+   "tresc": "Gęstość prądu elektrycznego definiowana jest jako natężenie prądu na jednostkę powierzchni przekroju poprzecznego przewodnika.",
+   "modul": "M7"
   },
   {
    "strona": 290,
-   "modul": "M7",
    "kontekst": "q",
-   "tresc": "Miarą SEM jest różnica potencjałów (napięcie) na biegunach źródła prądu w warunkach, kiedy przez ogniwo nie płynie prąd (ogniwo otwarte)."
+   "tresc": "Miarą SEM jest różnica potencjałów (napięcie) na biegunach źródła prądu w warunkach, kiedy przez ogniwo nie płynie prąd (ogniwo otwarte).",
+   "modul": "M7"
   },
   {
    "strona": 295,
-   "modul": "M7",
    "kontekst": "zapisujemy w postaci równania wektorowego",
-   "tresc": "F  qv  B                                  (22.1)"
+   "tresc": "F  qv  B                                  (22.1)",
+   "modul": "M7"
   },
   {
    "strona": 304,
-   "modul": "M7",
    "kontekst": "Wielkość wektorową",
-   "tresc": "μ  IS                                   (22.19)"
+   "tresc": "μ  IS                                   (22.19)",
+   "modul": "M7"
   },
   {
    "strona": 313,
-   "modul": "M7",
    "kontekst": "Zgodnie z prawem Biota-Savarta pole dB w punkcie P wynosi",
-   "tresc": "0 I d l  r dB                                           (23.15) 4π     r3"
+   "tresc": "dB                                           (23.15)",
+   "modul": "M7"
   },
   {
    "strona": 345,
-   "modul": "M8",
    "kontekst": "o amplitudzie I0 jest taka sama jak prądu stałego o natężeniu",
-   "tresc": "I0 I sk                                        (25.31) 2"
+   "tresc": "I sk                                        (25.31)",
+   "modul": "M8"
   },
   {
    "strona": 346,
-   "modul": "M8",
    "kontekst": "",
-   "tresc": "U0 U sk                                      (25.32) 2"
-  },
-  {
-   "strona": 401,
-   "modul": "M9",
-   "kontekst": "powinna mieć dużą zdolność rozdzielczą , którą definiujemy jako",
-   "tresc": " R                                        (30.21) "
+   "tresc": "U sk                                      (25.32)",
+   "modul": "M8"
   }
  ],
  "prawa": [
   {
    "strona": 36,
-   "modul": "M1",
    "kontekst": "Sformułowanie pierwszej zasady dynamiki Newtona:",
-   "tresc": "Ciało, na które nie działa żadna siła (lub gdy siła wypadkowa jest równa zeru) pozostaje w spoczynku lub porusza się ze stałą prędkością po linii prostej."
+   "tresc": "Ciało, na które nie działa żadna siła (lub gdy siła wypadkowa jest równa zeru) pozostaje w spoczynku lub porusza się ze stałą prędkością po linii prostej.",
+   "modul": "M1"
   },
   {
    "strona": 36,
-   "modul": "M1",
    "kontekst": "Sformułowanie drugiej zasady dynamiki Newtona:",
-   "tresc": "Tempo zmian pędu ciała jest równe sile wypadkowej działającej na to ciało. Dla ciała o stałej masie sprowadza się to do iloczynu masy i przyspieszenia ciała."
+   "tresc": "Tempo zmian pędu ciała jest równe sile wypadkowej działającej na to ciało. Dla ciała o stałej masie sprowadza się to do iloczynu masy i przyspieszenia ciała.",
+   "modul": "M1"
   },
   {
    "strona": 37,
-   "modul": "M1",
    "kontekst": "Sformułowanie trzeciej zasady dynamiki Newtona:",
-   "tresc": "Gdy dwa ciała oddziałują wzajemnie, to siła wywierana przez ciało drugie na ciało pierwsze jest równa i przeciwnie skierowana do siły, jaką ciało pierwsze działa na drugie."
+   "tresc": "Gdy dwa ciała oddziałują wzajemnie, to siła wywierana przez ciało drugie na ciało pierwsze jest równa i przeciwnie skierowana do siły, jaką ciało pierwsze działa na",
+   "modul": "M1"
   },
   {
    "strona": 42,
-   "modul": "M1",
    "kontekst": "empiryczne.",
-   "tresc": "Ts jest w przybliżeniu niezależna od wielkości pola powierzchni styku ciał; Ts jest proporcjonalna do siły z jaką jedna powierzchnia naciska na drugą."
+   "tresc": "Ts jest w przybliżeniu niezależna od wielkości pola powierzchni styku ciał; Ts jest proporcjonalna do siły z jaką jedna powierzchnia naciska na drugą.",
+   "modul": "M1"
   },
   {
    "strona": 43,
-   "modul": "M1",
    "kontekst": "",
-   "tresc": "Tk nie zależy od prędkości względnej poruszania się powierzchni."
+   "tresc": "Tk nie zależy od prędkości względnej poruszania się powierzchni.",
+   "modul": "M1"
   },
   {
    "strona": 47,
-   "modul": "M1",
    "kontekst": "powszechnego ciążenia.",
-   "tresc": "Każde dwa ciała o masach m1 i m2 przyciągają się wzajemnie siłą grawitacji wprost proporcjonalną do iloczynu mas, a odwrotnie proporcjonalną do kwadratu odległości między nimi."
+   "tresc": "Każde dwa ciała o masach m1 i m2 przyciągają się wzajemnie siłą grawitacji wprost proporcjonalną do iloczynu mas, a odwrotnie proporcjonalną do kwadratu odległości między nimi.",
+   "modul": "M1"
   },
   {
    "strona": 50,
-   "modul": "M1",
    "kontekst": "z wynikami pomiarowymi pozycji planet z bardzo dużą dokładnością",
-   "tresc": "1. Pierwsze prawo Keplera: Każda planeta krąży po orbicie eliptycznej, ze Słońcem w jednym z ognisk tej elipsy. 2. Drugie prawo Keplera (prawo równych pól): Linia łącząca Słońce i planetę zakreśla równe pola w równych odstępach czasu. 3. Trzecie prawo Keplera: Sześciany półosi wielkich orbit dowolnych dwóch planet mają się do siebie jak kwadraty ich okresów obiegu (półoś wielka jest połową najdłuższej cięciwy elipsy)."
+   "tresc": "1. Pierwsze prawo Keplera: Każda planeta krąży po orbicie eliptycznej, ze Słońcem w jednym z ognisk tej elipsy. 2. Drugie prawo Keplera (prawo równych pól): Linia łącząca Słońce i planetę zakreśla równe pola w równych odstępach czasu. 3. Trzecie prawo Keplera: Sześciany półosi wielkich orbit dowolnych dwóch planet mają się do siebie jak kwadraty ich okresów obiegu (półoś wielka jest połową najdłuższej cięciwy elipsy).",
+   "modul": "M1"
   },
   {
    "strona": 52,
-   "modul": "M1",
    "kontekst": "z dokładnością do 1010.",
-   "tresc": "Te wyniki wskazują, że masa bezwładna jest równa masie grawitacyjnej. To stwierdzenie nazywa się zasadą równoważności."
+   "tresc": "Te wyniki wskazują, że masa bezwładna jest równa masie grawitacyjnej. To stwierdzenie nazywa się zasadą równoważności.",
+   "modul": "M1"
   },
   {
    "strona": 76,
-   "modul": "M2",
    "kontekst": "Na podstawie wzorów (7.8) i (7.9) widzimy, że",
-   "tresc": "Praca wykonana przez siłę F działającą na ciało o masie m jest równa zmianie energii kinetycznej tego ciała."
+   "tresc": "Praca wykonana przez siłę F działającą na ciało o masie m jest równa zmianie energii kinetycznej tego ciała.",
+   "modul": "M2"
   },
   {
    "strona": 87,
-   "modul": "M2",
    "kontekst": "Równanie (8.27) wyraża zasadę zachowania energii mechanicznej.",
-   "tresc": "Zasada zachowania energii mechanicznej mówi, że dla ciała podlegającego działaniu siły zachowawczej, suma energii kinetycznej i potencjalnej jest stała."
+   "tresc": "Zasada zachowania energii mechanicznej mówi, że dla ciała podlegającego działaniu siły zachowawczej, suma energii kinetycznej i potencjalnej jest stała.",
+   "modul": "M2"
   },
   {
    "strona": 89,
-   "modul": "M2",
    "kontekst": "Z równania (8.30) wynika, że",
-   "tresc": "Energia całkowita, tj. suma energii kinetycznej, energii potencjalnej i energii wewnętrznej w układzie odosobnionym nie zmienia się. Mamy więc zasadę zachowania energii całkowitej. Inaczej mówiąc energia może być przekształcana z jednej formy w inną, ale nie może być wytwarzana ani niszczona; energia całkowita jest wielkością stałą."
+   "tresc": "Energia całkowita, tj. suma energii kinetycznej, energii potencjalnej i energii wewnętrznej w układzie odosobnionym nie zmienia się. Mamy więc zasadę zachowania energii całkowitej. Inaczej mówiąc energia może być przekształcana z jednej formy w inną, ale nie może być wytwarzana ani niszczona; energia całkowita jest wielkością stałą.",
+   "modul": "M2"
   },
   {
    "strona": 93,
-   "modul": "M2",
    "kontekst": "Z równania (9.9) wynika, że",
-   "tresc": "Środek masy układu punktów materialnych porusza się w taki sposób, jakby cała masa układu była skupiona w środku masy i jakby wszystkie siły zewnętrzne nań działały."
+   "tresc": "Środek masy układu punktów materialnych porusza się w taki sposób, jakby cała masa układu była skupiona w środku masy i jakby wszystkie siły zewnętrzne nań",
+   "modul": "M2"
   },
   {
    "strona": 94,
-   "modul": "M2",
    "kontekst": "P  M v śr .m.                                         (9.12)",
-   "tresc": "Całkowity pęd układu punktów materialnych jest równy iloczynowi całkowitej masy układu i prędkości jego środka masy."
+   "tresc": "Całkowity pęd układu punktów materialnych jest równy iloczynowi całkowitej masy układu i prędkości jego środka masy.",
+   "modul": "M2"
   },
   {
    "strona": 95,
-   "modul": "M2",
    "kontekst": "Ten warunek wyraża zasadę zachowania pędu.",
-   "tresc": "Jeżeli wypadkowa sił zewnętrznych działających na układ jest równa zeru, to całkowity wektor pędu układu pozostaje stały."
+   "tresc": "Jeżeli wypadkowa sił zewnętrznych działających na układ jest równa zeru, to całkowity wektor pędu układu pozostaje stały.",
+   "modul": "M2"
   },
   {
    "strona": 120,
-   "modul": "M3",
    "kontekst": "dt",
-   "tresc": "Wypadkowy moment siły działający na punkt materialny jest równy prędkości zmian momentu pędu."
+   "tresc": "Wypadkowy moment siły działający na punkt materialny jest równy prędkości zmian",
+   "modul": "M3"
   },
   {
    "strona": 120,
-   "modul": "M3",
    "kontekst": "Analogicznie możemy sformułować pierwszą zasadę dynamiki ruchu obrotowego",
-   "tresc": "Ciało sztywne, na które nie działa moment siły pozostaje w spoczynku lub porusza się ruchem obrotowym jednostajnym."
+   "tresc": "Ciało sztywne, na które nie działa moment siły pozostaje w spoczynku lub porusza się ruchem obrotowym jednostajnym.",
+   "modul": "M3"
   },
   {
    "strona": 121,
-   "modul": "M3",
    "kontekst": "oraz trzecią zasadę dynamiki ruchu obrotowego",
-   "tresc": "Jeżeli dwa ciała oddziałują wzajemnie, to moment sił z jakim działa ciało drugie na ciało pierwsze jest równy i przeciwnie skierowany do momentu siły, z jakim ciało pierwsze działa na drugie."
+   "tresc": "Jeżeli dwa ciała oddziałują wzajemnie, to moment sił z jakim działa ciało drugie na ciało pierwsze jest równy i przeciwnie skierowany do momentu siły, z jakim ciało pierwsze działa na drugie.",
+   "modul": "M3"
   },
   {
    "strona": 121,
-   "modul": "M3",
    "kontekst": "Zauważmy, że",
-   "tresc": "Jeżeli na układ nie działa zewnętrzny moment siły (lub wypadkowy moment sił zewnętrznych jest równy zeru) to całkowity moment pędu układu pozostaje stały."
-  },
-  {
-   "strona": 124,
-   "modul": "M3",
-   "kontekst": "środek masy i równoległej do danej. Związek ten wyraża się zależnością",
-   "tresc": "I  I śt .m.  Md 2                                (11.20)"
+   "tresc": "Jeżeli na układ nie działa zewnętrzny moment siły (lub wypadkowy moment sił zewnętrznych jest równy zeru) to całkowity moment pędu układu pozostaje stały.",
+   "modul": "M3"
   },
   {
    "strona": 126,
-   "modul": "M3",
    "kontekst": "Widzimy, że",
-   "tresc": "Ruch ciała będący złożeniem ruchu postępowego środka masy i obrotowego względem osi przechodzącej przez środek masy jest równoważny ruchowi obrotowemu wokół osi przechodzącej przez punkt styczności ciała z powierzchnią, po której się ono toczy."
+   "tresc": "Ruch ciała będący złożeniem ruchu postępowego środka masy i obrotowego względem osi przechodzącej przez środek masy jest równoważny ruchowi obrotowemu wokół osi przechodzącej przez punkt styczności ciała z powierzchnią, po której się ono toczy.",
+   "modul": "M3"
   },
   {
    "strona": 138,
-   "modul": "M3",
    "kontekst": "z częstością ω różną od częstości własnej ω0. W takiej sytuacji",
-   "tresc": "Drgania (wymuszone) odbywają się z częstością siły zewnętrznej, a nie z częstością własną."
+   "tresc": "Drgania (wymuszone) odbywają się z częstością siły zewnętrznej, a nie z częstością",
+   "modul": "M3"
   },
   {
    "strona": 141,
-   "modul": "M3",
    "kontekst": "obowiązuje zasada niezależności ruchów.",
-   "tresc": "To, że drgania odbywają się niezależnie oznacza, że przemieszczenie punktu materialnego jest po prostu sumą przemieszczeń składowych. Ta zasada dodawania przemieszczeń nosi nazwę superpozycji drgań."
+   "tresc": "To, że drgania odbywają się niezależnie oznacza, że przemieszczenie punktu materialnego jest po prostu sumą przemieszczeń składowych. Ta zasada dodawania przemieszczeń nosi nazwę superpozycji drgań.",
+   "modul": "M3"
   },
   {
    "strona": 170,
-   "modul": "M4",
    "kontekst": "harmonicznych ujmuje twierdzenie Fouriera, które mówi, że",
-   "tresc": "Dowolne drganie okresowe o okresie T możemy przedstawić jako kombinację liniową (sumę) drgań harmonicznych o okresach danych wzorem Tn = T/n, gdzie n jest liczbą naturalną."
+   "tresc": "Dowolne drganie okresowe o okresie T możemy przedstawić jako kombinację liniową (sumę) drgań harmonicznych o okresach danych wzorem Tn = T/n, gdzie n jest liczbą naturalną.",
+   "modul": "M4"
   },
   {
    "strona": 174,
-   "modul": "M4",
    "kontekst": "13.8 Zjawisko Dopplera",
-   "tresc": "Zjawisko Dopplera polega na pozornej zmianie częstotliwości fali z powodu ruchu obserwatora lub źródła fali."
+   "tresc": "Zjawisko Dopplera polega na pozornej zmianie częstotliwości fali z powodu ruchu obserwatora lub źródła fali.",
+   "modul": "M4"
   },
   {
    "strona": 181,
-   "modul": "M4",
    "kontekst": "Zjawisko to opisuje prawo Pascala, które można następująco sformułować:",
-   "tresc": "Ciśnienie zewnętrzne wywierane na zamknięty płyn jest przekazywane niezmienione na każdą część płynu oraz na ścianki naczynia."
+   "tresc": "Ciśnienie zewnętrzne wywierane na zamknięty płyn jest przekazywane niezmienione na każdą część płynu oraz na ścianki naczynia.",
+   "modul": "M4"
   },
   {
    "strona": 182,
-   "modul": "M4",
    "kontekst": "Możemy więc sformułować prawo Archimedesa:",
-   "tresc": "Ciało w całości lub częściowo zanurzone w płynie jest wypierane ku górze siłą równą ciężarowi wypartego przez to ciało płynu."
+   "tresc": "Ciało w całości lub częściowo zanurzone w płynie jest wypierane ku górze siłą równą ciężarowi wypartego przez to ciało płynu.",
+   "modul": "M4"
   },
   {
    "strona": 184,
-   "modul": "M4",
    "kontekst": "Otrzymany związek nosi nazwę równania ciągłości. Wynika z niego, że",
-   "tresc": "Prędkość płynu nieściśliwego przy ustalonym przepływie jest odwrotnie proporcjonalna do pola przekroju strugi."
+   "tresc": "Prędkość płynu nieściśliwego przy ustalonym przepływie jest odwrotnie proporcjonalna do pola przekroju strugi.",
+   "modul": "M4"
   },
   {
    "strona": 202,
-   "modul": "M5",
    "kontekst": "sobą. Formułujemy teraz postulat nazywany zerowa zasadą termodynamiki.",
-   "tresc": "Jeżeli ciała 1 i 3 są w równowadze termicznej, a także ciała 2 i 3 są w równowadze termicznej to ciała 1 i 2 są w tej samej równowadze termicznej."
+   "tresc": "Jeżeli ciała 1 i 3 są w równowadze termicznej, a także ciała 2 i 3 są w równowadze termicznej to ciała 1 i 2 są w tej samej równowadze termicznej.",
+   "modul": "M5"
   },
   {
    "strona": 204,
-   "modul": "M5",
    "kontekst": "jest bardzo duża i obowiązuje mechanika Newtonowska to:",
-   "tresc": "Dostępna energia rozkłada się w równych porcjach na wszystkie niezależne sposoby, w jakie cząsteczka może ją absorbować."
+   "tresc": "Dostępna energia rozkłada się w równych porcjach na wszystkie niezależne sposoby, w jakie cząsteczka może ją absorbować.",
+   "modul": "M5"
   },
   {
    "strona": 205,
-   "modul": "M5",
    "kontekst": "",
-   "tresc": "Średnia energia kinetyczna na każdy stopień swobody jest taka sama dla wszystkich cząsteczek."
+   "tresc": "Średnia energia kinetyczna na każdy stopień swobody jest taka sama dla wszystkich",
+   "modul": "M5"
   },
   {
    "strona": 206,
-   "modul": "M5",
    "kontekst": "Zgodnie z zasadą zachowania energii",
-   "tresc": "Ciepło pobrane przez układ jest równe wzrostowi energii wewnętrznej układu plus pracy wykonanej przez układ nad otoczeniem zewnętrznym."
+   "tresc": "Ciepło pobrane przez układ jest równe wzrostowi energii wewnętrznej układu plus pracy wykonanej przez układ nad otoczeniem zewnętrznym.",
+   "modul": "M5"
   },
   {
    "strona": 207,
-   "modul": "M5",
    "kontekst": "",
-   "tresc": "Zmiana energii wewnętrznej układu, przy przejściu pomiędzy dwoma stanami, zależy wyłącznie od tego jaki jest stan początkowy i końcowy przejścia."
+   "tresc": "Zmiana energii wewnętrznej układu, przy przejściu pomiędzy dwoma stanami, zależy wyłącznie od tego jaki jest stan początkowy i końcowy przejścia.",
+   "modul": "M5"
   },
   {
    "strona": 220,
-   "modul": "M5",
    "kontekst": "termodynamiki. Poniżej podane zostały równoważne sformułowania tej zasady:",
-   "tresc": "Niemożliwa jest przemiana, której jedynym wynikiem byłaby zamiana na pracę ciepła pobranego ze źródła mającego wszędzie jednakową temperaturę."
+   "tresc": "Niemożliwa jest przemiana, której jedynym wynikiem byłaby zamiana na pracę ciepła pobranego ze źródła mającego wszędzie jednakową temperaturę.",
+   "modul": "M5"
   },
   {
    "strona": 220,
-   "modul": "M5",
    "kontekst": "ciepła do zbiornika zimniejszego.",
-   "tresc": "Żadna cyklicznie pracująca maszyna nie może bez zmian w otoczeniu przenosić w sposób ciągły ciepła z jednego ciała do drugiego o wyższej temperaturze."
+   "tresc": "Żadna cyklicznie pracująca maszyna nie może bez zmian w otoczeniu przenosić w sposób ciągły ciepła z jednego ciała do drugiego o wyższej temperaturze.",
+   "modul": "M5"
   },
   {
    "strona": 220,
-   "modul": "M5",
    "kontekst": "do cieplejszego.",
-   "tresc": "Żadna cykliczna maszyna cieplna pracująca pomiędzy temperaturami T1 i T2 nie może mieć sprawności większej niż (T1  T2)/T1."
+   "tresc": "Żadna cykliczna maszyna cieplna pracująca pomiędzy temperaturami T1 i T2 nie może mieć sprawności większej niż (T1  T2)/T1.",
+   "modul": "M5"
   },
   {
    "strona": 221,
-   "modul": "M5",
    "kontekst": "Natomiast drugą zasadę termodynamiki wiążemy z pojęciem entropii      .",
-   "tresc": "Druga zasada termodynamiki mówi, że w układzie zamkniętym entropia S nie może maleć to znaczy dS  0."
-  },
-  {
-   "strona": 221,
-   "modul": "M5",
-   "kontekst": "więc dla procesu odwracalnego dS = 0 na podstawie równania (16.15). Oznacza to, że",
-   "tresc": "221"
+   "tresc": "Druga zasada termodynamiki mówi, że w układzie zamkniętym entropia S nie może maleć to znaczy dS  0.",
+   "modul": "M5"
   },
   {
    "strona": 238,
-   "modul": "M6",
    "kontekst": "sformułowana przez Franklina mówi, że",
-   "tresc": "Wypadkowy ładunek elektryczny w układzie zamkniętym jest stały."
+   "tresc": "Wypadkowy ładunek elektryczny w układzie zamkniętym jest stały.",
+   "modul": "M6"
   },
   {
    "strona": 238,
-   "modul": "M6",
    "kontekst": "punktowych ) znajdujących się w odległości r od siebie w próżni opisuje prawo Coulomba",
-   "tresc": "Każde dwa ładunki punktowe q1 i q2 oddziałują wzajemnie siłą wprost proporcjonalną do iloczynu tych ładunków, a odwrotnie proporcjonalną do kwadratu odległości między nimi."
+   "tresc": "Każde dwa ładunki punktowe q1 i q2 oddziałują wzajemnie siłą wprost proporcjonalną do iloczynu tych ładunków, a odwrotnie proporcjonalną do kwadratu odległości między nimi.",
+   "modul": "M6"
   },
   {
    "strona": 240,
-   "modul": "M6",
    "kontekst": "17.2.1 Zasada superpozycji",
-   "tresc": "Gdy mamy do czynienia z kilkoma naładowanymi ciałami, siłę wypadkową, analogicznie jak w przypadku siły grawitacyjnej, obliczamy dodając wektorowo poszczególne siły dwuciałowe."
+   "tresc": "Gdy mamy do czynienia z kilkoma naładowanymi ciałami, siłę wypadkową, analogicznie jak w przypadku siły grawitacyjnej, obliczamy dodając wektorowo poszczególne siły dwuciałowe.",
+   "modul": "M6"
   },
   {
    "strona": 246,
-   "modul": "M6",
    "kontekst": "Gaussa",
-   "tresc": "Qwewn.  E d S  4π kQ         wewn.    0 (18.8)"
+   "tresc": " E d S  4π kQ         wewn.   ",
+   "modul": "M6"
   },
   {
    "strona": 258,
-   "modul": "M6",
    "kontekst": "",
-   "tresc": "Powierzchnia każdego przewodnika w stanie ustalonym jest powierzchnią stałego potencjału (powierzchnią ekwipotencjalną)."
+   "tresc": "Powierzchnia każdego przewodnika w stanie ustalonym jest powierzchnią stałego potencjału (powierzchnią ekwipotencjalną).",
+   "modul": "M6"
   },
   {
    "strona": 259,
-   "modul": "M6",
    "kontekst": "Korzystamy z zasady superpozycji:",
-   "tresc": "Całkowity potencjał pola pochodzącego od układu ładunków punktowych w dowolnym punkcie obliczamy sumując potencjały od poszczególnych ładunków."
+   "tresc": "Całkowity potencjał pola pochodzącego od układu ładunków punktowych w dowolnym punkcie obliczamy sumując potencjały od poszczególnych ładunków.",
+   "modul": "M6"
   },
   {
    "strona": 263,
-   "modul": "M6",
    "kontekst": "Sd 2",
-   "tresc": "Jeżeli w jakimś punkcie przestrzeni istnieje pole elektryczne o natężeniu E to możemy uważać, że w tym punkcie jest zmagazynowana energia w ilości ½ε0E2 na jednostkę objętości."
+   "tresc": "Jeżeli w jakimś punkcie przestrzeni istnieje pole elektryczne o natężeniu E to możemy uważać, że w tym punkcie jest zmagazynowana energia w ilości ½ε0E2 na jednostkę",
+   "modul": "M6"
   },
   {
    "strona": 265,
-   "modul": "M6",
    "kontekst": "polaryzacji elektrycznej .",
-   "tresc": "Gdy dielektryk umieścimy w polu elektrycznym to pojawiają się indukowane ładunki powierzchniowe, które wytwarzają pole elektryczne przeciwne do zewnętrznego pola elektrycznego."
+   "tresc": "Gdy dielektryk umieścimy w polu elektrycznym to pojawiają się indukowane ładunki powierzchniowe, które wytwarzają pole elektryczne przeciwne do zewnętrznego pola",
+   "modul": "M6"
   },
   {
    "strona": 284,
-   "modul": "M7",
    "kontekst": "Ten ważny wynik doświadczalny jest treścią prawa Ohma, które stwierdza, że",
-   "tresc": "Stosunek napięcia przyłożonego do przewodnika do natężenia prądu przepływającego przez ten przewodnik jest stały i nie zależy ani od napięcia ani od natężenia prądu."
+   "tresc": "Stosunek napięcia przyłożonego do przewodnika do natężenia prądu przepływającego przez ten przewodnik jest stały i nie zależy ani od napięcia ani od",
+   "modul": "M7"
   },
   {
    "strona": 291,
-   "modul": "M7",
-   "kontekst": "Zgodnie z prawem Ohma Uz = IRz więc",
-   "tresc": "  I ( Rw  Rz )                         (21.21)"
-  },
-  {
-   "strona": 291,
-   "modul": "M7",
    "kontekst": "prądów i napięć posługujemy się prawami Kirchhoffa.",
-   "tresc": "Pierwsze prawo Kirchhoffa: Twierdzenie o punkcie rozgałęzienia. Algebraiczna suma natężeń prądów przepływających przez punkt rozgałęzienia (węzeł) jest równa zeru."
+   "tresc": "Pierwsze prawo Kirchhoffa: Twierdzenie o punkcie rozgałęzienia. Algebraiczna suma natężeń prądów przepływających przez punkt rozgałęzienia (węzeł) jest równa",
+   "modul": "M7"
   },
   {
    "strona": 291,
-   "modul": "M7",
    "kontekst": "i 1",
-   "tresc": "Drugie prawo Kirchhoffa: Twierdzenie o obwodzie zamkniętym. Algebraiczna suma sił elektromotorycznych i przyrostów napięć w dowolnym obwodzie zamkniętym jest równa zeru (spadek napięcia jest przyrostem ujemnym napięcia)."
+   "tresc": "Drugie prawo Kirchhoffa: Twierdzenie o obwodzie zamkniętym. Algebraiczna suma sił elektromotorycznych i przyrostów napięć w dowolnym obwodzie zamkniętym jest równa zeru (spadek napięcia jest przyrostem ujemnym napięcia).",
+   "modul": "M7"
   },
   {
    "strona": 298,
-   "modul": "M7",
    "kontekst": "",
-   "tresc": "To, że linie pola B są zawsze liniami zamkniętymi stanowi fundamentalną różnicę między stałym polem magnetycznym i elektrycznym, którego linie zaczynają się i kończą na ładunkach."
+   "tresc": "To, że linie pola B są zawsze liniami zamkniętymi stanowi fundamentalną różnicę między stałym polem magnetycznym i elektrycznym, którego linie zaczynają się i kończą na ładunkach.",
+   "modul": "M7"
   },
   {
    "strona": 309,
-   "modul": "M7",
    "kontekst": "",
-   "tresc": " Bdl   I  0                                (23.1)"
+   "tresc": " Bdl   I  0                                (23.1)",
+   "modul": "M7"
   },
   {
    "strona": 329,
-   "modul": "M8",
    "kontekst": "",
-   "tresc": "d B                                            (24.1) dt"
+   "tresc": "                                           (24.1)",
+   "modul": "M8"
   },
   {
    "strona": 330,
-   "modul": "M8",
    "kontekst": "możemy wyznaczyć na podstawie reguły Lenza. Według niej",
-   "tresc": "Prąd indukowany ma taki kierunek, że wytwarzany przez niego własny strumień magnetyczny przeciwdziała pierwotnym zmianom strumienia, które go wywołały."
+   "tresc": "Prąd indukowany ma taki kierunek, że wytwarzany przez niego własny strumień magnetyczny przeciwdziała pierwotnym zmianom strumienia, które go wywołały.",
+   "modul": "M8"
   },
   {
    "strona": 334,
-   "modul": "M8",
    "kontekst": "",
-   "tresc": "Gdy natężenie prądu przepływającego przez obwód zmienia się to zmienia się też, wytworzony przez ten prąd, strumień pola magnetycznego przenikający obwód, więc zgodnie z prawem indukcji Faradaya indukuje się w obwodzie SEM."
+   "tresc": "Gdy natężenie prądu przepływającego przez obwód zmienia się to zmienia się też, wytworzony przez ten prąd, strumień pola magnetycznego przenikający obwód, więc zgodnie z prawem indukcji Faradaya indukuje się w obwodzie SEM.",
+   "modul": "M8"
   },
   {
    "strona": 336,
-   "modul": "M8",
    "kontekst": "2 0",
-   "tresc": "Jeżeli w jakimś punkcie przestrzeni istnieje pole magnetyczne o indukcji B to możemy 1 B2 uważać, że w tym punkcie jest zmagazynowana energia w ilości             na jednostkę 2 0 objętości"
+   "tresc": "Jeżeli w jakimś punkcie przestrzeni istnieje pole magnetyczne o indukcji B to możemy uważać, że w tym punkcie jest zmagazynowana energia w ilości             na jednostkę",
+   "modul": "M8"
   },
   {
    "strona": 347,
-   "modul": "M8",
    "kontekst": "zeru",
-   "tresc": " Bd S  0                                    (26.2) S"
+   "tresc": " Bd S  0                                    (26.2)",
+   "modul": "M8"
   },
   {
    "strona": 348,
-   "modul": "M8",
    "kontekst": "Ogólnie:",
-   "tresc": "Zmianom pola magnetycznego towarzyszy zawsze powstanie pola elektrycznego."
+   "tresc": "Zmianom pola magnetycznego towarzyszy zawsze powstanie pola elektrycznego.",
+   "modul": "M8"
   },
   {
    "strona": 349,
-   "modul": "M8",
    "kontekst": "które możemy wyrazić następująco:",
-   "tresc": "Cyrkulacja wektora natężenia pola E po dowolnym zamkniętym konturze jest równa szybkości zmiany strumienia magnetycznego przechodzącego przez ten kontur."
+   "tresc": "Cyrkulacja wektora natężenia pola E po dowolnym zamkniętym konturze jest równa szybkości zmiany strumienia magnetycznego przechodzącego przez ten kontur.",
+   "modul": "M8"
   },
   {
    "strona": 351,
-   "modul": "M8",
    "kontekst": "Podsumowując:",
-   "tresc": "Zmianom pola elektrycznego towarzyszy zawsze powstanie pola magnetycznego."
+   "tresc": "Zmianom pola elektrycznego towarzyszy zawsze powstanie pola magnetycznego.",
+   "modul": "M8"
   },
   {
    "strona": 376,
-   "modul": "M9",
    "kontekst": "Odbiciem i załamaniem rządzą dwa następujące prawa:",
-   "tresc": "Prawo odbicia: Promień padający, promień odbity i normalna do powierzchni granicznej wystawiona w punkcie padania promienia leżą w jednej płaszczyźnie i kąt padania równa się kątowi odbicia α1 = α2."
+   "tresc": "Prawo odbicia: Promień padający, promień odbity i normalna do powierzchni granicznej wystawiona w punkcie padania promienia leżą w jednej płaszczyźnie i kąt padania równa się kątowi odbicia α1 = α2.",
+   "modul": "M9"
   },
   {
    "strona": 376,
-   "modul": "M9",
    "kontekst": "kąt padania równa się kątowi odbicia α1 = α2.",
-   "tresc": "Prawo załamania: Stosunek sinusa kata padania do sinusa kąta załamania jest równy stosunkowi bezwzględnego współczynnika załamania ośrodka drugiego n2 do bezwzględnego współczynnika załamania ośrodka pierwszego n1, czyli współczynnikowi względnemu załamania światła ośrodka drugiego względem pierwszego."
+   "tresc": "Prawo załamania: Stosunek sinusa kata padania do sinusa kąta załamania jest równy stosunkowi bezwzględnego współczynnika załamania ośrodka drugiego n2 do bezwzględnego współczynnika załamania ośrodka pierwszego n1, czyli współczynnikowi względnemu załamania światła ośrodka drugiego względem",
+   "modul": "M9"
   },
   {
    "strona": 381,
-   "modul": "M9",
    "kontekst": "chwili w przyszłości, jeżeli znamy jego obecne położenie.",
-   "tresc": "Zasada Huygensa mówi, że wszystkie punkty czoła fali można uważać za źródła nowych fal kulistych. Położenie czoła fali po czasie t będzie dane przez powierzchnię styczną do tych fal kulistych."
-  },
-  {
-   "strona": 402,
-   "modul": "M9",
-   "kontekst": "określa prawo Bragga",
-   "tresc": "2d sin   m ,    m  1, 2, 3,.....(maksima)               (30.22)"
+   "tresc": "Zasada Huygensa mówi, że wszystkie punkty czoła fali można uważać za źródła nowych fal kulistych. Położenie czoła fali po czasie t będzie dane przez powierzchnię styczną do tych fal kulistych.",
+   "modul": "M9"
   },
   {
    "strona": 405,
-   "modul": "M9",
    "kontekst": "Ponieważ natężenie światła jest proporcjonalne do kwadratu amplitudy więc",
-   "tresc": "I  I 0 cos 2                                 (31.1)"
-  },
-  {
-   "strona": 407,
-   "modul": "M9",
-   "kontekst": "",
-   "tresc": "n2 tg         n2,1                            (31.5) n1"
+   "tresc": "I  I 0 cos 2                                 (31.1)",
+   "modul": "M9"
   },
   {
    "strona": 410,
-   "modul": "M9",
    "kontekst": "Zasadę Fermata formułujemy w następujący sposób:",
-   "tresc": "Promień świetlny biegnący z jednego punktu do drugiego przebywa drogę, na której przebycie trzeba zużyć w porównaniu z innymi, sąsiednimi drogami, minimum albo maksimum czasu."
+   "tresc": "Promień świetlny biegnący z jednego punktu do drugiego przebywa drogę, na której przebycie trzeba zużyć w porównaniu z innymi, sąsiednimi drogami, minimum albo",
+   "modul": "M9"
   },
   {
    "strona": 423,
-   "modul": "M10",
    "kontekst": "wartości są różne.",
-   "tresc": "Emisja energetyczna promieniowania ciała doskonale czarnego (nie jego powierzchni) zmienia się wraz z temperaturą według prawa Stefana-Boltzmanna R T4                                     (32.2)"
+   "tresc": "Emisja energetyczna promieniowania ciała doskonale czarnego (nie jego powierzchni) zmienia się wraz z temperaturą według prawa Stefana-Boltzmanna R T4                                     (32.2)",
+   "modul": "M10"
   },
   {
    "strona": 423,
-   "modul": "M10",
    "kontekst": "Rys. 32.3. Widmo promieniowania ciała doskonale czarnego w wybranych temperaturach",
-   "tresc": "Długość fali dla której przypada maksimum emisji jest zgodnie z prawem Wiena odwrotnie proporcjonalna do temperatury ciała."
+   "tresc": "Długość fali dla której przypada maksimum emisji jest zgodnie z prawem Wiena odwrotnie proporcjonalna do temperatury ciała.",
+   "modul": "M10"
   },
   {
    "strona": 425,
-   "modul": "M10",
    "kontekst": "częstotliwość drgań.",
-   "tresc": "Oscylatory te, według Plancka, nie mogą mieć dowolnej energii, ale tylko ściśle określone wartości dane wzorem E  n hv                                  (32.4)"
+   "tresc": "Oscylatory te, według Plancka, nie mogą mieć dowolnej energii, ale tylko ściśle określone wartości dane wzorem E  n hv                                  (32.4)",
+   "modul": "M10"
   },
   {
    "strona": 425,
-   "modul": "M10",
    "kontekst": "E  hv                                          (32.5)",
-   "tresc": "Oznacza to, że dopóki oscylator pozostaje w jednym ze swoich stanów kwantowych dopóty ani nie emituje ani nie absorbuje energii. Mówimy, że znajduje się w stanie stacjonarnym ."
+   "tresc": "Oznacza to, że dopóki oscylator pozostaje w jednym ze swoich stanów kwantowych dopóty ani nie emituje ani nie absorbuje energii. Mówimy, że znajduje się w stanie",
+   "modul": "M10"
   },
   {
    "strona": 430,
-   "modul": "M10",
    "kontekst": "pochłonięty. Wówczas energia fotonu zostanie przekazana elektronowi.",
-   "tresc": "Jeżeli do wyrwania elektronu z metalu potrzebna jest energia W to wówczas hv  W  Ekmax                                (32.12)"
+   "tresc": "Jeżeli do wyrwania elektronu z metalu potrzebna jest energia W to wówczas hv  W  Ekmax                                (32.12)",
+   "modul": "M10"
   },
   {
    "strona": 447,
-   "modul": "M10",
    "kontekst": "Jako pierwszy fizyczną interpretację funkcji falowej zaproponował M. Born.",
-   "tresc": " 2 Zasugerował, że wielkość                   w dowolnym punkcie przedstawia miarę prawdopodobieństwa, że cząstka znajdzie się w pobliżu tego punktu to znaczy w jakimś obszarze wokół tego punktu np. w przedziale x, x+dx."
+   "tresc": "Zasugerował, że wielkość                   w dowolnym punkcie przedstawia miarę prawdopodobieństwa, że cząstka znajdzie się w pobliżu tego punktu to znaczy w jakimś obszarze wokół tego punktu np. w przedziale x, x+dx.",
+   "modul": "M10"
   },
   {
    "strona": 448,
-   "modul": "M10",
    "kontekst": "Głosi ona, że",
-   "tresc": "Iloczyn nieokreśloności pędu cząstki i nieokreśloności jej położenia w danym kierunku jest zawsze większy od stałej Plancka."
+   "tresc": "Iloczyn nieokreśloności pędu cząstki i nieokreśloności jej położenia w danym kierunku jest zawsze większy od stałej Plancka.",
+   "modul": "M10"
   },
   {
    "strona": 448,
-   "modul": "M10",
    "kontekst": "wykonanie tego pomiaru.",
-   "tresc": "Jeżeli cząstka posiada energię E, to dokładność jej wyznaczenia ΔE zależy od czasu pomiaru Δt zgodnie z relacją. E t  / 2                                      (35.3)"
+   "tresc": "Jeżeli cząstka posiada energię E, to dokładność jej wyznaczenia ΔE zależy od czasu pomiaru Δt zgodnie z relacją. E t  / 2                                      (35.3)",
+   "modul": "M10"
   },
   {
    "strona": 473,
-   "modul": "M11",
    "kontekst": "Podsumowując",
-   "tresc": "Wartość orbitalnego momentu pędu elektronu w atomie i jego rzut na oś z przyjmują ściśle określone wartości zależne od liczb kwantowych l i ml."
+   "tresc": "Wartość orbitalnego momentu pędu elektronu w atomie i jego rzut na oś z przyjmują ściśle określone wartości zależne od liczb kwantowych l i ml.",
+   "modul": "M11"
   },
   {
    "strona": 474,
-   "modul": "M11",
    "kontekst": "automatycznie są generowane grupy o liczebności 2, 8, 18, 32. Pauli zapostulował, że",
-   "tresc": "W atomie wieloelektronowym w tym samym stanie kwantowym, może znajdować się co najwyżej jeden elektron."
+   "tresc": "W atomie wieloelektronowym w tym samym stanie kwantowym, może znajdować się co najwyżej jeden elektron.",
+   "modul": "M11"
   },
   {
    "strona": 475,
-   "modul": "M11",
    "kontekst": "więc zasada Pauliego może być sformułowana następująco",
-   "tresc": "W atomie wieloelektronowym elektrony muszą się różnić przynajmniej jedną liczbą kwantową."
+   "tresc": "W atomie wieloelektronowym elektrony muszą się różnić przynajmniej jedną liczbą",
+   "modul": "M11"
   },
   {
    "strona": 482,
-   "modul": "M11",
    "kontekst": "Ponadto, bardzo ważne jest to, że",
-   "tresc": "W emisji spontanicznej mamy do czynienia z fotonami, których fazy i kierunki są rozłożone przypadkowo. Natomiast foton wysyłany w procesie emisji wymuszonej ma taką samą fazę oraz taki sam kierunek ruchu jak foton wymuszający."
-  },
-  {
-   "strona": 497,
-   "modul": "M11",
-   "kontekst": "zależy od temperatury zgodnie z prawem Curie",
-   "tresc": "C                                       (37.3) T"
-  },
-  {
-   "strona": 506,
-   "modul": "M11",
-   "kontekst": "Skąd ostatecznie otrzymujemy wykładnicze prawo rozpadu.",
-   "tresc": "N (t )  N (0) e   t                        (38.17)"
+   "tresc": "W emisji spontanicznej mamy do czynienia z fotonami, których fazy i kierunki są rozłożone przypadkowo. Natomiast foton wysyłany w procesie emisji wymuszonej ma taką samą fazę oraz taki sam kierunek ruchu jak foton wymuszający.",
+   "modul": "M11"
   },
   {
    "strona": 522,
-   "modul": "M11",
    "kontekst": "negatywny i musimy uznać, że",
-   "tresc": "Prędkość światła w próżni c = 2.998·108 m/s jest jednakowa we wszystkich inercjalnych układach odniesienia."
+   "tresc": "Prędkość światła w próżni c = 2.998·108 m/s jest jednakowa we wszystkich inercjalnych układach odniesienia.",
+   "modul": "M11"
   },
   {
    "strona": 523,
-   "modul": "M11",
    "kontekst": "i mierzonymi z różnych układów odniesienia jest różny. W konsekwencji",
-   "tresc": "Każdy obserwator stwierdza, że poruszający się zegar idzie wolniej niż identyczny zegar w spoczynku."
+   "tresc": "Każdy obserwator stwierdza, że poruszający się zegar idzie wolniej niż identyczny zegar w spoczynku.",
+   "modul": "M11"
   }
  ],
  "zadania": [
@@ -1419,2172 +1359,3102 @@
   {
    "plik": "k_018_0",
    "strona": 18,
+   "y": 1067,
    "modul": "M1",
    "w": 314,
-   "h": 50
+   "h": 50,
+   "rozdzial": "1.2.2 Suma wektorów",
+   "opis_zrodlowy": "Wektor r i jego składowe rx, ry, rz w pewnym układzie współrzędnych 1.2.2 Suma wektorów W wybranym układzie współrzędnych wektor jest definiowany przez podanie jego współrzędnych np."
   },
   {
    "plik": "k_019_0",
    "strona": 19,
+   "y": 285,
    "modul": "M1",
    "w": 298,
-   "h": 53
+   "h": 53,
+   "rozdzial": "1.2.3 Iloczyn skalarny",
+   "opis_zrodlowy": "1.2.3 Iloczyn skalarny Iloczyn skalarny dwóch wektorów a·b jest liczbą (skalarem) równą iloczynowi wartości bezwzględnych (długości) tych wektorów pomnożony przez cosinus kąta między nimi Iloczyn skalarny jest często stosowany do opisu wielkości fizycznych."
   },
   {
    "plik": "k_020_3",
    "strona": 20,
+   "y": 1428,
    "modul": "M1",
    "w": 128,
-   "h": 84
+   "h": 84,
+   "rozdzial": "2.2.1 Prędkość stała",
+   "opis_zrodlowy": "2 Ruch jednowymiarowy 2.1 Wstęp Dział Fizyki zajmujący się opisem ruchu ciał nazywamy kinematyką."
   },
   {
    "plik": "k_022_1",
    "strona": 22,
+   "y": 273,
    "modul": "M1",
    "w": 97,
-   "h": 84
+   "h": 84,
+   "rozdzial": "2.2.2 Prędkość chwilowa",
+   "opis_zrodlowy": "Definicja Prędkość chwilowa jest pochodną drogi względem czasu."
   },
   {
    "plik": "k_024_0",
    "strona": 24,
+   "y": 179,
    "modul": "M1",
    "w": 128,
-   "h": 77
+   "h": 77,
+   "rozdzial": "2.3.1 Przyspieszenie jednostajne",
+   "opis_zrodlowy": "t Gdy prędkość rośnie (a > 0) to ruch nazywamy jednostajnie przyspieszonym          , a gdy prędkość maleje (a < 0) to ruch określamy jako jednostajnie opóźniony ."
   },
   {
    "plik": "k_024_2",
    "strona": 24,
+   "y": 1418,
    "modul": "M1",
    "w": 196,
-   "h": 83
+   "h": 83,
+   "rozdzial": "2.3.3 Ruch jednostajnie zmienny",
+   "opis_zrodlowy": "t Gdy prędkość rośnie (a > 0) to ruch nazywamy jednostajnie przyspieszonym          , a gdy prędkość maleje (a < 0) to ruch określamy jako jednostajnie opóźniony ."
   },
   {
    "plik": "k_026_0",
    "strona": 26,
+   "y": 546,
    "modul": "M1",
    "w": 132,
-   "h": 46
+   "h": 46,
+   "rozdzial": "3.1 Przemieszczenie, prędkość i przyspieszenie",
+   "opis_zrodlowy": "3 Ruch na płaszczyźnie Ruch w dwóch wymiarach będziemy opisywać w układzie współrzędnych x i y."
   },
   {
    "plik": "k_026_1",
    "strona": 26,
+   "y": 592,
    "modul": "M1",
    "w": 358,
-   "h": 77
+   "h": 77,
+   "rozdzial": "3.1 Przemieszczenie, prędkość i przyspieszenie",
+   "opis_zrodlowy": "3 Ruch na płaszczyźnie Ruch w dwóch wymiarach będziemy opisywać w układzie współrzędnych x i y."
   },
   {
    "plik": "k_026_2",
    "strona": 26,
+   "y": 669,
    "modul": "M1",
    "w": 384,
-   "h": 84
+   "h": 84,
+   "rozdzial": "3.1 Przemieszczenie, prędkość i przyspieszenie",
+   "opis_zrodlowy": "3 Ruch na płaszczyźnie Ruch w dwóch wymiarach będziemy opisywać w układzie współrzędnych x i y."
   },
   {
    "plik": "k_028_0",
    "strona": 28,
+   "y": 1293,
    "modul": "M1",
    "w": 299,
-   "h": 61
+   "h": 61,
+   "rozdzial": "3.2 Rzut ukośny",
+   "opis_zrodlowy": "Rzut ukośny i składowe prędkości początkowej Stąd dla składowej x (poziomej) prędkości otrzymujemy (porównaj z tabelą (3.1)) Ponieważ gx = 0 (przyspieszenie jest skierowane \"w dół\") więc Składowa pozioma prędkości jest stała, ruch w kierunku x jest jednostajny."
   },
   {
    "plik": "k_028_1",
    "strona": 28,
+   "y": 1467,
    "modul": "M1",
    "w": 164,
-   "h": 53
+   "h": 53,
+   "rozdzial": "3.2 Rzut ukośny",
+   "opis_zrodlowy": "Rzut ukośny i składowe prędkości początkowej Stąd dla składowej x (poziomej) prędkości otrzymujemy (porównaj z tabelą (3.1)) Ponieważ gx = 0 (przyspieszenie jest skierowane \"w dół\") więc Składowa pozioma prędkości jest stała, ruch w kierunku x jest jednostajny."
   },
   {
    "plik": "k_028_2",
    "strona": 28,
+   "y": 1520,
    "modul": "M1",
    "w": 225,
-   "h": 84
+   "h": 84,
+   "rozdzial": "3.2 Rzut ukośny",
+   "opis_zrodlowy": "Rzut ukośny i składowe prędkości początkowej Stąd dla składowej x (poziomej) prędkości otrzymujemy (porównaj z tabelą (3.1)) Ponieważ gx = 0 (przyspieszenie jest skierowane \"w dół\") więc Składowa pozioma prędkości jest stała, ruch w kierunku x jest jednostajny."
   },
   {
    "plik": "k_029_0",
    "strona": 29,
+   "y": 444,
    "modul": "M1",
    "w": 303,
-   "h": 83
+   "h": 83,
+   "rozdzial": "3.2 Rzut ukośny",
+   "opis_zrodlowy": "Wartość wektora położenia w dowolnej chwili obliczamy z zależności Sprawdźmy teraz po jakim torze porusza się nasz obiekt tzn."
   },
   {
    "plik": "k_031_0",
    "strona": 31,
+   "y": 628,
    "modul": "M1",
    "w": 207,
-   "h": 84
+   "h": 84,
+   "rozdzial": "3.3 Ruch jednostajny po okręgu",
+   "opis_zrodlowy": "W tym celu przerysowujemy wektor v' w punkcie P i wyznaczamy różnicę Δv."
   },
   {
    "plik": "k_032_0",
    "strona": 32,
+   "y": 275,
    "modul": "M1",
    "w": 122,
-   "h": 84
+   "h": 84,
+   "rozdzial": "3.3 Ruch jednostajny po okręgu",
+   "opis_zrodlowy": "2πR T więc Ćwiczenie 3.2 Korzystając z powyższego wyrażenia spróbuj obliczyć jakiego przyspieszenia, wynikającego z obrotu Ziemi, doznaje ciało będące na równiku?"
   },
   {
    "plik": "k_035_2",
    "strona": 35,
+   "y": 1180,
    "modul": "M1",
    "w": 105,
-   "h": 50
+   "h": 50,
+   "rozdzial": "4.1.4 Siła",
+   "opis_zrodlowy": "Nasze rozważania rozpoczynamy od przypisania ciałom masy m."
   },
   {
    "plik": "k_035_4",
    "strona": 35,
+   "y": 1474,
    "modul": "M1",
    "w": 100,
-   "h": 77
+   "h": 77,
+   "rozdzial": "4.1.4 Siła",
+   "opis_zrodlowy": "Nasze rozważania rozpoczynamy od przypisania ciałom masy m."
   },
   {
    "plik": "k_036_0",
    "strona": 36,
+   "y": 338,
    "modul": "M1",
    "w": 183,
-   "h": 77
+   "h": 77,
+   "rozdzial": "4.1.4 Siła",
+   "opis_zrodlowy": "dv dt Wprowadziliśmy w ten sposób pojęcie siły F."
   },
   {
    "plik": "k_036_4",
    "strona": 36,
+   "y": 1503,
    "modul": "M1",
    "w": 426,
-   "h": 77
+   "h": 77,
+   "rozdzial": "4.2 Zasady dynamiki Newtona",
+   "opis_zrodlowy": "dv dt Wprowadziliśmy w ten sposób pojęcie siły F."
   },
   {
    "plik": "k_041_1",
    "strona": 41,
+   "y": 1301,
    "modul": "M1",
    "w": 113,
-   "h": 50
+   "h": 50,
+   "rozdzial": "5.1 Siły kontaktowe i tarcie",
+   "opis_zrodlowy": "5 Wybrane zagadnienia z dynamiki 5.1 Siły kontaktowe i tarcie Gdy dwa ciała są dociskane do siebie to występują między nimi siły kontaktowe."
   },
   {
    "plik": "k_042_1",
    "strona": 42,
+   "y": 809,
    "modul": "M1",
    "w": 105,
-   "h": 83
+   "h": 83,
+   "rozdzial": "5.1.1 Tarcie",
+   "opis_zrodlowy": "dynamiki wiemy, że jeżeli ciało porusza się z przyspieszeniem (opóźnieniem) to musi na nie działać siła."
   },
   {
    "plik": "k_043_1",
    "strona": 43,
+   "y": 335,
    "modul": "M1",
    "w": 105,
-   "h": 84
+   "h": 84,
+   "rozdzial": "5.1.1 Tarcie",
+   "opis_zrodlowy": "Prawo, zasada, twierdzenie Tk nie zależy od prędkości względnej poruszania się powierzchni."
   },
   {
    "plik": "k_044_0",
    "strona": 44,
+   "y": 1292,
    "modul": "M1",
    "w": 120,
-   "h": 50
+   "h": 50,
+   "rozdzial": "5.2 Siły bezwładności",
+   "opis_zrodlowy": "w układzie odniesienia, który doznaje przyspieszenia."
   },
   {
    "plik": "k_046_0",
    "strona": 46,
+   "y": 1176,
    "modul": "M1",
    "w": 141,
-   "h": 83
+   "h": 83,
+   "rozdzial": "5.2 Siły bezwładności",
+   "opis_zrodlowy": "Między kulką, a podłogą samochodu nie ma tarcia."
   },
   {
    "plik": "k_047_2",
    "strona": 47,
+   "y": 1513,
    "modul": "M1",
    "w": 138,
-   "h": 77
+   "h": 77,
+   "rozdzial": "6.1 Prawo powszechnego ciążenia",
+   "opis_zrodlowy": "6 Grawitacja Przedstawimy, teraz jedno z czterech podstawowych oddziaływań - oddziaływanie grawitacyjne."
   },
   {
    "plik": "k_052_1",
    "strona": 52,
+   "y": 1240,
    "modul": "M1",
    "w": 216,
-   "h": 77
+   "h": 77,
+   "rozdzial": "6.4 Pole grawitacyjne, pola sił",
+   "opis_zrodlowy": "RZ2 Dzieląc równania (6.10a) i (6.10b) przez siebie otrzymujemy Ponieważ doświadczalnie stwierdzono, że wszystkie ciała spadają (w próżni) w pobliżu Ziemi z tym samym przyspieszeniem a1 = a2 = g to stosunek mas bezwładnych jest równy stosunkowi mas grawitacyjnych."
   },
   {
    "plik": "k_056_0",
    "strona": 56,
+   "y": 534,
    "modul": "M1",
    "w": 234,
-   "h": 76
+   "h": 76,
+   "rozdzial": "6.4 Pole grawitacyjne, pola sił",
+   "opis_zrodlowy": "Przy czym związek między drogą liniową s, a drogą kątową φ , jest dany z miary łukowej kąta φ = s/R."
   },
   {
    "plik": "k_056_1",
    "strona": 56,
+   "y": 1148,
    "modul": "M1",
    "w": 96,
-   "h": 77
+   "h": 77,
+   "rozdzial": "6.4 Pole grawitacyjne, pola sił",
+   "opis_zrodlowy": "Przy czym związek między drogą liniową s, a drogą kątową φ , jest dany z miary łukowej kąta φ = s/R."
   },
   {
    "plik": "k_056_2",
    "strona": 56,
+   "y": 1307,
    "modul": "M1",
    "w": 163,
-   "h": 77
+   "h": 77,
+   "rozdzial": "6.4 Pole grawitacyjne, pola sił",
+   "opis_zrodlowy": "Przy czym związek między drogą liniową s, a drogą kątową φ , jest dany z miary łukowej kąta φ = s/R."
   },
   {
    "plik": "k_056_3",
    "strona": 56,
+   "y": 1497,
    "modul": "M1",
    "w": 108,
-   "h": 77
+   "h": 77,
+   "rozdzial": "6.4 Pole grawitacyjne, pola sił",
+   "opis_zrodlowy": "Przy czym związek między drogą liniową s, a drogą kątową φ , jest dany z miary łukowej kąta φ = s/R."
   },
   {
    "plik": "k_057_0",
    "strona": 57,
+   "y": 210,
    "modul": "M1",
    "w": 125,
-   "h": 50
+   "h": 50,
+   "rozdzial": "6.4 Pole grawitacyjne, pola sił",
+   "opis_zrodlowy": "i przyspieszenia normalnego an (przeciwnego do wektora R czyli skierowanego do środka okręgu) Wektory prędkości liniowej i kątowej oraz wektory przyspieszeń stycznego, normalnego i kątowego, w ruchu przyspieszonym po okręgu, są pokazane na rysunku poniżej."
   },
   {
    "plik": "k_060_0",
    "strona": 60,
+   "y": 242,
    "modul": "M1",
    "w": 200,
-   "h": 50
+   "h": 50,
+   "rozdzial": "6.4 Pole grawitacyjne, pola sił",
+   "opis_zrodlowy": "Przyspieszenia a1 i a2 mają ten sam kierunek (równoległy do vs) więc przyspieszenie całkowite jest równe sumie Przyspieszenie to jest nazywane przyspieszeniem Coriolisa ."
   },
   {
    "plik": "k_060_1",
    "strona": 60,
+   "y": 815,
    "modul": "M1",
    "w": 155,
-   "h": 50
+   "h": 50,
+   "rozdzial": "6.4 Pole grawitacyjne, pola sił",
+   "opis_zrodlowy": "Przyspieszenia a1 i a2 mają ten sam kierunek (równoległy do vs) więc przyspieszenie całkowite jest równe sumie Przyspieszenie to jest nazywane przyspieszeniem Coriolisa ."
   },
   {
    "plik": "k_062_0",
    "strona": 62,
+   "y": 659,
    "modul": "M1",
    "w": 194,
-   "h": 77
+   "h": 77,
+   "rozdzial": "6.4 Pole grawitacyjne, pola sił",
+   "opis_zrodlowy": "Z definicji siły centralnej (I.5.1) wynika że moment siły       centralnej jest równy zeru z czego wynika, że moment pędu L     jest zachowany w ruchu pod wpływem siły centralnej (np."
   },
   {
    "plik": "k_071_1",
    "strona": 71,
+   "y": 888,
    "modul": "M2",
    "w": 216,
-   "h": 43
+   "h": 43,
+   "rozdzial": "7.1 Praca wykonana przez siłę stałą",
+   "opis_zrodlowy": "7 Praca i energia Znajomość zagadnień związanych z szeroko rozumianym pojęciem energii jest konieczna dla wszelkich rozważań zarówno technologicznych, ekonomicznych, ekologicznych jak i społecznych."
   },
   {
    "plik": "k_074_0",
    "strona": 74,
+   "y": 782,
    "modul": "M2",
    "w": 303,
-   "h": 84
+   "h": 84,
+   "rozdzial": "7.2 Praca wykonana przez siłę zmienną",
+   "opis_zrodlowy": "Zmienna siła F(x) przybliżona ciągiem stałych wartości Fi Widać, że rozwiązaniem problemu jest przejście (w granicy) Δx → 0.Stosujemy tę samą procedurę obliczając całkowitą pracę Tak w matematyce definiujemy całkę."
   },
   {
    "plik": "k_075_1",
    "strona": 75,
+   "y": 1141,
    "modul": "M2",
    "w": 414,
-   "h": 96
+   "h": 96,
+   "rozdzial": "7.2 Praca wykonana przez siłę zmienną",
+   "opis_zrodlowy": "Możesz prześledzić jak dzielenie przedziału (x1, x2) na więcej (mniejszych) odcinków Δx wpływa na dokładność obliczeń pracy wykonanej przez zmienną siłę F(x)."
   },
   {
    "plik": "k_076_1",
    "strona": 76,
+   "y": 1028,
    "modul": "M2",
    "w": 132,
-   "h": 77
+   "h": 77,
+   "rozdzial": "7.3 Energia kinetyczna",
+   "opis_zrodlowy": "7.3 Energia kinetyczna Rozpatrzmy jeszcze raz ruch ciała pod wpływem stałej, niezrównoważonej siły F i obliczmy pracę jaką wykonuje ona na drodze s."
   },
   {
    "plik": "k_076_3",
    "strona": 76,
+   "y": 1312,
    "modul": "M2",
    "w": 148,
-   "h": 50
+   "h": 50,
+   "rozdzial": "7.3 Energia kinetyczna",
+   "opis_zrodlowy": "7.3 Energia kinetyczna Rozpatrzmy jeszcze raz ruch ciała pod wpływem stałej, niezrównoważonej siły F i obliczmy pracę jaką wykonuje ona na drodze s."
   },
   {
    "plik": "k_077_1",
    "strona": 77,
+   "y": 1164,
    "modul": "M2",
    "w": 89,
-   "h": 77
+   "h": 77,
+   "rozdzial": "7.3 Energia kinetyczna",
+   "opis_zrodlowy": "Ćwiczenie 7.3 Porównaj energię kinetyczną sprintera o masie 80 kg biegnącego z prędkością 10 m/s z energią kinetyczną pocisku o masie 5 g wylatującego z karabinu z prędkością 800 m/s."
   },
   {
    "plik": "k_077_2",
    "strona": 77,
+   "y": 1323,
    "modul": "M2",
    "w": 152,
-   "h": 77
+   "h": 77,
+   "rozdzial": "7.3 Energia kinetyczna",
+   "opis_zrodlowy": "Ćwiczenie 7.3 Porównaj energię kinetyczną sprintera o masie 80 kg biegnącego z prędkością 10 m/s z energią kinetyczną pocisku o masie 5 g wylatującego z karabinu z prędkością 800 m/s."
   },
   {
    "plik": "k_077_3",
    "strona": 77,
+   "y": 1484,
    "modul": "M2",
    "w": 100,
-   "h": 77
+   "h": 77,
+   "rozdzial": "7.3 Energia kinetyczna",
+   "opis_zrodlowy": "Ćwiczenie 7.3 Porównaj energię kinetyczną sprintera o masie 80 kg biegnącego z prędkością 10 m/s z energią kinetyczną pocisku o masie 5 g wylatującego z karabinu z prędkością 800 m/s."
   },
   {
    "plik": "k_081_0",
    "strona": 81,
+   "y": 699,
    "modul": "M2",
    "w": 138,
-   "h": 50
+   "h": 50,
+   "rozdzial": "8.1 Siły zachowawcze i niezachowawcze",
+   "opis_zrodlowy": "Drogi (1) i (2) mogą mieć dowolny kształt o ile tylko łączą te same punkty A i B."
   },
   {
    "plik": "k_082_0",
    "strona": 82,
+   "y": 1094,
    "modul": "M2",
    "w": 162,
-   "h": 50
+   "h": 50,
+   "rozdzial": "8.2 Energia potencjalna",
+   "opis_zrodlowy": "b) Czy są to siły zachowawcze?) Jak zmieniłaby się sytuacja, gdyby występowało tarcie pomiędzy ciałem a poziomą płaszczyzną?"
   },
   {
    "plik": "k_082_1",
    "strona": 82,
+   "y": 1257,
    "modul": "M2",
    "w": 179,
-   "h": 50
+   "h": 50,
+   "rozdzial": "8.2 Energia potencjalna",
+   "opis_zrodlowy": "b) Czy są to siły zachowawcze?) Jak zmieniłaby się sytuacja, gdyby występowało tarcie pomiędzy ciałem a poziomą płaszczyzną?"
   },
   {
    "plik": "k_083_0",
    "strona": 83,
+   "y": 443,
    "modul": "M2",
    "w": 258,
-   "h": 90
+   "h": 90,
+   "rozdzial": "8.2 Energia potencjalna",
+   "opis_zrodlowy": "Ponieważ ΔEp = Ep(r)  Ep(r0), to żeby znaleźć Ep(r) trzeba nie tylko znać siłę ale jeszcze wartość Ep(r0) r Punkt r0 nazywamy punktem odniesienia i zazwyczaj wybieramy go tak, żeby energia potencjalna w tym punkcie odniesienia Ep(r0) była równa zeru."
   },
   {
    "plik": "k_083_1",
    "strona": 83,
+   "y": 615,
    "modul": "M2",
    "w": 187,
-   "h": 83
+   "h": 83,
+   "rozdzial": "8.2 Energia potencjalna",
+   "opis_zrodlowy": "Ponieważ ΔEp = Ep(r)  Ep(r0), to żeby znaleźć Ep(r) trzeba nie tylko znać siłę ale jeszcze wartość Ep(r0) r Punkt r0 nazywamy punktem odniesienia i zazwyczaj wybieramy go tak, żeby energia potencjalna w tym punkcie odniesienia Ep(r0) była równa zeru."
   },
   {
    "plik": "k_085_0",
    "strona": 85,
+   "y": 1209,
    "modul": "M2",
    "w": 180,
-   "h": 77
+   "h": 77,
+   "rozdzial": "8.2.1 Energia potencjalna i potencjał pola grawitacyjnego",
+   "opis_zrodlowy": "8.2.1 Energia potencjalna i potencjał pola grawitacyjnego W przykładzie powyżej obliczyliśmy energię potencjalną związaną z siłą grawitacyjną w pobliżu powierzchni Ziemi, gdzie przyjmowaliśmy, że siła grawitacji jest stała."
   },
   {
    "plik": "k_086_0",
    "strona": 86,
+   "y": 304,
    "modul": "M2",
    "w": 164,
-   "h": 50
+   "h": 50,
+   "rozdzial": "8.2.1 Energia potencjalna i potencjał pola grawitacyjnego",
+   "opis_zrodlowy": "Inaczej mówiąc rozdzieliliśmy siłę na dwie części i w ten sposób uniezależniliśmy nasz opis od masy obiektu wprowadzanego do pola."
   },
   {
    "plik": "k_086_2",
    "strona": 86,
+   "y": 498,
    "modul": "M2",
    "w": 240,
-   "h": 84
+   "h": 84,
+   "rozdzial": "8.2.1 Energia potencjalna i potencjał pola grawitacyjnego",
+   "opis_zrodlowy": "Inaczej mówiąc rozdzieliliśmy siłę na dwie części i w ten sposób uniezależniliśmy nasz opis od masy obiektu wprowadzanego do pola."
   },
   {
    "plik": "k_086_3",
    "strona": 86,
+   "y": 1524,
    "modul": "M2",
    "w": 152,
-   "h": 85
+   "h": 85,
+   "rozdzial": "8.2.1 Energia potencjalna i potencjał pola grawitacyjnego",
+   "opis_zrodlowy": "Inaczej mówiąc rozdzieliliśmy siłę na dwie części i w ten sposób uniezależniliśmy nasz opis od masy obiektu wprowadzanego do pola."
   },
   {
    "plik": "k_087_0",
    "strona": 87,
+   "y": 338,
    "modul": "M2",
    "w": 172,
-   "h": 90
+   "h": 90,
+   "rozdzial": "8.2.1 Energia potencjalna i potencjał pola grawitacyjnego",
+   "opis_zrodlowy": "Jeżeli na powierzchni Ziemi dostarczymy ciału jeszcze większej energii kinetycznej to wtedy może ono bezpowrotnie uciec z Ziemi w przestrzeń kosmiczną."
   },
   {
    "plik": "k_087_1",
    "strona": 87,
+   "y": 1130,
    "modul": "M2",
    "w": 228,
-   "h": 50
+   "h": 50,
+   "rozdzial": "8.3 Zasada zachowania energii",
+   "opis_zrodlowy": "Jeżeli na powierzchni Ziemi dostarczymy ciału jeszcze większej energii kinetycznej to wtedy może ono bezpowrotnie uciec z Ziemi w przestrzeń kosmiczną."
   },
   {
    "plik": "k_089_0",
    "strona": 89,
+   "y": 670,
    "modul": "M2",
    "w": 224,
-   "h": 51
+   "h": 51,
+   "rozdzial": "8.3 Zasada zachowania energii",
+   "opis_zrodlowy": "Teraz spróbujemy odpowiedzieć na pytanie czy energia jest zachowana w przypadku gdy w układzie działa siła niezachowawcza."
   },
   {
    "plik": "k_089_2",
    "strona": 89,
+   "y": 1247,
    "modul": "M2",
    "w": 250,
-   "h": 50
+   "h": 50,
+   "rozdzial": "8.3 Zasada zachowania energii",
+   "opis_zrodlowy": "Teraz spróbujemy odpowiedzieć na pytanie czy energia jest zachowana w przypadku gdy w układzie działa siła niezachowawcza."
   },
   {
    "plik": "k_092_0",
    "strona": 92,
+   "y": 628,
    "modul": "M2",
    "w": 185,
-   "h": 84
+   "h": 84,
+   "rozdzial": "9.1 Środek masy",
+   "opis_zrodlowy": "Widzimy, że położenie środka masy układu punktów materialnych wyznaczamy jak średnią ważoną, przy czym masa tych punktów jest czynnikiem ważącym przy tworzeniu średniej."
   },
   {
    "plik": "k_093_0",
    "strona": 93,
+   "y": 345,
    "modul": "M2",
    "w": 194,
-   "h": 83
+   "h": 83,
+   "rozdzial": "9.2 Ruch środka masy",
+   "opis_zrodlowy": "Z twierdzenia o ruchu środka masy wynika, że nawet ciała materialne będące układami złożonymi z dużej liczby punktów materialnych możemy w pewnych sytuacjach traktować jako pojedynczy punkt materialny."
   },
   {
    "plik": "k_093_1",
    "strona": 93,
+   "y": 613,
    "modul": "M2",
    "w": 183,
-   "h": 84
+   "h": 84,
+   "rozdzial": "9.2 Ruch środka masy",
+   "opis_zrodlowy": "Z twierdzenia o ruchu środka masy wynika, że nawet ciała materialne będące układami złożonymi z dużej liczby punktów materialnych możemy w pewnych sytuacjach traktować jako pojedynczy punkt materialny."
   },
   {
    "plik": "k_093_2",
    "strona": 93,
+   "y": 975,
    "modul": "M2",
    "w": 149,
-   "h": 50
+   "h": 50,
+   "rozdzial": "9.2 Ruch środka masy",
+   "opis_zrodlowy": "Z twierdzenia o ruchu środka masy wynika, że nawet ciała materialne będące układami złożonymi z dużej liczby punktów materialnych możemy w pewnych sytuacjach traktować jako pojedynczy punkt materialny."
   },
   {
    "plik": "k_094_1",
    "strona": 94,
+   "y": 791,
    "modul": "M2",
    "w": 137,
-   "h": 50
+   "h": 50,
+   "rozdzial": "9.3 Pęd układu punktów materialnych",
+   "opis_zrodlowy": "Bardziej zaawansowany przykład wykorzystania pojęcia środka masy (do obliczania energii kinetycznej) możesz poznać w Dodatku 1, na końcu modułu II."
   },
   {
    "plik": "k_094_3",
    "strona": 94,
+   "y": 1175,
    "modul": "M2",
    "w": 125,
-   "h": 77
+   "h": 77,
+   "rozdzial": "9.3 Pęd układu punktów materialnych",
+   "opis_zrodlowy": "Bardziej zaawansowany przykład wykorzystania pojęcia środka masy (do obliczania energii kinetycznej) możesz poznać w Dodatku 1, na końcu modułu II."
   },
   {
    "plik": "k_106_0",
    "strona": 106,
+   "y": 995,
    "modul": "M2",
    "w": 195,
-   "h": 84
+   "h": 84,
+   "rozdzial": "10.2 Zderzenia na płaszczyźnie",
+   "opis_zrodlowy": "Materiały dodatkowe do Modułu II Energia kinetyczna w układzie środka masy Rozpatrzmy układ, o stałej masie M, złożony z n punktów materialnych o masach m1,."
   },
   {
    "plik": "k_108_0",
    "strona": 108,
+   "y": 621,
    "modul": "M2",
    "w": 310,
-   "h": 77
+   "h": 77,
+   "rozdzial": "10.2 Zderzenia na płaszczyźnie",
+   "opis_zrodlowy": "lub skąd ostatecznie Równanie to uwzględnia fakt, że w przypadku rakiety zmienia się zarówno jej masa jak i prędkość podczas gdy spaliny są wyrzucane ze stałą prędkością."
   },
   {
    "plik": "k_117_0",
    "strona": 117,
+   "y": 1221,
    "modul": "M3",
    "w": 224,
-   "h": 77
+   "h": 77,
+   "rozdzial": "11.1 Kinematyka ruchu obrotowego",
+   "opis_zrodlowy": "11 Ruch obrotowy W naszych dotychczasowych rozważaniach nad ruchem ciał traktowaliśmy je jako punkty materialne tzn."
   },
   {
    "plik": "k_118_0",
    "strona": 118,
+   "y": 148,
    "modul": "M3",
    "w": 228,
-   "h": 77
+   "h": 77,
+   "rozdzial": "11.1 Kinematyka ruchu obrotowego",
+   "opis_zrodlowy": "dt R dt R Możemy teraz podać opis ruchu obrotowego ze stałym przyspieszeniem kątowym α poprzez analogię do ruchu postępowego jednostajnie zmiennego."
   },
   {
    "plik": "k_118_1",
    "strona": 118,
+   "y": 1449,
    "modul": "M3",
    "w": 120,
-   "h": 121
+   "h": 121,
+   "rozdzial": "11.1 Kinematyka ruchu obrotowego",
+   "opis_zrodlowy": "dt R dt R Możemy teraz podać opis ruchu obrotowego ze stałym przyspieszeniem kątowym α poprzez analogię do ruchu postępowego jednostajnie zmiennego."
   },
   {
    "plik": "k_119_2",
    "strona": 119,
+   "y": 1428,
    "modul": "M3",
    "w": 492,
-   "h": 46
+   "h": 46,
+   "rozdzial": "11.2 Dynamika ruchu obrotowego",
+   "opis_zrodlowy": "Więcej o ruchu przyspieszonym po okręgu możesz przeczytać w Dodatku 1, na końcu modułu III."
   },
   {
    "plik": "k_120_0",
    "strona": 120,
+   "y": 569,
    "modul": "M3",
    "w": 489,
-   "h": 49
+   "h": 49,
+   "rozdzial": "11.2.1 Moment pędu",
+   "opis_zrodlowy": "Moment siły jest wielkością wektorową, której wartość bezwzględna wynosi (iloczyn wektorowy) Wielkość r nazywamy ramieniem siły ."
   },
   {
    "plik": "k_120_1",
    "strona": 120,
+   "y": 1155,
    "modul": "M3",
    "w": 120,
-   "h": 76
+   "h": 76,
+   "rozdzial": "11.2.1 Moment pędu",
+   "opis_zrodlowy": "Moment siły jest wielkością wektorową, której wartość bezwzględna wynosi (iloczyn wektorowy) Wielkość r nazywamy ramieniem siły ."
   },
   {
    "plik": "k_121_1",
    "strona": 121,
+   "y": 529,
    "modul": "M3",
    "w": 240,
-   "h": 76
+   "h": 76,
+   "rozdzial": "11.2.2 Zachowanie momentu pędu",
+   "opis_zrodlowy": "oraz trzecią zasadę dynamiki ruchu obrotowego Prawo, zasada, twierdzenie Jeżeli dwa ciała oddziałują wzajemnie, to moment sił z jakim działa ciało drugie na ciało pierwsze jest równy i przeciwnie skierowany do momentu siły, z jakim ciało pierwsze działa na drugie."
   },
   {
    "plik": "k_121_3",
    "strona": 121,
+   "y": 843,
    "modul": "M3",
    "w": 255,
-   "h": 76
+   "h": 76,
+   "rozdzial": "11.2.2 Zachowanie momentu pędu",
+   "opis_zrodlowy": "oraz trzecią zasadę dynamiki ruchu obrotowego Prawo, zasada, twierdzenie Jeżeli dwa ciała oddziałują wzajemnie, to moment sił z jakim działa ciało drugie na ciało pierwsze jest równy i przeciwnie skierowany do momentu siły, z jakim ciało pierwsze działa na drugie."
   },
   {
    "plik": "k_122_1",
    "strona": 122,
+   "y": 1469,
    "modul": "M3",
    "w": 499,
-   "h": 54
+   "h": 54,
+   "rozdzial": "11.3 Dynamika bryły sztywnej",
+   "opis_zrodlowy": "11.3 Dynamika bryły sztywnej Większość ciał w przyrodzie to nie punkty materialne ale rozciągłe ciała sztywne."
   },
   {
    "plik": "k_123_0",
    "strona": 123,
+   "y": 179,
    "modul": "M3",
    "w": 88,
-   "h": 43
+   "h": 43,
+   "rozdzial": "11.3 Dynamika bryły sztywnej",
+   "opis_zrodlowy": "a ponieważ zgodnie z równaniem (11.10)  = dL/dt więc dt gdzie α jest przyspieszeniem kątowym."
   },
   {
    "plik": "k_123_1",
    "strona": 123,
+   "y": 304,
    "modul": "M3",
    "w": 162,
-   "h": 76
+   "h": 76,
+   "rozdzial": "11.3 Dynamika bryły sztywnej",
+   "opis_zrodlowy": "a ponieważ zgodnie z równaniem (11.10)  = dL/dt więc dt gdzie α jest przyspieszeniem kątowym."
   },
   {
    "plik": "k_123_2",
    "strona": 123,
+   "y": 619,
    "modul": "M3",
    "w": 127,
-   "h": 76
+   "h": 76,
+   "rozdzial": "11.3 Dynamika bryły sztywnej",
+   "opis_zrodlowy": "a ponieważ zgodnie z równaniem (11.10)  = dL/dt więc dt gdzie α jest przyspieszeniem kątowym."
   },
   {
    "plik": "k_124_1",
    "strona": 124,
+   "y": 426,
    "modul": "M3",
    "w": 519,
-   "h": 54
+   "h": 54,
+   "rozdzial": "11.3 Dynamika bryły sztywnej",
+   "opis_zrodlowy": "Przykład obliczania momentu bezwładności znajdziesz w Dodatku 2, na końcu modułu III."
   },
   {
    "plik": "k_127_1",
    "strona": 127,
+   "y": 638,
    "modul": "M3",
    "w": 104,
-   "h": 46
+   "h": 46,
+   "rozdzial": "12.1 Siła harmoniczna, drgania swobodne",
+   "opis_zrodlowy": "12 Ruch drgający Ruch, który powtarza się w regularnych odstępach czasu, nazywamy ruchem okresowym."
   },
   {
    "plik": "k_127_2",
    "strona": 127,
+   "y": 1377,
    "modul": "M3",
    "w": 163,
-   "h": 47
+   "h": 47,
+   "rozdzial": "12.1 Siła harmoniczna, drgania swobodne",
+   "opis_zrodlowy": "12 Ruch drgający Ruch, który powtarza się w regularnych odstępach czasu, nazywamy ruchem okresowym."
   },
   {
    "plik": "k_128_0",
    "strona": 128,
+   "y": 242,
    "modul": "M3",
    "w": 249,
-   "h": 83
+   "h": 83,
+   "rozdzial": "12.1 Siła harmoniczna, drgania swobodne",
+   "opis_zrodlowy": "Stałe A i φ są wyznaczone przez warunki początkowe."
   },
   {
    "plik": "k_128_1",
    "strona": 128,
+   "y": 345,
    "modul": "M3",
    "w": 336,
-   "h": 83
+   "h": 83,
+   "rozdzial": "12.1 Siła harmoniczna, drgania swobodne",
+   "opis_zrodlowy": "Stałe A i φ są wyznaczone przez warunki początkowe."
   },
   {
    "plik": "k_128_2",
    "strona": 128,
+   "y": 866,
    "modul": "M3",
    "w": 210,
-   "h": 47
+   "h": 47,
+   "rozdzial": "12.1 Siła harmoniczna, drgania swobodne",
+   "opis_zrodlowy": "Stałe A i φ są wyznaczone przez warunki początkowe."
   },
   {
    "plik": "k_129_0",
    "strona": 129,
+   "y": 398,
    "modul": "M3",
    "w": 127,
-   "h": 127
+   "h": 127,
+   "rozdzial": "12.1 Siła harmoniczna, drgania swobodne",
+   "opis_zrodlowy": "Zwróćmy uwagę, że wychylenie z położenia równowagi x(t) oraz przyspieszenie a(t) (a tym samym siła) osiągają równocześnie maksymalne wartości, przy czym zwroty wektorów x(t) i a(t) są przeciwne (równanie (12.3)) i stąd przeciwne znaki."
   },
   {
    "plik": "k_129_1",
    "strona": 129,
+   "y": 669,
    "modul": "M3",
    "w": 186,
-   "h": 86
+   "h": 86,
+   "rozdzial": "12.1 Siła harmoniczna, drgania swobodne",
+   "opis_zrodlowy": "Zwróćmy uwagę, że wychylenie z położenia równowagi x(t) oraz przyspieszenie a(t) (a tym samym siła) osiągają równocześnie maksymalne wartości, przy czym zwroty wektorów x(t) i a(t) są przeciwne (równanie (12.3)) i stąd przeciwne znaki."
   },
   {
    "plik": "k_130_0",
    "strona": 130,
+   "y": 1080,
    "modul": "M3",
    "w": 217,
-   "h": 89
+   "h": 89,
+   "rozdzial": "12.2.1 Wahadło proste",
+   "opis_zrodlowy": "Wahadło matematyczne Zwróćmy uwagę, że to nie jest, w myśl podanej definicji, siła harmoniczna bo jest proporcjonalna do sinusa wychylenia (sinθ), a nie do wychylenia θ."
   },
   {
    "plik": "k_132_0",
    "strona": 132,
+   "y": 284,
    "modul": "M3",
    "w": 154,
-   "h": 88
+   "h": 88,
+   "rozdzial": "12.2.2 Wahadło fizyczne",
+   "opis_zrodlowy": "mgd I I mgd Jako przypadek szczególny rozpatrzmy masę punktową zawieszoną na nici o długości l (wahadło proste)."
   },
   {
    "plik": "k_133_0",
    "strona": 133,
+   "y": 438,
    "modul": "M3",
    "w": 304,
-   "h": 84
+   "h": 84,
+   "rozdzial": "12.3 Energia ruchu harmonicznego prostego",
+   "opis_zrodlowy": "jest zarazem energią całkowitą (energia kinetyczna Ek = 0)."
   },
   {
    "plik": "k_134_0",
    "strona": 134,
+   "y": 1025,
    "modul": "M3",
    "w": 191,
-   "h": 84
+   "h": 84,
+   "rozdzial": "12.4 Oscylator harmoniczny tłumiony",
+   "opis_zrodlowy": "Widać, że dla x = A/2 energia kinetyczna jest trzykrotnie większa od potencjalnej."
   },
   {
    "plik": "k_135_0",
    "strona": 135,
+   "y": 148,
    "modul": "M3",
    "w": 236,
-   "h": 88
+   "h": 88,
+   "rozdzial": "12.4 Oscylator harmoniczny tłumiony",
+   "opis_zrodlowy": "Szukamy rozwiązania tego równania w postaci drgań okresowo zmiennych tłumionych na przykład Proponowane rozwiązanie zawiera czynnik oscylacyjny cos  t opisujący drgania i czynnik tłumiący e   t opisujący zmniejszanie się amplitudy drgań."
   },
   {
    "plik": "k_135_2",
    "strona": 135,
+   "y": 744,
    "modul": "M3",
    "w": 159,
-   "h": 60
+   "h": 60,
+   "rozdzial": "12.4 Oscylator harmoniczny tłumiony",
+   "opis_zrodlowy": "Szukamy rozwiązania tego równania w postaci drgań okresowo zmiennych tłumionych na przykład Proponowane rozwiązanie zawiera czynnik oscylacyjny cos  t opisujący drgania i czynnik tłumiący e   t opisujący zmniejszanie się amplitudy drgań."
   },
   {
    "plik": "k_136_0",
    "strona": 136,
+   "y": 1455,
    "modul": "M3",
    "w": 643,
-   "h": 93
+   "h": 93,
+   "rozdzial": "12.4.1 Straty mocy, współczynnik dobroci",
+   "opis_zrodlowy": "Równanie (12.31) opisuje sytuację, w której pomimo strat energii zachowany zostaje oscylacyjny charakter ruchu."
   },
   {
    "plik": "k_137_0",
    "strona": 137,
+   "y": 692,
    "modul": "M3",
    "w": 174,
-   "h": 51
+   "h": 51,
+   "rozdzial": "12.5 Drgania wymuszone oscylatora harmonicznego",
+   "opis_zrodlowy": "Kilka typowych wartości Q zestawiono w tabeli 12.1."
   },
   {
    "plik": "k_137_1",
    "strona": 137,
+   "y": 1419,
    "modul": "M3",
    "w": 309,
-   "h": 88
+   "h": 88,
+   "rozdzial": "12.5 Drgania wymuszone oscylatora harmonicznego",
+   "opis_zrodlowy": "Kilka typowych wartości Q zestawiono w tabeli 12.1."
   },
   {
    "plik": "k_138_1",
    "strona": 138,
+   "y": 1094,
    "modul": "M3",
    "w": 210,
-   "h": 47
+   "h": 47,
+   "rozdzial": "12.5 Drgania wymuszone oscylatora harmonicznego",
+   "opis_zrodlowy": "współczynnikiem tłumienia β relacją   1/ 2 .Zauważmy ponadto, że układ jest zasilany z częstością ω różną od częstości własnej ω0."
   },
   {
    "plik": "k_139_0",
    "strona": 139,
+   "y": 148,
    "modul": "M3",
    "w": 351,
-   "h": 84
+   "h": 84,
+   "rozdzial": "12.5 Drgania wymuszone oscylatora harmonicznego",
+   "opis_zrodlowy": "i wyznaczamy amplitudę Łącząc powyższe wzory otrzymujemy rozwiązanie Równanie wygląda skomplikowanie ale pamiętajmy, że jest to rozwiązanie postaci Zauważmy, że chociaż drgania odbywają się z częstością ω siły wymuszającej to amplituda i faza zależą od relacji pomiędzy częstością wymuszającą ω, a częstością własną ω0."
   },
   {
    "plik": "k_139_1",
    "strona": 139,
+   "y": 282,
    "modul": "M3",
    "w": 564,
-   "h": 84
+   "h": 84,
+   "rozdzial": "12.5 Drgania wymuszone oscylatora harmonicznego",
+   "opis_zrodlowy": "i wyznaczamy amplitudę Łącząc powyższe wzory otrzymujemy rozwiązanie Równanie wygląda skomplikowanie ale pamiętajmy, że jest to rozwiązanie postaci Zauważmy, że chociaż drgania odbywają się z częstością ω siły wymuszającej to amplituda i faza zależą od relacji pomiędzy częstością wymuszającą ω, a częstością własną ω0."
   },
   {
    "plik": "k_139_2",
    "strona": 139,
+   "y": 447,
    "modul": "M3",
    "w": 565,
-   "h": 91
+   "h": 91,
+   "rozdzial": "12.5 Drgania wymuszone oscylatora harmonicznego",
+   "opis_zrodlowy": "i wyznaczamy amplitudę Łącząc powyższe wzory otrzymujemy rozwiązanie Równanie wygląda skomplikowanie ale pamiętajmy, że jest to rozwiązanie postaci Zauważmy, że chociaż drgania odbywają się z częstością ω siły wymuszającej to amplituda i faza zależą od relacji pomiędzy częstością wymuszającą ω, a częstością własną ω0."
   },
   {
    "plik": "k_140_0",
    "strona": 140,
+   "y": 371,
    "modul": "M3",
    "w": 179,
-   "h": 60
+   "h": 60,
+   "rozdzial": "12.5.1 Rezonans",
+   "opis_zrodlowy": "Liniami przerywanymi zaznaczono częstości rezonansowe     to jest wartości częstości siły wymuszającej, dla której amplituda drgań jest maksymalna."
   },
   {
    "plik": "k_140_1",
    "strona": 140,
+   "y": 544,
    "modul": "M3",
    "w": 202,
-   "h": 88
+   "h": 88,
+   "rozdzial": "12.5.1 Rezonans",
+   "opis_zrodlowy": "Liniami przerywanymi zaznaczono częstości rezonansowe     to jest wartości częstości siły wymuszającej, dla której amplituda drgań jest maksymalna."
   },
   {
    "plik": "k_141_1",
    "strona": 141,
+   "y": 826,
    "modul": "M3",
    "w": 288,
-   "h": 51
+   "h": 51,
+   "rozdzial": "12.6.1 Składanie drgań równoległych",
+   "opis_zrodlowy": "dwu drgań harmonicznych zachodzących zarówno wzdłuż prostych równoległych jak i prostych prostopadłych."
   },
   {
    "plik": "k_146_0",
    "strona": 146,
+   "y": 242,
    "modul": "M3",
    "w": 164,
-   "h": 75
+   "h": 75,
+   "rozdzial": "12.6.2 Składanie drgań prostopadłych",
+   "opis_zrodlowy": "Oś obrotu przechodzi przez środek pręta i jest do niego prostopadła (linia przerywana)."
   },
   {
    "plik": "k_148_0",
    "strona": 148,
+   "y": 1024,
    "modul": "M3",
    "w": 120,
-   "h": 76
+   "h": 76,
+   "rozdzial": "12.6.2 Składanie drgań prostopadłych",
+   "opis_zrodlowy": "Z iloczynu wektorowego wynika, że τ jest prostopadłe do r i do mg."
   },
   {
    "plik": "k_148_1",
    "strona": 148,
+   "y": 1440,
    "modul": "M3",
    "w": 120,
-   "h": 51
+   "h": 51,
+   "rozdzial": "12.6.2 Składanie drgań prostopadłych",
+   "opis_zrodlowy": "Z iloczynu wektorowego wynika, że τ jest prostopadłe do r i do mg."
   },
   {
    "plik": "k_163_0",
    "strona": 163,
+   "y": 539,
    "modul": "M4",
    "w": 152,
-   "h": 45
+   "h": 45,
+   "rozdzial": "13.2 Rozchodzenie się fal w przestrzeni",
+   "opis_zrodlowy": "13.2 Rozchodzenie się fal w przestrzeni Rozważmy rozchodzenie się impulsu falowego (fali) wzdłuż długiego naprężonego sznura w kierunku x jak na rysunku (13.3)."
   },
   {
    "plik": "k_163_1",
    "strona": 163,
+   "y": 791,
    "modul": "M4",
    "w": 152,
-   "h": 46
+   "h": 46,
+   "rozdzial": "13.2 Rozchodzenie się fal w przestrzeni",
+   "opis_zrodlowy": "13.2 Rozchodzenie się fal w przestrzeni Rozważmy rozchodzenie się impulsu falowego (fali) wzdłuż długiego naprężonego sznura w kierunku x jak na rysunku (13.3)."
   },
   {
    "plik": "k_163_2",
    "strona": 163,
+   "y": 1107,
    "modul": "M4",
    "w": 222,
-   "h": 77
+   "h": 77,
+   "rozdzial": "13.2 Rozchodzenie się fal w przestrzeni",
+   "opis_zrodlowy": "13.2 Rozchodzenie się fal w przestrzeni Rozważmy rozchodzenie się impulsu falowego (fali) wzdłuż długiego naprężonego sznura w kierunku x jak na rysunku (13.3)."
   },
   {
    "plik": "k_164_0",
    "strona": 164,
+   "y": 541,
    "modul": "M4",
    "w": 78,
-   "h": 77
+   "h": 77,
+   "rozdzial": "13.2 Rozchodzenie się fal w przestrzeni",
+   "opis_zrodlowy": "Długość fali λ Czas, w którym fala przebiega odległość równą λ nazywamy okresem T v stąd Widzimy, że w danej chwili t taka sama faza jest w punktach x, x + λ, x + 2λ, itd., oraz, że w danym miejscu x faza powtarza się w chwilach t, t + T, t + 2T, itd."
   },
   {
    "plik": "k_164_1",
    "strona": 164,
+   "y": 637,
    "modul": "M4",
    "w": 227,
-   "h": 84
+   "h": 84,
+   "rozdzial": "13.2 Rozchodzenie się fal w przestrzeni",
+   "opis_zrodlowy": "Długość fali λ Czas, w którym fala przebiega odległość równą λ nazywamy okresem T v stąd Widzimy, że w danej chwili t taka sama faza jest w punktach x, x + λ, x + 2λ, itd., oraz, że w danym miejscu x faza powtarza się w chwilach t, t + T, t + 2T, itd."
   },
   {
    "plik": "k_164_2",
    "strona": 164,
+   "y": 899,
    "modul": "M4",
    "w": 311,
-   "h": 76
+   "h": 76,
+   "rozdzial": "13.2 Rozchodzenie się fal w przestrzeni",
+   "opis_zrodlowy": "Długość fali λ Czas, w którym fala przebiega odległość równą λ nazywamy okresem T v stąd Widzimy, że w danej chwili t taka sama faza jest w punktach x, x + λ, x + 2λ, itd., oraz, że w danym miejscu x faza powtarza się w chwilach t, t + T, t + 2T, itd."
   },
   {
    "plik": "k_164_3",
    "strona": 164,
+   "y": 1057,
    "modul": "M4",
    "w": 200,
-   "h": 46
+   "h": 46,
+   "rozdzial": "13.2 Rozchodzenie się fal w przestrzeni",
+   "opis_zrodlowy": "Długość fali λ Czas, w którym fala przebiega odległość równą λ nazywamy okresem T v stąd Widzimy, że w danej chwili t taka sama faza jest w punktach x, x + λ, x + 2λ, itd., oraz, że w danym miejscu x faza powtarza się w chwilach t, t + T, t + 2T, itd."
   },
   {
    "plik": "k_164_4",
    "strona": 164,
+   "y": 1185,
    "modul": "M4",
    "w": 186,
-   "h": 76
+   "h": 76,
+   "rozdzial": "13.2 Rozchodzenie się fal w przestrzeni",
+   "opis_zrodlowy": "Długość fali λ Czas, w którym fala przebiega odległość równą λ nazywamy okresem T v stąd Widzimy, że w danej chwili t taka sama faza jest w punktach x, x + λ, x + 2λ, itd., oraz, że w danym miejscu x faza powtarza się w chwilach t, t + T, t + 2T, itd."
   },
   {
    "plik": "k_166_0",
    "strona": 166,
+   "y": 572,
    "modul": "M4",
    "w": 160,
-   "h": 84
+   "h": 84,
+   "rozdzial": "13.3 Prędkość rozchodzenia się fal, równanie falowe",
+   "opis_zrodlowy": "gdzie v2 jest pochodną funkcji wewnętrznej."
   },
   {
    "plik": "k_166_1",
    "strona": 166,
+   "y": 863,
    "modul": "M4",
    "w": 100,
-   "h": 89
+   "h": 89,
+   "rozdzial": "13.3 Prędkość rozchodzenia się fal, równanie falowe",
+   "opis_zrodlowy": "gdzie v2 jest pochodną funkcji wewnętrznej."
   },
   {
    "plik": "k_167_0",
    "strona": 167,
+   "y": 1436,
    "modul": "M4",
    "w": 318,
-   "h": 50
+   "h": 50,
+   "rozdzial": "13.4 Przenoszenie energii przez fale",
+   "opis_zrodlowy": "Koniec struny wprawiony w drgania siłą F Jak widać z rysunku 13.8 prędkość poprzeczna jest równa v y  y / t , a składowa siły F w kierunku y wynosi Fy = Fsinθ."
   },
   {
    "plik": "k_168_0",
    "strona": 168,
+   "y": 551,
    "modul": "M4",
    "w": 361,
-   "h": 46
+   "h": 46,
+   "rozdzial": "13.5 Interferencja fal, fale stojące",
+   "opis_zrodlowy": "13.5 Interferencja fal, fale stojące Interferencją    fal nazywamy zjawisko nakładania się fal."
   },
   {
    "plik": "k_168_1",
    "strona": 168,
+   "y": 681,
    "modul": "M4",
    "w": 192,
-   "h": 46
+   "h": 46,
+   "rozdzial": "13.5 Interferencja fal, fale stojące",
+   "opis_zrodlowy": "13.5 Interferencja fal, fale stojące Interferencją    fal nazywamy zjawisko nakładania się fal."
   },
   {
    "plik": "k_168_2",
    "strona": 168,
+   "y": 1515,
    "modul": "M4",
    "w": 310,
-   "h": 50
+   "h": 50,
+   "rozdzial": "13.5.1 Fale stojące",
+   "opis_zrodlowy": "13.5 Interferencja fal, fale stojące Interferencją    fal nazywamy zjawisko nakładania się fal."
   },
   {
    "plik": "k_169_0",
    "strona": 169,
+   "y": 213,
    "modul": "M4",
    "w": 155,
-   "h": 43
+   "h": 43,
+   "rozdzial": "13.5.1 Fale stojące",
+   "opis_zrodlowy": "Zauważmy, że jest to równanie ruchu harmonicznego prostego postaci y  A 'cos  t z amplituda równą Widzimy, że cząstki ośrodka drgają ruchem harmonicznym prostym ale w przeciwieństwie do fali bieżącej różne punkty ośrodka mają różną amplitudę drgań zależną od ich położenia x."
   },
   {
    "plik": "k_170_0",
    "strona": 170,
+   "y": 600,
    "modul": "M4",
    "w": 99,
-   "h": 77
+   "h": 77,
+   "rozdzial": "13.6 Analiza fal złożonych",
+   "opis_zrodlowy": "13.6 Analiza fal złożonych Ponownie rozpatrzmy drgania poprzeczne struny."
   },
   {
    "plik": "k_170_1",
    "strona": 170,
+   "y": 824,
    "modul": "M4",
    "w": 222,
-   "h": 89
+   "h": 89,
+   "rozdzial": "13.6 Analiza fal złożonych",
+   "opis_zrodlowy": "13.6 Analiza fal złożonych Ponownie rozpatrzmy drgania poprzeczne struny."
   },
   {
    "plik": "k_172_0",
    "strona": 172,
+   "y": 1049,
    "modul": "M4",
    "w": 455,
-   "h": 90
+   "h": 90,
+   "rozdzial": "13.7 Dudnienia, modulacja amplitudy",
+   "opis_zrodlowy": "pierwsze drgania harmoniczne jakie powstają w piszczałce zamkniętej."
   },
   {
    "plik": "k_172_1",
    "strona": 172,
+   "y": 1475,
    "modul": "M4",
    "w": 153,
-   "h": 77
+   "h": 77,
+   "rozdzial": "13.7 Dudnienia, modulacja amplitudy",
+   "opis_zrodlowy": "pierwsze drgania harmoniczne jakie powstają w piszczałce zamkniętej."
   },
   {
    "plik": "k_175_0",
    "strona": 175,
+   "y": 835,
    "modul": "M4",
    "w": 180,
-   "h": 91
+   "h": 91,
+   "rozdzial": "13.8 Zjawisko Dopplera",
+   "opis_zrodlowy": "Fale wysyłane przez źródło Z: (a) poruszające się z prędkością vz w stronę obserwatora O; (b) przez nieruchome źródło Zwróćmy uwagę, że zmiany częstotliwości zależą od tego czy porusza się źródło czy obserwator."
   },
   {
    "plik": "k_176_0",
    "strona": 176,
+   "y": 648,
    "modul": "M4",
    "w": 160,
-   "h": 89
+   "h": 89,
+   "rozdzial": "13.8 Zjawisko Dopplera",
+   "opis_zrodlowy": "Rozwiązanie możesz sprawdzić na końcu modułu."
   },
   {
    "plik": "k_178_1",
    "strona": 178,
+   "y": 494,
    "modul": "M4",
    "w": 84,
-   "h": 77
+   "h": 77,
+   "rozdzial": "14.1 Ciśnienie i gęstość",
+   "opis_zrodlowy": "Definicja Długość wektora S jest równa polu powierzchni S, jego kierunek jest prostopadły do powierzchni, a zwrot na zewnątrz powierzchni."
   },
   {
    "plik": "k_178_2",
    "strona": 178,
+   "y": 653,
    "modul": "M4",
    "w": 84,
-   "h": 76
+   "h": 76,
+   "rozdzial": "14.1 Ciśnienie i gęstość",
+   "opis_zrodlowy": "Definicja Długość wektora S jest równa polu powierzchni S, jego kierunek jest prostopadły do powierzchni, a zwrot na zewnątrz powierzchni."
   },
   {
    "plik": "k_184_0",
    "strona": 184,
+   "y": 1172,
    "modul": "M4",
    "w": 132,
-   "h": 43
+   "h": 43,
+   "rozdzial": "14.4 Ogólny opis przepływu płynów",
+   "opis_zrodlowy": "W czasie Δt cząstka płynu przebywa odległość równą vΔt."
   },
   {
    "plik": "k_186_0",
    "strona": 186,
+   "y": 242,
    "modul": "M4",
    "w": 258,
-   "h": 83
+   "h": 83,
+   "rozdzial": "14.5 Równanie Bernoulliego",
+   "opis_zrodlowy": "Ponieważ nasze rozważania odnosiły się do dowolnych dwóch położeń, możemy opuścić wskaźniki i napisać Równanie to nosi nazwę równania Bernoulliego dla przepływu ustalonego, nielepkiego i nieściśliwego."
   },
   {
    "plik": "k_188_0",
    "strona": 188,
+   "y": 210,
    "modul": "M4",
    "w": 187,
-   "h": 91
+   "h": 91,
+   "rozdzial": "14.5 Równanie Bernoulliego",
+   "opis_zrodlowy": "Porównując powyższe dwa wzory możemy wyznaczyć prędkość v1 w rurce Metoda pomiaru prędkości płynu oparta na wyznaczeniu różnicy wysokości płynu w dwóch pionowych rurkach nosi nazwę metody Venturiego."
   },
   {
    "plik": "k_193_0",
    "strona": 193,
+   "y": 995,
    "modul": "M4",
    "w": 147,
-   "h": 89
+   "h": 89,
+   "rozdzial": "14.6 Dynamiczna siła nośna",
+   "opis_zrodlowy": "Uwzględniając, że   y / x otrzymujemy Jest to równanie falowe dla sznura (struny)."
   },
   {
    "plik": "k_193_1",
    "strona": 193,
+   "y": 1291,
    "modul": "M4",
    "w": 164,
-   "h": 89
+   "h": 89,
+   "rozdzial": "14.6 Dynamiczna siła nośna",
+   "opis_zrodlowy": "Uwzględniając, że   y / x otrzymujemy Jest to równanie falowe dla sznura (struny)."
   },
   {
    "plik": "k_200_0",
    "strona": 200,
+   "y": 1376,
    "modul": "M5",
    "w": 141,
-   "h": 54
+   "h": 54,
+   "rozdzial": "15.1 Ciśnienie gazu doskonałego",
+   "opis_zrodlowy": "Siła jaką cząsteczka wywiera na ściankę w czasie Δt wynosi zgodnie z drugą zasadą dynamiki Newtona Zmiana składowej x pędu cząsteczki spowodowana zderzeniem wynosi Cząsteczka po odbiciu dociera do ścianki przeciwnej i powraca."
   },
   {
    "plik": "k_201_0",
    "strona": 201,
+   "y": 872,
    "modul": "M5",
    "w": 216,
-   "h": 89
+   "h": 89,
+   "rozdzial": "15.1 Ciśnienie gazu doskonałego",
+   "opis_zrodlowy": "Zauważmy ponadto, że cząsteczki gazu wykonują ruch chaotyczny więc poruszają się we wszystkich kierunkach, a żaden nie jest wyróżniony."
   },
   {
    "plik": "k_202_2",
    "strona": 202,
+   "y": 973,
    "modul": "M5",
    "w": 163,
-   "h": 89
+   "h": 89,
+   "rozdzial": "15.2.2 Kinetyczna interpretacja temperatury",
+   "opis_zrodlowy": "15.2 Temperatura, równanie stanu gazu doskonałego 15.2.1 Zerowa zasada termodynamiki Potocznie temperaturę rozumiemy jako miarę ciepłoty układu."
   },
   {
    "plik": "k_202_3",
    "strona": 202,
+   "y": 1357,
    "modul": "M5",
    "w": 130,
-   "h": 45
+   "h": 45,
+   "rozdzial": "15.2.3 Równanie stanu gazu doskonałego",
+   "opis_zrodlowy": "15.2 Temperatura, równanie stanu gazu doskonałego 15.2.1 Zerowa zasada termodynamiki Potocznie temperaturę rozumiemy jako miarę ciepłoty układu."
   },
   {
    "plik": "k_202_4",
    "strona": 202,
+   "y": 1515,
    "modul": "M5",
    "w": 128,
-   "h": 46
+   "h": 46,
+   "rozdzial": "15.2.3 Równanie stanu gazu doskonałego",
+   "opis_zrodlowy": "15.2 Temperatura, równanie stanu gazu doskonałego 15.2.1 Zerowa zasada termodynamiki Potocznie temperaturę rozumiemy jako miarę ciepłoty układu."
   },
   {
    "plik": "k_204_1",
    "strona": 204,
+   "y": 398,
    "modul": "M5",
    "w": 172,
-   "h": 50
+   "h": 50,
+   "rozdzial": "15.2.4 Pomiar temperatury, skale temperatur",
+   "opis_zrodlowy": "Jednostki Jednostką temperatury bezwzględnej jest kelwin (K)."
   },
   {
    "plik": "k_205_1",
    "strona": 205,
+   "y": 398,
    "modul": "M5",
    "w": 155,
-   "h": 77
+   "h": 77,
+   "rozdzial": "15.3 Ekwipartycja energii",
+   "opis_zrodlowy": "Prawo, zasada, twierdzenie Średnia energia kinetyczna na każdy stopień swobody jest taka sama dla wszystkich cząsteczek."
   },
   {
    "plik": "k_205_2",
    "strona": 205,
+   "y": 746,
    "modul": "M5",
    "w": 128,
-   "h": 77
+   "h": 77,
+   "rozdzial": "15.3 Ekwipartycja energii",
+   "opis_zrodlowy": "Prawo, zasada, twierdzenie Średnia energia kinetyczna na każdy stopień swobody jest taka sama dla wszystkich cząsteczek."
   },
   {
    "plik": "k_205_3",
    "strona": 205,
+   "y": 936,
    "modul": "M5",
    "w": 463,
-   "h": 77
+   "h": 77,
+   "rozdzial": "15.3 Ekwipartycja energii",
+   "opis_zrodlowy": "Prawo, zasada, twierdzenie Średnia energia kinetyczna na każdy stopień swobody jest taka sama dla wszystkich cząsteczek."
   },
   {
    "plik": "k_205_4",
    "strona": 205,
+   "y": 1095,
    "modul": "M5",
    "w": 476,
-   "h": 77
+   "h": 77,
+   "rozdzial": "15.3 Ekwipartycja energii",
+   "opis_zrodlowy": "Prawo, zasada, twierdzenie Średnia energia kinetyczna na każdy stopień swobody jest taka sama dla wszystkich cząsteczek."
   },
   {
    "plik": "k_206_1",
    "strona": 206,
+   "y": 429,
    "modul": "M5",
    "w": 141,
-   "h": 84
+   "h": 84,
+   "rozdzial": "15.4 Pierwsza zasada termodynamiki",
+   "opis_zrodlowy": "temperaturach zetkniemy ze sobą to ciepło Q przepływa z ciała cieplejszego do chłodniejszego."
   },
   {
    "plik": "k_206_2",
    "strona": 206,
+   "y": 720,
    "modul": "M5",
    "w": 176,
-   "h": 45
+   "h": 45,
+   "rozdzial": "15.4 Pierwsza zasada termodynamiki",
+   "opis_zrodlowy": "temperaturach zetkniemy ze sobą to ciepło Q przepływa z ciała cieplejszego do chłodniejszego."
   },
   {
    "plik": "k_206_3",
    "strona": 206,
+   "y": 1348,
    "modul": "M5",
    "w": 302,
-   "h": 77
+   "h": 77,
+   "rozdzial": "15.4 Pierwsza zasada termodynamiki",
+   "opis_zrodlowy": "temperaturach zetkniemy ze sobą to ciepło Q przepływa z ciała cieplejszego do chłodniejszego."
   },
   {
    "plik": "k_206_4",
    "strona": 206,
+   "y": 1444,
    "modul": "M5",
    "w": 187,
-   "h": 46
+   "h": 46,
+   "rozdzial": "15.4 Pierwsza zasada termodynamiki",
+   "opis_zrodlowy": "temperaturach zetkniemy ze sobą to ciepło Q przepływa z ciała cieplejszego do chłodniejszego."
   },
   {
    "plik": "k_208_1",
    "strona": 208,
+   "y": 609,
    "modul": "M5",
    "w": 172,
-   "h": 84
+   "h": 84,
+   "rozdzial": "15.5.1 Ciepło właściwe przy stałej objętości",
+   "opis_zrodlowy": "15.5 Ciepło właściwe Definicja Ciepło właściwe substancji definiujemy jako dQ/dT czyli ilość ciepła, którą trzeba dostarczyć do jednostki masy, żeby spowodować jednostkową zmianę jej temperatury."
   },
   {
    "plik": "k_210_0",
    "strona": 210,
+   "y": 813,
    "modul": "M5",
    "w": 130,
-   "h": 50
+   "h": 50,
+   "rozdzial": "15.5.2 Ciepło właściwe przy stałym ciśnieniu",
+   "opis_zrodlowy": "Dzieje się tak dlatego, że w przemianie izobarycznej trzeba dostarczać ciepła nie tylko na zmianę energii wewnętrznej, związaną ze zmianą temperatury, ale i na wykonanie pracy związanej ze zmianą objętości podczas gdy w przemianie izochorycznej praca jest równa zeru."
   },
   {
    "plik": "k_211_0",
    "strona": 211,
+   "y": 513,
    "modul": "M5",
    "w": 649,
-   "h": 90
+   "h": 90,
+   "rozdzial": "15.6.1 Rozprężanie izotermiczne",
+   "opis_zrodlowy": "15.6 Rozprężanie izotermiczne i adiabatyczne Rozprężanie się gazu zamkniętego w cylindrze z ruchomym tłokiem zostało szeroko wykorzystane w konstrukcji silników."
   },
   {
    "plik": "k_211_1",
    "strona": 211,
+   "y": 1541,
    "modul": "M5",
    "w": 148,
-   "h": 50
+   "h": 50,
+   "rozdzial": "15.6.2 Rozprężanie adiabatyczne",
+   "opis_zrodlowy": "15.6 Rozprężanie izotermiczne i adiabatyczne Rozprężanie się gazu zamkniętego w cylindrze z ruchomym tłokiem zostało szeroko wykorzystane w konstrukcji silników."
   },
   {
    "plik": "k_214_0",
    "strona": 214,
+   "y": 470,
    "modul": "M5",
    "w": 145,
-   "h": 84
+   "h": 84,
+   "rozdzial": "16.1 Średnia droga swobodna",
+   "opis_zrodlowy": "Średnia droga swobodna jest równa całkowitej odległości przebywanej przez cząstkę podzielonej przez liczbę zderzeń (rysunek 16.1)."
   },
   {
    "plik": "k_215_0",
    "strona": 215,
+   "y": 242,
    "modul": "M5",
    "w": 329,
-   "h": 105
+   "h": 105,
+   "rozdzial": "16.2 Rozkład Maxwella prędkości cząsteczek",
+   "opis_zrodlowy": "Clerk Maxwell podał prawo rozkładu prędkości cząsteczek, które dla gazu zawierającego N cząsteczek ma postać Funkcja N(v) określa prawdopodobieństwo, że w temperaturze T, dN spośród wszystkich N cząsteczek ma prędkości zawarte w przedziale od v do v + dv; k jest stałą Boltzmana, a m masą cząsteczki."
   },
   {
    "plik": "k_216_0",
    "strona": 216,
+   "y": 1149,
    "modul": "M5",
    "w": 240,
-   "h": 84
+   "h": 84,
+   "rozdzial": "16.3 Równanie stanu Van der Waalsa",
+   "opis_zrodlowy": "Możesz prześledzić zależność rozkładu prędkości cząstek    gazu    od    korzystając z programu komputerowego „Rozkład Maxwella prędkości cząsteczek” dostępnego na stronie WWW autora i na stronie Open AGH."
   },
   {
    "plik": "k_219_0",
    "strona": 219,
+   "y": 1132,
    "modul": "M5",
    "w": 187,
-   "h": 84
+   "h": 84,
+   "rozdzial": "16.4.2 Cykl Carnota",
+   "opis_zrodlowy": "Wypadkowa ilość ciepła pobrana przez układ podczas jednego cyklu wynosi Q1 - Q2."
   },
   {
    "plik": "k_219_1",
    "strona": 219,
+   "y": 1329,
    "modul": "M5",
    "w": 177,
-   "h": 83
+   "h": 83,
+   "rozdzial": "16.4.2 Cykl Carnota",
+   "opis_zrodlowy": "Wypadkowa ilość ciepła pobrana przez układ podczas jednego cyklu wynosi Q1 - Q2."
   },
   {
    "plik": "k_221_1",
    "strona": 221,
+   "y": 507,
    "modul": "M5",
    "w": 99,
-   "h": 84
+   "h": 84,
+   "rozdzial": "16.5.1 Termodynamiczna skala temperatur",
+   "opis_zrodlowy": "Oznacza to, że żadna maszyna cieplna nie może mieć sprawności większej od sprawności silnika Carnota."
   },
   {
    "plik": "k_221_4",
    "strona": 221,
+   "y": 1316,
    "modul": "M5",
    "w": 113,
-   "h": 77
+   "h": 77,
+   "rozdzial": "16.5.2 Entropia",
+   "opis_zrodlowy": "Oznacza to, że żadna maszyna cieplna nie może mieć sprawności większej od sprawności silnika Carnota."
   },
   {
    "plik": "k_223_1",
    "strona": 223,
+   "y": 784,
    "modul": "M5",
    "w": 503,
-   "h": 41
+   "h": 41,
+   "rozdzial": "16.5.3 Entropia a nieuporządkowanie",
+   "opis_zrodlowy": "Ponieważ gaz się rozpręża to V2 > V1 więc również S2 > S1, czyli entropia rośnie."
   },
   {
    "plik": "k_225_0",
    "strona": 225,
+   "y": 1324,
    "modul": "M5",
    "w": 128,
-   "h": 84
+   "h": 84,
+   "rozdzial": "16.6.2 Zjawiska transportu",
+   "opis_zrodlowy": "Krzywe równowagi dla układu niejednorodnego."
   },
   {
    "plik": "k_238_3",
    "strona": 238,
+   "y": 1508,
    "modul": "M6",
    "w": 125,
-   "h": 77
+   "h": 77,
+   "rozdzial": "17.2 Prawo Coulomba",
+   "opis_zrodlowy": "17 Pole elektryczne Przechodzimy teraz do omówienia oddziaływania elektromagnetycznego."
   },
   {
    "plik": "k_241_1",
    "strona": 241,
+   "y": 494,
    "modul": "M6",
    "w": 89,
-   "h": 84
+   "h": 84,
+   "rozdzial": "17.3 Pole elektryczne",
+   "opis_zrodlowy": "Definicja Analogicznie definiujemy natężenie pola elektrycznego jako siłę działającą na ładunek próbny q (umieszczony w danym punkcie przestrzeni) podzieloną przez ten ładunek."
   },
   {
    "plik": "k_241_2",
    "strona": 241,
+   "y": 912,
    "modul": "M6",
    "w": 323,
-   "h": 84
+   "h": 84,
+   "rozdzial": "17.3 Pole elektryczne",
+   "opis_zrodlowy": "Definicja Analogicznie definiujemy natężenie pola elektrycznego jako siłę działającą na ładunek próbny q (umieszczony w danym punkcie przestrzeni) podzieloną przez ten ładunek."
   },
   {
    "plik": "k_244_1",
    "strona": 244,
+   "y": 565,
    "modul": "M6",
    "w": 224,
-   "h": 46
+   "h": 46,
+   "rozdzial": "18.1 Strumień pola elektrycznego",
+   "opis_zrodlowy": "18 Prawo Gaussa 18.1 Strumień pola elektrycznego Z podanych w poprzednim paragrafie przykładów widać, że obliczanie pól elektrostatycznych metodą superpozycji może być skomplikowane matematycznie."
   },
   {
    "plik": "k_246_1",
    "strona": 246,
+   "y": 1074,
    "modul": "M6",
    "w": 596,
-   "h": 84
+   "h": 84,
+   "rozdzial": "18.2 Prawo Gaussa",
+   "opis_zrodlowy": "Więcej na ten temat możesz dowiedzieć się z Dodatku 2, na końcu modułu VI."
   },
   {
    "plik": "k_248_0",
    "strona": 248,
+   "y": 1406,
    "modul": "M6",
    "w": 210,
-   "h": 84
+   "h": 84,
+   "rozdzial": "18.3.2 Kuliste rozkłady ładunków - jednorodnie naładowana sfera",
+   "opis_zrodlowy": "Tak więc pokazaliśmy, że ładunek wewnątrz dowolnej zamkniętej powierzchni przewodnika musi być równy zeru; cały ładunek gromadzi się na powierzchni przewodnika."
   },
   {
    "plik": "k_249_0",
    "strona": 249,
+   "y": 1498,
    "modul": "M6",
    "w": 249,
-   "h": 84
+   "h": 84,
+   "rozdzial": "18.3.3 Kuliste rozkłady ładunków - jednorodnie naładowana kula",
+   "opis_zrodlowy": "18.3.3 Kuliste rozkłady ładunków - jednorodnie naładowana kula Jednorodnie w całej objętości możemy naładować jedynie kulę z izolatora bo w przewodniku cały ładunek gromadzi się na powierzchni."
   },
   {
    "plik": "k_251_0",
    "strona": 251,
+   "y": 438,
    "modul": "M6",
    "w": 125,
-   "h": 84
+   "h": 84,
+   "rozdzial": "18.4.1 Liniowy rozkład ładunków",
+   "opis_zrodlowy": "Ze względu na symetrię pole elektryczne E jest skierowane radialnie względem pręta, tzn."
   },
   {
    "plik": "k_251_1",
    "strona": 251,
+   "y": 940,
    "modul": "M6",
    "w": 100,
-   "h": 84
+   "h": 84,
+   "rozdzial": "18.4.1 Liniowy rozkład ładunków",
+   "opis_zrodlowy": "Ze względu na symetrię pole elektryczne E jest skierowane radialnie względem pręta, tzn."
   },
   {
    "plik": "k_252_0",
    "strona": 252,
+   "y": 678,
    "modul": "M6",
    "w": 100,
-   "h": 83
+   "h": 83,
+   "rozdzial": "18.4.2 Płaskie rozkłady ładunków",
+   "opis_zrodlowy": "Jednorodnie naładowana nieskończona płaszczyzna Ostatecznie więc W praktyce stosuje się, pokazany na rysunku 18.11, układ dwóch płaskich równoległych płyt naładowanych ładunkami jednakowej wielkości ale o przeciwnych znakach (kondensator płaski )."
   },
   {
    "plik": "k_253_0",
    "strona": 253,
+   "y": 1215,
    "modul": "M6",
    "w": 89,
-   "h": 83
+   "h": 83,
+   "rozdzial": "18.4.3 Powierzchnia przewodnika",
+   "opis_zrodlowy": "a w obszarze (III) Widzimy, że na zewnątrz układu pole jest równe zeru a pomiędzy płytami ma w każdym punkcie stałą wartość σ/ε0 ."
   },
   {
    "plik": "k_254_0",
    "strona": 254,
+   "y": 844,
    "modul": "M6",
    "w": 196,
-   "h": 75
+   "h": 75,
+   "rozdzial": "19.1 Energia potencjalna w polu elektrycznym",
+   "opis_zrodlowy": "Siły elektryczne są siłami zachowawczymi i wartość pracy nie zależy od wyboru drogi pomiędzy punktami A i B."
   },
   {
    "plik": "k_255_0",
    "strona": 255,
+   "y": 179,
    "modul": "M6",
    "w": 215,
-   "h": 85
+   "h": 85,
+   "rozdzial": "19.2 Potencjał elektryczny",
+   "opis_zrodlowy": "Jednostki Jednostką potencjału elektrycznego jest wolt (V); 1 V = 1 J/C."
   },
   {
    "plik": "k_255_2",
    "strona": 255,
+   "y": 471,
    "modul": "M6",
    "w": 129,
-   "h": 77
+   "h": 77,
+   "rozdzial": "19.2 Potencjał elektryczny",
+   "opis_zrodlowy": "Jednostki Jednostką potencjału elektrycznego jest wolt (V); 1 V = 1 J/C."
   },
   {
    "plik": "k_255_3",
    "strona": 255,
+   "y": 1375,
    "modul": "M6",
    "w": 325,
-   "h": 83
+   "h": 83,
+   "rozdzial": "19.2 Potencjał elektryczny",
+   "opis_zrodlowy": "Jednostki Jednostką potencjału elektrycznego jest wolt (V); 1 V = 1 J/C."
   },
   {
    "plik": "k_256_1",
    "strona": 256,
+   "y": 1256,
    "modul": "M6",
    "w": 358,
-   "h": 84
+   "h": 84,
+   "rozdzial": "19.2 Potencjał elektryczny",
+   "opis_zrodlowy": "rysujemy powierzchnie lub linie ekwipotencjalne , które przedstawiają w przestrzeni zbiory punktów o jednakowym potencjale."
   },
   {
    "plik": "k_261_1",
    "strona": 261,
+   "y": 966,
    "modul": "M6",
    "w": 101,
-   "h": 77
+   "h": 77,
+   "rozdzial": "20.1 Pojemność elektryczna",
+   "opis_zrodlowy": "20 Kondensatory i dielektryki 20.1 Pojemność elektryczna Układ dwóch przewodników, który może gromadzić ładunek elektryczny, przy przyłożonej różnicy potencjałów, nazywamy kondensatorem , a te przewodniki okładkami kondensatora."
   },
   {
    "plik": "k_261_2",
    "strona": 261,
+   "y": 1218,
    "modul": "M6",
    "w": 163,
-   "h": 77
+   "h": 77,
+   "rozdzial": "20.1 Pojemność elektryczna",
+   "opis_zrodlowy": "20 Kondensatory i dielektryki 20.1 Pojemność elektryczna Układ dwóch przewodników, który może gromadzić ładunek elektryczny, przy przyłożonej różnicy potencjałów, nazywamy kondensatorem , a te przewodniki okładkami kondensatora."
   },
   {
    "plik": "k_262_1",
    "strona": 262,
+   "y": 1259,
    "modul": "M6",
    "w": 85,
-   "h": 77
+   "h": 77,
+   "rozdzial": "20.1 Pojemność elektryczna",
+   "opis_zrodlowy": "Ćwiczenie 20.1 Żeby przekonać się, że farad jest dużą jednostką oblicz pojemność próżniowego kondensatora płaskiego, którego okładki o powierzchni 1 cm2 są umieszczone w odległości 1 mm od siebie."
   },
   {
    "plik": "k_263_0",
    "strona": 263,
+   "y": 525,
    "modul": "M6",
    "w": 345,
-   "h": 85
+   "h": 85,
+   "rozdzial": "20.2 Energia pola elektrycznego",
+   "opis_zrodlowy": "a okładka na którą je przenosimy ujemnie."
   },
   {
    "plik": "k_263_1",
    "strona": 263,
+   "y": 1325,
    "modul": "M6",
    "w": 185,
-   "h": 77
+   "h": 77,
+   "rozdzial": "20.2 Energia pola elektrycznego",
+   "opis_zrodlowy": "a okładka na którą je przenosimy ujemnie."
   },
   {
    "plik": "k_264_0",
    "strona": 264,
+   "y": 288,
    "modul": "M6",
    "w": 91,
-   "h": 77
+   "h": 77,
+   "rozdzial": "20.3 Kondensator z dielektrykiem",
+   "opis_zrodlowy": "20.3 Kondensator z dielektrykiem Doświadczenie pokazuje, że umieszczenie dielektryka       (izolatora) pomiędzy okładkami kondensatora zwiększa jego pojemność εr razy C Wielkość εr nazywamy względną przenikalnością elektryczną        lub stałą dielektryczną ."
   },
   {
    "plik": "k_266_0",
    "strona": 266,
+   "y": 903,
    "modul": "M6",
    "w": 179,
-   "h": 84
+   "h": 84,
+   "rozdzial": "20.3 Kondensator z dielektrykiem",
+   "opis_zrodlowy": "Zastosujemy teraz prawo Gaussa do kondensatora wypełnionego dielektrykiem."
   },
   {
    "plik": "k_266_2",
    "strona": 266,
+   "y": 1319,
    "modul": "M6",
    "w": 155,
-   "h": 83
+   "h": 83,
+   "rozdzial": "20.3 Kondensator z dielektrykiem",
+   "opis_zrodlowy": "Zastosujemy teraz prawo Gaussa do kondensatora wypełnionego dielektrykiem."
   },
   {
    "plik": "k_273_0",
    "strona": 273,
+   "y": 210,
    "modul": "M6",
    "w": 164,
-   "h": 84
+   "h": 84,
+   "rozdzial": "20.3 Kondensator z dielektrykiem",
+   "opis_zrodlowy": "Zatem, indukowany moment dipolowy jest równy k Moment p zgodnie z oczekiwaniami jest proporcjonalny do natężenia zewnętrznego pola elektrycznego E."
   },
   {
    "plik": "k_274_0",
    "strona": 274,
+   "y": 342,
    "modul": "M6",
    "w": 160,
-   "h": 50
+   "h": 50,
+   "rozdzial": "20.3 Kondensator z dielektrykiem",
+   "opis_zrodlowy": "Zatem, indukowany moment dipolowy jest równy k Moment p zgodnie z oczekiwaniami jest proporcjonalny do natężenia zewnętrznego pola elektrycznego E."
   },
   {
    "plik": "k_282_1",
    "strona": 282,
+   "y": 1541,
    "modul": "M7",
    "w": 72,
-   "h": 72
+   "h": 72,
+   "rozdzial": "21.1 Natężenie prądu elektrycznego",
+   "opis_zrodlowy": "21 Prąd elektryczny 21.1 Natężenie prądu elektrycznego W module 6 zajmowaliśmy się zagadnieniami z elektrostatyki - rozpatrywaliśmy ładunki elektryczne w spoczynku."
   },
   {
    "plik": "k_283_2",
    "strona": 283,
+   "y": 694,
    "modul": "M7",
    "w": 77,
-   "h": 77
+   "h": 77,
+   "rozdzial": "21.1 Natężenie prądu elektrycznego",
+   "opis_zrodlowy": "Jednostki W układzie SI jednostką ładunku jest kulomb (C)."
   },
   {
    "plik": "k_283_3",
    "strona": 283,
+   "y": 1447,
    "modul": "M7",
    "w": 216,
-   "h": 77
+   "h": 77,
+   "rozdzial": "21.1 Natężenie prądu elektrycznego",
+   "opis_zrodlowy": "Jednostki W układzie SI jednostką ładunku jest kulomb (C)."
   },
   {
    "plik": "k_285_0",
    "strona": 285,
+   "y": 210,
    "modul": "M7",
    "w": 148,
-   "h": 77
+   "h": 77,
+   "rozdzial": "21.2 Prawo Ohma",
+   "opis_zrodlowy": "Ten iloraz nazywamy oporem elektrycznym      ."
   },
   {
    "plik": "k_285_3",
    "strona": 285,
+   "y": 747,
    "modul": "M7",
    "w": 100,
-   "h": 77
+   "h": 77,
+   "rozdzial": "21.2 Prawo Ohma",
+   "opis_zrodlowy": "Ten iloraz nazywamy oporem elektrycznym      ."
   },
   {
    "plik": "k_286_0",
    "strona": 286,
+   "y": 816,
    "modul": "M7",
    "w": 96,
-   "h": 45
+   "h": 45,
+   "rozdzial": "21.2 Prawo Ohma",
+   "opis_zrodlowy": "w temperaturze pokojowej wynosi 1.7·10-8 Ωm."
   },
   {
    "plik": "k_288_0",
    "strona": 288,
+   "y": 1527,
    "modul": "M7",
    "w": 89,
-   "h": 43
+   "h": 43,
+   "rozdzial": "21.3 Praca i moc prądu, straty cieplne",
+   "opis_zrodlowy": "Ćwiczenie 21.2 Podobnie jak kondensatory również oporniki są częścią składową prawie wszystkich układów elektronicznych."
   },
   {
    "plik": "k_289_0",
    "strona": 289,
+   "y": 964,
    "modul": "M7",
    "w": 245,
-   "h": 83
+   "h": 83,
+   "rozdzial": "21.3.1 Straty cieplne",
+   "opis_zrodlowy": "Prąd I z baterii płynie przez odbiornik energii elektrycznej Energia potencjalna ładunku przepływającego przez odbiornik maleje bo potencjał punktu A (połączonego z dodatnim biegunem baterii) jest wyższy niż punktu B (połączonego z ujemnym biegunem baterii)."
   },
   {
    "plik": "k_290_0",
    "strona": 290,
+   "y": 500,
    "modul": "M7",
    "w": 100,
-   "h": 84
+   "h": 84,
+   "rozdzial": "21.4.1 Siła elektromotoryczna, prawo Ohma dla obwodu zamkniętego",
+   "opis_zrodlowy": "21.4 Obwody prądu stałego 21.4.1 Siła elektromotoryczna, prawo Ohma dla obwodu zamkniętego Aby w obwodzie elektrycznym utrzymać prąd potrzebujemy źródła energii elektrycznej."
   },
   {
    "plik": "k_290_2",
    "strona": 290,
+   "y": 920,
    "modul": "M7",
    "w": 141,
-   "h": 50
+   "h": 50,
+   "rozdzial": "21.4.1 Siła elektromotoryczna, prawo Ohma dla obwodu zamkniętego",
+   "opis_zrodlowy": "21.4 Obwody prądu stałego 21.4.1 Siła elektromotoryczna, prawo Ohma dla obwodu zamkniętego Aby w obwodzie elektrycznym utrzymać prąd potrzebujemy źródła energii elektrycznej."
   },
   {
    "plik": "k_291_0",
    "strona": 291,
+   "y": 666,
    "modul": "M7",
    "w": 522,
-   "h": 50
+   "h": 50,
+   "rozdzial": "21.4.2 Prawa Kirchoffa",
+   "opis_zrodlowy": "Obwód zamknięty zawierający źródło SEM i odbiornik mocy Zgodnie z prawem Ohma Uz = IRz więc Prawo, zasada, twierdzenie Wzór (21.21) wyraża prawo Ohma dla obwodu zamkniętego."
   },
   {
    "plik": "k_291_2",
    "strona": 291,
+   "y": 1117,
    "modul": "M7",
    "w": 96,
-   "h": 72
+   "h": 72,
+   "rozdzial": "21.4.2 Prawa Kirchoffa",
+   "opis_zrodlowy": "Obwód zamknięty zawierający źródło SEM i odbiornik mocy Zgodnie z prawem Ohma Uz = IRz więc Prawo, zasada, twierdzenie Wzór (21.21) wyraża prawo Ohma dla obwodu zamkniętego."
   },
   {
    "plik": "k_291_4",
    "strona": 291,
+   "y": 1365,
    "modul": "M7",
    "w": 179,
-   "h": 72
+   "h": 72,
+   "rozdzial": "21.4.2 Prawa Kirchoffa",
+   "opis_zrodlowy": "Obwód zamknięty zawierający źródło SEM i odbiornik mocy Zgodnie z prawem Ohma Uz = IRz więc Prawo, zasada, twierdzenie Wzór (21.21) wyraża prawo Ohma dla obwodu zamkniętego."
   },
   {
    "plik": "k_295_0",
    "strona": 295,
+   "y": 1249,
    "modul": "M7",
    "w": 515,
-   "h": 46
+   "h": 46,
+   "rozdzial": "22.1 Siła magnetyczna",
+   "opis_zrodlowy": "22 Pole magnetyczne 22.1 Siła magnetyczna W pobliżu przewodników z prądem elektrycznym i magnesów działają siły magnetyczne."
   },
   {
    "plik": "k_301_0",
    "strona": 301,
+   "y": 1103,
    "modul": "M7",
    "w": 99,
-   "h": 84
+   "h": 84,
+   "rozdzial": "22.3 Ruch naładowanych cząstek w polu magnetycznym",
+   "opis_zrodlowy": "sposób sterujemy wiązką elektronów, która przebiega (skanuje) cały ekran docierając do każdego punktu ekranu (piksela)."
   },
   {
    "plik": "k_303_0",
    "strona": 303,
+   "y": 210,
    "modul": "M7",
    "w": 128,
-   "h": 46
+   "h": 46,
+   "rozdzial": "22.4 Działanie pola magnetycznego na przewodnik z prądem",
+   "opis_zrodlowy": "lub w zapisie wektorowym Na rysunku poniżej zaznaczona jest siła działająca w polu magnetycznym na przewodnik, w którym płynie prąd o natężeniu I."
   },
   {
    "plik": "k_304_0",
    "strona": 304,
+   "y": 431,
    "modul": "M7",
    "w": 116,
-   "h": 51
+   "h": 51,
+   "rozdzial": "22.4.1 Obwód z prądem",
+   "opis_zrodlowy": "Rozpatrujemy siłę działającą na każdy z boków."
   },
   {
    "plik": "k_304_1",
    "strona": 304,
+   "y": 758,
    "modul": "M7",
    "w": 128,
-   "h": 45
+   "h": 45,
+   "rozdzial": "22.4.1 Obwód z prądem",
+   "opis_zrodlowy": "Rozpatrujemy siłę działającą na każdy z boków."
   },
   {
    "plik": "k_304_2",
    "strona": 304,
+   "y": 1016,
    "modul": "M7",
    "w": 485,
-   "h": 46
+   "h": 46,
+   "rozdzial": "22.4.2 Magnetyczny moment dipolowy",
+   "opis_zrodlowy": "Rozpatrujemy siłę działającą na każdy z boków."
   },
   {
    "plik": "k_304_3",
    "strona": 304,
+   "y": 1208,
    "modul": "M7",
    "w": 113,
-   "h": 46
+   "h": 46,
+   "rozdzial": "22.4.2 Magnetyczny moment dipolowy",
+   "opis_zrodlowy": "Rozpatrujemy siłę działającą na każdy z boków."
   },
   {
    "plik": "k_304_4",
    "strona": 304,
+   "y": 1554,
    "modul": "M7",
    "w": 250,
-   "h": 46
+   "h": 46,
+   "rozdzial": "22.4.2 Magnetyczny moment dipolowy",
+   "opis_zrodlowy": "Rozpatrujemy siłę działającą na każdy z boków."
   },
   {
    "plik": "k_305_0",
    "strona": 305,
+   "y": 1198,
    "modul": "M7",
    "w": 433,
-   "h": 84
+   "h": 84,
+   "rozdzial": "22.4.2 Magnetyczny moment dipolowy",
+   "opis_zrodlowy": "Widzimy, że energia osiąga minimum dla momentu dipolowego μ równoległego do zewnętrznego pola magnetycznego B, a maksimum gdy moment dipolowy jest skierowany przeciwnie do pola (rysunek 22.11)."
   },
   {
    "plik": "k_306_0",
    "strona": 306,
+   "y": 1486,
    "modul": "M7",
    "w": 116,
-   "h": 50
+   "h": 50,
+   "rozdzial": "22.5 Efekt Halla",
+   "opis_zrodlowy": "magnetycznym, prostopadłym do kierunku przepływu prądu."
   },
   {
    "plik": "k_307_0",
    "strona": 307,
+   "y": 369,
    "modul": "M7",
    "w": 105,
-   "h": 84
+   "h": 84,
+   "rozdzial": "22.5 Efekt Halla",
+   "opis_zrodlowy": "neS ne zatem koncentracja nośników jB eEH Możemy znając EH, B oraz gęstość prądu wyznaczyć koncentrację nośników n."
   },
   {
    "plik": "k_309_0",
    "strona": 309,
+   "y": 210,
    "modul": "M7",
    "w": 521,
-   "h": 58
+   "h": 58,
+   "rozdzial": "23.1.2 Prawo Ampère'a",
+   "opis_zrodlowy": "Prawo, zasada, twierdzenie Pokazaliśmy, że linie pole magnetycznego wokół przewodnika z prądem stanowią zamknięte okręgi."
   },
   {
    "plik": "k_309_1",
    "strona": 309,
+   "y": 1277,
    "modul": "M7",
    "w": 172,
-   "h": 58
+   "h": 58,
+   "rozdzial": "23.1.2 Prawo Ampère'a",
+   "opis_zrodlowy": "Prawo, zasada, twierdzenie Pokazaliśmy, że linie pole magnetycznego wokół przewodnika z prądem stanowią zamknięte okręgi."
   },
   {
    "plik": "k_310_0",
    "strona": 310,
+   "y": 830,
    "modul": "M7",
    "w": 100,
-   "h": 77
+   "h": 77,
+   "rozdzial": "23.1.3 Przykład - prostoliniowy przewodnik",
+   "opis_zrodlowy": "Kontur kołowy o promieniu r wokół przewodnika z prądem Wówczas na podstawie prawa Ampère'a skąd 2πr W ten sposób obliczyliśmy pole B na zewnątrz przewodnika."
   },
   {
    "plik": "k_310_1",
    "strona": 310,
+   "y": 1406,
    "modul": "M7",
    "w": 120,
-   "h": 77
+   "h": 77,
+   "rozdzial": "23.1.3 Przykład - prostoliniowy przewodnik",
+   "opis_zrodlowy": "Kontur kołowy o promieniu r wokół przewodnika z prądem Wówczas na podstawie prawa Ampère'a skąd 2πr W ten sposób obliczyliśmy pole B na zewnątrz przewodnika."
   },
   {
    "plik": "k_312_0",
    "strona": 312,
+   "y": 789,
    "modul": "M7",
    "w": 113,
-   "h": 50
+   "h": 50,
+   "rozdzial": "23.1.4 Przykład - cewka (solenoid)",
+   "opis_zrodlowy": "Całka druga i czwarta są równe zeru bo wektor B jest prostopadły do elementu konturu dl (iloczyn skalarny wektorów prostopadłych jest równy zeru)."
   },
   {
    "plik": "k_313_0",
    "strona": 313,
+   "y": 431,
    "modul": "M7",
    "w": 224,
-   "h": 84
+   "h": 84,
+   "rozdzial": "23.2 Oddziaływanie równoległych przewodników z prądem",
+   "opis_zrodlowy": "Przewodnik a wytwarza w swoim otoczeniu w odległości d pole magnetyczne, które zgodnie ze wzorem (23.5) wynosi 2πd W tym polu znajduje się przewodnik b, w którym płynie prąd Ib."
   },
   {
    "plik": "k_313_2",
    "strona": 313,
+   "y": 1416,
    "modul": "M7",
    "w": 532,
-   "h": 77
+   "h": 77,
+   "rozdzial": "23.3 Prawo Biota-Savarta",
+   "opis_zrodlowy": "Przewodnik a wytwarza w swoim otoczeniu w odległości d pole magnetyczne, które zgodnie ze wzorem (23.5) wynosi 2πd W tym polu znajduje się przewodnik b, w którym płynie prąd Ib."
   },
   {
    "plik": "k_333_0",
    "strona": 333,
+   "y": 590,
    "modul": "M8",
    "w": 113,
-   "h": 84
+   "h": 84,
+   "rozdzial": "24.3.1 Transformator",
+   "opis_zrodlowy": "Jedna z tych cewek jest zasilana prądem przemiennym wytwarzającym w niej zmienne pole magnetyczne, które z kolei wywołuje SEM indukcji w drugiej cewce."
   },
   {
    "plik": "k_334_1",
    "strona": 334,
+   "y": 434,
    "modul": "M8",
    "w": 138,
-   "h": 77
+   "h": 77,
+   "rozdzial": "24.3.2 Indukcyjność własna",
+   "opis_zrodlowy": "Prawo, zasada, twierdzenie Gdy natężenie prądu przepływającego przez obwód zmienia się to zmienia się też, wytworzony przez ten prąd, strumień pola magnetycznego przenikający obwód, więc zgodnie z prawem indukcji Faradaya indukuje się w obwodzie SEM."
   },
   {
    "plik": "k_334_2",
    "strona": 334,
+   "y": 1169,
    "modul": "M8",
    "w": 122,
-   "h": 77
+   "h": 77,
+   "rozdzial": "24.3.2 Indukcyjność własna",
+   "opis_zrodlowy": "Prawo, zasada, twierdzenie Gdy natężenie prądu przepływającego przez obwód zmienia się to zmienia się też, wytworzony przez ten prąd, strumień pola magnetycznego przenikający obwód, więc zgodnie z prawem indukcji Faradaya indukuje się w obwodzie SEM."
   },
   {
    "plik": "k_335_0",
    "strona": 335,
+   "y": 496,
    "modul": "M8",
    "w": 138,
-   "h": 78
+   "h": 78,
+   "rozdzial": "24.3.2 Indukcyjność własna",
+   "opis_zrodlowy": "N l Zatem, strumień pola magnetycznego jest równy NS l Indukcyjność L obliczamy podstawiając to wyrażenie do wzoru (24.14) l Zauważmy, że indukcyjność L podobnie jak pojemność C zależy tylko od geometrii układu."
   },
   {
    "plik": "k_336_0",
    "strona": 336,
+   "y": 273,
    "modul": "M8",
    "w": 302,
-   "h": 78
+   "h": 78,
+   "rozdzial": "24.4 Energia pola magnetycznego",
+   "opis_zrodlowy": "Energię tę (pobraną ze źródła SEM) ładunek przekazuje cewce więc energia cewki wzrasta o dW."
   },
   {
    "plik": "k_338_0",
    "strona": 338,
+   "y": 470,
    "modul": "M8",
    "w": 152,
-   "h": 78
+   "h": 78,
+   "rozdzial": "25.1 Drgania w obwodzie LC",
+   "opis_zrodlowy": "Do opisu ilościowego tych drgań skorzystamy z prawa Kirchhoffa, zgodnie z którym gdzie UL i UC są napięciami odpowiednio na cewce i kondensatorze."
   },
   {
    "plik": "k_338_1",
    "strona": 338,
+   "y": 848,
    "modul": "M8",
    "w": 153,
-   "h": 50
+   "h": 50,
+   "rozdzial": "25.1 Drgania w obwodzie LC",
+   "opis_zrodlowy": "Do opisu ilościowego tych drgań skorzystamy z prawa Kirchhoffa, zgodnie z którym gdzie UL i UC są napięciami odpowiednio na cewce i kondensatorze."
   },
   {
    "plik": "k_338_2",
    "strona": 338,
+   "y": 917,
    "modul": "M8",
    "w": 326,
-   "h": 84
+   "h": 84,
+   "rozdzial": "25.1 Drgania w obwodzie LC",
+   "opis_zrodlowy": "Do opisu ilościowego tych drgań skorzystamy z prawa Kirchhoffa, zgodnie z którym gdzie UL i UC są napięciami odpowiednio na cewce i kondensatorze."
   },
   {
    "plik": "k_338_3",
    "strona": 338,
+   "y": 1083,
    "modul": "M8",
    "w": 120,
-   "h": 78
+   "h": 78,
+   "rozdzial": "25.1 Drgania w obwodzie LC",
+   "opis_zrodlowy": "Do opisu ilościowego tych drgań skorzystamy z prawa Kirchhoffa, zgodnie z którym gdzie UL i UC są napięciami odpowiednio na cewce i kondensatorze."
   },
   {
    "plik": "k_340_0",
    "strona": 340,
+   "y": 861,
    "modul": "M8",
    "w": 278,
-   "h": 77
+   "h": 77,
+   "rozdzial": "25.2 Obwód szeregowy RLC",
+   "opis_zrodlowy": "Drgania w obwodzie RLC można podtrzymać jeżeli obwód będziemy zasilać zmienną SEM ze źródła zewnętrznego włączonego do obwodu na przykład tak jak pokazano na Rys."
   },
   {
    "plik": "k_340_1",
    "strona": 340,
+   "y": 1455,
    "modul": "M8",
    "w": 191,
-   "h": 50
+   "h": 50,
+   "rozdzial": "25.2 Obwód szeregowy RLC",
+   "opis_zrodlowy": "Drgania w obwodzie RLC można podtrzymać jeżeli obwód będziemy zasilać zmienną SEM ze źródła zewnętrznego włączonego do obwodu na przykład tak jak pokazano na Rys."
   },
   {
    "plik": "k_341_0",
    "strona": 341,
+   "y": 179,
    "modul": "M8",
    "w": 179,
-   "h": 113
+   "h": 113,
+   "rozdzial": "25.2 Obwód szeregowy RLC",
+   "opis_zrodlowy": "R a amplituda prądu I0 wynosi Zauważmy, że to wyrażenie ma postać (prawa Ohma) przy czym stała proporcjonalności pomiędzy U0 i I0 pełni analogiczną rolę jak opór R w prawie Ohma."
   },
   {
    "plik": "k_341_1",
    "strona": 341,
+   "y": 374,
    "modul": "M8",
    "w": 265,
-   "h": 131
+   "h": 131,
+   "rozdzial": "25.2 Obwód szeregowy RLC",
+   "opis_zrodlowy": "R a amplituda prądu I0 wynosi Zauważmy, że to wyrażenie ma postać (prawa Ohma) przy czym stała proporcjonalności pomiędzy U0 i I0 pełni analogiczną rolę jak opór R w prawie Ohma."
   },
   {
    "plik": "k_341_2",
    "strona": 341,
+   "y": 618,
    "modul": "M8",
    "w": 258,
-   "h": 105
+   "h": 105,
+   "rozdzial": "25.2 Obwód szeregowy RLC",
+   "opis_zrodlowy": "R a amplituda prądu I0 wynosi Zauważmy, że to wyrażenie ma postać (prawa Ohma) przy czym stała proporcjonalności pomiędzy U0 i I0 pełni analogiczną rolę jak opór R w prawie Ohma."
   },
   {
    "plik": "k_341_3",
    "strona": 341,
+   "y": 901,
    "modul": "M8",
    "w": 161,
-   "h": 84
+   "h": 84,
+   "rozdzial": "25.2 Obwód szeregowy RLC",
+   "opis_zrodlowy": "R a amplituda prądu I0 wynosi Zauważmy, że to wyrażenie ma postać (prawa Ohma) przy czym stała proporcjonalności pomiędzy U0 i I0 pełni analogiczną rolę jak opór R w prawie Ohma."
   },
   {
    "plik": "k_341_4",
    "strona": 341,
+   "y": 1163,
    "modul": "M8",
    "w": 152,
-   "h": 50
+   "h": 50,
+   "rozdzial": "25.2 Obwód szeregowy RLC",
+   "opis_zrodlowy": "R a amplituda prądu I0 wynosi Zauważmy, że to wyrażenie ma postać (prawa Ohma) przy czym stała proporcjonalności pomiędzy U0 i I0 pełni analogiczną rolę jak opór R w prawie Ohma."
   },
   {
    "plik": "k_345_0",
    "strona": 345,
+   "y": 812,
    "modul": "M8",
    "w": 164,
-   "h": 77
+   "h": 77,
+   "rozdzial": "25.4 Moc w obwodzie prądu zmiennego",
+   "opis_zrodlowy": "Zgodnie z naszymi obliczeniami moc w obwodzie RLC w dowolnej chwili t wynosi Korzystając ze wzoru na sinus różnicy kątów otrzymujemy gdzie ponadto skorzystaliśmy z relacji sin  t cos  t  sin 2 t 2 ."
   },
   {
    "plik": "k_345_1",
    "strona": 345,
+   "y": 1067,
    "modul": "M8",
    "w": 358,
-   "h": 89
+   "h": 89,
+   "rozdzial": "25.4 Moc w obwodzie prądu zmiennego",
+   "opis_zrodlowy": "Zgodnie z naszymi obliczeniami moc w obwodzie RLC w dowolnej chwili t wynosi Korzystając ze wzoru na sinus różnicy kątów otrzymujemy gdzie ponadto skorzystaliśmy z relacji sin  t cos  t  sin 2 t 2 ."
   },
   {
    "plik": "k_347_0",
    "strona": 347,
+   "y": 1435,
    "modul": "M8",
    "w": 512,
-   "h": 75
+   "h": 75,
+   "rozdzial": "26.1 Prawo Gaussa dla pola magnetycznego",
+   "opis_zrodlowy": "Linie pola magnetycznego są zawsze liniami zamkniętymi podczas gdy linie pola elektrycznego zaczynają się i kończą na ładunkach."
   },
   {
    "plik": "k_349_0",
    "strona": 349,
+   "y": 793,
    "modul": "M8",
    "w": 225,
-   "h": 76
+   "h": 76,
+   "rozdzial": "26.2 Indukowane wirowe pole elektryczne",
+   "opis_zrodlowy": "Linie indukowanego pola elektrycznego mają kształt koncentrycznych okręgów (zamkniętych linii) co w zasadniczy sposób różni je od linii pola E związanego z ładunkami, które nie mogą być liniami zamkniętymi bo zawsze zaczynają się na ładunkach dodatnich i kończą na ujemnych."
   },
   {
    "plik": "k_350_0",
    "strona": 350,
+   "y": 786,
    "modul": "M8",
    "w": 264,
-   "h": 77
+   "h": 77,
+   "rozdzial": "26.3 Indukowane pole magnetyczne",
+   "opis_zrodlowy": "Pole magnetyczne B wytworzone przez zmienne pole elektryczne E pomiędzy okładkami kondensatora Tak więc pole magnetyczne może być wytwarzane zarówno przez przepływ prądu (prawo Ampère'a) jak i przez zmienne pole elektryczne."
   },
   {
    "plik": "k_352_0",
    "strona": 352,
+   "y": 1297,
    "modul": "M8",
    "w": 288,
-   "h": 89
+   "h": 89,
+   "rozdzial": "27.1 Widmo fal elektromagnetycznych",
+   "opis_zrodlowy": "27 Fale elektromagnetyczne 27.1 Widmo fal elektromagnetycznych Maxwell nie tylko połączył w jedną całość podstawowe równania opisujące zjawiska elektromagnetyczne, ale wyciągnął z tych równań szereg wniosków o znaczeniu fundamentalnym."
   },
   {
    "plik": "k_352_1",
    "strona": 352,
+   "y": 1531,
    "modul": "M8",
    "w": 85,
-   "h": 83
+   "h": 83,
+   "rozdzial": "27.1 Widmo fal elektromagnetycznych",
+   "opis_zrodlowy": "27 Fale elektromagnetyczne 27.1 Widmo fal elektromagnetycznych Maxwell nie tylko połączył w jedną całość podstawowe równania opisujące zjawiska elektromagnetyczne, ale wyciągnął z tych równań szereg wniosków o znaczeniu fundamentalnym."
   },
   {
    "plik": "k_353_0",
    "strona": 353,
+   "y": 1488,
    "modul": "M8",
    "w": 183,
-   "h": 89
+   "h": 89,
+   "rozdzial": "27.2 Równanie falowe",
+   "opis_zrodlowy": "Znany nam obecnie zakres widma fal elektromagnetycznych przedstawia rysunek 27.2."
   },
   {
    "plik": "k_354_0",
    "strona": 354,
+   "y": 210,
    "modul": "M8",
    "w": 186,
-   "h": 89
+   "h": 89,
+   "rozdzial": "27.2 Równanie falowe",
+   "opis_zrodlowy": "Oczywiście pole elektryczne E spełnia takie samo równanie Pola E i B są do siebie prostopadłe."
   },
   {
    "plik": "k_356_0",
    "strona": 356,
+   "y": 1181,
    "modul": "M8",
    "w": 152,
-   "h": 84
+   "h": 84,
+   "rozdzial": "27.4 Wektor Poyntinga",
+   "opis_zrodlowy": "Fala elektromagnetyczna emitowana przez drgający dipol elektryczny Zwróćmy uwagę na jeszcze jedną bardzo istotną cechę fal elektromagnetycznych."
   },
   {
    "plik": "k_376_2",
    "strona": 376,
+   "y": 1140,
    "modul": "M9",
    "w": 179,
-   "h": 84
+   "h": 84,
+   "rozdzial": "28.2.2 Prawo odbicia i prawo załamania",
+   "opis_zrodlowy": "lub gdzie skorzystaliśmy z definicji bezwzględnego współczynnika załamania n  c v ."
   },
   {
    "plik": "k_376_3",
    "strona": 376,
+   "y": 1306,
    "modul": "M9",
    "w": 179,
-   "h": 83
+   "h": 83,
+   "rozdzial": "28.2.2 Prawo odbicia i prawo załamania",
+   "opis_zrodlowy": "lub gdzie skorzystaliśmy z definicji bezwzględnego współczynnika załamania n  c v ."
   },
   {
    "plik": "k_379_0",
    "strona": 379,
+   "y": 974,
    "modul": "M9",
    "w": 255,
-   "h": 90
+   "h": 90,
+   "rozdzial": "28.2.3 Soczewki",
+   "opis_zrodlowy": "Promień ten po przejściu przez soczewkę przechodzi przez ognisko F."
   },
   {
    "plik": "k_380_0",
    "strona": 380,
+   "y": 242,
    "modul": "M9",
    "w": 125,
-   "h": 78
+   "h": 78,
+   "rozdzial": "28.2.3 Soczewki",
+   "opis_zrodlowy": "Odległość x przedmiotu od soczewki i odległość y obrazu od soczewki (rysunek 28.3) są powiązane równaniem dla cienkich soczewek x y f a powiększenie liniowe obrazu jest dane wyrażeniem Przyjmuje się umowę, że odległości obrazów pozornych od soczewki są ujemne."
   },
   {
    "plik": "k_380_1",
    "strona": 380,
+   "y": 401,
    "modul": "M9",
    "w": 138,
-   "h": 84
+   "h": 84,
+   "rozdzial": "28.2.3 Soczewki",
+   "opis_zrodlowy": "Odległość x przedmiotu od soczewki i odległość y obrazu od soczewki (rysunek 28.3) są powiązane równaniem dla cienkich soczewek x y f a powiększenie liniowe obrazu jest dane wyrażeniem Przyjmuje się umowę, że odległości obrazów pozornych od soczewki są ujemne."
   },
   {
    "plik": "k_385_0",
    "strona": 385,
+   "y": 282,
    "modul": "M9",
    "w": 463,
-   "h": 84
+   "h": 84,
+   "rozdzial": "29.1 Doświadczenie Younga",
+   "opis_zrodlowy": "czyli lub inaczej Możesz prześledzić wynik interferencji dwóch spójnych fal świetlnych powstałych w wyniku przejścia płaskiej fali świetlnej przez przesłonę z dwoma punktowymi szczelinami (doświadczenie Younga) korzystając z programu komputerowego „Interferencja” dostępnego na stronie WWW autora i na stronie Open AGH."
   },
   {
    "plik": "k_385_1",
    "strona": 385,
+   "y": 385,
    "modul": "M9",
    "w": 464,
-   "h": 77
+   "h": 77,
+   "rozdzial": "29.1 Doświadczenie Younga",
+   "opis_zrodlowy": "czyli lub inaczej Możesz prześledzić wynik interferencji dwóch spójnych fal świetlnych powstałych w wyniku przejścia płaskiej fali świetlnej przez przesłonę z dwoma punktowymi szczelinami (doświadczenie Younga) korzystając z programu komputerowego „Interferencja” dostępnego na stronie WWW autora i na stronie Open AGH."
   },
   {
    "plik": "k_388_0",
    "strona": 388,
+   "y": 582,
    "modul": "M9",
    "w": 278,
-   "h": 50
+   "h": 50,
+   "rozdzial": "29.3 Natężenie światła w doświadczeniu Younga",
+   "opis_zrodlowy": "gdzie β = φ/2 oraz Eθ = 2E0cosβ = Emcosβ."
   },
   {
    "plik": "k_390_0",
    "strona": 390,
+   "y": 460,
    "modul": "M9",
    "w": 89,
-   "h": 77
+   "h": 77,
+   "rozdzial": "29.4 Interferencja w cienkich warstwach",
+   "opis_zrodlowy": "przebiegają różne drogi gdyż jeden odbija się od górnej, a drugi od dolnej powierzchni błonki."
   },
   {
    "plik": "k_392_0",
    "strona": 392,
+   "y": 1569,
    "modul": "M9",
    "w": 392,
-   "h": 45
+   "h": 45,
+   "rozdzial": "30.2 Dyfrakcja na pojedynczej szczelinie",
+   "opis_zrodlowy": "30.2 Dyfrakcja na pojedynczej szczelinie Rozpatrzmy falę płaską padającą prostopadle na szczelinę tak jak na rysunku 30.2."
   },
   {
    "plik": "k_393_0",
    "strona": 393,
+   "y": 242,
    "modul": "M9",
    "w": 476,
-   "h": 76
+   "h": 76,
+   "rozdzial": "30.2 Dyfrakcja na pojedynczej szczelinie",
+   "opis_zrodlowy": "30.3 Natężenie światła w obrazie dyfrakcyjnym Chcemy teraz znaleźć wyrażenie na rozkład natężenia na całym ekranie w funkcji kąta θ."
   },
   {
    "plik": "k_394_0",
    "strona": 394,
+   "y": 1199,
    "modul": "M9",
    "w": 179,
-   "h": 89
+   "h": 89,
+   "rozdzial": "30.3 Natężenie światła w obrazie dyfrakcyjnym",
+   "opis_zrodlowy": "Łuk okręgu jest utworzony z wektorów amplitud fal pochodzących z N elementarnych źródeł w szczelinie."
   },
   {
    "plik": "k_395_0",
    "strona": 395,
+   "y": 210,
    "modul": "M9",
    "w": 186,
-   "h": 77
+   "h": 77,
+   "rozdzial": "30.3 Natężenie światła w obrazie dyfrakcyjnym",
+   "opis_zrodlowy": "otrzymujemy Łącząc równania (30.9) i (30.12) możemy obliczyć natężenie światła dla obrazu dyfrakcyjnego otrzymanego dla pojedynczej szczeliny."
   },
   {
    "plik": "k_395_1",
    "strona": 395,
+   "y": 431,
    "modul": "M9",
    "w": 266,
-   "h": 46
+   "h": 46,
+   "rozdzial": "30.3 Natężenie światła w obrazie dyfrakcyjnym",
+   "opis_zrodlowy": "otrzymujemy Łącząc równania (30.9) i (30.12) możemy obliczyć natężenie światła dla obrazu dyfrakcyjnego otrzymanego dla pojedynczej szczeliny."
   },
   {
    "plik": "k_395_2",
    "strona": 395,
+   "y": 621,
    "modul": "M9",
    "w": 330,
-   "h": 84
+   "h": 84,
+   "rozdzial": "30.3 Natężenie światła w obrazie dyfrakcyjnym",
+   "opis_zrodlowy": "otrzymujemy Łącząc równania (30.9) i (30.12) możemy obliczyć natężenie światła dla obrazu dyfrakcyjnego otrzymanego dla pojedynczej szczeliny."
   },
   {
    "plik": "k_396_0",
    "strona": 396,
+   "y": 1216,
    "modul": "M9",
    "w": 200,
-   "h": 52
+   "h": 52,
+   "rozdzial": "30.4 Interferencja i dyfrakcja na dwóch szczelinach",
+   "opis_zrodlowy": "Możesz prześledzić rozkład natężenia światła dla obrazu dyfrakcyjnego otrzymanego dla pojedynczej szczeliny."
   },
   {
    "plik": "k_397_0",
    "strona": 397,
+   "y": 400,
    "modul": "M9",
    "w": 264,
-   "h": 89
+   "h": 89,
+   "rozdzial": "30.4 Interferencja i dyfrakcja na dwóch szczelinach",
+   "opis_zrodlowy": "oraz πa gdzie a jest szerokością szczeliny."
   },
   {
    "plik": "k_399_0",
    "strona": 399,
+   "y": 1229,
    "modul": "M9",
    "w": 480,
-   "h": 45
+   "h": 45,
+   "rozdzial": "30.5 Interferencja fal z wielu źródeł, siatka dyfrakcyjna",
+   "opis_zrodlowy": "na małe natężenia światła nie można w sposób dokładny wyznaczyć położenia maksimów interferencyjnych."
   },
   {
    "plik": "k_402_0",
    "strona": 402,
+   "y": 1024,
    "modul": "M9",
    "w": 659,
-   "h": 49
+   "h": 49,
+   "rozdzial": "30.6 Dyfrakcja promieni Roentgena (promieni X)",
+   "opis_zrodlowy": "Ugięcie wiązki promieni X na krysztale Natężenia linii w obrazie dyfrakcyjnym zależą od geometrii pojedynczej szczeliny."
   },
   {
    "plik": "k_405_0",
    "strona": 405,
+   "y": 1160,
    "modul": "M9",
    "w": 517,
-   "h": 50
+   "h": 50,
+   "rozdzial": "31.2 Płytki polaryzujące",
+   "opis_zrodlowy": "Cząsteczki o strukturze łańcuchowej osadza się na elastycznej warstwie plastycznej, a następnie warstwę rozciąga się co powoduje równoległe ułożenie cząsteczek."
   },
   {
    "plik": "k_411_0",
    "strona": 411,
+   "y": 1503,
    "modul": "M9",
    "w": 90,
-   "h": 50
+   "h": 50,
+   "rozdzial": "31.4 Dwójłomność",
+   "opis_zrodlowy": "Promień wychodzący z punktu A po odbiciu w punkcie P trafia do punktu B Całkowita długość drogi promienia wynosi gdzie x jest zmienną zależną od położenia punktu P (punkt odbicia promienia)."
   },
   {
    "plik": "k_413_0",
    "strona": 413,
+   "y": 350,
    "modul": "M9",
    "w": 194,
-   "h": 50
+   "h": 50,
+   "rozdzial": "31.4 Dwójłomność",
+   "opis_zrodlowy": "Porównując ten wynik z rysunkiem 2 otrzymujemy co jest prawem załamania."
   },
   {
    "plik": "k_423_1",
    "strona": 423,
+   "y": 567,
    "modul": "M10",
    "w": 105,
-   "h": 50
+   "h": 50,
+   "rozdzial": "32.2 Ciało doskonale czarne",
+   "opis_zrodlowy": "promieniowanie, które może wyjść na zewnątrz przez otwór."
   },
   {
    "plik": "k_425_1",
    "strona": 425,
+   "y": 919,
    "modul": "M10",
    "w": 100,
-   "h": 46
+   "h": 46,
+   "rozdzial": "32.3.2 Teoria Plancka promieniowania ciała doskonale czarnego",
+   "opis_zrodlowy": "Wynik jaki uzyskali został pokazany linią przerywaną na rysunku 32.3."
   },
   {
    "plik": "k_425_2",
    "strona": 425,
+   "y": 1369,
    "modul": "M10",
    "w": 100,
-   "h": 43
+   "h": 43,
+   "rozdzial": "32.3.2 Teoria Plancka promieniowania ciała doskonale czarnego",
+   "opis_zrodlowy": "Wynik jaki uzyskali został pokazany linią przerywaną na rysunku 32.3."
   },
   {
    "plik": "k_429_0",
    "strona": 429,
+   "y": 369,
    "modul": "M10",
    "w": 132,
-   "h": 50
+   "h": 50,
+   "rozdzial": "32.4 Zjawisko fotoelektryczne zewnętrzne",
+   "opis_zrodlowy": "Ponadto zauważmy, że nie wszystkie elektrony mają jednakowo dużą energię kinetyczną bo tylko część z nich dolatuje do elektrody B; przy U = 0 prąd jest mniejszy od maksymalnego."
   },
   {
    "plik": "k_430_0",
    "strona": 430,
+   "y": 835,
    "modul": "M10",
    "w": 89,
-   "h": 43
+   "h": 43,
+   "rozdzial": "32.4.1 Kwantowa teoria Einsteina zjawiska fotoelektrycznego",
+   "opis_zrodlowy": "   Ponieważ energia w fali jest „rozłożona” w całej przestrzeni to elektron absorbuje tylko niewielką część energii z wiązki (bo jest bardzo mały)."
   },
   {
    "plik": "k_430_2",
    "strona": 430,
+   "y": 1160,
    "modul": "M10",
    "w": 162,
-   "h": 50
+   "h": 50,
+   "rozdzial": "32.4.1 Kwantowa teoria Einsteina zjawiska fotoelektrycznego",
+   "opis_zrodlowy": "   Ponieważ energia w fali jest „rozłożona” w całej przestrzeni to elektron absorbuje tylko niewielką część energii z wiązki (bo jest bardzo mały)."
   },
   {
    "plik": "k_431_0",
    "strona": 431,
+   "y": 398,
    "modul": "M10",
    "w": 152,
-   "h": 77
+   "h": 77,
+   "rozdzial": "32.4.1 Kwantowa teoria Einsteina zjawiska fotoelektrycznego",
+   "opis_zrodlowy": "   Jeżeli mamy taką częstotliwość ν0, że hν0 = W to wtedy Ekmax = 0."
   },
   {
    "plik": "k_433_0",
    "strona": 433,
+   "y": 1309,
    "modul": "M10",
    "w": 302,
-   "h": 84
+   "h": 84,
+   "rozdzial": "32.5 Efekt Comptona",
+   "opis_zrodlowy": "Widać, że chociaż wiązka padająca na grafit ma jedną długość fali to w promieniowaniu rozproszonym występują dwie długości fal."
   },
   {
    "plik": "k_438_0",
    "strona": 438,
+   "y": 210,
    "modul": "M10",
    "w": 133,
-   "h": 78
+   "h": 78,
+   "rozdzial": "33.3 Model Bohra atomu wodoru",
+   "opis_zrodlowy": "Częstotliwość emitowanego promieniowania jest równa: h Natomiast hν jest energią fotonu, który zostaje w trakcie przejścia wypromieniowany przez atom."
   },
   {
    "plik": "k_439_0",
    "strona": 439,
+   "y": 210,
    "modul": "M10",
    "w": 247,
-   "h": 90
+   "h": 90,
+   "rozdzial": "33.3 Model Bohra atomu wodoru",
+   "opis_zrodlowy": "Bohr poszukiwał zasady, która dopuszczałaby tylko pewne promienie orbit, czyli tylko pewne wartości energii elektronów i wysunął hipotezę, według której najprostszą jest kwantyzacja parametrów orbity i która mówiła, że moment pędu elektronu musi być całkowitą wielokrotnością stałej Plancka podzielonej przez 2π."
   },
   {
    "plik": "k_439_1",
    "strona": 439,
+   "y": 1383,
    "modul": "M10",
    "w": 258,
-   "h": 77
+   "h": 77,
+   "rozdzial": "33.3 Model Bohra atomu wodoru",
+   "opis_zrodlowy": "Bohr poszukiwał zasady, która dopuszczałaby tylko pewne promienie orbit, czyli tylko pewne wartości energii elektronów i wysunął hipotezę, według której najprostszą jest kwantyzacja parametrów orbity i która mówiła, że moment pędu elektronu musi być całkowitą wielokrotnością stałej Plancka podzielonej przez 2π."
   },
   {
    "plik": "k_440_0",
    "strona": 440,
+   "y": 464,
    "modul": "M10",
    "w": 350,
-   "h": 89
+   "h": 89,
+   "rozdzial": "33.3 Model Bohra atomu wodoru",
+   "opis_zrodlowy": "  Promieniowanie elektromagnetyczne zostaje tylko wysłane gdy elektron poruszający się po orbicie o całkowitej energii Ek zmienia swój ruch skokowo, tak że porusza się następnie po orbicie o energii Ej."
   },
   {
    "plik": "k_440_1",
    "strona": 440,
+   "y": 666,
    "modul": "M10",
    "w": 349,
-   "h": 89
+   "h": 89,
+   "rozdzial": "33.3 Model Bohra atomu wodoru",
+   "opis_zrodlowy": "  Promieniowanie elektromagnetyczne zostaje tylko wysłane gdy elektron poruszający się po orbicie o całkowitej energii Ek zmienia swój ruch skokowo, tak że porusza się następnie po orbicie o energii Ej."
   },
   {
    "plik": "k_441_0",
    "strona": 441,
+   "y": 506,
    "modul": "M10",
    "w": 358,
-   "h": 90
+   "h": 90,
+   "rozdzial": "33.4 Stany energetyczne i widmo atomowe wodoru",
+   "opis_zrodlowy": "33.4 Stany energetyczne i widmo atomowe wodoru Teoria Bohra przewiduje, że całkowita energia elektronu (i w konsekwencji energia atomu) jest wielkością skwantowaną."
   },
   {
    "plik": "k_443_0",
    "strona": 443,
+   "y": 625,
    "modul": "M10",
    "w": 270,
-   "h": 77
+   "h": 77,
+   "rozdzial": "34.1 Fale materii",
+   "opis_zrodlowy": "34 Fale i cząstki 34.1 Fale materii Przedstawione w poprzednich rozdziałach doświadczenia były interpretowane raz w oparciu o obraz falowy (na przykład dyfrakcja światła) innym razem w oparciu o model cząstkowy światła (na przykład efekt Comptona)."
   },
   {
    "plik": "k_443_1",
    "strona": 443,
+   "y": 846,
    "modul": "M10",
    "w": 78,
-   "h": 78
+   "h": 78,
+   "rozdzial": "34.1 Fale materii",
+   "opis_zrodlowy": "34 Fale i cząstki 34.1 Fale materii Przedstawione w poprzednich rozdziałach doświadczenia były interpretowane raz w oparciu o obraz falowy (na przykład dyfrakcja światła) innym razem w oparciu o model cząstkowy światła (na przykład efekt Comptona)."
   },
   {
    "plik": "k_445_0",
    "strona": 445,
+   "y": 1322,
    "modul": "M10",
    "w": 310,
-   "h": 77
+   "h": 77,
+   "rozdzial": "34.2 Struktura atomu i fale materii",
+   "opis_zrodlowy": "Z drugiej strony w oparciu o znaną energię elektronów (54 eV) możemy obliczyć długość fali de Broglie’a (tak jak w przykładzie powyżej) h p Ta doskonała zgodność stanowiła argument za tym, że w pewnych okolicznościach elektrony wykazują naturę falową."
   },
   {
    "plik": "k_448_1",
    "strona": 448,
+   "y": 1077,
    "modul": "M10",
    "w": 151,
-   "h": 129
+   "h": 129,
+   "rozdzial": "35.2 Zasada nieoznaczoności",
+   "opis_zrodlowy": "Ta interpretacja funkcji ψ daje statystyczny związek pomiędzy falą i związaną z nią cząstką."
   },
   {
    "plik": "k_448_3",
    "strona": 448,
+   "y": 1488,
    "modul": "M10",
    "w": 142,
-   "h": 45
+   "h": 45,
+   "rozdzial": "35.2 Zasada nieoznaczoności",
+   "opis_zrodlowy": "Ta interpretacja funkcji ψ daje statystyczny związek pomiędzy falą i związaną z nią cząstką."
   },
   {
    "plik": "k_449_1",
    "strona": 449,
+   "y": 1516,
    "modul": "M10",
    "w": 275,
-   "h": 89
+   "h": 89,
+   "rozdzial": "35.3.1 Równanie Schrödingera",
+   "opis_zrodlowy": "Na szczególne podkreślenie zasługuje fakt, że ograniczenie dokładności pomiarów nie ma nic wspólnego z wadami i niedokładnościami aparatury pomiarowej lecz jest wynikiem falowej natury cząstek."
   },
   {
    "plik": "k_450_1",
    "strona": 450,
+   "y": 688,
    "modul": "M10",
    "w": 682,
-   "h": 89
+   "h": 89,
+   "rozdzial": "35.3.2 Kwantowomechaniczny opis atomu wodoru",
+   "opis_zrodlowy": "gdzie E jest energią całkowitą cząstki, U(x) jej energią potencjalną zależną od jej położenia, a  h 2π ."
   },
   {
    "plik": "k_451_0",
    "strona": 451,
+   "y": 560,
    "modul": "M10",
    "w": 312,
-   "h": 50
+   "h": 50,
+   "rozdzial": "35.3.3 Funkcje falowe",
+   "opis_zrodlowy": "Rozwiązanie równania Schrödingera w trzech wymiarach jest problem trudnym matematycznie między innymi ze względu na obliczenia w trzech wymiarach."
   },
   {
    "plik": "k_451_1",
    "strona": 451,
+   "y": 911,
    "modul": "M10",
    "w": 576,
-   "h": 122
+   "h": 122,
+   "rozdzial": "35.3.3 Funkcje falowe",
+   "opis_zrodlowy": "Rozwiązanie równania Schrödingera w trzech wymiarach jest problem trudnym matematycznie między innymi ze względu na obliczenia w trzech wymiarach."
   },
   {
    "plik": "k_460_0",
    "strona": 460,
+   "y": 970,
    "modul": "M10",
    "w": 204,
-   "h": 66
+   "h": 66,
+   "rozdzial": "35.3.4 Energia elektronu",
+   "opis_zrodlowy": "Równanie Schrödingera Przedstawione poniżej rozumowanie nie jest wyprowadzeniem równania Schrödingera, a ma na celu pokazanie, że można sformułować równanie rózniczkowe, które wiąże własności falowe i korpuskularne materii."
   },
   {
    "plik": "k_472_0",
    "strona": 472,
+   "y": 1401,
    "modul": "M11",
    "w": 177,
-   "h": 145
+   "h": 145,
+   "rozdzial": "36.1.1 Orbitalny moment pędu",
+   "opis_zrodlowy": "36 Atomy wieloelektronowe W poprzednim module mówiliśmy o zastosowaniu mechaniki kwantowej do opisu falowych własności materii w tym do opisu atomu wodoru."
   },
   {
    "plik": "k_476_0",
    "strona": 476,
+   "y": 727,
    "modul": "M11",
    "w": 200,
-   "h": 84
+   "h": 84,
+   "rozdzial": "36.3 Układ okresowy pierwiastków",
+   "opis_zrodlowy": "W związku z tym energia takiego jonu jest dana wzorem analogicznym jak dla atomu wodoru a czynniki Z2 jest związany z różnicą ładunku jądra."
   },
   {
    "plik": "k_480_0",
    "strona": 480,
+   "y": 697,
    "modul": "M11",
    "w": 120,
-   "h": 77
+   "h": 77,
+   "rozdzial": "36.4 Promienie X",
+   "opis_zrodlowy": "Wobec tego promieniowanie rentgenowskie wytwarzane przez wiele elektronów będzie miało widmo ciągłe."
   },
   {
    "plik": "k_480_1",
    "strona": 480,
+   "y": 1356,
    "modul": "M11",
    "w": 273,
-   "h": 89
+   "h": 89,
+   "rozdzial": "36.4 Promienie X",
+   "opis_zrodlowy": "Wobec tego promieniowanie rentgenowskie wytwarzane przez wiele elektronów będzie miało widmo ciągłe."
   },
   {
    "plik": "k_483_0",
    "strona": 483,
+   "y": 473,
    "modul": "M11",
    "w": 160,
-   "h": 66
+   "h": 66,
+   "rozdzial": "36.5.3 Rozkład Boltzmana",
+   "opis_zrodlowy": "36.5.3 Rozkład Boltzmana Jak wiemy z rozważań dla gazu doskonałego opis szczegółowy układu fizycznego złożonego z bardzo dużej liczby cząstek jest bardzo skomplikowany i dlatego podstawowe własności układu wyprowadzamy z samych rozważań statystycznych."
   },
   {
    "plik": "k_496_0",
    "strona": 496,
+   "y": 400,
    "modul": "M11",
    "w": 247,
-   "h": 50
+   "h": 50,
+   "rozdzial": "37.5 Własności magnetyczne ciał stałych",
+   "opis_zrodlowy": "Przy opisie własności magnetycznych ciał posługujemy się pojęciem wektora polaryzacji magnetycznej M nazywanej też namagnesowaniem lub magnetyzacją ."
   },
   {
    "plik": "k_500_0",
    "strona": 500,
+   "y": 764,
    "modul": "M11",
    "w": 228,
-   "h": 50
+   "h": 50,
+   "rozdzial": "38.1 Wstęp",
+   "opis_zrodlowy": "38 Fizyka jądrowa Każde jądro atomowe składa się z protonów i neutronów wiązanych siłami jądrowymi, niezależnymi od ładunku."
   },
   {
    "plik": "k_502_1",
    "strona": 502,
+   "y": 1117,
    "modul": "M11",
    "w": 132,
-   "h": 46
+   "h": 46,
+   "rozdzial": "38.2 Oddziaływanie nukleon-nukleon",
+   "opis_zrodlowy": "Jednostki Masa jest podana w jednostkach masy atomowej (u)."
   },
   {
    "plik": "k_506_0",
    "strona": 506,
+   "y": 1372,
    "modul": "M11",
    "w": 531,
-   "h": 50
+   "h": 50,
+   "rozdzial": "38.3.4 Prawo rozpadu nuklidów",
+   "opis_zrodlowy": "38.3.4 Prawo rozpadu nuklidów Rozpatrzmy teraz układ zawierający w chwili początkowej wiele jąder tego samego rodzaju."
   },
   {
    "plik": "k_507_0",
    "strona": 507,
+   "y": 179,
    "modul": "M11",
    "w": 77,
-   "h": 77
+   "h": 77,
+   "rozdzial": "38.3.4 Prawo rozpadu nuklidów",
+   "opis_zrodlowy": "Możemy teraz przepisać prawo rozpadu w postać Do scharakteryzowania szybkości rozpadu używa się czasu połowicznego rozpadu (zaniku) T."
   },
   {
    "plik": "k_507_1",
    "strona": 507,
+   "y": 338,
    "modul": "M11",
    "w": 130,
-   "h": 50
+   "h": 50,
+   "rozdzial": "38.3.4 Prawo rozpadu nuklidów",
+   "opis_zrodlowy": "Możemy teraz przepisać prawo rozpadu w postać Do scharakteryzowania szybkości rozpadu używa się czasu połowicznego rozpadu (zaniku) T."
   },
   {
    "plik": "k_507_2",
    "strona": 507,
+   "y": 758,
    "modul": "M11",
    "w": 128,
-   "h": 43
+   "h": 43,
+   "rozdzial": "38.3.4 Prawo rozpadu nuklidów",
+   "opis_zrodlowy": "Możemy teraz przepisać prawo rozpadu w postać Do scharakteryzowania szybkości rozpadu używa się czasu połowicznego rozpadu (zaniku) T."
   },
   {
    "plik": "k_521_0",
    "strona": 521,
+   "y": 279,
    "modul": "M11",
    "w": 120,
-   "h": 43
+   "h": 43,
+   "rozdzial": "7 N = 14.003074 u.",
+   "opis_zrodlowy": "Uzupełnienie – Elementy szczególnej teorii względności Jednocześnie, ponieważ samolot leci wzdłuż linii łączącej wybuchy, to Δy’ = Δz’ = 0."
   },
   {
    "plik": "k_521_2",
    "strona": 521,
+   "y": 1055,
    "modul": "M11",
    "w": 295,
-   "h": 77
+   "h": 77,
+   "rozdzial": "7 N = 14.003074 u.",
+   "opis_zrodlowy": "Uzupełnienie – Elementy szczególnej teorii względności Jednocześnie, ponieważ samolot leci wzdłuż linii łączącej wybuchy, to Δy’ = Δz’ = 0."
   },
   {
    "plik": "k_521_3",
    "strona": 521,
+   "y": 1245,
    "modul": "M11",
    "w": 313,
-   "h": 77
+   "h": 77,
+   "rozdzial": "7 N = 14.003074 u.",
+   "opis_zrodlowy": "Uzupełnienie – Elementy szczególnej teorii względności Jednocześnie, ponieważ samolot leci wzdłuż linii łączącej wybuchy, to Δy’ = Δz’ = 0."
   },
   {
    "plik": "k_523_0",
    "strona": 523,
+   "y": 564,
    "modul": "M11",
    "w": 264,
-   "h": 147
+   "h": 147,
+   "rozdzial": "7 N = 14.003074 u.",
+   "opis_zrodlowy": "W konsekwencji Prawo, zasada, twierdzenie Każdy obserwator stwierdza, że poruszający się zegar idzie wolniej niż identyczny zegar w spoczynku."
   },
   {
    "plik": "k_524_0",
    "strona": 524,
+   "y": 417,
    "modul": "M11",
    "w": 255,
-   "h": 120
+   "h": 120,
+   "rozdzial": "7 N = 14.003074 u.",
+   "opis_zrodlowy": "Uzupełnienie – Elementy szczególnej teorii względności U.1.3 Transformacja Lorentza Szukamy ponownie (jak przy transformacji Galileusza) wzorów przekładających spostrzeżenia jednego obserwatora na obserwacje drugiego."
   },
   {
    "plik": "k_524_1",
    "strona": 524,
+   "y": 609,
    "modul": "M11",
    "w": 249,
-   "h": 147
+   "h": 147,
+   "rozdzial": "7 N = 14.003074 u.",
+   "opis_zrodlowy": "Uzupełnienie – Elementy szczególnej teorii względności U.1.3 Transformacja Lorentza Szukamy ponownie (jak przy transformacji Galileusza) wzorów przekładających spostrzeżenia jednego obserwatora na obserwacje drugiego."
   },
   {
    "plik": "k_525_0",
    "strona": 525,
+   "y": 934,
    "modul": "M11",
    "w": 228,
-   "h": 58
+   "h": 58,
+   "rozdzial": "7 N = 14.003074 u.",
+   "opis_zrodlowy": "Uzupełnienie – Elementy szczególnej teorii względności V Widzimy, że równoczesność zdarzeń nie jest bezwzględna, w układzie nieruchomym te dwa zdarzenia nie są jednoczesne."
   },
   {
    "plik": "k_526_0",
    "strona": 526,
+   "y": 763,
    "modul": "M11",
    "w": 161,
-   "h": 108
+   "h": 108,
+   "rozdzial": "7 N = 14.003074 u.",
+   "opis_zrodlowy": "Uzupełnienie – Elementy szczególnej teorii względności V Dzieląc te równania przez siebie otrzymujemy Ux V c Powyższe równanie można rozwiązać ze względu na Ux c Ćwiczenie U.2 Rozpatrzmy dwa samoloty naddźwiękowe, które lecą ku sobie po linii prostej."
   },
   {
    "plik": "k_527_0",
    "strona": 527,
+   "y": 335,
    "modul": "M11",
    "w": 180,
-   "h": 121
+   "h": 121,
+   "rozdzial": "7 N = 14.003074 u.",
+   "opis_zrodlowy": "Uzupełnienie – Elementy szczególnej teorii względności dynamiki Newtona F = dp/dt może być stosowana i czy zasada zachowania pędu ma taką samą postać we wszystkich układach inercjalnych."
   },
   {
    "plik": "k_528_0",
    "strona": 528,
+   "y": 317,
    "modul": "M11",
    "w": 99,
-   "h": 45
+   "h": 45,
+   "rozdzial": "7 N = 14.003074 u.",
+   "opis_zrodlowy": "To znane powszechnie równanie Einsteina opisuje równoważność masy i energii."
   },
   {
    "plik": "k_528_1",
    "strona": 528,
+   "y": 669,
    "modul": "M11",
    "w": 400,
-   "h": 50
+   "h": 50,
+   "rozdzial": "7 N = 14.003074 u.",
+   "opis_zrodlowy": "To znane powszechnie równanie Einsteina opisuje równoważność masy i energii."
   },
   {
    "plik": "k_528_2",
    "strona": 528,
+   "y": 1448,
    "modul": "M11",
    "w": 289,
-   "h": 78
+   "h": 78,
+   "rozdzial": "7 N = 14.003074 u.",
+   "opis_zrodlowy": "To znane powszechnie równanie Einsteina opisuje równoważność masy i energii."
   }
  ]
 }

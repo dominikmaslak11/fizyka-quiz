@@ -82,31 +82,56 @@ def wytnij_zolte(strona_nr, tmp):
         if len(xs) == 0:
             continue
         m = 6
-        obrazki.append(im.crop((max(0, xs.min() - m), max(0, y1 - m),
-                                min(im.width, xs.max() + m + 1),
-                                min(im.height, y2 + m + 1))))
+        obrazki.append((im.crop((max(0, xs.min() - m), max(0, y1 - m),
+                                 min(im.width, xs.max() + m + 1),
+                                 min(im.height, y2 + m + 1))), int(y1)))
     return obrazki
 
 
+def zdaniowa(linia):
+    """Czy linia to zdanie, a nie urwany wzor. Wzory maja malo liter i duzo symboli."""
+    l = linia.strip()
+    if len(l) < 12:
+        return False
+    litery = sum(c.isalpha() or c.isspace() for c in l)
+    if litery < len(l) * 0.80:
+        return False
+    return len(l.split()) >= 3
+
+
 def bloki(strony, etykieta):
-    """Wyciaga bloki tekstu zaczynajace sie linia z [etykieta] i ciagnace sie wcieciem."""
+    """Bloki tekstu zaczynajace sie linia [etykieta] i ciagnace sie wcieciem.
+
+    Zapisujemy tez ostatnia sensowna linie PRZED blokiem — to zwykle tytul
+    ("Sformulowanie drugiej zasady dynamiki Newtona:"), z ktorego bierze sie nazwa.
+    """
     wynik = []
     for nr, t in enumerate(strony, start=1):
         linie = t.splitlines()
         for i, l in enumerate(linie):
-            if l.strip() == etykieta:
-                tresc = []
-                for nast in linie[i + 1:]:
-                    if not nast.strip():
-                        if tresc:
-                            break
-                        continue
-                    wciecie = len(nast) - len(nast.lstrip())
-                    if wciecie < 4:
+            if l.strip() != etykieta:
+                continue
+
+            kontekst = ""
+            for wstecz in range(i - 1, max(-1, i - 7), -1):
+                k = linie[wstecz].strip()
+                if not k or NAGLOWEK.search(k) or re.fullmatch(r"\d{1,3}", k):
+                    continue
+                kontekst = k
+                break
+
+            tresc = []
+            for nast in linie[i + 1:]:
+                if not nast.strip():
+                    if tresc:
                         break
+                    continue
+                if len(nast) - len(nast.lstrip()) < 4:
+                    break
+                if zdaniowa(nast):
                     tresc.append(nast.strip())
-                if tresc:
-                    wynik.append({"strona": nr, "tresc": " ".join(tresc)})
+            if tresc:
+                wynik.append({"strona": nr, "kontekst": kontekst, "tresc": " ".join(tresc)})
     return wynik
 
 
@@ -142,6 +167,14 @@ def main():
 
     print(f"  definicji: {len(defs)}   praw i twierdzeń: {len(prawa)}   zadań z testów: {len(zadania)}")
 
+    if "--tylko-tekst" in sys.argv:
+        stare = json.loads(WYJ_DANE.read_text(encoding="utf-8")) if WYJ_DANE.exists() else {}
+        WYJ_DANE.write_text(json.dumps(
+            {"definicje": defs, "prawa": prawa, "zadania": zadania,
+             "kluczowe": stare.get("kluczowe", [])}, ensure_ascii=False, indent=1), encoding="utf-8")
+        print(f"\nTryb tylko-tekst: zapisano {WYJ_DANE.relative_to(KATALOG)}, wzory bez zmian.")
+        return
+
     print("Wycinam wzory wyróżnione na żółto (to potrwa)…")
     WYJ_WZORY.mkdir(parents=True, exist_ok=True)
     for p in WYJ_WZORY.glob("k_*.png"):
@@ -151,10 +184,12 @@ def main():
     with tempfile.TemporaryDirectory() as td:
         tmp = pathlib.Path(td)
         for nr in range(1, len(strony) + 1):
-            for j, im in enumerate(wytnij_zolte(nr, tmp)):
+            for j, (im, y) in enumerate(wytnij_zolte(nr, tmp)):
                 nazwa = f"k_{nr:03d}_{j}"
                 im.save(WYJ_WZORY / f"{nazwa}.png")
-                kluczowe.append({"plik": nazwa, "strona": nr,
+                # y potrzebne, zeby przypisac wzorowi naglowek rozdzialu stojacy NAD nim,
+                # a nie ostatni naglowek na stronie
+                kluczowe.append({"plik": nazwa, "strona": nr, "y": y,
                                  "modul": mapa.get(nr), "w": im.width, "h": im.height})
             if nr % 50 == 0:
                 print(f"    strona {nr}/{len(strony)} — wzorów do tej pory: {len(kluczowe)}")

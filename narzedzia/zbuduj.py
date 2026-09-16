@@ -83,12 +83,20 @@ def main():
     print("\nSkładam wzory:")
     indeks = wzory.zloz_wszystkie(wyciagnij_wzory(pytania))
 
+    # pytania wygenerowane z materialu podrecznika dolaczamy do recznie pisanych
+    gen_plik = KATALOG / "bank" / "pytania_generowane.json"
+    generowane = json.loads(gen_plik.read_text(encoding="utf-8")) if gen_plik.exists() else []
+    pytania = pytania + generowane
+    print(f"  w tym wygenerowanych z podręcznika: {len(generowane)}")
+
     rnd = random.Random(SEED)
     wyjscie = []
     for p in pytania:
+        # przy odpowiedziach obrazkowych tasujemy rownolegle teksty i pliki
+        obrazki = p.get("odp_obrazki")
         pary = list(enumerate(p["odp"]))
         rnd.shuffle(pary)
-        wyjscie.append({
+        rekord = {
             "id": p["id"],
             "modul": p["modul"],
             "rozdzial": p.get("rozdzial", ""),
@@ -96,11 +104,30 @@ def main():
             "odpowiedzi": [podmien(t, indeks) for _, t in pary],
             "poprawna": next(i for i, (s, _) in enumerate(pary) if s == p["ok"]),
             "wyjasnienie": podmien(p["wyj"], indeks),
-        })
+        }
+        if p.get("obrazek"):
+            rekord["obrazek"] = p["obrazek"]
+        if obrazki:
+            rekord["odpowiedzi_obrazki"] = [obrazki[s] for s, _ in pary]
+        wyjscie.append(rekord)
 
     # material wyciagniety z podrecznika: wzory kluczowe, definicje, prawa, zadania
     wyciag_plik = KATALOG / "bank" / "wyciag.json"
     wyciag = json.loads(wyciag_plik.read_text(encoding="utf-8")) if wyciag_plik.exists() else {}
+
+    # komentarze do wzorow — kluczowane numerem rozdzialu, wiec jeden wpis
+    # obsluguje wszystkie wzory z danego rozdzialu
+    try:
+        from komentarze import K as KOMENTARZE
+    except ImportError:
+        KOMENTARZE = {}
+    z_komentarzem = 0
+    for w in wyciag.get("kluczowe", []):
+        numer = (w.get("rozdzial") or "").split(" ")[0]
+        if numer in KOMENTARZE:
+            w["komentarz"] = KOMENTARZE[numer]
+            z_komentarzem += 1
+    print(f"  wzorów z komentarzem: {z_komentarzem} z {len(wyciag.get('kluczowe', []))}")
 
     dane = {
         "wersja": "1.1",
