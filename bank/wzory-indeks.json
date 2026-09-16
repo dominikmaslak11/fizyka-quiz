@@ -1518,5 +1518,705 @@
   "plik": "w_54aff8f1c3fb433c.png",
   "w": 401,
   "h": 176
+ },
+ "0 = m_1 v_1 + m_2 v_2": {
+  "plik": "w_b944622d68c1503d.png",
+  "w": 518,
+  "h": 68
+ },
+ "1, 3, 5, 7": {
+  "plik": "w_6cf41510ed05cab5.png",
+  "w": 240,
+  "h": 71
+ },
+ "10": {
+  "plik": "w_b1d5781111d84f7b.png",
+  "w": 80,
+  "h": 57
+ },
+ "10\\ \\mathrm{kg\\,m/s}": {
+  "plik": "w_5490dd32fb8c7f38.png",
+  "w": 304,
+  "h": 82
+ },
+ "10\\ \\mathrm{m/s^2}": {
+  "plik": "w_4d9d0bdf937729a2.png",
+  "w": 249,
+  "h": 88
+ },
+ "10\\cos 30^\\circ \\approx 8{,}66": {
+  "plik": "w_32bffe0eb3ca9862.png",
+  "w": 505,
+  "h": 76
+ },
+ "10\\sin 30^\\circ = 5": {
+  "plik": "w_4c5d7ec237703afb.png",
+  "w": 409,
+  "h": 62
+ },
+ "10\\tan 30^\\circ \\approx 5{,}77": {
+  "plik": "w_6e1d87232cb30169.png",
+  "w": 513,
+  "h": 76
+ },
+ "14\\ \\mathrm{m/s^2}": {
+  "plik": "w_530daf6fb781bbb0.png",
+  "w": 249,
+  "h": 88
+ },
+ "16": {
+  "plik": "w_1574bddb75c78a6f.png",
+  "w": 80,
+  "h": 57
+ },
+ "16{,}7": {
+  "plik": "w_8a904e2ada001f4f.png",
+  "w": 134,
+  "h": 71
+ },
+ "20\\ \\mathrm{kg\\,m/s}": {
+  "plik": "w_87aa9644514c694b.png",
+  "w": 304,
+  "h": 82
+ },
+ "25\\ \\mathrm{kg\\,m/s}": {
+  "plik": "w_d98e7b294598c58e.png",
+  "w": 304,
+  "h": 82
+ },
+ "2\\ \\mathrm{m/s^2}": {
+  "plik": "w_0127454d5961a629.png",
+  "w": 215,
+  "h": 88
+ },
+ "2\\pi": {
+  "plik": "w_0833718ca4569f36.png",
+  "w": 88,
+  "h": 57
+ },
+ "2\\vec{a}": {
+  "plik": "w_6a17db6f08562038.png",
+  "w": 82,
+  "h": 62
+ },
+ "2m": {
+  "plik": "w_aeae1eef4b37c0d5.png",
+  "w": 106,
+  "h": 57
+ },
+ "2mv": {
+  "plik": "w_ef3071d470c2caee.png",
+  "w": 142,
+  "h": 57
+ },
+ "2{,}5\\ \\mathrm{kg\\,m/s}": {
+  "plik": "w_7989a3dc6e9728c7.png",
+  "w": 323,
+  "h": 82
+ },
+ "3{,}0": {
+  "plik": "w_8d2ad635fcec6983.png",
+  "w": 99,
+  "h": 71
+ },
+ "4R": {
+  "plik": "w_49bbf4f21b0608e7.png",
+  "w": 99,
+  "h": 60
+ },
+ "70\\ \\mathrm{m/s^2}": {
+  "plik": "w_96309f47dc8fbaec.png",
+  "w": 249,
+  "h": 88
+ },
+ "E = \\tfrac{1}{2}kA^2": {
+  "plik": "w_9b772f8f6f66d58a.png",
+  "w": 314,
+  "h": 95
+ },
+ "E = \\tfrac{1}{2}mv^2 + \\tfrac{1}{2}I\\omega^2": {
+  "plik": "w_a8b54e8097df7828.png",
+  "w": 551,
+  "h": 95
+ },
+ "F = 60000/20 = 3000": {
+  "plik": "w_8092ad376e93f037.png",
+  "w": 659,
+  "h": 82
+ },
+ "F\\Delta t = \\Delta p": {
+  "plik": "w_c58b9ee3888d0f3d.png",
+  "w": 330,
+  "h": 73
+ },
+ "G": {
+  "plik": "w_a36a6718f54524d8.png",
+  "w": 66,
+  "h": 60
+ },
+ "I = I_0 + md^2": {
+  "plik": "w_11aade0cd73e33cd.png",
+  "w": 404,
+  "h": 81
+ },
+ "L = I\\omega": {
+  "plik": "w_3b5649c093730378.png",
+  "w": 231,
+  "h": 60
+ },
+ "P = Fv": {
+  "plik": "w_78307ba9095b22f7.png",
+  "w": 247,
+  "h": 60
+ },
+ "T = 2\\pi\\omega": {
+  "plik": "w_efaa050cbc4beb88.png",
+  "w": 274,
+  "h": 60
+ },
+ "T = 2\\pi\\sqrt{l/g}": {
+  "plik": "w_ae466334a50cb24f.png",
+  "w": 390,
+  "h": 99
+ },
+ "T = 2\\pi\\sqrt{m/k}": {
+  "plik": "w_30b3b37e632b2d3b.png",
+  "w": 430,
+  "h": 99
+ },
+ "T = \\frac{2\\pi}{\\omega}": {
+  "plik": "w_1e688bf98c98db06.png",
+  "w": 243,
+  "h": 152
+ },
+ "T = \\frac{\\omega}{2\\pi}": {
+  "plik": "w_dceb9d7cec74e0ab.png",
+  "w": 243,
+  "h": 137
+ },
+ "T = \\frac{\\pi}{\\omega}": {
+  "plik": "w_baf14cd9d7d6f200.png",
+  "w": 212,
+  "h": 137
+ },
+ "\\alpha > 45^\\circ": {
+  "plik": "w_fae3ffd436b5ea7c.png",
+  "w": 244,
+  "h": 64
+ },
+ "\\cos 90^\\circ = 0": {
+  "plik": "w_e23270f3273cc256.png",
+  "w": 337,
+  "h": 62
+ },
+ "\\cos\\alpha > \\mu_s": {
+  "plik": "w_e9300ba238a726a8.png",
+  "w": 318,
+  "h": 62
+ },
+ "\\frac{2 v_1 v_2}{v_1+v_2} = \\frac{2\\cdot60\\cdot30}{90} = 40": {
+  "plik": "w_93b4025fb8b7656c.png",
+  "w": 769,
+  "h": 163
+ },
+ "\\mathrm{J/kg}": {
+  "plik": "w_aa20f4d5576b5711.png",
+  "w": 152,
+  "h": 82
+ },
+ "\\mathrm{N/kg}": {
+  "plik": "w_03b241af3bec02dc.png",
+  "w": 169,
+  "h": 82
+ },
+ "\\mathrm{N\\,m^2/kg^2}": {
+  "plik": "w_95eaa8189bc1a82b.png",
+  "w": 292,
+  "h": 88
+ },
+ "\\mathrm{kg/m^3}": {
+  "plik": "w_3999e0e90c0046f3.png",
+  "w": 202,
+  "h": 88
+ },
+ "\\mathrm{kg\\,m\\,s^{-2}}": {
+  "plik": "w_fdc38cc0feafcfb5.png",
+  "w": 256,
+  "h": 84
+ },
+ "\\mathrm{kg\\,m\\,s^{-2}} \\cdot \\mathrm{m}": {
+  "plik": "w_1a345c33d1a21ab1.png",
+  "w": 364,
+  "h": 84
+ },
+ "\\mathrm{kg\\,m^2\\,s^{-2}}": {
+  "plik": "w_0821eb6b6a620d66.png",
+  "w": 284,
+  "h": 84
+ },
+ "\\mathrm{kg\\,m^2\\,s^{-3}}": {
+  "plik": "w_21083ee5116d5c18.png",
+  "w": 284,
+  "h": 84
+ },
+ "\\mathrm{kg\\,m^{-1}\\,s^{-2}}": {
+  "plik": "w_068ee6e664cd4c09.png",
+  "w": 322,
+  "h": 84
+ },
+ "\\mathrm{m/s^2}": {
+  "plik": "w_136ebdc51c71c8b5.png",
+  "w": 158,
+  "h": 88
+ },
+ "\\mathrm{m^{-3}}": {
+  "plik": "w_3c42163f29ba4128.png",
+  "w": 135,
+  "h": 71
+ },
+ "\\sin 0 = 0": {
+  "plik": "w_49ef610d1b74cb2a.png",
+  "w": 268,
+  "h": 58
+ },
+ "\\sin 2\\alpha": {
+  "plik": "w_1001a8a3afb10392.png",
+  "w": 186,
+  "h": 58
+ },
+ "\\sin 60^\\circ = \\sin 120^\\circ": {
+  "plik": "w_2aea906faed51bc2.png",
+  "w": 521,
+  "h": 62
+ },
+ "\\sin\\alpha > \\mu_s": {
+  "plik": "w_a5f2203c108af703.png",
+  "w": 310,
+  "h": 72
+ },
+ "\\sqrt{30^2+40^2} = 50": {
+  "plik": "w_a14bde88d68253c9.png",
+  "w": 506,
+  "h": 85
+ },
+ "\\sqrt{6} \\approx 2{,}45": {
+  "plik": "w_59886164d79e9fe2.png",
+  "w": 319,
+  "h": 92
+ },
+ "\\tan\\alpha > \\mu_s": {
+  "plik": "w_015a03f8bb0f3815.png",
+  "w": 325,
+  "h": 69
+ },
+ "\\tfrac{1}{2}(2m)(v/2)^2 = \\tfrac{1}{4}mv^2": {
+  "plik": "w_be23aa89647150ff.png",
+  "w": 636,
+  "h": 95
+ },
+ "\\tfrac{1}{2}I\\omega^2 = L^2/(2I)": {
+  "plik": "w_6cfa6577202f5498.png",
+  "w": 482,
+  "h": 95
+ },
+ "\\tfrac{1}{2}mR^2": {
+  "plik": "w_1de4fff3f09f7484.png",
+  "w": 191,
+  "h": 95
+ },
+ "\\tfrac{2}{5}mR^2": {
+  "plik": "w_a9009f30b279007b.png",
+  "w": 191,
+  "h": 95
+ },
+ "\\vec{a}\\times\\vec{a}": {
+  "plik": "w_d6acda73f0eb2d19.png",
+  "w": 169,
+  "h": 68
+ },
+ "a = 50/5 = 10\\ \\mathrm{m/s^2}": {
+  "plik": "w_fe950840b9cc20b4.png",
+  "w": 605,
+  "h": 88
+ },
+ "a^2": {
+  "plik": "w_7a0caffc6b34a61a.png",
+  "w": 76,
+  "h": 71
+ },
+ "a_n = v^2/R": {
+  "plik": "w_d32152625a82032d.png",
+  "w": 323,
+  "h": 88
+ },
+ "a_t = dv/dt": {
+  "plik": "w_2f2f2fecb5d9d96e.png",
+  "w": 326,
+  "h": 82
+ },
+ "a_x = a\\cos\\alpha": {
+  "plik": "w_5bd880675627b475.png",
+  "w": 365,
+  "h": 53
+ },
+ "a_y = a\\sin\\alpha": {
+  "plik": "w_efe9fdfdc4501baf.png",
+  "w": 356,
+  "h": 78
+ },
+ "f = 1/T = \\omega/2\\pi": {
+  "plik": "w_e5e76bc56ea16fa5.png",
+  "w": 509,
+  "h": 82
+ },
+ "mR^2": {
+  "plik": "w_ec49867204b588da.png",
+  "w": 152,
+  "h": 71
+ },
+ "mg\\sin\\alpha > \\mu_s mg\\cos\\alpha": {
+  "plik": "w_57f020e51c705d69.png",
+  "w": 670,
+  "h": 72
+ },
+ "p = mv": {
+  "plik": "w_6828251b3e6ccad0.png",
+  "w": 233,
+  "h": 56
+ },
+ "r^2": {
+  "plik": "w_23b008c61c26b6b0.png",
+  "w": 72,
+  "h": 71
+ },
+ "s = v_0 t + \\tfrac{1}{2}at^2": {
+  "plik": "w_73d5a4bb1444aed3.png",
+  "w": 432,
+  "h": 95
+ },
+ "t^2": {
+  "plik": "w_953e9d05ca10bb28.png",
+  "w": 64,
+  "h": 71
+ },
+ "v = 4\\cdot400/800 = 2": {
+  "plik": "w_3857a9c2b682b6b6.png",
+  "w": 589,
+  "h": 82
+ },
+ "v = \\omega R": {
+  "plik": "w_dd2945a318cf393d.png",
+  "w": 237,
+  "h": 60
+ },
+ "v = \\omega R = 10 \\cdot 0{,}4 = 4": {
+  "plik": "w_db7d5856fdf60692.png",
+  "w": 661,
+  "h": 73
+ },
+ "v = \\sqrt{2gh}": {
+  "plik": "w_3b6499d1c9c2749f.png",
+  "w": 318,
+  "h": 99
+ },
+ "v = \\tfrac{s}{t}": {
+  "plik": "w_70be89363ee44375.png",
+  "w": 176,
+  "h": 84
+ },
+ "v/2": {
+  "plik": "w_ec853c5bf37e3d37.png",
+  "w": 116,
+  "h": 82
+ },
+ "v^2": {
+  "plik": "w_d96f95b7a2ce8502.png",
+  "w": 75,
+  "h": 71
+ },
+ "v^2 = v_0^2 + 2as": {
+  "plik": "w_1017d95b2bbd2907.png",
+  "w": 416,
+  "h": 88
+ },
+ "v_0": {
+  "plik": "w_2ba313ffee53ade7.png",
+  "w": 73,
+  "h": 53
+ },
+ "v_0\\cos\\alpha": {
+  "plik": "w_c9047662a310d8db.png",
+  "w": 231,
+  "h": 53
+ },
+ "v_0\\sin\\alpha": {
+  "plik": "w_b8f4dab84bb688d4.png",
+  "w": 224,
+  "h": 69
+ },
+ "x": {
+  "plik": "w_11f6ad8ec52a2984.png",
+  "w": 51,
+  "h": 42
+ },
+ "x = \\frac{1\\cdot4 + 3\\cdot0}{4} = 1": {
+  "plik": "w_b3117047bc46b30a.png",
+  "w": 604,
+  "h": 152
+ },
+ "1/r^2": {
+  "plik": "w_d790d0aaadf6a50b.png",
+  "w": 141,
+  "h": 88
+ },
+ "1/y = 0": {
+  "plik": "w_fd591c50e925e61a.png",
+  "w": 242,
+  "h": 82
+ },
+ "1{,}6\\cdot10^{-19}": {
+  "plik": "w_4590ff13cf0bc90d.png",
+  "w": 309,
+  "h": 84
+ },
+ "1{,}6\\cdot10^{19}": {
+  "plik": "w_8250125279dea57c.png",
+  "w": 270,
+  "h": 84
+ },
+ "2L": {
+  "plik": "w_8dde33545500de38.png",
+  "w": 93,
+  "h": 60
+ },
+ "4L": {
+  "plik": "w_678b373af149ec76.png",
+  "w": 93,
+  "h": 60
+ },
+ "E = \\Delta mc^2": {
+  "plik": "w_87f5bd95fb99d2f7.png",
+  "w": 332,
+  "h": 71
+ },
+ "E_k = h\\nu - W = 5 - 2 = 3": {
+  "plik": "w_90a3942166d1cd96.png",
+  "w": 792,
+  "h": 71
+ },
+ "F = BIL\\sin\\alpha": {
+  "plik": "w_fd28d10b6c31f82e.png",
+  "w": 446,
+  "h": 60
+ },
+ "I = P/U = 60/230 \\approx 0{,}26": {
+  "plik": "w_d2ad3917d4ff484f.png",
+  "w": 788,
+  "h": 82
+ },
+ "I^2R": {
+  "plik": "w_a7a3c632083878e5.png",
+  "w": 128,
+  "h": 71
+ },
+ "L": {
+  "plik": "w_d160e0986aca4714.png",
+  "w": 59,
+  "h": 60
+ },
+ "L = n\\hbar": {
+  "plik": "w_ab028e623daac753.png",
+  "w": 229,
+  "h": 60
+ },
+ "L/2": {
+  "plik": "w_0a2b0b7571c9bc11.png",
+  "w": 127,
+  "h": 82
+ },
+ "R = \\rho l/S": {
+  "plik": "w_a461be3e5bf2e573.png",
+  "w": 294,
+  "h": 82
+ },
+ "T": {
+  "plik": "w_c2c53d6694821425.png",
+  "w": 62,
+  "h": 60
+ },
+ "T = 2\\pi m/(qB)": {
+  "plik": "w_e8d94409be59f116.png",
+  "w": 464,
+  "h": 82
+ },
+ "U = Q/C": {
+  "plik": "w_6f4d0b998df848bb.png",
+  "w": 300,
+  "h": 82
+ },
+ "U = \\varepsilon - Ir": {
+  "plik": "w_7affdcfe55eeea74.png",
+  "w": 343,
+  "h": 66
+ },
+ "U_2 = U_1 n_2/n_1 = 230/5 = 46": {
+  "plik": "w_bceb3c7d6cbec5f1.png",
+  "w": 846,
+  "h": 82
+ },
+ "X_C = 1/(\\omega C)": {
+  "plik": "w_e599f551cfbbd226.png",
+  "w": 422,
+  "h": 82
+ },
+ "X_L = \\omega L": {
+  "plik": "w_4b87b7ea40307780.png",
+  "w": 289,
+  "h": 70
+ },
+ "\\Delta U = Q - W = 800 - 300 = 500": {
+  "plik": "w_97ebd1c2f69e00d1.png",
+  "w": 1004,
+  "h": 73
+ },
+ "\\Delta x \\Delta p \\geq \\hbar/2": {
+  "plik": "w_5d2e444730c168a1.png",
+  "w": 398,
+  "h": 82
+ },
+ "\\Delta y = \\lambda L/d": {
+  "plik": "w_38633fb7b861ba74.png",
+  "w": 353,
+  "h": 82
+ },
+ "\\alpha = 0": {
+  "plik": "w_08b777d1d06ca2b9.png",
+  "w": 182,
+  "h": 57
+ },
+ "\\eta = 1 - 300/500 = 0{,}4": {
+  "plik": "w_4b8fed0aa67d034d.png",
+  "w": 678,
+  "h": 82
+ },
+ "\\eta = W/Q_1 = 300/1000 = 30\\%": {
+  "plik": "w_f231f5aa35600656.png",
+  "w": 904,
+  "h": 82
+ },
+ "\\lambda = 4L": {
+  "plik": "w_a908a86adcc51c2f.png",
+  "w": 224,
+  "h": 61
+ },
+ "\\lambda \\approx 10^{-34}": {
+  "plik": "w_6df8394e8b13c2d1.png",
+  "w": 304,
+  "h": 71
+ },
+ "\\lambda_{min} = hc/(eU)": {
+  "plik": "w_9f24680bedb99741.png",
+  "w": 478,
+  "h": 82
+ },
+ "\\nabla\\cdot\\vec{E} = \\rho/\\varepsilon_0": {
+  "plik": "w_87bb0c87355444d7.png",
+  "w": 396,
+  "h": 97
+ },
+ "\\nabla\\times\\vec{B} = \\mu_0\\vec{J}": {
+  "plik": "w_1d01c38aa80b7b9f.png",
+  "w": 416,
+  "h": 93
+ },
+ "\\nabla\\times\\vec{E} = -\\partial\\vec{B}/\\partial t": {
+  "plik": "w_f45b89d920a173fd.png",
+  "w": 550,
+  "h": 97
+ },
+ "\\tan\\theta_B = n": {
+  "plik": "w_ae8fb7912d7e5839.png",
+  "w": 329,
+  "h": 71
+ },
+ "\\varepsilon = -L\\,dI/dt": {
+  "plik": "w_55049432c658a20a.png",
+  "w": 414,
+  "h": 82
+ },
+ "\\vec{S} = \\vec{E}\\times\\vec{H}": {
+  "plik": "w_f3739c38e6352390.png",
+  "w": 352,
+  "h": 85
+ },
+ "\\vec{v}\\times\\vec{B}": {
+  "plik": "w_7159cb59b2758b53.png",
+  "w": 188,
+  "h": 85
+ },
+ "l": {
+  "plik": "w_07c342be6e560e7f.png",
+  "w": 34,
+  "h": 61
+ },
+ "l = 1": {
+  "plik": "w_a38b495a8442f2fb.png",
+  "w": 160,
+  "h": 61
+ },
+ "m": {
+  "plik": "w_6b0d31c0d5632230.png",
+  "w": 72,
+  "h": 42
+ },
+ "n = c/v": {
+  "plik": "w_ad4741f6f99567ae.png",
+  "w": 244,
+  "h": 82
+ },
+ "n \\geq 1": {
+  "plik": "w_a52d273db02a98c3.png",
+  "w": 180,
+  "h": 67
+ },
+ "n-1": {
+  "plik": "w_81f998c5713fded1.png",
+  "w": 172,
+  "h": 63
+ },
+ "p": {
+  "plik": "w_516b9783fca517ee.png",
+  "w": 46,
+  "h": 56
+ },
+ "p = \\rho g h": {
+  "plik": "w_f1f9f7fc04c599a0.png",
+  "w": 248,
+  "h": 74
+ },
+ "p = h/\\lambda": {
+  "plik": "w_04481c6135baf1bd.png",
+  "w": 252,
+  "h": 82
+ },
+ "v=\\sqrt{F/\\mu}": {
+  "plik": "w_a72ce0e0c113fca3.png",
+  "w": 334,
+  "h": 99
+ },
+ "v_{\\mathrm{rms}}=\\sqrt{3RT/M}": {
+  "plik": "w_d24388049e56c80a.png",
+  "w": 528,
+  "h": 99
+ },
+ "x = f": {
+  "plik": "w_10b7215042022239.png",
+  "w": 184,
+  "h": 74
+ },
+ "y \\to \\infty": {
+  "plik": "w_43ce0e92a0bba268.png",
+  "w": 226,
+  "h": 56
  }
 }

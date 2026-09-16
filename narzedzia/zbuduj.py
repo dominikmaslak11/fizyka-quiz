@@ -19,10 +19,19 @@ WZOR = re.compile(r"\$(.+?)\$", re.S)
 
 
 def zbierz():
-    import bank_mechanika, bank_fale_termo, bank_elektro, bank_optyka_kwanty
-    p = []
-    for m in (bank_mechanika, bank_fale_termo, bank_elektro, bank_optyka_kwanty):
-        p.extend(m.P)
+    """Wczytuje KAZDY plik bank/bank_*.py, ktory definiuje liste P.
+
+    Dzieki temu dopisanie nowego pliku z pytaniami nie wymaga zmian tutaj —
+    wystarczy go dodac do katalogu bank/.
+    """
+    import importlib
+    p, zrodla = [], []
+    for plik in sorted((KATALOG / "bank").glob("bank_*.py")):
+        modul = importlib.import_module(plik.stem)
+        if hasattr(modul, "P"):
+            p.extend(modul.P)
+            zrodla.append(f"{plik.stem} ({len(modul.P)})")
+    print("  banki: " + ", ".join(zrodla))
     return p
 
 

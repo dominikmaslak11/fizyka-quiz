@@ -4,7 +4,7 @@ Aplikacja do powtórki przed egzaminem rocznym z fizyki. **Wzory składane w LaT
 i wyświetlane w treści pytań, wykresy i schematy rysowane programowo.
 Działa w pełni offline.
 
-**725 pytań** w 11 modułach, **304 wzorów** złożonych w LaTeX-u
+**917 pytań** w 11 modułach, **304 wzorów** złożonych w LaTeX-u
 i 11 ilustracji rysowanych programowo. Do tego **wyciąg z całego podręcznika**:
 **310 wzorów kluczowych**, **52 definicji**,
 **82 praw i twierdzeń** oraz **101 zadań** z testów kończących moduły.
@@ -30,25 +30,25 @@ zachowania atrybucji i tej samej licencji dla utworów pochodnych.
 
 ## Moduły
 
-| | moduł | pytań | rozdziały podręcznika |
-|---|---|---|---|
-| M1 | Mechanika — kinematyka i dynamika | 10 | 1–6 (wiadomości wstępne, ruch, dynamika, grawitacja) |
-| M2 | Praca, energia, pęd i zderzenia | 8 | 7–10 (praca i energia, zasady zachowania, zderzenia) |
-| M3 | Ruch obrotowy i drgania | 8 | 11–12 (ruch obrotowy, ruch drgający) |
-| M4 | Fale sprężyste i płyny | 8 | 13–14 (fale w ośrodkach sprężystych, płyny) |
-| M5 | Termodynamika i teoria kinetyczna | 8 | 15–16 (kinetyczna teoria gazów i termodynamika) |
-| M6 | Elektrostatyka | 6 | 17–20 (pole elektryczne, prawo Gaussa, potencjał, kondensatory) |
-| M7 | Prąd i pole magnetyczne | 6 | 21–23 (prąd elektryczny, pole magnetyczne) |
-| M8 | Indukcja i fale elektromagnetyczne | 6 | 24–27 (indukcja, drgania i fale elektromagnetyczne, równania Maxwella) |
-| M9 | Optyka | 6 | 28–31 (optyka geometryczna i falowa, interferencja, dyfrakcja, polaryzacja) |
-| M10 | Fizyka kwantowa | 6 | 32–35 (fizyka kwantowa, fale i cząstki, mechanika kwantowa) |
-| M11 | Atomy, ciało stałe, jądro | 6 | 36–38 (atomy wieloelektronowe, materia skondensowana, fizyka jądrowa) |
+| | moduł | pytań | w tym ręcznie | rozdziały podręcznika |
+|---|---|---|---|---|
+| M1 | Mechanika — kinematyka i dynamika | 126 | 42 | 1–6 (wiadomości wstępne, ruch, dynamika, grawitacja) |
+| M2 | Praca, energia, pęd i zderzenia | 89 | 24 | 7–10 (praca i energia, zasady zachowania, zderzenia) |
+| M3 | Ruch obrotowy i drgania | 98 | 24 | 11–12 (ruch obrotowy, ruch drgający) |
+| M4 | Fale sprężyste i płyny | 83 | 24 | 13–14 (fale w ośrodkach sprężystych, płyny) |
+| M5 | Termodynamika i teoria kinetyczna | 85 | 24 | 15–16 (kinetyczna teoria gazów i termodynamika) |
+| M6 | Elektrostatyka | 80 | 22 | 17–20 (pole elektryczne, prawo Gaussa, potencjał, kondensatory) |
+| M7 | Prąd i pole magnetyczne | 90 | 22 | 21–23 (prąd elektryczny, pole magnetyczne) |
+| M8 | Indukcja i fale elektromagnetyczne | 70 | 22 | 24–27 (indukcja, drgania i fale elektromagnetyczne, równania Maxwella) |
+| M9 | Optyka | 67 | 22 | 28–31 (optyka geometryczna i falowa, interferencja, dyfrakcja, polaryzacja) |
+| M10 | Fizyka kwantowa | 68 | 22 | 32–35 (fizyka kwantowa, fale i cząstki, mechanika kwantowa) |
+| M11 | Atomy, ciało stałe, jądro | 61 | 22 | 36–38 (atomy wieloelektronowe, materia skondensowana, fizyka jądrowa) |
 
 ## Skąd bierze się 725 pytań
 
 | źródło | ile | jak powstaje |
 |---|---|---|
-| pisane ręcznie | 78 | wzory w LaTeX-u, wyjaśnienie i odsyłacz do rozdziału |
+| pisane ręcznie | 270 | wzory w LaTeX-u, wyjaśnienie i odsyłacz do rozdziału |
 | definicja → pojęcie | 29 | treść definicji z podręcznika, dystraktory to inne pojęcia z tego samego modułu |
 | pojęcie → definicja | 29 | odwrotność powyższego |
 | treść prawa → nazwa | 19 | „Które prawo brzmi…", nazwa brana z tytułu nad blokiem |
