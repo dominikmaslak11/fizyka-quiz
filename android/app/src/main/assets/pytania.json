@@ -1,0 +1,2389 @@
+{
+ "wersja": "1.0",
+ "zrodlo": {
+  "tytul": "Zbigniew Kąkol, „Fizyka dla inżynierów”",
+  "wydawca": "Wydział Fizyki i Informatyki Stosowanej, AGH w Krakowie, 2023",
+  "url": "https://zasoby.open.agh.edu.pl/zasob/fizyka-podrecznik/",
+  "licencja": "CC BY-SA 4.0"
+ },
+ "moduly": [
+  {
+   "id": "M1",
+   "nazwa": "Mechanika — kinematyka i dynamika",
+   "kolor": "#1F6FB2",
+   "rozdzialy": "1–6 (wiadomości wstępne, ruch, dynamika, grawitacja)"
+  },
+  {
+   "id": "M2",
+   "nazwa": "Praca, energia, pęd i zderzenia",
+   "kolor": "#2E8B57",
+   "rozdzialy": "7–10 (praca i energia, zasady zachowania, zderzenia)"
+  },
+  {
+   "id": "M3",
+   "nazwa": "Ruch obrotowy i drgania",
+   "kolor": "#8B5A2B",
+   "rozdzialy": "11–12 (ruch obrotowy, ruch drgający)"
+  },
+  {
+   "id": "M4",
+   "nazwa": "Fale sprężyste i płyny",
+   "kolor": "#0E7C7B",
+   "rozdzialy": "13–14 (fale w ośrodkach sprężystych, płyny)"
+  },
+  {
+   "id": "M5",
+   "nazwa": "Termodynamika i teoria kinetyczna",
+   "kolor": "#C05621",
+   "rozdzialy": "15–16 (kinetyczna teoria gazów i termodynamika)"
+  },
+  {
+   "id": "M6",
+   "nazwa": "Elektrostatyka",
+   "kolor": "#6B46C1",
+   "rozdzialy": "17–20 (pole elektryczne, prawo Gaussa, potencjał, kondensatory)"
+  },
+  {
+   "id": "M7",
+   "nazwa": "Prąd i pole magnetyczne",
+   "kolor": "#B7791F",
+   "rozdzialy": "21–23 (prąd elektryczny, pole magnetyczne)"
+  },
+  {
+   "id": "M8",
+   "nazwa": "Indukcja i fale elektromagnetyczne",
+   "kolor": "#2C7A7B",
+   "rozdzialy": "24–27 (indukcja, drgania i fale elektromagnetyczne, równania Maxwella)"
+  },
+  {
+   "id": "M9",
+   "nazwa": "Optyka",
+   "kolor": "#B83280",
+   "rozdzialy": "28–31 (optyka geometryczna i falowa, interferencja, dyfrakcja, polaryzacja)"
+  },
+  {
+   "id": "M10",
+   "nazwa": "Fizyka kwantowa",
+   "kolor": "#2B6CB0",
+   "rozdzialy": "32–35 (fizyka kwantowa, fale i cząstki, mechanika kwantowa)"
+  },
+  {
+   "id": "M11",
+   "nazwa": "Atomy, ciało stałe, jądro",
+   "kolor": "#4A5568",
+   "rozdzialy": "36–38 (atomy wieloelektronowe, materia skondensowana, fizyka jądrowa)"
+  }
+ ],
+ "wzory": {
+  "w_56e3fa843be1a9d1": {
+   "w": 346,
+   "h": 95
+  },
+  "w_e5fa3d88f5403e0e": {
+   "w": 451,
+   "h": 167
+  },
+  "w_a211ef3ebefe36ad": {
+   "w": 288,
+   "h": 94
+  },
+  "w_33c376cf40e2d0f9": {
+   "w": 134,
+   "h": 71
+  },
+  "w_3cee5101f8dc7132": {
+   "w": 134,
+   "h": 71
+  },
+  "w_df5f4b07dd5316fd": {
+   "w": 108,
+   "h": 62
+  },
+  "w_dfaf3f221bdfe2cd": {
+   "w": 108,
+   "h": 62
+  },
+  "w_c1b60061ee3ad2dc": {
+   "w": 108,
+   "h": 62
+  },
+  "w_03118b6aac23152e": {
+   "w": 99,
+   "h": 71
+  },
+  "w_362ac8c7a7496dff": {
+   "w": 108,
+   "h": 62
+  },
+  "w_ad7f6f1d76beab5b": {
+   "w": 464,
+   "h": 82
+  },
+  "w_eada73363f18dc26": {
+   "w": 433,
+   "h": 91
+  },
+  "w_ba897882e86587ab": {
+   "w": 493,
+   "h": 82
+  },
+  "w_14cc43e34465e312": {
+   "w": 326,
+   "h": 168
+  },
+  "w_1d6b0a7abba5ff18": {
+   "w": 281,
+   "h": 155
+  },
+  "w_5b140980926c101e": {
+   "w": 283,
+   "h": 137
+  },
+  "w_17006a1f058bacf4": {
+   "w": 304,
+   "h": 73
+  },
+  "w_2526970b625ce0b0": {
+   "w": 332,
+   "h": 84
+  },
+  "w_6bfa859accaa00f9": {
+   "w": 313,
+   "h": 166
+  },
+  "w_efad0d34a03c147a": {
+   "w": 336,
+   "h": 155
+  },
+  "w_4cad38b354462f0b": {
+   "w": 277,
+   "h": 166
+  },
+  "w_98466f401eb77402": {
+   "w": 299,
+   "h": 71
+  },
+  "w_cf97566163a53869": {
+   "w": 332,
+   "h": 71
+  },
+  "w_1a11c96e612e3b16": {
+   "w": 212,
+   "h": 137
+  },
+  "w_c07db0e4eedf998d": {
+   "w": 241,
+   "h": 156
+  },
+  "w_04ada37627bf0232": {
+   "w": 212,
+   "h": 156
+  },
+  "w_6f578bc5c4dc7acf": {
+   "w": 236,
+   "h": 61
+  },
+  "w_f1e46c74088bf44d": {
+   "w": 264,
+   "h": 71
+  },
+  "w_b2d010c38faa0b82": {
+   "w": 293,
+   "h": 81
+  },
+  "w_e9fa1dc30a5fb9fd": {
+   "w": 304,
+   "h": 94
+  },
+  "w_0d6d93fe9dd27ce8": {
+   "w": 331,
+   "h": 95
+  },
+  "w_90fa6868b722fbcd": {
+   "w": 408,
+   "h": 95
+  },
+  "w_445e857deace6c3d": {
+   "w": 318,
+   "h": 94
+  },
+  "w_edf5b6130f7a62c0": {
+   "w": 307,
+   "h": 81
+  },
+  "w_315311e96f58c6d1": {
+   "w": 280,
+   "h": 70
+  },
+  "w_e26b8dacd124a684": {
+   "w": 521,
+   "h": 73
+  },
+  "w_d9797537f598a427": {
+   "w": 482,
+   "h": 155
+  },
+  "w_122cf3e870966a88": {
+   "w": 482,
+   "h": 155
+  },
+  "w_7268bce99efeede8": {
+   "w": 494,
+   "h": 84
+  },
+  "w_9e733b4db47fbc37": {
+   "w": 298,
+   "h": 94
+  },
+  "w_266874293eb7e806": {
+   "w": 325,
+   "h": 95
+  },
+  "w_4a46bbaa2a8be905": {
+   "w": 259,
+   "h": 80
+  },
+  "w_2cefead2d8c47136": {
+   "w": 287,
+   "h": 90
+  },
+  "w_2a41dadf8d333229": {
+   "w": 492,
+   "h": 80
+  },
+  "w_e69f20e9f683920d": {
+   "w": 66,
+   "h": 60
+  },
+  "w_1416513ce2ee97a0": {
+   "w": 289,
+   "h": 66
+  },
+  "w_a031581bbae35e20": {
+   "w": 422,
+   "h": 137
+  },
+  "w_308b0bc7121f9f0f": {
+   "w": 484,
+   "h": 147
+  },
+  "w_6ac91063c9eed35b": {
+   "w": 400,
+   "h": 137
+  },
+  "w_a8112c99728403b9": {
+   "w": 400,
+   "h": 137
+  },
+  "w_56c4ca05a5108b09": {
+   "w": 436,
+   "h": 163
+  },
+  "w_41843c453ac9c34a": {
+   "w": 436,
+   "h": 163
+  },
+  "w_cb884459bb4b7357": {
+   "w": 346,
+   "h": 173
+  },
+  "w_d3de0f07adf62a34": {
+   "w": 242,
+   "h": 137
+  },
+  "w_6ae75f4577581649": {
+   "w": 347,
+   "h": 137
+  },
+  "w_48ae0214179838ac": {
+   "w": 248,
+   "h": 73
+  },
+  "w_92f0606c9675c4d9": {
+   "w": 283,
+   "h": 73
+  },
+  "w_65d7af823fafba2d": {
+   "w": 308,
+   "h": 73
+  },
+  "w_e1a4eac4427df5f9": {
+   "w": 782,
+   "h": 88
+  },
+  "w_ca73ab65568cd125": {
+   "w": 48,
+   "h": 60
+  },
+  "w_e2f12a87d4cb270b": {
+   "w": 346,
+   "h": 71
+  },
+  "w_da8b3a18761aad2f": {
+   "w": 373,
+   "h": 81
+  },
+  "w_d60568d3dcf3f5a7": {
+   "w": 366,
+   "h": 81
+  },
+  "w_c89eda6e72631437": {
+   "w": 318,
+   "h": 155
+  },
+  "w_f61729e86372b18c": {
+   "w": 337,
+   "h": 95
+  },
+  "w_4164dc7dfe53095f": {
+   "w": 318,
+   "h": 95
+  },
+  "w_b2a52ef63d6b33fa": {
+   "w": 318,
+   "h": 95
+  },
+  "w_49f3ebf5a0ba2d20": {
+   "w": 279,
+   "h": 71
+  },
+  "w_02cff93f314ecd9d": {
+   "w": 245,
+   "h": 156
+  },
+  "w_c63ae6dd4fc9f9dd": {
+   "w": 85,
+   "h": 60
+  },
+  "w_b51a60734da64be0": {
+   "w": 74,
+   "h": 60
+  },
+  "w_8721cb6065ede1ff": {
+   "w": 446,
+   "h": 91
+  },
+  "w_170e046520ed0d1b": {
+   "w": 407,
+   "h": 91
+  },
+  "w_69b4166e84c03c1c": {
+   "w": 563,
+   "h": 82
+  },
+  "w_d8faf40c85fc8c20": {
+   "w": 340,
+   "h": 155
+  },
+  "w_b9d6e34f2de58ae5": {
+   "w": 246,
+   "h": 60
+  },
+  "w_aed8e2b5311d0904": {
+   "w": 273,
+   "h": 71
+  },
+  "w_38222b81d3e06b6d": {
+   "w": 434,
+   "h": 162
+  },
+  "w_efe81f47c0f999cc": {
+   "w": 225,
+   "h": 155
+  },
+  "w_ceb6c1f60e2dd656": {
+   "w": 252,
+   "h": 155
+  },
+  "w_29aadc63b9a82d3f": {
+   "w": 235,
+   "h": 155
+  },
+  "w_5331d6c31e6b9359": {
+   "w": 245,
+   "h": 155
+  },
+  "w_eeefbea70b3c9879": {
+   "w": 281,
+   "h": 156
+  },
+  "w_8927ea67c5755999": {
+   "w": 294,
+   "h": 79
+  },
+  "w_1858c8f0cc80ffbb": {
+   "w": 297,
+   "h": 79
+  },
+  "w_5cda308c5db97cf8": {
+   "w": 236,
+   "h": 71
+  },
+  "w_d8a126c75fdd9869": {
+   "w": 192,
+   "h": 73
+  },
+  "w_ee579bf1689deeed": {
+   "w": 232,
+   "h": 73
+  },
+  "w_e6eeceaa4f2caf10": {
+   "w": 638,
+   "h": 82
+  },
+  "w_6a1abd04ea4cb396": {
+   "w": 533,
+   "h": 70
+  },
+  "w_e5a544e2272c00b8": {
+   "w": 364,
+   "h": 70
+  },
+  "w_c78d89349fcac41d": {
+   "w": 364,
+   "h": 70
+  },
+  "w_4204b76c274284a0": {
+   "w": 348,
+   "h": 182
+  },
+  "w_dbf3f2d1fc67cf48": {
+   "w": 348,
+   "h": 224
+  },
+  "w_f6f975d282d58c72": {
+   "w": 372,
+   "h": 182
+  },
+  "w_518ca2d84d4d8682": {
+   "w": 362,
+   "h": 224
+  },
+  "w_896b7623fad5ac66": {
+   "w": 234,
+   "h": 168
+  },
+  "w_e79a48276d940199": {
+   "w": 309,
+   "h": 60
+  },
+  "w_17049ca46f060ace": {
+   "w": 282,
+   "h": 73
+  },
+  "w_9668d9f5fd06b4a0": {
+   "w": 466,
+   "h": 73
+  },
+  "w_03fe3f6b021b05f9": {
+   "w": 256,
+   "h": 73
+  },
+  "w_2885fa41d340ab94": {
+   "w": 80,
+   "h": 70
+  },
+  "w_9f431ca28cadb333": {
+   "w": 338,
+   "h": 156
+  },
+  "w_070310ab5be0af5d": {
+   "w": 246,
+   "h": 60
+  },
+  "w_c9ee5681d3c59f75": {
+   "w": 67,
+   "h": 60
+  },
+  "w_953d357c5d12073e": {
+   "w": 326,
+   "h": 85
+  },
+  "w_e2415cb7f63df0c9": {
+   "w": 86,
+   "h": 60
+  },
+  "w_4d56ad267bd6cc50": {
+   "w": 313,
+   "h": 71
+  },
+  "w_04c1defd7f6248f3": {
+   "w": 412,
+   "h": 61
+  },
+  "w_cbc4dd7bd34f4a31": {
+   "w": 315,
+   "h": 70
+  },
+  "w_7189bc8ec3f7beb6": {
+   "w": 307,
+   "h": 155
+  },
+  "w_06a252a37e89f370": {
+   "w": 246,
+   "h": 155
+  },
+  "w_29559744b31ce867": {
+   "w": 518,
+   "h": 162
+  },
+  "w_85412ed0755a4f54": {
+   "w": 427,
+   "h": 183
+  },
+  "w_a80fdb97ae464fa3": {
+   "w": 473,
+   "h": 183
+  },
+  "w_36df1f3cbaef281f": {
+   "w": 324,
+   "h": 94
+  },
+  "w_fb4bd2512e352484": {
+   "w": 352,
+   "h": 95
+  },
+  "w_1c2449ada6459de0": {
+   "w": 314,
+   "h": 79
+  },
+  "w_4025568a54b987e0": {
+   "w": 211,
+   "h": 166
+  },
+  "w_aa15b19a150f6bfb": {
+   "w": 361,
+   "h": 155
+  },
+  "w_a33ee4b1e890bcec": {
+   "w": 115,
+   "h": 60
+  },
+  "w_59f31d61f38f2866": {
+   "w": 241,
+   "h": 60
+  },
+  "w_b373c3fe911f0937": {
+   "w": 242,
+   "h": 69
+  },
+  "w_49c13c843f0ad6ed": {
+   "w": 242,
+   "h": 69
+  },
+  "w_69ca2b4d5ac8cf69": {
+   "w": 249,
+   "h": 60
+  },
+  "w_bb78191bb5b79969": {
+   "w": 414,
+   "h": 74
+  },
+  "w_b8d0f03897eaa30f": {
+   "w": 355,
+   "h": 155
+  },
+  "w_5bb344dad57576b7": {
+   "w": 355,
+   "h": 155
+  },
+  "w_f7c665b45932a814": {
+   "w": 56,
+   "h": 42
+  },
+  "w_d888911a736cfbce": {
+   "w": 244,
+   "h": 62
+  },
+  "w_443a9663de0db2e0": {
+   "w": 346,
+   "h": 80
+  },
+  "w_b4509b04595ef4c7": {
+   "w": 351,
+   "h": 94
+  },
+  "w_3d86d580caa60946": {
+   "w": 325,
+   "h": 94
+  },
+  "w_c145d2e95c820602": {
+   "w": 351,
+   "h": 94
+  },
+  "w_50a03a6cf88e91d8": {
+   "w": 96,
+   "h": 83
+  },
+  "w_598e06fb0580a7cd": {
+   "w": 341,
+   "h": 165
+  },
+  "w_74847fb16bcc72c8": {
+   "w": 341,
+   "h": 165
+  },
+  "w_951576e99300c60b": {
+   "w": 375,
+   "h": 165
+  },
+  "w_1ef9b458c55cf119": {
+   "w": 222,
+   "h": 165
+  },
+  "w_d37d8ea2c09f5081": {
+   "w": 346,
+   "h": 166
+  },
+  "w_c1ff96782af9c93e": {
+   "w": 347,
+   "h": 166
+  },
+  "w_527bce29091ff409": {
+   "w": 86,
+   "h": 165
+  },
+  "w_44cab299a616d121": {
+   "w": 271,
+   "h": 165
+  },
+  "w_a6f816b832b5f5fa": {
+   "w": 252,
+   "h": 168
+  },
+  "w_e3c12193f39d0bec": {
+   "w": 442,
+   "h": 166
+  },
+  "w_50065bc5fbcda280": {
+   "w": 449,
+   "h": 162
+  },
+  "w_b11f8e62ba5cd881": {
+   "w": 449,
+   "h": 162
+  },
+  "w_15316d9a413f8b73": {
+   "w": 331,
+   "h": 162
+  },
+  "w_ee709839cbfa05fb": {
+   "w": 394,
+   "h": 156
+  },
+  "w_353fce562e5ccb95": {
+   "w": 347,
+   "h": 156
+  },
+  "w_218e980963bf75a1": {
+   "w": 442,
+   "h": 162
+  },
+  "w_2bf7e5772e8fe678": {
+   "w": 107,
+   "h": 137
+  },
+  "w_0679183f0cff77a7": {
+   "w": 329,
+   "h": 137
+  },
+  "w_b988f0a78b7fe7b5": {
+   "w": 316,
+   "h": 137
+  },
+  "w_fd4072134ce7fc32": {
+   "w": 423,
+   "h": 167
+  },
+  "w_91279f52d7abe0b8": {
+   "w": 229,
+   "h": 148
+  },
+  "w_b3931f1ce298c536": {
+   "w": 52,
+   "h": 61
+  },
+  "w_a0eb130796227cc6": {
+   "w": 220,
+   "h": 169
+  },
+  "w_cc3f3e093f59d9c2": {
+   "w": 197,
+   "h": 169
+  },
+  "w_b09fca2353574fc9": {
+   "w": 197,
+   "h": 137
+  },
+  "w_822f8a0335ae391a": {
+   "w": 217,
+   "h": 74
+  },
+  "w_07c376a7415c02b3": {
+   "w": 444,
+   "h": 71
+  },
+  "w_3a4e56595df1d02f": {
+   "w": 53,
+   "h": 56
+  },
+  "w_8e2b411950bc4ffa": {
+   "w": 242,
+   "h": 62
+  },
+  "w_8e2797460e5f521b": {
+   "w": 302,
+   "h": 79
+  },
+  "w_20e048173c489d22": {
+   "w": 341,
+   "h": 148
+  },
+  "w_4225424a2979a208": {
+   "w": 736,
+   "h": 174
+  },
+  "w_dd987d98eaad96a4": {
+   "w": 465,
+   "h": 174
+  },
+  "w_31112f8d51a564b5": {
+   "w": 412,
+   "h": 167
+  },
+  "w_c29689b0526bd73b": {
+   "w": 482,
+   "h": 167
+  },
+  "w_d3944a765548ddbb": {
+   "w": 383,
+   "h": 167
+  },
+  "w_361c2ae76154890f": {
+   "w": 431,
+   "h": 168
+  },
+  "w_0afcf3a04f49bcbf": {
+   "w": 453,
+   "h": 167
+  },
+  "w_cbfa86297e625908": {
+   "w": 411,
+   "h": 167
+  },
+  "w_92821db57a849f0b": {
+   "w": 491,
+   "h": 167
+  },
+  "w_a1926e3a2f7698b7": {
+   "w": 431,
+   "h": 167
+  },
+  "w_8ac5d133989e45e1": {
+   "w": 391,
+   "h": 167
+  },
+  "w_73b077a63e22815f": {
+   "w": 57,
+   "h": 42
+  },
+  "w_c77a25750c5830ba": {
+   "w": 47,
+   "h": 56
+  },
+  "w_69c15416b63fd933": {
+   "w": 53,
+   "h": 42
+  },
+  "w_4c5cb1e3d219f99b": {
+   "w": 312,
+   "h": 58
+  },
+  "w_11fbafc2e45f6399": {
+   "w": 365,
+   "h": 148
+  },
+  "w_9c70bf3ac4e7f573": {
+   "w": 139,
+   "h": 95
+  },
+  "w_fe8e7c326a9ba680": {
+   "w": 178,
+   "h": 94
+  },
+  "w_1eea7185c8997200": {
+   "w": 174,
+   "h": 95
+  },
+  "w_7c0646affeefc10f": {
+   "w": 178,
+   "h": 94
+  },
+  "w_1cafac0dcd6736db": {
+   "w": 201,
+   "h": 85
+  },
+  "w_23d451a4a23202cc": {
+   "w": 234,
+   "h": 62
+  },
+  "w_abfcc7fffa771b56": {
+   "w": 44,
+   "h": 42
+  },
+  "w_ae1a5556d727df23": {
+   "w": 307,
+   "h": 70
+  },
+  "w_94c1180b3c46d77b": {
+   "w": 331,
+   "h": 156
+  },
+  "w_03348e324fe6e2d1": {
+   "w": 331,
+   "h": 156
+  },
+  "w_17f13b5a0ac13121": {
+   "w": 242,
+   "h": 155
+  },
+  "w_539df55c163af14a": {
+   "w": 654,
+   "h": 88
+  },
+  "w_10b8c4ba5dd9d6b9": {
+   "w": 197,
+   "h": 68
+  },
+  "w_abf20d6016074490": {
+   "w": 282,
+   "h": 155
+  },
+  "w_41d3728af815343a": {
+   "w": 326,
+   "h": 85
+  },
+  "w_1f1f43f66c5932cf": {
+   "w": 272,
+   "h": 79
+  },
+  "w_cb31fb8286b5038d": {
+   "w": 260,
+   "h": 93
+  },
+  "w_68dede093a3e3e83": {
+   "w": 241,
+   "h": 157
+  },
+  "w_ae82d71ca2b8ba8c": {
+   "w": 243,
+   "h": 157
+  },
+  "w_2d58d18e40731b7c": {
+   "w": 231,
+   "h": 137
+  },
+  "w_12e145c8ac1f10b5": {
+   "w": 240,
+   "h": 169
+  },
+  "w_abde431178359614": {
+   "w": 253,
+   "h": 79
+  },
+  "w_8ded72813f5edfd1": {
+   "w": 253,
+   "h": 79
+  },
+  "w_0c24d7c8bcb977f9": {
+   "w": 309,
+   "h": 93
+  },
+  "w_914ecfbd490807ad": {
+   "w": 332,
+   "h": 93
+  },
+  "w_3d6a2c73fd76aef4": {
+   "w": 367,
+   "h": 93
+  },
+  "w_3f5e1054a339619b": {
+   "w": 538,
+   "h": 167
+  },
+  "w_24e6a0f136cc2246": {
+   "w": 310,
+   "h": 104
+  },
+  "w_ff598d49c938ade0": {
+   "w": 284,
+   "h": 79
+  },
+  "w_ccd88ecab7dcbd44": {
+   "w": 244,
+   "h": 79
+  },
+  "w_e230ee59c60b2b5b": {
+   "w": 59,
+   "h": 79
+  },
+  "w_01343204da23c76e": {
+   "w": 231,
+   "h": 79
+  },
+  "w_d7af2528fd88b49b": {
+   "w": 218,
+   "h": 79
+  },
+  "w_091a61f893ae8010": {
+   "w": 297,
+   "h": 104
+  },
+  "w_d1706d0fa36e8584": {
+   "w": 246,
+   "h": 79
+  },
+  "w_309906a1875ac7ed": {
+   "w": 258,
+   "h": 79
+  },
+  "w_5470cc2d8e4e3aa1": {
+   "w": 245,
+   "h": 79
+  },
+  "w_e9117971ee1ff5c4": {
+   "w": 227,
+   "h": 155
+  },
+  "w_d8c4c23cccf550d0": {
+   "w": 273,
+   "h": 79
+  },
+  "w_1e37c650a8e07c81": {
+   "w": 48,
+   "h": 62
+  },
+  "w_98d2bbd0689139a6": {
+   "w": 432,
+   "h": 80
+  },
+  "w_71fa108edb785ca9": {
+   "w": 41,
+   "h": 80
+  },
+  "w_588c841fd2bfaa4d": {
+   "w": 44,
+   "h": 91
+  },
+  "w_6f246120e847c7e5": {
+   "w": 205,
+   "h": 174
+  },
+  "w_7181f5574cdf6e9b": {
+   "w": 232,
+   "h": 93
+  },
+  "w_c21629fcbabe994f": {
+   "w": 260,
+   "h": 93
+  },
+  "w_6834f7f196afe7c6": {
+   "w": 217,
+   "h": 137
+  },
+  "w_346b4aaafc62faab": {
+   "w": 217,
+   "h": 162
+  },
+  "w_a4fcb93d1bf79e9c": {
+   "w": 414,
+   "h": 162
+  },
+  "w_d36fdac59f2fa148": {
+   "w": 214,
+   "h": 137
+  },
+  "w_e2556ec30524ae68": {
+   "w": 208,
+   "h": 42
+  },
+  "w_e7ef2c6236620692": {
+   "w": 328,
+   "h": 61
+  },
+  "w_ee21c1e4ac33f511": {
+   "w": 355,
+   "h": 61
+  },
+  "w_a25670100b8b6fa6": {
+   "w": 320,
+   "h": 61
+  },
+  "w_b306ada894865ce7": {
+   "w": 323,
+   "h": 96
+  },
+  "w_75b53779a838d22b": {
+   "w": 216,
+   "h": 76
+  },
+  "w_94366ddfd0d939e4": {
+   "w": 225,
+   "h": 61
+  },
+  "w_4bdf0397fd5bf523": {
+   "w": 218,
+   "h": 61
+  },
+  "w_ee4e5686dfe22f94": {
+   "w": 334,
+   "h": 176
+  },
+  "w_ceee3f8e08872377": {
+   "w": 276,
+   "h": 166
+  },
+  "w_8975deb890f15e18": {
+   "w": 216,
+   "h": 151
+  },
+  "w_c5f71bf7c46c4c3d": {
+   "w": 320,
+   "h": 85
+  },
+  "w_c35017b3dcde599a": {
+   "w": 471,
+   "h": 74
+  },
+  "w_408cc472f1a655da": {
+   "w": 472,
+   "h": 74
+  },
+  "w_ed0d31b2c34f2b5c": {
+   "w": 437,
+   "h": 74
+  },
+  "w_3239b12788c99bcf": {
+   "w": 472,
+   "h": 74
+  },
+  "w_d768582789a05562": {
+   "w": 387,
+   "h": 61
+  },
+  "w_04702cef3beba007": {
+   "w": 556,
+   "h": 94
+  },
+  "w_f9eace09bb828c92": {
+   "w": 380,
+   "h": 61
+  },
+  "w_4a0a19218e082a34": {
+   "w": 53,
+   "h": 74
+  },
+  "w_becf24bddbed6d80": {
+   "w": 179,
+   "h": 74
+  },
+  "w_ab5e8fe14c41b881": {
+   "w": 379,
+   "h": 94
+  },
+  "w_6b1fddea02b8ebed": {
+   "w": 393,
+   "h": 169
+  },
+  "w_c21f5f8be2824870": {
+   "w": 317,
+   "h": 169
+  },
+  "w_96fdd4912db5b024": {
+   "w": 317,
+   "h": 172
+  },
+  "w_6f43be50ad64bf76": {
+   "w": 318,
+   "h": 151
+  },
+  "w_4dd4e64b9bad925b": {
+   "w": 304,
+   "h": 74
+  },
+  "w_b96383698c2fe950": {
+   "w": 272,
+   "h": 155
+  },
+  "w_e489367e309cf73b": {
+   "w": 265,
+   "h": 137
+  },
+  "w_e08b2d73ea86362d": {
+   "w": 265,
+   "h": 137
+  },
+  "w_e4fde093baf735d2": {
+   "w": 306,
+   "h": 137
+  },
+  "w_42324a7049d9fa17": {
+   "w": 475,
+   "h": 84
+  },
+  "w_a4d8bd31e7105712": {
+   "w": 526,
+   "h": 80
+  },
+  "w_4a9c903698047859": {
+   "w": 527,
+   "h": 80
+  },
+  "w_f1ae04ac8b937dff": {
+   "w": 381,
+   "h": 174
+  },
+  "w_3961ff6fe7bdf787": {
+   "w": 90,
+   "h": 71
+  },
+  "w_d1854cae891ec7b2": {
+   "w": 53,
+   "h": 42
+  },
+  "w_530888af2de6ae5b": {
+   "w": 194,
+   "h": 137
+  },
+  "w_2516430781e64a25": {
+   "w": 589,
+   "h": 71
+  },
+  "w_03efd4852de5d3ab": {
+   "w": 574,
+   "h": 71
+  },
+  "w_b3a4ec5966d18c58": {
+   "w": 360,
+   "h": 71
+  },
+  "w_4027089a594d6bcf": {
+   "w": 670,
+   "h": 84
+  },
+  "w_6613fd1bcf0d2286": {
+   "w": 646,
+   "h": 94
+  },
+  "w_459de93cbefd2f40": {
+   "w": 709,
+   "h": 95
+  },
+  "w_8f9ff289b852c9b9": {
+   "w": 383,
+   "h": 74
+  },
+  "w_bc045c992ac3d294": {
+   "w": 300,
+   "h": 155
+  },
+  "w_2a97444b5d5f46c6": {
+   "w": 349,
+   "h": 73
+  },
+  "w_a0ae056ec434a1d7": {
+   "w": 336,
+   "h": 73
+  },
+  "w_b58a057b6acbe3f7": {
+   "w": 364,
+   "h": 84
+  },
+  "w_d25d0d3ab0b81df1": {
+   "w": 381,
+   "h": 74
+  },
+  "w_aa145b0483a29646": {
+   "w": 392,
+   "h": 74
+  },
+  "w_297d08e6d8aa22ad": {
+   "w": 381,
+   "h": 74
+  },
+  "w_7e436e5afebf3d0c": {
+   "w": 111,
+   "h": 71
+  },
+  "w_314deb106033a612": {
+   "w": 234,
+   "h": 73
+  },
+  "w_4b2d3dda4392e389": {
+   "w": 207,
+   "h": 168
+  },
+  "w_09a2d699352b463c": {
+   "w": 195,
+   "h": 169
+  },
+  "w_7ee0c1ed7f69bc84": {
+   "w": 195,
+   "h": 156
+  },
+  "w_dac633601e953619": {
+   "w": 220,
+   "h": 74
+  },
+  "w_9e5fb409b60ee575": {
+   "w": 248,
+   "h": 84
+  },
+  "w_cfcb98defd232682": {
+   "w": 277,
+   "h": 224
+  },
+  "w_9d029ee0c3aedc76": {
+   "w": 277,
+   "h": 182
+  },
+  "w_52bb38305dc6c0b4": {
+   "w": 345,
+   "h": 65
+  },
+  "w_aa1f7331d94d3a79": {
+   "w": 370,
+   "h": 155
+  },
+  "w_eabbf265e1e5610f": {
+   "w": 411,
+   "h": 182
+  },
+  "w_48ca1e29cdadff23": {
+   "w": 440,
+   "h": 182
+  },
+  "w_0c467a10cf7f0f2c": {
+   "w": 411,
+   "h": 182
+  },
+  "w_54492cca8885f8db": {
+   "w": 400,
+   "h": 81
+  },
+  "w_64de2db0a2e6ba56": {
+   "w": 392,
+   "h": 94
+  },
+  "w_cf155a0fc85008e9": {
+   "w": 589,
+   "h": 95
+  },
+  "w_970e97d368d56255": {
+   "w": 353,
+   "h": 65
+  },
+  "w_653d0824a1db6d10": {
+   "w": 619,
+   "h": 82
+  },
+  "w_54aff8f1c3fb433c": {
+   "w": 401,
+   "h": 176
+  }
+ },
+ "pytania": [
+  {
+   "id": "M1-01",
+   "modul": "M1",
+   "rozdzial": "2.3",
+   "pytanie": "Który wzór opisuje położenie w ruchu jednostajnie zmiennym?",
+   "odpowiedzi": [
+    "[[w_64de2db0a2e6ba56]]",
+    "[[w_970e97d368d56255]]",
+    "[[w_cf155a0fc85008e9]]",
+    "[[w_54492cca8885f8db]]"
+   ],
+   "poprawna": 2,
+   "wyjasnienie": "Przy stałym przyspieszeniu prędkość rośnie liniowo, [[w_52bb38305dc6c0b4]], a droga jest całką z prędkości, stąd człon [[w_9c70bf3ac4e7f573]]. Wzór [[w_970e97d368d56255]] obowiązuje tylko przy stałej prędkości."
+  },
+  {
+   "id": "M1-02",
+   "modul": "M1",
+   "rozdzial": "1.2.3",
+   "pytanie": "Iloczyn skalarny wektorów [[w_1e37c650a8e07c81]] i [[w_71fa108edb785ca9]] wynosi:",
+   "odpowiedzi": [
+    "[[w_94366ddfd0d939e4]]",
+    "[[w_75b53779a838d22b]]",
+    "[[w_4bdf0397fd5bf523]]",
+    "[[w_1cafac0dcd6736db]]"
+   ],
+   "poprawna": 0,
+   "wyjasnienie": "Iloczyn skalarny daje liczbę: [[w_98d2bbd0689139a6]]. Iloczyn wektorowy ma moduł [[w_4bdf0397fd5bf523]] i jest wektorem prostopadłym do obu."
+  },
+  {
+   "id": "M1-03",
+   "modul": "M1",
+   "rozdzial": "3.2",
+   "pytanie": "Dla rzutu ukośnego bez oporu powietrza zasięg jest największy przy kącie:",
+   "odpowiedzi": [
+    "[[w_df5f4b07dd5316fd]]",
+    "[[w_c1b60061ee3ad2dc]]",
+    "[[w_362ac8c7a7496dff]]",
+    "[[w_dfaf3f221bdfe2cd]]"
+   ],
+   "poprawna": 3,
+   "wyjasnienie": "Zasięg wynosi [[w_54aff8f1c3fb433c]] i osiąga maksimum, gdy [[w_4c5cb1e3d219f99b]], czyli dla [[w_d888911a736cfbce]]. Kąty dopełniające do [[w_362ac8c7a7496dff]] dają ten sam zasięg."
+  },
+  {
+   "id": "M1-04",
+   "modul": "M1",
+   "rozdzial": "3.3",
+   "pytanie": "Przyspieszenie dośrodkowe w ruchu jednostajnym po okręgu wyraża się wzorem:",
+   "odpowiedzi": [
+    "[[w_6834f7f196afe7c6]]",
+    "[[w_346b4aaafc62faab]]",
+    "[[w_d36fdac59f2fa148]]",
+    "[[w_e2556ec30524ae68]]"
+   ],
+   "poprawna": 1,
+   "wyjasnienie": "[[w_a4fcb93d1bf79e9c]]. Jest skierowane do środka okręgu i zmienia kierunek prędkości, nie jej wartość."
+  },
+  {
+   "id": "M1-05",
+   "modul": "M1",
+   "rozdzial": "4.2",
+   "pytanie": "Druga zasada dynamiki Newtona w postaci ogólnej brzmi:",
+   "odpowiedzi": [
+    "[[w_ae82d71ca2b8ba8c]]",
+    "[[w_2d58d18e40731b7c]]",
+    "[[w_8ded72813f5edfd1]]",
+    "[[w_68dede093a3e3e83]]"
+   ],
+   "poprawna": 3,
+   "wyjasnienie": "Postać ogólna wiąże siłę z szybkością zmiany pędu. Dopiero przy stałej masie upraszcza się do [[w_abde431178359614]] — przy zmiennej masie, np. w rakiecie, tamta postać zawodzi."
+  },
+  {
+   "id": "M1-06",
+   "modul": "M1",
+   "rozdzial": "4.2",
+   "pytanie": "Trzecia zasada dynamiki mówi, że siły akcji i reakcji:",
+   "odpowiedzi": [
+    "Występują tylko przy zderzeniach sprężystych",
+    "Mają równe wartości i przyłożone są do tego samego ciała",
+    "Mają równe wartości, przeciwne zwroty i przyłożone są do różnych ciał",
+    "Równoważą się, więc żadne ciało nie przyspiesza"
+   ],
+   "poprawna": 2,
+   "wyjasnienie": "Kluczowe jest to, że działają na dwa różne ciała — dlatego się nie znoszą i każde z ciał może przyspieszać."
+  },
+  {
+   "id": "M1-07",
+   "modul": "M1",
+   "rozdzial": "5.1.1",
+   "pytanie": "Maksymalna siła tarcia statycznego wynosi:",
+   "odpowiedzi": [
+    "[[w_896b7623fad5ac66]]",
+    "[[w_9668d9f5fd06b4a0]]",
+    "[[w_17049ca46f060ace]]",
+    "[[w_03fe3f6b021b05f9]]"
+   ],
+   "poprawna": 2,
+   "wyjasnienie": "Siła tarcia zależy od siły nacisku [[w_b51a60734da64be0]], a nie od powierzchni styku. Tarcie kinetyczne jest zwykle mniejsze: [[w_8e2b411950bc4ffa]]."
+  },
+  {
+   "id": "M1-08",
+   "modul": "M1",
+   "rozdzial": "6",
+   "pytanie": "Prawo powszechnego ciążenia Newtona zapisujemy jako:",
+   "odpowiedzi": [
+    "[[w_cb884459bb4b7357]]",
+    "[[w_a8112c99728403b9]]",
+    "[[w_308b0bc7121f9f0f]]",
+    "[[w_6ac91063c9eed35b]]"
+   ],
+   "poprawna": 3,
+   "wyjasnienie": "Siła maleje z kwadratem odległości. Stała grawitacji [[w_e1a4eac4427df5f9]]."
+  },
+  {
+   "id": "M1-09",
+   "modul": "M1",
+   "rozdzial": "6",
+   "pytanie": "Pierwsza prędkość kosmiczna to prędkość, przy której ciało:",
+   "odpowiedzi": [
+    "Spada swobodnie z zerowym przyspieszeniem",
+    "Opuszcza układ Ziemia–Słońce",
+    "Ucieka z pola grawitacyjnego Ziemi",
+    "Krąży po orbicie kołowej tuż nad powierzchnią Ziemi"
+   ],
+   "poprawna": 3,
+   "wyjasnienie": "Pierwsza prędkość kosmiczna wynosi ok. [[w_03118b6aac23152e]] km/s i wynika z warunku [[w_218e980963bf75a1]]. Ucieczce z pola odpowiada druga prędkość kosmiczna, ok. [[w_33c376cf40e2d0f9]] km/s."
+  },
+  {
+   "id": "M1-10",
+   "modul": "M1",
+   "rozdzial": "5.2",
+   "pytanie": "Siła bezwładności występuje:",
+   "odpowiedzi": [
+    "Tylko przy ruchu po okręgu",
+    "Tylko w polu grawitacyjnym",
+    "Wyłącznie w nieinercjalnych układach odniesienia",
+    "W każdym układzie odniesienia"
+   ],
+   "poprawna": 2,
+   "wyjasnienie": "Siły bezwładności, np. odśrodkowa czy Coriolisa, nie mają źródła w oddziaływaniu ciał. Pojawiają się dopiero, gdy opisujemy ruch z układu przyspieszającego."
+  },
+  {
+   "id": "M2-01",
+   "modul": "M2",
+   "rozdzial": "7",
+   "pytanie": "Praca siły zmiennej na drodze od A do B to:",
+   "odpowiedzi": [
+    "[[w_06a252a37e89f370]]",
+    "[[w_85412ed0755a4f54]]",
+    "[[w_1c2449ada6459de0]]",
+    "[[w_a80fdb97ae464fa3]]"
+   ],
+   "poprawna": 3,
+   "wyjasnienie": "Dla siły stałej całka upraszcza się do [[w_04c1defd7f6248f3]]. Całka po czasie z siły to popęd, a nie praca."
+  },
+  {
+   "id": "M2-02",
+   "modul": "M2",
+   "rozdzial": "7",
+   "pytanie": "Energia kinetyczna ciała o masie m i prędkości v wynosi:",
+   "odpowiedzi": [
+    "[[w_56e3fa843be1a9d1]]",
+    "[[w_edf5b6130f7a62c0]]",
+    "[[w_445e857deace6c3d]]",
+    "[[w_315311e96f58c6d1]]"
+   ],
+   "poprawna": 0,
+   "wyjasnienie": "Twierdzenie o pracy i energii: [[w_cbc4dd7bd34f4a31]]. Praca wypadkowej siły równa się przyrostowi energii kinetycznej."
+  },
+  {
+   "id": "M2-03",
+   "modul": "M2",
+   "rozdzial": "8",
+   "pytanie": "Siła jest zachowawcza, gdy:",
+   "odpowiedzi": [
+    "Zawsze jest skierowana do środka układu",
+    "Jej wartość nie zależy od położenia",
+    "Praca na drodze zamkniętej wynosi zero",
+    "Nie wykonuje żadnej pracy"
+   ],
+   "poprawna": 2,
+   "wyjasnienie": "Dla sił zachowawczych [[w_8ac5d133989e45e1]] i można zdefiniować energię potencjalną. Tarcie tego warunku nie spełnia."
+  },
+  {
+   "id": "M2-04",
+   "modul": "M2",
+   "rozdzial": "8",
+   "pytanie": "Energia potencjalna sprężystości sprężyny o stałej k wynosi:",
+   "odpowiedzi": [
+    "[[w_266874293eb7e806]]",
+    "[[w_9e733b4db47fbc37]]",
+    "[[w_2cefead2d8c47136]]",
+    "[[w_4a46bbaa2a8be905]]"
+   ],
+   "poprawna": 0,
+   "wyjasnienie": "Wynika z całkowania siły sprężystości [[w_1416513ce2ee97a0]] (prawo Hooke'a). Znak minus oznacza, że siła działa przeciwnie do wychylenia."
+  },
+  {
+   "id": "M2-05",
+   "modul": "M2",
+   "rozdzial": "9",
+   "pytanie": "Zasada zachowania pędu obowiązuje, gdy:",
+   "odpowiedzi": [
+    "Wypadkowa sił zewnętrznych działających na układ wynosi zero",
+    "Ciała poruszają się po liniach prostych",
+    "Wszystkie zderzenia w układzie są sprężyste",
+    "Energia kinetyczna układu jest stała"
+   ],
+   "poprawna": 0,
+   "wyjasnienie": "Pęd zachowuje się także w zderzeniach niesprężystych, w których energia kinetyczna maleje. To dwa niezależne warunki."
+  },
+  {
+   "id": "M2-06",
+   "modul": "M2",
+   "rozdzial": "10",
+   "pytanie": "W zderzeniu doskonale niesprężystym:",
+   "odpowiedzi": [
+    "Zachowana jest energia kinetyczna, ale pęd nie",
+    "Nie zachowuje się ani pęd, ani energia",
+    "Zachowany jest pęd i energia kinetyczna",
+    "Zachowany jest pęd, ale energia kinetyczna maleje"
+   ],
+   "poprawna": 3,
+   "wyjasnienie": "Ciała łączą się i poruszają razem. Część energii kinetycznej przechodzi w energię wewnętrzną i odkształcenie. Pęd zachowuje się zawsze, gdy nie ma sił zewnętrznych."
+  },
+  {
+   "id": "M2-07",
+   "modul": "M2",
+   "rozdzial": "9",
+   "pytanie": "Popęd siły jest równy:",
+   "odpowiedzi": [
+    "[[w_ccd88ecab7dcbd44]]",
+    "[[w_24e6a0f136cc2246]]",
+    "[[w_3f5e1054a339619b]]",
+    "[[w_ff598d49c938ade0]]"
+   ],
+   "poprawna": 2,
+   "wyjasnienie": "Popęd to zmiana pędu. Dlatego przy tej samej zmianie pędu dłuższy czas działania oznacza mniejszą siłę — na tym polega działanie poduszki powietrznej."
+  },
+  {
+   "id": "M2-08",
+   "modul": "M2",
+   "rozdzial": "8",
+   "pytanie": "Moc chwilową można zapisać jako:",
+   "odpowiedzi": [
+    "[[w_5331d6c31e6b9359]]",
+    "[[w_efe81f47c0f999cc]]",
+    "[[w_1858c8f0cc80ffbb]]",
+    "[[w_8927ea67c5755999]]"
+   ],
+   "poprawna": 2,
+   "wyjasnienie": "Moc to szybkość wykonywania pracy, [[w_eeefbea70b3c9879]], co dla siły i prędkości daje iloczyn skalarny. Jednostką jest wat."
+  },
+  {
+   "id": "M3-01",
+   "modul": "M3",
+   "rozdzial": "11",
+   "pytanie": "Druga zasada dynamiki dla ruchu obrotowego ma postać:",
+   "odpowiedzi": [
+    "[[w_d8c4c23cccf550d0]]",
+    "[[w_e9117971ee1ff5c4]]",
+    "[[w_5470cc2d8e4e3aa1]]",
+    "[[w_309906a1875ac7ed]]"
+   ],
+   "poprawna": 2,
+   "wyjasnienie": "Moment siły [[w_c63ae6dd4fc9f9dd]] odgrywa rolę siły, moment bezwładności [[w_ca73ab65568cd125]] rolę masy, a przyspieszenie kątowe [[w_abfcc7fffa771b56]] rolę przyspieszenia liniowego."
+  },
+  {
+   "id": "M3-02",
+   "modul": "M3",
+   "rozdzial": "11",
+   "pytanie": "Moment bezwładności jednorodnej kuli względem osi przez środek wynosi:",
+   "odpowiedzi": [
+    "[[w_49f3ebf5a0ba2d20]]",
+    "[[w_f61729e86372b18c]]",
+    "[[w_b2a52ef63d6b33fa]]",
+    "[[w_4164dc7dfe53095f]]"
+   ],
+   "poprawna": 2,
+   "wyjasnienie": "Dla walca pełnego [[w_4164dc7dfe53095f]], dla obręczy [[w_49f3ebf5a0ba2d20]], dla pręta względem środka [[w_f61729e86372b18c]]. Im dalej masa od osi, tym większy moment bezwładności."
+  },
+  {
+   "id": "M3-03",
+   "modul": "M3",
+   "rozdzial": "11",
+   "pytanie": "Energia kinetyczna ciała obracającego się wokół stałej osi to:",
+   "odpowiedzi": [
+    "[[w_e9fa1dc30a5fb9fd]]",
+    "[[w_b2d010c38faa0b82]]",
+    "[[w_0d6d93fe9dd27ce8]]",
+    "[[w_90fa6868b722fbcd]]"
+   ],
+   "poprawna": 2,
+   "wyjasnienie": "Pełna analogia do [[w_1eea7185c8997200]]. Przy toczeniu dochodzi jeszcze człon postępowy — energia rozdziela się na ruch środka masy i obrót."
+  },
+  {
+   "id": "M3-04",
+   "modul": "M3",
+   "rozdzial": "11",
+   "pytanie": "Moment pędu bryły sztywnej wyraża się wzorem:",
+   "odpowiedzi": [
+    "[[w_d7af2528fd88b49b]]",
+    "[[w_d1706d0fa36e8584]]",
+    "[[w_01343204da23c76e]]",
+    "[[w_091a61f893ae8010]]"
+   ],
+   "poprawna": 2,
+   "wyjasnienie": "Przy zerowym wypadkowym momencie sił [[w_e230ee59c60b2b5b]] jest stały. Dlatego łyżwiarka przyciągająca ręce zmniejsza [[w_ca73ab65568cd125]] i zwiększa [[w_73b077a63e22815f]]."
+  },
+  {
+   "id": "M3-05",
+   "modul": "M3",
+   "rozdzial": "12",
+   "pytanie": "Równanie ruchu harmonicznego prostego ma postać:",
+   "odpowiedzi": [
+    "[[w_15316d9a413f8b73]]",
+    "[[w_b11f8e62ba5cd881]]",
+    "[[w_50065bc5fbcda280]]",
+    "[[w_ee709839cbfa05fb]]"
+   ],
+   "poprawna": 1,
+   "wyjasnienie": "Rozwiązaniem jest [[w_653d0824a1db6d10]]. Warunkiem jest siła proporcjonalna do wychylenia i skierowana przeciwnie."
+  },
+  {
+   "id": "M3-06",
+   "modul": "M3",
+   "rozdzial": "12",
+   "pytanie": "Okres drgań wahadła matematycznego dla małych wychyleń wynosi:",
+   "odpowiedzi": [
+    "[[w_f6f975d282d58c72]]",
+    "[[w_dbf3f2d1fc67cf48]]",
+    "[[w_4204b76c274284a0]]",
+    "[[w_518ca2d84d4d8682]]"
+   ],
+   "poprawna": 1,
+   "wyjasnienie": "Okres nie zależy od masy ani (dla małych kątów) od amplitudy. Dla sprężyny odpowiednikiem jest [[w_f6f975d282d58c72]]."
+  },
+  {
+   "id": "M3-07",
+   "modul": "M3",
+   "rozdzial": "12",
+   "pytanie": "W drganiach tłumionych amplituda maleje według zależności:",
+   "odpowiedzi": [
+    "[[w_eada73363f18dc26]]",
+    "[[w_ad7f6f1d76beab5b]]",
+    "[[w_14cc43e34465e312]]",
+    "[[w_ba897882e86587ab]]"
+   ],
+   "poprawna": 0,
+   "wyjasnienie": "Zanik jest wykładniczy. Przy dużym tłumieniu ruch przestaje być drgający i przechodzi w pełzający."
+  },
+  {
+   "id": "M3-08",
+   "modul": "M3",
+   "rozdzial": "12",
+   "pytanie": "Rezonans mechaniczny występuje, gdy częstotliwość siły wymuszającej:",
+   "odpowiedzi": [
+    "Jest dwa razy większa od częstotliwości własnej",
+    "Jest bliska częstotliwości drgań własnych układu",
+    "Jest dowolna, byle siła była duża",
+    "Dąży do zera"
+   ],
+   "poprawna": 1,
+   "wyjasnienie": "Przy rezonansie amplituda gwałtownie rośnie, a ogranicza ją dopiero tłumienie. Stąd wymóg rozstrojenia częstotliwości w konstrukcjach."
+  },
+  {
+   "id": "M4-01",
+   "modul": "M4",
+   "rozdzial": "13",
+   "pytanie": "Związek między prędkością, częstotliwością i długością fali to:",
+   "odpowiedzi": [
+    "[[w_09a2d699352b463c]]",
+    "[[w_9e5fb409b60ee575]]",
+    "[[w_7ee0c1ed7f69bc84]]",
+    "[[w_dac633601e953619]]"
+   ],
+   "poprawna": 3,
+   "wyjasnienie": "Prędkość fali zależy od ośrodka, nie od źródła. Przy przejściu do innego ośrodka zmienia się [[w_b3931f1ce298c536]], a [[w_4a0a19218e082a34]] pozostaje stała."
+  },
+  {
+   "id": "M4-02",
+   "modul": "M4",
+   "rozdzial": "13",
+   "pytanie": "Prędkość fali poprzecznej w napiętej strunie wynosi:",
+   "odpowiedzi": [
+    "[[w_9d029ee0c3aedc76]]",
+    "[[w_4b2d3dda4392e389]]",
+    "[[w_cfcb98defd232682]]",
+    "[[w_314deb106033a612]]"
+   ],
+   "poprawna": 2,
+   "wyjasnienie": "[[w_e69f20e9f683920d]] to siła naciągu, [[w_3a4e56595df1d02f]] — masa na jednostkę długości. Mocniejsze naciągnięcie struny podnosi dźwięk, grubsza struna go obniża."
+  },
+  {
+   "id": "M4-03",
+   "modul": "M4",
+   "rozdzial": "13",
+   "pytanie": "Zjawisko Dopplera polega na tym, że:",
+   "odpowiedzi": [
+    "Częstotliwość odbierana zmienia się przy ruchu źródła lub obserwatora",
+    "Fala zmienia kierunek na granicy ośrodków",
+    "Prędkość fali zależy od prędkości źródła",
+    "Amplituda fali maleje z odległością"
+   ],
+   "poprawna": 0,
+   "wyjasnienie": "Przy zbliżaniu fronty falowe zagęszczają się i częstotliwość rośnie, przy oddalaniu maleje. Prędkość fali w ośrodku pozostaje bez zmian."
+  },
+  {
+   "id": "M4-04",
+   "modul": "M4",
+   "rozdzial": "13",
+   "pytanie": "Fala stojąca w strunie zamocowanej na obu końcach ma częstotliwości własne:",
+   "odpowiedzi": [
+    "[[w_e489367e309cf73b]]",
+    "[[w_e4fde093baf735d2]]",
+    "[[w_e08b2d73ea86362d]]",
+    "[[w_b96383698c2fe950]]"
+   ],
+   "poprawna": 0,
+   "wyjasnienie": "Na obu końcach muszą być węzły, więc [[w_02cff93f314ecd9d]]. Dla rury otwartej z jednej strony warunek jest inny i daje [[w_2bf7e5772e8fe678]] dla nieparzystych [[w_d1854cae891ec7b2]]."
+  },
+  {
+   "id": "M4-05",
+   "modul": "M4",
+   "rozdzial": "14",
+   "pytanie": "Prawo Pascala mówi, że ciśnienie wywierane na ciecz zamkniętą:",
+   "odpowiedzi": [
+    "Przenosi się jednakowo we wszystkich kierunkach",
+    "Zależy od kształtu naczynia",
+    "Działa tylko na dno naczynia",
+    "Rośnie wraz z odległością od punktu przyłożenia"
+   ],
+   "poprawna": 0,
+   "wyjasnienie": "Na tym opiera się działanie prasy i układów hydraulicznych. Mała siła na małym tłoku daje dużą siłę na dużym."
+  },
+  {
+   "id": "M4-06",
+   "modul": "M4",
+   "rozdzial": "14",
+   "pytanie": "Siła wyporu według prawa Archimedesa wynosi:",
+   "odpowiedzi": [
+    "[[w_92f0606c9675c4d9]]",
+    "[[w_65d7af823fafba2d]]",
+    "[[w_48ae0214179838ac]]",
+    "[[w_d3de0f07adf62a34]]"
+   ],
+   "poprawna": 0,
+   "wyjasnienie": "[[w_c77a25750c5830ba]] to gęstość płynu, [[w_c9ee5681d3c59f75]] — objętość zanurzonej części ciała. Wypór równa się ciężarowi wypartego płynu."
+  },
+  {
+   "id": "M4-07",
+   "modul": "M4",
+   "rozdzial": "14",
+   "pytanie": "Równanie Bernoulliego dla przepływu ustalonego cieczy doskonałej ma postać:",
+   "odpowiedzi": [
+    "[[w_4027089a594d6bcf]]",
+    "[[w_459de93cbefd2f40]]",
+    "[[w_6613fd1bcf0d2286]]",
+    "[[w_aa145b0483a29646]]"
+   ],
+   "poprawna": 1,
+   "wyjasnienie": "To zasada zachowania energii dla płynu. Gdzie prędkość rośnie, tam ciśnienie maleje — stąd siła nośna skrzydła."
+  },
+  {
+   "id": "M4-08",
+   "modul": "M4",
+   "rozdzial": "14",
+   "pytanie": "Równanie ciągłości dla cieczy nieściśliwej mówi, że:",
+   "odpowiedzi": [
+    "[[w_44cab299a616d121]]",
+    "[[w_e5a544e2272c00b8]]",
+    "[[w_6a1abd04ea4cb396]]",
+    "[[w_c78d89349fcac41d]]"
+   ],
+   "poprawna": 1,
+   "wyjasnienie": "Strumień objętości jest stały. W zwężeniu rury ciecz płynie szybciej — to bezpośrednia konsekwencja zachowania masy."
+  },
+  {
+   "id": "M5-01",
+   "modul": "M5",
+   "rozdzial": "15",
+   "pytanie": "Równanie stanu gazu doskonałego to:",
+   "odpowiedzi": [
+    "[[w_bc045c992ac3d294]]",
+    "[[w_a0ae056ec434a1d7]]",
+    "[[w_b58a057b6acbe3f7]]",
+    "[[w_b988f0a78b7fe7b5]]"
+   ],
+   "poprawna": 1,
+   "wyjasnienie": "[[w_e6eeceaa4f2caf10]]. W postaci mikroskopowej [[w_8f9ff289b852c9b9]], gdzie [[w_3961ff6fe7bdf787]] to stała Boltzmanna."
+  },
+  {
+   "id": "M5-02",
+   "modul": "M5",
+   "rozdzial": "15",
+   "pytanie": "Średnia energia kinetyczna ruchu postępowego cząsteczki gazu doskonałego wynosi:",
+   "odpowiedzi": [
+    "[[w_443a9663de0db2e0]]",
+    "[[w_b4509b04595ef4c7]]",
+    "[[w_c145d2e95c820602]]",
+    "[[w_3d86d580caa60946]]"
+   ],
+   "poprawna": 2,
+   "wyjasnienie": "Na każdy stopień swobody przypada [[w_fe8e7c326a9ba680]] — zasada ekwipartycji. Ruch postępowy ma trzy stopnie swobody, stąd [[w_7c0646affeefc10f]]."
+  },
+  {
+   "id": "M5-03",
+   "modul": "M5",
+   "rozdzial": "16",
+   "pytanie": "Pierwsza zasada termodynamiki w postaci różniczkowej brzmi:",
+   "odpowiedzi": [
+    "[[w_408cc472f1a655da]]",
+    "[[w_ed0d31b2c34f2b5c]]",
+    "[[w_3239b12788c99bcf]]",
+    "[[w_c35017b3dcde599a]]"
+   ],
+   "poprawna": 0,
+   "wyjasnienie": "To zasada zachowania energii dla układów termodynamicznych. Ciepło dostarczone podnosi energię wewnętrzną albo idzie na pracę wykonaną przez układ."
+  },
+  {
+   "id": "M5-04",
+   "modul": "M5",
+   "rozdzial": "16",
+   "pytanie": "W przemianie izotermicznej gazu doskonałego:",
+   "odpowiedzi": [
+    "Ciśnienie jest stałe",
+    "[[w_69ca2b4d5ac8cf69]], a całe ciepło zamienia się w pracę",
+    "[[w_d8a126c75fdd9869]], a praca odbywa się kosztem energii wewnętrznej",
+    "Objętość jest stała"
+   ],
+   "poprawna": 1,
+   "wyjasnienie": "Energia wewnętrzna gazu doskonałego zależy tylko od temperatury. Przy [[w_e79a48276d940199]] mamy [[w_69ca2b4d5ac8cf69]], więc [[w_ee579bf1689deeed]]. Przemiana bez wymiany ciepła to adiabata."
+  },
+  {
+   "id": "M5-05",
+   "modul": "M5",
+   "rozdzial": "16",
+   "pytanie": "Sprawność silnika Carnota wynosi:",
+   "odpowiedzi": [
+    "[[w_951576e99300c60b]]",
+    "[[w_74847fb16bcc72c8]]",
+    "[[w_598e06fb0580a7cd]]",
+    "[[w_1ef9b458c55cf119]]"
+   ],
+   "poprawna": 1,
+   "wyjasnienie": "Temperatury w kelwinach, [[w_2885fa41d340ab94]] to źródło ciepłe. To górna granica sprawności każdego silnika cieplnego pracującego między tymi temperaturami."
+  },
+  {
+   "id": "M5-06",
+   "modul": "M5",
+   "rozdzial": "16",
+   "pytanie": "Druga zasada termodynamiki w ujęciu entropii mówi, że w układzie izolowanym:",
+   "odpowiedzi": [
+    "[[w_59f31d61f38f2866]] zawsze",
+    "[[w_49c13c843f0ad6ed]]",
+    "[[w_a33ee4b1e890bcec]] może być dowolne",
+    "[[w_b373c3fe911f0937]]"
+   ],
+   "poprawna": 3,
+   "wyjasnienie": "Entropia układu izolowanego nie maleje. Równość dotyczy procesów odwracalnych, a w rzeczywistych procesach entropia rośnie."
+  },
+  {
+   "id": "M5-07",
+   "modul": "M5",
+   "rozdzial": "16",
+   "pytanie": "Dla przemiany adiabatycznej gazu doskonałego obowiązuje:",
+   "odpowiedzi": [
+    "[[w_297d08e6d8aa22ad]]",
+    "[[w_0679183f0cff77a7]]",
+    "[[w_2a97444b5d5f46c6]]",
+    "[[w_d25d0d3ab0b81df1]]"
+   ],
+   "poprawna": 3,
+   "wyjasnienie": "[[w_91279f52d7abe0b8]] to wykładnik adiabaty. Adiabata jest bardziej stroma niż izoterma, bo przy rozprężaniu gaz dodatkowo się oziębia."
+  },
+  {
+   "id": "M5-08",
+   "modul": "M5",
+   "rozdzial": "15",
+   "pytanie": "Prędkość średnia kwadratowa cząsteczek gazu wyraża się wzorem:",
+   "odpowiedzi": [
+    "[[w_eabbf265e1e5610f]]",
+    "[[w_aa1f7331d94d3a79]]",
+    "[[w_48ca1e29cdadff23]]",
+    "[[w_0c467a10cf7f0f2c]]"
+   ],
+   "poprawna": 2,
+   "wyjasnienie": "[[w_c63ae6dd4fc9f9dd]] to masa molowa. Lżejsze cząsteczki poruszają się szybciej w tej samej temperaturze — dlatego wodór ucieka z atmosfery, a azot nie."
+  },
+  {
+   "id": "M6-01",
+   "modul": "M6",
+   "rozdzial": "17",
+   "pytanie": "Prawo Coulomba w próżni ma postać:",
+   "odpowiedzi": [
+    "[[w_56c4ca05a5108b09]]",
+    "[[w_41843c453ac9c34a]]",
+    "[[w_a031581bbae35e20]]",
+    "[[w_6ae75f4577581649]]"
+   ],
+   "poprawna": 0,
+   "wyjasnienie": "Zależność od [[w_7e436e5afebf3d0c]] taka sama jak w grawitacji, ale siła elektryczna może być odpychająca. [[w_539df55c163af14a]]."
+  },
+  {
+   "id": "M6-02",
+   "modul": "M6",
+   "rozdzial": "18",
+   "pytanie": "Prawo Gaussa dla pola elektrycznego zapisujemy jako:",
+   "odpowiedzi": [
+    "[[w_cbfa86297e625908]]",
+    "[[w_e5fa3d88f5403e0e]]",
+    "[[w_a1926e3a2f7698b7]]",
+    "[[w_92821db57a849f0b]]"
+   ],
+   "poprawna": 1,
+   "wyjasnienie": "Strumień pola przez powierzchnię zamkniętą zależy tylko od ładunku wewnątrz, nie od jego rozmieszczenia ani od ładunków na zewnątrz."
+  },
+  {
+   "id": "M6-03",
+   "modul": "M6",
+   "rozdzial": "18",
+   "pytanie": "Natężenie pola wewnątrz naładowanego przewodnika w równowadze elektrostatycznej wynosi:",
+   "odpowiedzi": [
+    "Tyle samo co na powierzchni",
+    "[[w_527bce29091ff409]]",
+    "Zero",
+    "Rośnie liniowo od środka"
+   ],
+   "poprawna": 2,
+   "wyjasnienie": "Gdyby pole było niezerowe, ładunki by się przemieszczały i nie byłoby równowagi. Cały ładunek gromadzi się na powierzchni — na tym polega klatka Faradaya."
+  },
+  {
+   "id": "M6-04",
+   "modul": "M6",
+   "rozdzial": "19",
+   "pytanie": "Związek między natężeniem pola a potencjałem to:",
+   "odpowiedzi": [
+    "[[w_1f1f43f66c5932cf]]",
+    "[[w_abf20d6016074490]]",
+    "[[w_953d357c5d12073e]]",
+    "[[w_41d3728af815343a]]"
+   ],
+   "poprawna": 3,
+   "wyjasnienie": "Pole jest skierowane w stronę malejącego potencjału. Powierzchnie ekwipotencjalne są zawsze prostopadłe do linii pola."
+  },
+  {
+   "id": "M6-05",
+   "modul": "M6",
+   "rozdzial": "20",
+   "pytanie": "Pojemność kondensatora płaskiego wynosi:",
+   "odpowiedzi": [
+    "[[w_98466f401eb77402]]",
+    "[[w_4cad38b354462f0b]]",
+    "[[w_efad0d34a03c147a]]",
+    "[[w_6bfa859accaa00f9]]"
+   ],
+   "poprawna": 2,
+   "wyjasnienie": "Wstawienie dielektryka o [[w_10b8c4ba5dd9d6b9]] zwiększa pojemność. Zmniejszenie odstępu też, ale rośnie ryzyko przebicia."
+  },
+  {
+   "id": "M6-06",
+   "modul": "M6",
+   "rozdzial": "20",
+   "pytanie": "Energia zgromadzona w kondensatorze to:",
+   "odpowiedzi": [
+    "[[w_36df1f3cbaef281f]]",
+    "[[w_fb4bd2512e352484]]",
+    "[[w_7189bc8ec3f7beb6]]",
+    "[[w_4d56ad267bd6cc50]]"
+   ],
+   "poprawna": 1,
+   "wyjasnienie": "Równoważnie [[w_29559744b31ce867]]. Energia jest zmagazynowana w polu elektrycznym między okładkami."
+  },
+  {
+   "id": "M7-01",
+   "modul": "M7",
+   "rozdzial": "21",
+   "pytanie": "Prawo Ohma w postaci lokalnej (materiałowej) brzmi:",
+   "odpowiedzi": [
+    "[[w_6f246120e847c7e5]]",
+    "[[w_cb31fb8286b5038d]]",
+    "[[w_7181f5574cdf6e9b]]",
+    "[[w_c21629fcbabe994f]]"
+   ],
+   "poprawna": 2,
+   "wyjasnienie": "[[w_69c15416b63fd933]] to przewodność właściwa, [[w_588c841fd2bfaa4d]] — gęstość prądu. Postać obwodowa [[w_070310ab5be0af5d]] jest tego szczególnym przypadkiem."
+  },
+  {
+   "id": "M7-02",
+   "modul": "M7",
+   "rozdzial": "21",
+   "pytanie": "Moc wydzielana na oporniku wynosi:",
+   "odpowiedzi": [
+    "[[w_b9d6e34f2de58ae5]]",
+    "[[w_ceb6c1f60e2dd656]]",
+    "[[w_aed8e2b5311d0904]]",
+    "[[w_29aadc63b9a82d3f]]"
+   ],
+   "poprawna": 2,
+   "wyjasnienie": "Równoważnie [[w_38222b81d3e06b6d]]. Prawo Joule'a-Lenza: energia zamienia się w ciepło proporcjonalnie do kwadratu prądu."
+  },
+  {
+   "id": "M7-03",
+   "modul": "M7",
+   "rozdzial": "22",
+   "pytanie": "Siła Lorentza działająca na ładunek w polu magnetycznym to:",
+   "odpowiedzi": [
+    "[[w_914ecfbd490807ad]]",
+    "[[w_0c24d7c8bcb977f9]]",
+    "[[w_12e145c8ac1f10b5]]",
+    "[[w_3d6a2c73fd76aef4]]"
+   ],
+   "poprawna": 3,
+   "wyjasnienie": "Siła jest prostopadła do prędkości i do pola, więc nie wykonuje pracy — zmienia kierunek ruchu, nie energię. Ładunek porusza się po okręgu lub linii śrubowej."
+  },
+  {
+   "id": "M7-04",
+   "modul": "M7",
+   "rozdzial": "23",
+   "pytanie": "Prawo Ampère'a w postaci całkowej brzmi:",
+   "odpowiedzi": [
+    "[[w_c29689b0526bd73b]]",
+    "[[w_361c2ae76154890f]]",
+    "[[w_0afcf3a04f49bcbf]]",
+    "[[w_d3944a765548ddbb]]"
+   ],
+   "poprawna": 2,
+   "wyjasnienie": "Całka po konturze zamkniętym zależy od prądu objętego konturem. Maxwell uzupełnił to prawo o człon z prądem przesunięcia."
+  },
+  {
+   "id": "M7-05",
+   "modul": "M7",
+   "rozdzial": "23",
+   "pytanie": "Indukcja pola magnetycznego wewnątrz długiego solenoidu wynosi:",
+   "odpowiedzi": [
+    "[[w_2526970b625ce0b0]]",
+    "[[w_17006a1f058bacf4]]",
+    "[[w_5b140980926c101e]]",
+    "[[w_1d6b0a7abba5ff18]]"
+   ],
+   "poprawna": 1,
+   "wyjasnienie": "[[w_d1854cae891ec7b2]] to liczba zwojów na jednostkę długości. Dla prostoliniowego przewodnika obowiązuje [[w_1d6b0a7abba5ff18]]."
+  },
+  {
+   "id": "M7-06",
+   "modul": "M7",
+   "rozdzial": "22",
+   "pytanie": "Strumień pola magnetycznego przez powierzchnię zamkniętą zawsze wynosi zero, ponieważ:",
+   "odpowiedzi": [
+    "Linie pola są zawsze proste",
+    "Pole magnetyczne jest zawsze słabe",
+    "Ładunek magnetyczny znosi się parami",
+    "Nie istnieją monopole magnetyczne"
+   ],
+   "poprawna": 3,
+   "wyjasnienie": "[[w_31112f8d51a564b5]] to jedno z równań Maxwella. Linie pola magnetycznego są zamknięte — nie mają początku ani końca."
+  },
+  {
+   "id": "M8-01",
+   "modul": "M8",
+   "rozdzial": "24",
+   "pytanie": "Prawo indukcji Faradaya zapisujemy jako:",
+   "odpowiedzi": [
+    "[[w_17f13b5a0ac13121]]",
+    "[[w_94c1180b3c46d77b]]",
+    "[[w_03348e324fe6e2d1]]",
+    "[[w_ae1a5556d727df23]]"
+   ],
+   "poprawna": 1,
+   "wyjasnienie": "Siła elektromotoryczna zależy od szybkości zmiany strumienia, a nie od jego wartości. Znak minus to reguła Lenza."
+  },
+  {
+   "id": "M8-02",
+   "modul": "M8",
+   "rozdzial": "24",
+   "pytanie": "Reguła Lenza mówi, że prąd indukcyjny:",
+   "odpowiedzi": [
+    "Zanika natychmiast po powstaniu",
+    "Przeciwdziała przyczynie, która go wywołała",
+    "Zawsze płynie zgodnie z kierunkiem pola",
+    "Ma wartość proporcjonalną do strumienia"
+   ],
+   "poprawna": 1,
+   "wyjasnienie": "To konsekwencja zasady zachowania energii. Gdyby prąd wzmacniał przyczynę, dostalibyśmy energię z niczego."
+  },
+  {
+   "id": "M8-03",
+   "modul": "M8",
+   "rozdzial": "25",
+   "pytanie": "Częstotliwość drgań własnych obwodu LC wynosi:",
+   "odpowiedzi": [
+    "[[w_96fdd4912db5b024]]",
+    "[[w_ab5e8fe14c41b881]]",
+    "[[w_c21f5f8be2824870]]",
+    "[[w_6b1fddea02b8ebed]]"
+   ],
+   "poprawna": 3,
+   "wyjasnienie": "Energia przechodzi cyklicznie z pola elektrycznego kondensatora w pole magnetyczne cewki. To elektryczny odpowiednik wahadła."
+  },
+  {
+   "id": "M8-04",
+   "modul": "M8",
+   "rozdzial": "26",
+   "pytanie": "Które równanie Maxwella opisuje powstawanie pola magnetycznego?",
+   "odpowiedzi": [
+    "[[w_8e2797460e5f521b]]",
+    "[[w_4225424a2979a208]]",
+    "[[w_20e048173c489d22]]",
+    "[[w_dd987d98eaad96a4]]"
+   ],
+   "poprawna": 1,
+   "wyjasnienie": "To prawo Ampère'a-Maxwella. Drugi człon, prąd przesunięcia, jest wkładem Maxwella i to on umożliwił przewidzenie fal elektromagnetycznych."
+  },
+  {
+   "id": "M8-05",
+   "modul": "M8",
+   "rozdzial": "27",
+   "pytanie": "Prędkość fal elektromagnetycznych w próżni wynika ze wzoru:",
+   "odpowiedzi": [
+    "[[w_ceee3f8e08872377]]",
+    "[[w_8975deb890f15e18]]",
+    "[[w_ee4e5686dfe22f94]]",
+    "[[w_c5f71bf7c46c4c3d]]"
+   ],
+   "poprawna": 2,
+   "wyjasnienie": "Z dwóch stałych mierzonych w doświadczeniach elektrycznych i magnetycznych wychodzi prędkość światła. To był argument, że światło jest falą elektromagnetyczną."
+  },
+  {
+   "id": "M8-06",
+   "modul": "M8",
+   "rozdzial": "27",
+   "pytanie": "W fali elektromagnetycznej wektory pola elektrycznego i magnetycznego są:",
+   "odpowiedzi": [
+    "Prostopadłe do siebie, ale równoległe do kierunku ruchu",
+    "Równoległe do siebie i do kierunku ruchu fali",
+    "Wzajemnie prostopadłe i prostopadłe do kierunku rozchodzenia się fali",
+    "Ustawione pod kątem 45 stopni"
+   ],
+   "poprawna": 2,
+   "wyjasnienie": "Fala elektromagnetyczna jest poprzeczna. Dlatego da się ją spolaryzować, w odróżnieniu od fali dźwiękowej, która jest podłużna."
+  },
+  {
+   "id": "M9-01",
+   "modul": "M9",
+   "rozdzial": "28",
+   "pytanie": "Prawo załamania (prawo Snella) ma postać:",
+   "odpowiedzi": [
+    "[[w_2516430781e64a25]]",
+    "[[w_e3c12193f39d0bec]]",
+    "[[w_b3a4ec5966d18c58]]",
+    "[[w_03efd4852de5d3ab]]"
+   ],
+   "poprawna": 3,
+   "wyjasnienie": "Współczynnik załamania [[w_530888af2de6ae5b]]. Przy przejściu do ośrodka gęstszego optycznie promień załamuje się ku normalnej."
+  },
+  {
+   "id": "M9-02",
+   "modul": "M9",
+   "rozdzial": "28",
+   "pytanie": "Całkowite wewnętrzne odbicie zachodzi, gdy:",
+   "odpowiedzi": [
+    "Światło biegnie z ośrodka gęstszego do rzadszego pod kątem większym od granicznego",
+    "Kąt padania wynosi zero",
+    "Oba ośrodki mają ten sam współczynnik załamania",
+    "Światło biegnie z ośrodka rzadszego do gęstszego"
+   ],
+   "poprawna": 0,
+   "wyjasnienie": "Kąt graniczny spełnia [[w_11fbafc2e45f6399]]. Na tym opiera się działanie światłowodu."
+  },
+  {
+   "id": "M9-03",
+   "modul": "M9",
+   "rozdzial": "28",
+   "pytanie": "Równanie soczewki cienkiej to:",
+   "odpowiedzi": [
+    "[[w_4dd4e64b9bad925b]]",
+    "[[w_c1ff96782af9c93e]]",
+    "[[w_6f43be50ad64bf76]]",
+    "[[w_d37d8ea2c09f5081]]"
+   ],
+   "poprawna": 3,
+   "wyjasnienie": "Zdolność skupiająca [[w_4025568a54b987e0]] wyrażona jest w dioptriach. Dla soczewki rozpraszającej [[w_becf24bddbed6d80]]."
+  },
+  {
+   "id": "M9-04",
+   "modul": "M9",
+   "rozdzial": "29",
+   "pytanie": "Warunek na jasne prążki w doświadczeniu Younga to:",
+   "odpowiedzi": [
+    "[[w_f9eace09bb828c92]]",
+    "[[w_353fce562e5ccb95]]",
+    "[[w_04702cef3beba007]]",
+    "[[w_d768582789a05562]]"
+   ],
+   "poprawna": 0,
+   "wyjasnienie": "Różnica dróg musi być całkowitą wielokrotnością długości fali. Warunek [[w_a211ef3ebefe36ad]] daje prążki ciemne."
+  },
+  {
+   "id": "M9-05",
+   "modul": "M9",
+   "rozdzial": "30",
+   "pytanie": "Pierwsze minimum dyfrakcyjne na pojedynczej szczelinie o szerokości a występuje przy:",
+   "odpowiedzi": [
+    "[[w_a25670100b8b6fa6]]",
+    "[[w_ee21c1e4ac33f511]]",
+    "[[w_b306ada894865ce7]]",
+    "[[w_e7ef2c6236620692]]"
+   ],
+   "poprawna": 0,
+   "wyjasnienie": "Im węższa szczelina, tym szersze maksimum centralne. Dyfrakcja ogranicza zdolność rozdzielczą przyrządów optycznych."
+  },
+  {
+   "id": "M9-06",
+   "modul": "M9",
+   "rozdzial": "31",
+   "pytanie": "Prawo Malusa opisujące natężenie światła za polaryzatorem to:",
+   "odpowiedzi": [
+    "[[w_da8b3a18761aad2f]]",
+    "[[w_e2f12a87d4cb270b]]",
+    "[[w_d60568d3dcf3f5a7]]",
+    "[[w_c89eda6e72631437]]"
+   ],
+   "poprawna": 0,
+   "wyjasnienie": "Przy skrzyżowanych polaryzatorach ([[w_23d451a4a23202cc]]) światło nie przechodzi. Światło niespolaryzowane traci na pierwszym polaryzatorze połowę natężenia."
+  },
+  {
+   "id": "M10-01",
+   "modul": "M10",
+   "rozdzial": "32",
+   "pytanie": "Energia kwantu promieniowania (fotonu) wynosi:",
+   "odpowiedzi": [
+    "[[w_1a11c96e612e3b16]]",
+    "[[w_f1e46c74088bf44d]]",
+    "[[w_6f578bc5c4dc7acf]]",
+    "[[w_04ada37627bf0232]]"
+   ],
+   "poprawna": 2,
+   "wyjasnienie": "[[w_42324a7049d9fa17]] J·s. Równoważnie [[w_c07db0e4eedf998d]]. Hipoteza Plancka rozwiązała problem katastrofy w nadfiolecie."
+  },
+  {
+   "id": "M10-02",
+   "modul": "M10",
+   "rozdzial": "32",
+   "pytanie": "Równanie Einsteina dla zjawiska fotoelektrycznego ma postać:",
+   "odpowiedzi": [
+    "[[w_a4d8bd31e7105712]]",
+    "[[w_4a9c903698047859]]",
+    "[[w_f1ae04ac8b937dff]]",
+    "[[w_2a41dadf8d333229]]"
+   ],
+   "poprawna": 0,
+   "wyjasnienie": "[[w_e2415cb7f63df0c9]] to praca wyjścia. Poniżej częstotliwości progowej zjawisko nie zachodzi niezależnie od natężenia światła — tego nie da się wyjaśnić falowo."
+  },
+  {
+   "id": "M10-03",
+   "modul": "M10",
+   "rozdzial": "34",
+   "pytanie": "Długość fali de Broglie'a cząstki o pędzie p wynosi:",
+   "odpowiedzi": [
+    "[[w_cc3f3e093f59d9c2]]",
+    "[[w_b09fca2353574fc9]]",
+    "[[w_822f8a0335ae391a]]",
+    "[[w_a0eb130796227cc6]]"
+   ],
+   "poprawna": 0,
+   "wyjasnienie": "Każdej cząstce odpowiada fala. Dla obiektów makroskopowych długość fali jest tak mała, że efektów falowych nie obserwujemy."
+  },
+  {
+   "id": "M10-04",
+   "modul": "M10",
+   "rozdzial": "35",
+   "pytanie": "Zasada nieoznaczoności Heisenberga dla położenia i pędu brzmi:",
+   "odpowiedzi": [
+    "[[w_5bb344dad57576b7]]",
+    "[[w_b8d0f03897eaa30f]]",
+    "[[w_a6f816b832b5f5fa]]",
+    "[[w_bb78191bb5b79969]]"
+   ],
+   "poprawna": 1,
+   "wyjasnienie": "To ograniczenie samej natury, nie niedoskonałość przyrządów. Analogiczna relacja wiąże energię i czas: [[w_aa15b19a150f6bfb]]."
+  },
+  {
+   "id": "M10-05",
+   "modul": "M10",
+   "rozdzial": "35",
+   "pytanie": "Kwadrat modułu funkcji falowej określa:",
+   "odpowiedzi": [
+    "Energię cząstki w danym punkcie",
+    "Tor ruchu cząstki",
+    "Pęd cząstki",
+    "Gęstość prawdopodobieństwa znalezienia cząstki"
+   ],
+   "poprawna": 3,
+   "wyjasnienie": "To interpretacja Borna. Warunek normalizacji wymaga, żeby [[w_fd4072134ce7fc32]] — cząstka gdzieś na pewno jest."
+  },
+  {
+   "id": "M10-06",
+   "modul": "M10",
+   "rozdzial": "32",
+   "pytanie": "Prawo przesunięć Wiena wiąże temperaturę ciała doskonale czarnego z:",
+   "odpowiedzi": [
+    "Energią jonizacji atomu",
+    "Długością fali maksimum emisji: [[w_07c376a7415c02b3]]",
+    "Całkowitą mocą wypromieniowaną: [[w_5cda308c5db97cf8]]",
+    "Częstotliwością progową fotoefektu"
+   ],
+   "poprawna": 1,
+   "wyjasnienie": "Im wyższa temperatura, tym krótsza fala maksimum — dlatego gorętsze gwiazdy świecą na niebiesko. Zależność [[w_5cda308c5db97cf8]] to prawo Stefana-Boltzmanna."
+  },
+  {
+   "id": "M11-01",
+   "modul": "M11",
+   "rozdzial": "36",
+   "pytanie": "Zakaz Pauliego mówi, że w atomie:",
+   "odpowiedzi": [
+    "Elektron nie może znaleźć się w jądrze",
+    "Liczba elektronów nie może przekroczyć liczby protonów",
+    "Elektrony nie mogą zmieniać orbity",
+    "Dwa elektrony nie mogą mieć identycznego zestawu czterech liczb kwantowych"
+   ],
+   "poprawna": 3,
+   "wyjasnienie": "To on wymusza budowę powłok elektronowych i tłumaczy układ okresowy. Bez niego wszystkie elektrony zajęłyby stan podstawowy."
+  },
+  {
+   "id": "M11-02",
+   "modul": "M11",
+   "rozdzial": "36",
+   "pytanie": "Energia poziomów w atomie wodoru dana jest wzorem:",
+   "odpowiedzi": [
+    "[[w_7268bce99efeede8]]",
+    "[[w_d9797537f598a427]]",
+    "[[w_122cf3e870966a88]]",
+    "[[w_e26b8dacd124a684]]"
+   ],
+   "poprawna": 1,
+   "wyjasnienie": "Znak minus oznacza stan związany. Energia jonizacji z poziomu podstawowego to [[w_3cee5101f8dc7132]] eV."
+  },
+  {
+   "id": "M11-03",
+   "modul": "M11",
+   "rozdzial": "37",
+   "pytanie": "Pasmo zabronione (przerwa energetyczna) w półprzewodniku:",
+   "odpowiedzi": [
+    "Jest na tyle wąskie, że wzbudzenie termiczne przenosi elektrony do pasma przewodnictwa",
+    "Zanika w temperaturze zera bezwzględnego",
+    "Jest szersze niż w izolatorze",
+    "Nie występuje w ogóle"
+   ],
+   "poprawna": 0,
+   "wyjasnienie": "W metalu pasma się nakładają, w izolatorze przerwa jest zbyt duża. Półprzewodnik leży pomiędzy — stąd silna zależność przewodnictwa od temperatury."
+  },
+  {
+   "id": "M11-04",
+   "modul": "M11",
+   "rozdzial": "38",
+   "pytanie": "Prawo rozpadu promieniotwórczego ma postać:",
+   "odpowiedzi": [
+    "[[w_8721cb6065ede1ff]]",
+    "[[w_d8faf40c85fc8c20]]",
+    "[[w_170e046520ed0d1b]]",
+    "[[w_69b4166e84c03c1c]]"
+   ],
+   "poprawna": 0,
+   "wyjasnienie": "Czas połowicznego rozpadu wiąże się ze stałą rozpadu: [[w_9f431ca28cadb333]]. Rozpad jest procesem losowym, niezależnym od warunków zewnętrznych."
+  },
+  {
+   "id": "M11-05",
+   "modul": "M11",
+   "rozdzial": "38",
+   "pytanie": "Niedobór masy jądra atomowego odpowiada:",
+   "odpowiedzi": [
+    "Energii wiązania, zgodnie z [[w_cf97566163a53869]]",
+    "Energii kinetycznej nukleonów",
+    "Masie elektronów w atomie",
+    "Błędowi pomiaru masy protonu"
+   ],
+   "poprawna": 0,
+   "wyjasnienie": "Masa jądra jest mniejsza od sumy mas nukleonów. Różnica to energia potrzebna do rozerwania jądra. Największa energia wiązania na nukleon przypada na żelazo."
+  },
+  {
+   "id": "M11-06",
+   "modul": "M11",
+   "rozdzial": "38",
+   "pytanie": "Rozpad beta minus polega na przemianie:",
+   "odpowiedzi": [
+    "Protonu w neutron z emisją pozytonu",
+    "Neutronu w proton z emisją elektronu i antyneutrina",
+    "Jądra w cząstkę alfa i jądro potomne",
+    "Elektronu w foton"
+   ],
+   "poprawna": 1,
+   "wyjasnienie": "Liczba masowa się nie zmienia, liczba atomowa rośnie o 1. Rozpad [[w_50a03a6cf88e91d8]] to przemiana odwrotna, a rozpad [[w_f7c665b45932a814]] oznacza emisję jądra helu."
+  }
+ ]
+}

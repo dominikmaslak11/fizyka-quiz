@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="akcent">#1A365D</color>
+    <color name="akcent_jasny">#2B6CB0</color>
+    <color name="tlo">#F7F8FA</color>
+    <color name="karta">#FFFFFF</color>
+    <color name="tekst">#1C2530</color>
+    <color name="szary">#5A6472</color>
+    <color name="ok">#1E7A3C</color>
+    <color name="zle">#A8341F</color>
+    <color name="ok_tlo">#E4F3E9</color>
+    <color name="zle_tlo">#FBEAE7</color>
+</resources>

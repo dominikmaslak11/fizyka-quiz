@@ -4,24 +4,1519 @@
   "w": 346,
   "h": 95
  },
- "F = ma": {
-  "plik": "w_8cc1a6366d1c72ca.png",
-  "w": 253,
-  "h": 60
- },
- "\\Delta x \\,\\Delta p \\geq \\frac{\\hbar}{2}": {
-  "plik": "w_477f3c0db5e91cfd.png",
-  "w": 355,
-  "h": 155
- },
- "\\nabla \\times \\vec{B} = \\mu_0\\vec{J} + \\mu_0\\varepsilon_0\\frac{\\partial \\vec{E}}{\\partial t}": {
-  "plik": "w_3ec1ee9ee9975738.png",
-  "w": 736,
-  "h": 174
- },
  "\\oint \\vec{E}\\cdot d\\vec{A} = \\frac{Q}{\\varepsilon_0}": {
   "plik": "w_e5fa3d88f5403e0e.png",
   "w": 451,
   "h": 167
+ },
+ "(m+\\tfrac{1}{2})\\lambda": {
+  "plik": "w_a211ef3ebefe36ad.png",
+  "w": 288,
+  "h": 94
+ },
+ "11{,}2": {
+  "plik": "w_33c376cf40e2d0f9.png",
+  "w": 134,
+  "h": 71
+ },
+ "13{,}6": {
+  "plik": "w_3cee5101f8dc7132.png",
+  "w": 134,
+  "h": 71
+ },
+ "30^\\circ": {
+  "plik": "w_df5f4b07dd5316fd.png",
+  "w": 108,
+  "h": 62
+ },
+ "45^\\circ": {
+  "plik": "w_dfaf3f221bdfe2cd.png",
+  "w": 108,
+  "h": 62
+ },
+ "60^\\circ": {
+  "plik": "w_c1b60061ee3ad2dc.png",
+  "w": 108,
+  "h": 62
+ },
+ "7{,}9": {
+  "plik": "w_03118b6aac23152e.png",
+  "w": 99,
+  "h": 71
+ },
+ "90^\\circ": {
+  "plik": "w_362ac8c7a7496dff.png",
+  "w": 108,
+  "h": 62
+ },
+ "A(t) = A_0 - \\beta t": {
+  "plik": "w_ad7f6f1d76beab5b.png",
+  "w": 464,
+  "h": 82
+ },
+ "A(t) = A_0 e^{-\\beta t}": {
+  "plik": "w_eada73363f18dc26.png",
+  "w": 433,
+  "h": 91
+ },
+ "A(t) = A_0\\cos\\beta t": {
+  "plik": "w_ba897882e86587ab.png",
+  "w": 493,
+  "h": 82
+ },
+ "A(t) = \\frac{A_0}{\\beta t}": {
+  "plik": "w_14cc43e34465e312.png",
+  "w": 326,
+  "h": 168
+ },
+ "B = \\frac{\\mu_0 I}{2\\pi r}": {
+  "plik": "w_1d6b0a7abba5ff18.png",
+  "w": 281,
+  "h": 155
+ },
+ "B = \\frac{\\mu_0 n}{I}": {
+  "plik": "w_5b140980926c101e.png",
+  "w": 283,
+  "h": 137
+ },
+ "B = \\mu_0 n I": {
+  "plik": "w_17006a1f058bacf4.png",
+  "w": 304,
+  "h": 73
+ },
+ "B = \\mu_0 n I^2": {
+  "plik": "w_2526970b625ce0b0.png",
+  "w": 332,
+  "h": 84
+ },
+ "C = \\frac{\\varepsilon_0 S d}{\\varepsilon_r}": {
+  "plik": "w_6bfa859accaa00f9.png",
+  "w": 313,
+  "h": 166
+ },
+ "C = \\frac{\\varepsilon_0 \\varepsilon_r S}{d}": {
+  "plik": "w_efad0d34a03c147a.png",
+  "w": 336,
+  "h": 155
+ },
+ "C = \\frac{d}{\\varepsilon_0 S}": {
+  "plik": "w_4cad38b354462f0b.png",
+  "w": 277,
+  "h": 166
+ },
+ "C = \\varepsilon_0 S d": {
+  "plik": "w_98466f401eb77402.png",
+  "w": 299,
+  "h": 71
+ },
+ "E = \\Delta m c^2": {
+  "plik": "w_cf97566163a53869.png",
+  "w": 332,
+  "h": 71
+ },
+ "E = \\frac{\\nu}{h}": {
+  "plik": "w_1a11c96e612e3b16.png",
+  "w": 212,
+  "h": 137
+ },
+ "E = \\frac{hc}{\\lambda}": {
+  "plik": "w_c07db0e4eedf998d.png",
+  "w": 241,
+  "h": 156
+ },
+ "E = \\frac{h}{\\nu}": {
+  "plik": "w_04ada37627bf0232.png",
+  "w": 212,
+  "h": 156
+ },
+ "E = h\\nu": {
+  "plik": "w_6f578bc5c4dc7acf.png",
+  "w": 236,
+  "h": 61
+ },
+ "E = h\\nu^2": {
+  "plik": "w_f1e46c74088bf44d.png",
+  "w": 264,
+  "h": 71
+ },
+ "E_k = I\\omega^2": {
+  "plik": "w_b2d010c38faa0b82.png",
+  "w": 293,
+  "h": 81
+ },
+ "E_k = \\tfrac{1}{2}I\\omega": {
+  "plik": "w_e9fa1dc30a5fb9fd.png",
+  "w": 304,
+  "h": 94
+ },
+ "E_k = \\tfrac{1}{2}I\\omega^2": {
+  "plik": "w_0d6d93fe9dd27ce8.png",
+  "w": 331,
+  "h": 95
+ },
+ "E_k = \\tfrac{1}{2}mR\\omega^2": {
+  "plik": "w_90fa6868b722fbcd.png",
+  "w": 408,
+  "h": 95
+ },
+ "E_k = \\tfrac{1}{2}mv": {
+  "plik": "w_445e857deace6c3d.png",
+  "w": 318,
+  "h": 94
+ },
+ "E_k = m v^2": {
+  "plik": "w_edf5b6130f7a62c0.png",
+  "w": 307,
+  "h": 81
+ },
+ "E_k = mv": {
+  "plik": "w_315311e96f58c6d1.png",
+  "w": 280,
+  "h": 70
+ },
+ "E_n = -13{,}6\\,n\\ \\mathrm{eV}": {
+  "plik": "w_e26b8dacd124a684.png",
+  "w": 521,
+  "h": 73
+ },
+ "E_n = -\\frac{13{,}6\\ \\mathrm{eV}}{n^2}": {
+  "plik": "w_d9797537f598a427.png",
+  "w": 482,
+  "h": 155
+ },
+ "E_n = -\\frac{13{,}6\\ \\mathrm{eV}}{n}": {
+  "plik": "w_122cf3e870966a88.png",
+  "w": 482,
+  "h": 155
+ },
+ "E_n = 13{,}6\\,n^2\\ \\mathrm{eV}": {
+  "plik": "w_7268bce99efeede8.png",
+  "w": 494,
+  "h": 84
+ },
+ "E_p = \\tfrac{1}{2}kx": {
+  "plik": "w_9e733b4db47fbc37.png",
+  "w": 298,
+  "h": 94
+ },
+ "E_p = \\tfrac{1}{2}kx^2": {
+  "plik": "w_266874293eb7e806.png",
+  "w": 325,
+  "h": 95
+ },
+ "E_p = kx": {
+  "plik": "w_4a46bbaa2a8be905.png",
+  "w": 259,
+  "h": 80
+ },
+ "E_p = kx^2": {
+  "plik": "w_2cefead2d8c47136.png",
+  "w": 287,
+  "h": 90
+ },
+ "E_{k,\\max} = h\\nu \\cdot W": {
+  "plik": "w_2a41dadf8d333229.png",
+  "w": 492,
+  "h": 80
+ },
+ "F": {
+  "plik": "w_e69f20e9f683920d.png",
+  "w": 66,
+  "h": 60
+ },
+ "F = -kx": {
+  "plik": "w_1416513ce2ee97a0.png",
+  "w": 289,
+  "h": 66
+ },
+ "F = 4\\pi\\varepsilon_0 \\frac{q_1 q_2}{r^2}": {
+  "plik": "w_a031581bbae35e20.png",
+  "w": 422,
+  "h": 137
+ },
+ "F = G\\frac{m_1 + m_2}{r^2}": {
+  "plik": "w_308b0bc7121f9f0f.png",
+  "w": 484,
+  "h": 147
+ },
+ "F = G\\frac{m_1 m_2}{r^2}": {
+  "plik": "w_6ac91063c9eed35b.png",
+  "w": 400,
+  "h": 137
+ },
+ "F = G\\frac{m_1 m_2}{r}": {
+  "plik": "w_a8112c99728403b9.png",
+  "w": 400,
+  "h": 137
+ },
+ "F = \\frac{1}{4\\pi\\varepsilon_0}\\frac{q_1 q_2}{r^2}": {
+  "plik": "w_56c4ca05a5108b09.png",
+  "w": 436,
+  "h": 163
+ },
+ "F = \\frac{1}{4\\pi\\varepsilon_0}\\frac{q_1 q_2}{r}": {
+  "plik": "w_41843c453ac9c34a.png",
+  "w": 436,
+  "h": 163
+ },
+ "F = \\frac{G r^2}{m_1 m_2}": {
+  "plik": "w_cb884459bb4b7357.png",
+  "w": 346,
+  "h": 173
+ },
+ "F = \\frac{\\rho g}{V}": {
+  "plik": "w_d3de0f07adf62a34.png",
+  "w": 242,
+  "h": 137
+ },
+ "F = \\frac{\\varepsilon_0 q_1 q_2}{r^2}": {
+  "plik": "w_6ae75f4577581649.png",
+  "w": 347,
+  "h": 137
+ },
+ "F = \\rho V": {
+  "plik": "w_48ae0214179838ac.png",
+  "w": 248,
+  "h": 73
+ },
+ "F = \\rho g V": {
+  "plik": "w_92f0606c9675c4d9.png",
+  "w": 283,
+  "h": 73
+ },
+ "F = mgV": {
+  "plik": "w_65d7af823fafba2d.png",
+  "w": 308,
+  "h": 73
+ },
+ "G \\approx 6{,}67\\cdot10^{-11}\\,\\mathrm{N\\,m^2/kg^2}": {
+  "plik": "w_e1a4eac4427df5f9.png",
+  "w": 782,
+  "h": 88
+ },
+ "I": {
+  "plik": "w_ca73ab65568cd125.png",
+  "w": 48,
+  "h": 60
+ },
+ "I = I_0\\cos\\theta": {
+  "plik": "w_e2f12a87d4cb270b.png",
+  "w": 346,
+  "h": 71
+ },
+ "I = I_0\\cos^2\\theta": {
+  "plik": "w_da8b3a18761aad2f.png",
+  "w": 373,
+  "h": 81
+ },
+ "I = I_0\\sin^2\\theta": {
+  "plik": "w_d60568d3dcf3f5a7.png",
+  "w": 366,
+  "h": 81
+ },
+ "I = \\frac{I_0}{\\cos^2\\theta}": {
+  "plik": "w_c89eda6e72631437.png",
+  "w": 318,
+  "h": 155
+ },
+ "I = \\tfrac{1}{12}mL^2": {
+  "plik": "w_f61729e86372b18c.png",
+  "w": 337,
+  "h": 95
+ },
+ "I = \\tfrac{1}{2}mR^2": {
+  "plik": "w_4164dc7dfe53095f.png",
+  "w": 318,
+  "h": 95
+ },
+ "I = \\tfrac{2}{5}mR^2": {
+  "plik": "w_b2a52ef63d6b33fa.png",
+  "w": 318,
+  "h": 95
+ },
+ "I = mR^2": {
+  "plik": "w_49f3ebf5a0ba2d20.png",
+  "w": 279,
+  "h": 71
+ },
+ "L = n\\frac{\\lambda}{2}": {
+  "plik": "w_02cff93f314ecd9d.png",
+  "w": 245,
+  "h": 156
+ },
+ "M": {
+  "plik": "w_c63ae6dd4fc9f9dd.png",
+  "w": 85,
+  "h": 60
+ },
+ "N": {
+  "plik": "w_b51a60734da64be0.png",
+  "w": 74,
+  "h": 60
+ },
+ "N(t) = N_0 e^{-\\lambda t}": {
+  "plik": "w_8721cb6065ede1ff.png",
+  "w": 446,
+  "h": 91
+ },
+ "N(t) = N_0 e^{\\lambda t}": {
+  "plik": "w_170e046520ed0d1b.png",
+  "w": 407,
+  "h": 91
+ },
+ "N(t) = N_0(1 - \\lambda t)": {
+  "plik": "w_69b4166e84c03c1c.png",
+  "w": 563,
+  "h": 82
+ },
+ "N(t) = \\frac{N_0}{\\lambda t}": {
+  "plik": "w_d8faf40c85fc8c20.png",
+  "w": 340,
+  "h": 155
+ },
+ "P = IR": {
+  "plik": "w_b9d6e34f2de58ae5.png",
+  "w": 246,
+  "h": 60
+ },
+ "P = I^2 R": {
+  "plik": "w_aed8e2b5311d0904.png",
+  "w": 273,
+  "h": 71
+ },
+ "P = UI = \\frac{U^2}{R}": {
+  "plik": "w_38222b81d3e06b6d.png",
+  "w": 434,
+  "h": 162
+ },
+ "P = \\frac{F}{t}": {
+  "plik": "w_efe81f47c0f999cc.png",
+  "w": 225,
+  "h": 155
+ },
+ "P = \\frac{I}{R^2}": {
+  "plik": "w_ceb6c1f60e2dd656.png",
+  "w": 252,
+  "h": 155
+ },
+ "P = \\frac{R}{I^2}": {
+  "plik": "w_29aadc63b9a82d3f.png",
+  "w": 235,
+  "h": 155
+ },
+ "P = \\frac{W}{F}": {
+  "plik": "w_5331d6c31e6b9359.png",
+  "w": 245,
+  "h": 155
+ },
+ "P = \\frac{dW}{dt}": {
+  "plik": "w_eeefbea70b3c9879.png",
+  "w": 281,
+  "h": 156
+ },
+ "P = \\vec{F}\\cdot\\vec{s}": {
+  "plik": "w_8927ea67c5755999.png",
+  "w": 294,
+  "h": 79
+ },
+ "P = \\vec{F}\\cdot\\vec{v}": {
+  "plik": "w_1858c8f0cc80ffbb.png",
+  "w": 297,
+  "h": 79
+ },
+ "P \\sim T^4": {
+  "plik": "w_5cda308c5db97cf8.png",
+  "w": 236,
+  "h": 71
+ },
+ "Q = 0": {
+  "plik": "w_d8a126c75fdd9869.png",
+  "w": 192,
+  "h": 73
+ },
+ "Q = W": {
+  "plik": "w_ee579bf1689deeed.png",
+  "w": 232,
+  "h": 73
+ },
+ "R \\approx 8{,}31\\ \\mathrm{J/(mol\\cdot K)}": {
+  "plik": "w_e6eeceaa4f2caf10.png",
+  "w": 638,
+  "h": 82
+ },
+ "S_1 + v_1 = S_2 + v_2": {
+  "plik": "w_6a1abd04ea4cb396.png",
+  "w": 533,
+  "h": 70
+ },
+ "S_1 v_1 = S_2 v_2": {
+  "plik": "w_e5a544e2272c00b8.png",
+  "w": 364,
+  "h": 70
+ },
+ "S_1 v_2 = S_2 v_1": {
+  "plik": "w_c78d89349fcac41d.png",
+  "w": 364,
+  "h": 70
+ },
+ "T = 2\\pi\\sqrt{\\frac{g}{l}}": {
+  "plik": "w_4204b76c274284a0.png",
+  "w": 348,
+  "h": 182
+ },
+ "T = 2\\pi\\sqrt{\\frac{l}{g}}": {
+  "plik": "w_dbf3f2d1fc67cf48.png",
+  "w": 348,
+  "h": 224
+ },
+ "T = 2\\pi\\sqrt{\\frac{m}{k}}": {
+  "plik": "w_f6f975d282d58c72.png",
+  "w": 372,
+  "h": 182
+ },
+ "T = \\frac{1}{2\\pi}\\sqrt{\\frac{l}{g}}": {
+  "plik": "w_518ca2d84d4d8682.png",
+  "w": 362,
+  "h": 224
+ },
+ "T = \\frac{N}{\\mu_s}": {
+  "plik": "w_896b7623fad5ac66.png",
+  "w": 234,
+  "h": 168
+ },
+ "T = \\mathrm{const}": {
+  "plik": "w_e79a48276d940199.png",
+  "w": 309,
+  "h": 60
+ },
+ "T = \\mu_s N": {
+  "plik": "w_17049ca46f060ace.png",
+  "w": 282,
+  "h": 73
+ },
+ "T = \\mu_s mg\\sin\\alpha": {
+  "plik": "w_9668d9f5fd06b4a0.png",
+  "w": 466,
+  "h": 73
+ },
+ "T = \\mu_s v": {
+  "plik": "w_03fe3f6b021b05f9.png",
+  "w": 256,
+  "h": 73
+ },
+ "T_1": {
+  "plik": "w_2885fa41d340ab94.png",
+  "w": 80,
+  "h": 70
+ },
+ "T_{1/2} = \\frac{\\ln 2}{\\lambda}": {
+  "plik": "w_9f431ca28cadb333.png",
+  "w": 338,
+  "h": 156
+ },
+ "U = RI": {
+  "plik": "w_070310ab5be0af5d.png",
+  "w": 246,
+  "h": 60
+ },
+ "V": {
+  "plik": "w_c9ee5681d3c59f75.png",
+  "w": 67,
+  "h": 60
+ },
+ "V = -\\nabla \\vec{E}": {
+  "plik": "w_953d357c5d12073e.png",
+  "w": 326,
+  "h": 85
+ },
+ "W": {
+  "plik": "w_e2415cb7f63df0c9.png",
+  "w": 86,
+  "h": 60
+ },
+ "W = CU^2": {
+  "plik": "w_4d56ad267bd6cc50.png",
+  "w": 313,
+  "h": 71
+ },
+ "W = Fs\\cos\\theta": {
+  "plik": "w_04c1defd7f6248f3.png",
+  "w": 412,
+  "h": 61
+ },
+ "W = \\Delta E_k": {
+  "plik": "w_cbc4dd7bd34f4a31.png",
+  "w": 315,
+  "h": 70
+ },
+ "W = \\frac{C}{2U^2}": {
+  "plik": "w_7189bc8ec3f7beb6.png",
+  "w": 307,
+  "h": 155
+ },
+ "W = \\frac{F}{s}": {
+  "plik": "w_06a252a37e89f370.png",
+  "w": 246,
+  "h": 155
+ },
+ "W = \\frac{Q^2}{2C} = \\tfrac{1}{2}QU": {
+  "plik": "w_29559744b31ce867.png",
+  "w": 518,
+  "h": 162
+ },
+ "W = \\int_A^B F\\,dt": {
+  "plik": "w_85412ed0755a4f54.png",
+  "w": 427,
+  "h": 183
+ },
+ "W = \\int_A^B \\vec{F}\\cdot d\\vec{s}": {
+  "plik": "w_a80fdb97ae464fa3.png",
+  "w": 473,
+  "h": 183
+ },
+ "W = \\tfrac{1}{2}CU": {
+  "plik": "w_36df1f3cbaef281f.png",
+  "w": 324,
+  "h": 94
+ },
+ "W = \\tfrac{1}{2}CU^2": {
+  "plik": "w_fb4bd2512e352484.png",
+  "w": 352,
+  "h": 95
+ },
+ "W = \\vec{F}\\cdot\\vec{s}": {
+  "plik": "w_1c2449ada6459de0.png",
+  "w": 314,
+  "h": 79
+ },
+ "Z = \\frac{1}{f}": {
+  "plik": "w_4025568a54b987e0.png",
+  "w": 211,
+  "h": 166
+ },
+ "\\Delta E\\,\\Delta t \\geq \\frac{\\hbar}{2}": {
+  "plik": "w_aa15b19a150f6bfb.png",
+  "w": 361,
+  "h": 155
+ },
+ "\\Delta S": {
+  "plik": "w_a33ee4b1e890bcec.png",
+  "w": 115,
+  "h": 60
+ },
+ "\\Delta S = 0": {
+  "plik": "w_59f31d61f38f2866.png",
+  "w": 241,
+  "h": 60
+ },
+ "\\Delta S \\geq 0": {
+  "plik": "w_b373c3fe911f0937.png",
+  "w": 242,
+  "h": 69
+ },
+ "\\Delta S \\leq 0": {
+  "plik": "w_49c13c843f0ad6ed.png",
+  "w": 242,
+  "h": 69
+ },
+ "\\Delta U = 0": {
+  "plik": "w_69ca2b4d5ac8cf69.png",
+  "w": 249,
+  "h": 60
+ },
+ "\\Delta x + \\Delta p \\geq \\hbar": {
+  "plik": "w_bb78191bb5b79969.png",
+  "w": 414,
+  "h": 74
+ },
+ "\\Delta x\\,\\Delta p \\geq \\frac{\\hbar}{2}": {
+  "plik": "w_b8d0f03897eaa30f.png",
+  "w": 355,
+  "h": 155
+ },
+ "\\Delta x\\,\\Delta p \\leq \\frac{\\hbar}{2}": {
+  "plik": "w_5bb344dad57576b7.png",
+  "w": 355,
+  "h": 155
+ },
+ "\\alpha": {
+  "plik": "w_f7c665b45932a814.png",
+  "w": 56,
+  "h": 42
+ },
+ "\\alpha = 45^\\circ": {
+  "plik": "w_d888911a736cfbce.png",
+  "w": 244,
+  "h": 62
+ },
+ "\\bar{E}_k = 3k_BT": {
+  "plik": "w_443a9663de0db2e0.png",
+  "w": 346,
+  "h": 80
+ },
+ "\\bar{E}_k = \\tfrac{1}{2}k_BT": {
+  "plik": "w_b4509b04595ef4c7.png",
+  "w": 351,
+  "h": 94
+ },
+ "\\bar{E}_k = \\tfrac{3}{2}RT": {
+  "plik": "w_3d86d580caa60946.png",
+  "w": 325,
+  "h": 94
+ },
+ "\\bar{E}_k = \\tfrac{3}{2}k_BT": {
+  "plik": "w_c145d2e95c820602.png",
+  "w": 351,
+  "h": 94
+ },
+ "\\beta^+": {
+  "plik": "w_50a03a6cf88e91d8.png",
+  "w": 96,
+  "h": 83
+ },
+ "\\eta = 1 - \\frac{T_1}{T_2}": {
+  "plik": "w_598e06fb0580a7cd.png",
+  "w": 341,
+  "h": 165
+ },
+ "\\eta = 1 - \\frac{T_2}{T_1}": {
+  "plik": "w_74847fb16bcc72c8.png",
+  "w": 341,
+  "h": 165
+ },
+ "\\eta = \\frac{T_1 - T_2}{T_2}": {
+  "plik": "w_951576e99300c60b.png",
+  "w": 375,
+  "h": 165
+ },
+ "\\eta = \\frac{T_2}{T_1}": {
+  "plik": "w_1ef9b458c55cf119.png",
+  "w": 222,
+  "h": 165
+ },
+ "\\frac{1}{f} = \\frac{1}{x} + \\frac{1}{y}": {
+  "plik": "w_d37d8ea2c09f5081.png",
+  "w": 346,
+  "h": 166
+ },
+ "\\frac{1}{f} = \\frac{1}{x} - \\frac{1}{y}": {
+  "plik": "w_c1ff96782af9c93e.png",
+  "w": 347,
+  "h": 166
+ },
+ "\\frac{Q}{\\varepsilon_0}": {
+  "plik": "w_527bce29091ff409.png",
+  "w": 86,
+  "h": 165
+ },
+ "\\frac{S_1}{v_1} = \\frac{S_2}{v_2}": {
+  "plik": "w_44cab299a616d121.png",
+  "w": 271,
+  "h": 165
+ },
+ "\\frac{\\Delta x}{\\Delta p} \\geq \\hbar": {
+  "plik": "w_a6f816b832b5f5fa.png",
+  "w": 252,
+  "h": 168
+ },
+ "\\frac{\\sin\\theta_1}{n_1} = \\frac{\\sin\\theta_2}{n_2}": {
+  "plik": "w_e3c12193f39d0bec.png",
+  "w": 442,
+  "h": 166
+ },
+ "\\frac{d^2x}{dt^2} + \\omega x^2 = 0": {
+  "plik": "w_50065bc5fbcda280.png",
+  "w": 449,
+  "h": 162
+ },
+ "\\frac{d^2x}{dt^2} + \\omega^2 x = 0": {
+  "plik": "w_b11f8e62ba5cd881.png",
+  "w": 449,
+  "h": 162
+ },
+ "\\frac{d^2x}{dt^2} = \\omega^2 x": {
+  "plik": "w_15316d9a413f8b73.png",
+  "w": 331,
+  "h": 162
+ },
+ "\\frac{dx}{dt} + \\omega x = 0": {
+  "plik": "w_ee709839cbfa05fb.png",
+  "w": 394,
+  "h": 156
+ },
+ "\\frac{d}{\\sin\\theta} = m\\lambda": {
+  "plik": "w_353fce562e5ccb95.png",
+  "w": 347,
+  "h": 156
+ },
+ "\\frac{mv^2}{R} = \\frac{GMm}{R^2}": {
+  "plik": "w_218e980963bf75a1.png",
+  "w": 442,
+  "h": 162
+ },
+ "\\frac{nv}{4L}": {
+  "plik": "w_2bf7e5772e8fe678.png",
+  "w": 107,
+  "h": 137
+ },
+ "\\frac{p}{V} = \\mathrm{const}": {
+  "plik": "w_0679183f0cff77a7.png",
+  "w": 329,
+  "h": 137
+ },
+ "\\frac{p}{V} = nRT": {
+  "plik": "w_b988f0a78b7fe7b5.png",
+  "w": 316,
+  "h": 137
+ },
+ "\\int|\\psi|^2 dV = 1": {
+  "plik": "w_fd4072134ce7fc32.png",
+  "w": 423,
+  "h": 167
+ },
+ "\\kappa = \\frac{c_p}{c_V}": {
+  "plik": "w_91279f52d7abe0b8.png",
+  "w": 229,
+  "h": 148
+ },
+ "\\lambda": {
+  "plik": "w_b3931f1ce298c536.png",
+  "w": 52,
+  "h": 61
+ },
+ "\\lambda = \\frac{h}{p^2}": {
+  "plik": "w_a0eb130796227cc6.png",
+  "w": 220,
+  "h": 169
+ },
+ "\\lambda = \\frac{h}{p}": {
+  "plik": "w_cc3f3e093f59d9c2.png",
+  "w": 197,
+  "h": 169
+ },
+ "\\lambda = \\frac{p}{h}": {
+  "plik": "w_b09fca2353574fc9.png",
+  "w": 197,
+  "h": 137
+ },
+ "\\lambda = hp": {
+  "plik": "w_822f8a0335ae391a.png",
+  "w": 217,
+  "h": 74
+ },
+ "\\lambda_{\\max} T = \\mathrm{const}": {
+  "plik": "w_07c376a7415c02b3.png",
+  "w": 444,
+  "h": 71
+ },
+ "\\mu": {
+  "plik": "w_3a4e56595df1d02f.png",
+  "w": 53,
+  "h": 56
+ },
+ "\\mu_k < \\mu_s": {
+  "plik": "w_8e2b411950bc4ffa.png",
+  "w": 242,
+  "h": 62
+ },
+ "\\nabla\\cdot\\vec{B} = 0": {
+  "plik": "w_8e2797460e5f521b.png",
+  "w": 302,
+  "h": 79
+ },
+ "\\nabla\\cdot\\vec{E} = \\frac{\\rho}{\\varepsilon_0}": {
+  "plik": "w_20e048173c489d22.png",
+  "w": 341,
+  "h": 148
+ },
+ "\\nabla\\times\\vec{B} = \\mu_0\\vec{J} + \\mu_0\\varepsilon_0\\frac{\\partial\\vec{E}}{\\partial t}": {
+  "plik": "w_4225424a2979a208.png",
+  "w": 736,
+  "h": 174
+ },
+ "\\nabla\\times\\vec{E} = -\\frac{\\partial\\vec{B}}{\\partial t}": {
+  "plik": "w_dd987d98eaad96a4.png",
+  "w": 465,
+  "h": 174
+ },
+ "\\oint \\vec{B}\\cdot d\\vec{A} = 0": {
+  "plik": "w_31112f8d51a564b5.png",
+  "w": 412,
+  "h": 167
+ },
+ "\\oint \\vec{B}\\cdot d\\vec{A} = \\mu_0 I": {
+  "plik": "w_c29689b0526bd73b.png",
+  "w": 482,
+  "h": 167
+ },
+ "\\oint \\vec{B}\\cdot d\\vec{l} = 0": {
+  "plik": "w_d3944a765548ddbb.png",
+  "w": 383,
+  "h": 167
+ },
+ "\\oint \\vec{B}\\cdot d\\vec{l} = \\frac{I}{\\mu_0}": {
+  "plik": "w_361c2ae76154890f.png",
+  "w": 431,
+  "h": 168
+ },
+ "\\oint \\vec{B}\\cdot d\\vec{l} = \\mu_0 I": {
+  "plik": "w_0afcf3a04f49bcbf.png",
+  "w": 453,
+  "h": 167
+ },
+ "\\oint \\vec{E}\\cdot d\\vec{A} = 0": {
+  "plik": "w_cbfa86297e625908.png",
+  "w": 411,
+  "h": 167
+ },
+ "\\oint \\vec{E}\\cdot d\\vec{A} = \\varepsilon_0 Q": {
+  "plik": "w_92821db57a849f0b.png",
+  "w": 491,
+  "h": 167
+ },
+ "\\oint \\vec{E}\\cdot d\\vec{s} = \\frac{Q}{\\varepsilon_0}": {
+  "plik": "w_a1926e3a2f7698b7.png",
+  "w": 431,
+  "h": 167
+ },
+ "\\oint \\vec{F}\\cdot d\\vec{s} = 0": {
+  "plik": "w_8ac5d133989e45e1.png",
+  "w": 391,
+  "h": 167
+ },
+ "\\omega": {
+  "plik": "w_73b077a63e22815f.png",
+  "w": 57,
+  "h": 42
+ },
+ "\\rho": {
+  "plik": "w_c77a25750c5830ba.png",
+  "w": 47,
+  "h": 56
+ },
+ "\\sigma": {
+  "plik": "w_69c15416b63fd933.png",
+  "w": 53,
+  "h": 42
+ },
+ "\\sin 2\\alpha = 1": {
+  "plik": "w_4c5cb1e3d219f99b.png",
+  "w": 312,
+  "h": 58
+ },
+ "\\sin\\theta_{gr} = \\frac{n_2}{n_1}": {
+  "plik": "w_11fbafc2e45f6399.png",
+  "w": 365,
+  "h": 148
+ },
+ "\\tfrac{1}{2}at^2": {
+  "plik": "w_9c70bf3ac4e7f573.png",
+  "w": 139,
+  "h": 95
+ },
+ "\\tfrac{1}{2}k_BT": {
+  "plik": "w_fe8e7c326a9ba680.png",
+  "w": 178,
+  "h": 94
+ },
+ "\\tfrac{1}{2}mv^2": {
+  "plik": "w_1eea7185c8997200.png",
+  "w": 174,
+  "h": 95
+ },
+ "\\tfrac{3}{2}k_BT": {
+  "plik": "w_7c0646affeefc10f.png",
+  "w": 178,
+  "h": 94
+ },
+ "\\tfrac{a}{b}\\cos\\theta": {
+  "plik": "w_1cafac0dcd6736db.png",
+  "w": 201,
+  "h": 85
+ },
+ "\\theta = 90^\\circ": {
+  "plik": "w_23d451a4a23202cc.png",
+  "w": 234,
+  "h": 62
+ },
+ "\\varepsilon": {
+  "plik": "w_abfcc7fffa771b56.png",
+  "w": 44,
+  "h": 42
+ },
+ "\\varepsilon = -\\Phi_B t": {
+  "plik": "w_ae1a5556d727df23.png",
+  "w": 307,
+  "h": 70
+ },
+ "\\varepsilon = -\\frac{d\\Phi_B}{dt}": {
+  "plik": "w_94c1180b3c46d77b.png",
+  "w": 331,
+  "h": 156
+ },
+ "\\varepsilon = -\\frac{d\\Phi_B}{dx}": {
+  "plik": "w_03348e324fe6e2d1.png",
+  "w": 331,
+  "h": 156
+ },
+ "\\varepsilon = \\frac{\\Phi_B}{t}": {
+  "plik": "w_17f13b5a0ac13121.png",
+  "w": 242,
+  "h": 155
+ },
+ "\\varepsilon_0 \\approx 8{,}85\\cdot10^{-12}\\ \\mathrm{F/m}": {
+  "plik": "w_539df55c163af14a.png",
+  "w": 654,
+  "h": 88
+ },
+ "\\varepsilon_r > 1": {
+  "plik": "w_10b8c4ba5dd9d6b9.png",
+  "w": 197,
+  "h": 68
+ },
+ "\\vec{E} = -\\frac{V}{r}": {
+  "plik": "w_abf20d6016074490.png",
+  "w": 282,
+  "h": 155
+ },
+ "\\vec{E} = -\\nabla V": {
+  "plik": "w_41d3728af815343a.png",
+  "w": 326,
+  "h": 85
+ },
+ "\\vec{E} = \\nabla V": {
+  "plik": "w_1f1f43f66c5932cf.png",
+  "w": 272,
+  "h": 79
+ },
+ "\\vec{E} = \\sigma \\vec{j}^2": {
+  "plik": "w_cb31fb8286b5038d.png",
+  "w": 260,
+  "h": 93
+ },
+ "\\vec{F} = \\frac{d\\vec{p}}{dt}": {
+  "plik": "w_68dede093a3e3e83.png",
+  "w": 241,
+  "h": 157
+ },
+ "\\vec{F} = \\frac{d\\vec{v}}{dt}": {
+  "plik": "w_ae82d71ca2b8ba8c.png",
+  "w": 243,
+  "h": 157
+ },
+ "\\vec{F} = \\frac{m}{a}": {
+  "plik": "w_2d58d18e40731b7c.png",
+  "w": 231,
+  "h": 137
+ },
+ "\\vec{F} = \\frac{q\\vec{v}}{\\vec{B}}": {
+  "plik": "w_12e145c8ac1f10b5.png",
+  "w": 240,
+  "h": 169
+ },
+ "\\vec{F} = m\\vec{a}": {
+  "plik": "w_abde431178359614.png",
+  "w": 253,
+  "h": 79
+ },
+ "\\vec{F} = m\\vec{v}": {
+  "plik": "w_8ded72813f5edfd1.png",
+  "w": 253,
+  "h": 79
+ },
+ "\\vec{F} = qB^2\\vec{v}": {
+  "plik": "w_0c24d7c8bcb977f9.png",
+  "w": 309,
+  "h": 93
+ },
+ "\\vec{F} = q\\vec{v}\\cdot\\vec{B}": {
+  "plik": "w_914ecfbd490807ad.png",
+  "w": 332,
+  "h": 93
+ },
+ "\\vec{F} = q\\vec{v}\\times\\vec{B}": {
+  "plik": "w_3d6a2c73fd76aef4.png",
+  "w": 367,
+  "h": 93
+ },
+ "\\vec{J} = \\int \\vec{F}\\,dt = \\Delta\\vec{p}": {
+  "plik": "w_3f5e1054a339619b.png",
+  "w": 538,
+  "h": 167
+ },
+ "\\vec{J} = \\tfrac{1}{2}mv^2": {
+  "plik": "w_24e6a0f136cc2246.png",
+  "w": 310,
+  "h": 104
+ },
+ "\\vec{J} = \\vec{F}\\cdot\\vec{s}": {
+  "plik": "w_ff598d49c938ade0.png",
+  "w": 284,
+  "h": 79
+ },
+ "\\vec{J} = m\\vec{a}": {
+  "plik": "w_ccd88ecab7dcbd44.png",
+  "w": 244,
+  "h": 79
+ },
+ "\\vec{L}": {
+  "plik": "w_e230ee59c60b2b5b.png",
+  "w": 59,
+  "h": 79
+ },
+ "\\vec{L} = I\\vec{\\omega}": {
+  "plik": "w_01343204da23c76e.png",
+  "w": 231,
+  "h": 79
+ },
+ "\\vec{L} = I\\vec{\\varepsilon}": {
+  "plik": "w_d7af2528fd88b49b.png",
+  "w": 218,
+  "h": 79
+ },
+ "\\vec{L} = \\tfrac{1}{2}I\\omega^2": {
+  "plik": "w_091a61f893ae8010.png",
+  "w": 297,
+  "h": 104
+ },
+ "\\vec{L} = m\\vec{v}": {
+  "plik": "w_d1706d0fa36e8584.png",
+  "w": 246,
+  "h": 79
+ },
+ "\\vec{M} = I\\vec{\\omega}": {
+  "plik": "w_309906a1875ac7ed.png",
+  "w": 258,
+  "h": 79
+ },
+ "\\vec{M} = I\\vec{\\varepsilon}": {
+  "plik": "w_5470cc2d8e4e3aa1.png",
+  "w": 245,
+  "h": 79
+ },
+ "\\vec{M} = \\frac{I}{\\varepsilon}": {
+  "plik": "w_e9117971ee1ff5c4.png",
+  "w": 227,
+  "h": 155
+ },
+ "\\vec{M} = m\\vec{a}": {
+  "plik": "w_d8c4c23cccf550d0.png",
+  "w": 273,
+  "h": 79
+ },
+ "\\vec{a}": {
+  "plik": "w_1e37c650a8e07c81.png",
+  "w": 48,
+  "h": 62
+ },
+ "\\vec{a}\\cdot\\vec{b} = ab\\cos\\theta": {
+  "plik": "w_98d2bbd0689139a6.png",
+  "w": 432,
+  "h": 80
+ },
+ "\\vec{b}": {
+  "plik": "w_71fa108edb785ca9.png",
+  "w": 41,
+  "h": 80
+ },
+ "\\vec{j}": {
+  "plik": "w_588c841fd2bfaa4d.png",
+  "w": 44,
+  "h": 91
+ },
+ "\\vec{j} = \\frac{\\vec{E}}{\\sigma}": {
+  "plik": "w_6f246120e847c7e5.png",
+  "w": 205,
+  "h": 174
+ },
+ "\\vec{j} = \\sigma \\vec{E}": {
+  "plik": "w_7181f5574cdf6e9b.png",
+  "w": 232,
+  "h": 93
+ },
+ "\\vec{j} = \\sigma \\vec{E}^2": {
+  "plik": "w_c21629fcbabe994f.png",
+  "w": 260,
+  "h": 93
+ },
+ "a = \\frac{r}{v^2}": {
+  "plik": "w_6834f7f196afe7c6.png",
+  "w": 217,
+  "h": 137
+ },
+ "a = \\frac{v^2}{r}": {
+  "plik": "w_346b4aaafc62faab.png",
+  "w": 217,
+  "h": 162
+ },
+ "a = \\frac{v^2}{r} = \\omega^2 r": {
+  "plik": "w_a4fcb93d1bf79e9c.png",
+  "w": 414,
+  "h": 162
+ },
+ "a = \\frac{v}{r^2}": {
+  "plik": "w_d36fdac59f2fa148.png",
+  "w": 214,
+  "h": 137
+ },
+ "a = vr": {
+  "plik": "w_e2556ec30524ae68.png",
+  "w": 208,
+  "h": 42
+ },
+ "a\\cos\\theta = \\lambda": {
+  "plik": "w_e7ef2c6236620692.png",
+  "w": 328,
+  "h": 61
+ },
+ "a\\sin\\theta = 2\\lambda": {
+  "plik": "w_ee21c1e4ac33f511.png",
+  "w": 355,
+  "h": 61
+ },
+ "a\\sin\\theta = \\lambda": {
+  "plik": "w_a25670100b8b6fa6.png",
+  "w": 320,
+  "h": 61
+ },
+ "a\\sin\\theta = \\tfrac{\\lambda}{2}": {
+  "plik": "w_b306ada894865ce7.png",
+  "w": 323,
+  "h": 96
+ },
+ "a^2+b^2": {
+  "plik": "w_75b53779a838d22b.png",
+  "w": 216,
+  "h": 76
+ },
+ "ab\\cos\\theta": {
+  "plik": "w_94366ddfd0d939e4.png",
+  "w": 225,
+  "h": 61
+ },
+ "ab\\sin\\theta": {
+  "plik": "w_4bdf0397fd5bf523.png",
+  "w": 218,
+  "h": 61
+ },
+ "c = \\frac{1}{\\sqrt{\\varepsilon_0\\mu_0}}": {
+  "plik": "w_ee4e5686dfe22f94.png",
+  "w": 334,
+  "h": 176
+ },
+ "c = \\frac{1}{\\varepsilon_0\\mu_0}": {
+  "plik": "w_ceee3f8e08872377.png",
+  "w": 276,
+  "h": 166
+ },
+ "c = \\frac{\\varepsilon_0}{\\mu_0}": {
+  "plik": "w_8975deb890f15e18.png",
+  "w": 216,
+  "h": 151
+ },
+ "c = \\sqrt{\\varepsilon_0\\mu_0}": {
+  "plik": "w_c5f71bf7c46c4c3d.png",
+  "w": 320,
+  "h": 85
+ },
+ "dU = \\delta Q + \\delta W": {
+  "plik": "w_c35017b3dcde599a.png",
+  "w": 471,
+  "h": 74
+ },
+ "dU = \\delta Q - \\delta W": {
+  "plik": "w_408cc472f1a655da.png",
+  "w": 472,
+  "h": 74
+ },
+ "dU = \\delta Q \\cdot \\delta W": {
+  "plik": "w_ed0d31b2c34f2b5c.png",
+  "w": 437,
+  "h": 74
+ },
+ "dU = \\delta W - \\delta Q": {
+  "plik": "w_3239b12788c99bcf.png",
+  "w": 472,
+  "h": 74
+ },
+ "d\\cos\\theta = m\\lambda": {
+  "plik": "w_d768582789a05562.png",
+  "w": 387,
+  "h": 61
+ },
+ "d\\sin\\theta = (m+\\tfrac{1}{2})\\lambda": {
+  "plik": "w_04702cef3beba007.png",
+  "w": 556,
+  "h": 94
+ },
+ "d\\sin\\theta = m\\lambda": {
+  "plik": "w_f9eace09bb828c92.png",
+  "w": 380,
+  "h": 61
+ },
+ "f": {
+  "plik": "w_4a0a19218e082a34.png",
+  "w": 53,
+  "h": 74
+ },
+ "f < 0": {
+  "plik": "w_becf24bddbed6d80.png",
+  "w": 179,
+  "h": 74
+ },
+ "f = 2\\pi\\sqrt{LC}": {
+  "plik": "w_ab5e8fe14c41b881.png",
+  "w": 379,
+  "h": 94
+ },
+ "f = \\frac{1}{2\\pi\\sqrt{LC}}": {
+  "plik": "w_6b1fddea02b8ebed.png",
+  "w": 393,
+  "h": 169
+ },
+ "f = \\frac{1}{\\sqrt{LC}}": {
+  "plik": "w_c21f5f8be2824870.png",
+  "w": 317,
+  "h": 169
+ },
+ "f = \\frac{\\sqrt{LC}}{2\\pi}": {
+  "plik": "w_96fdd4912db5b024.png",
+  "w": 317,
+  "h": 172
+ },
+ "f = \\frac{x y}{x + y}": {
+  "plik": "w_6f43be50ad64bf76.png",
+  "w": 318,
+  "h": 151
+ },
+ "f = x + y": {
+  "plik": "w_4dd4e64b9bad925b.png",
+  "w": 304,
+  "h": 74
+ },
+ "f_n = \\frac{nL}{2v}": {
+  "plik": "w_b96383698c2fe950.png",
+  "w": 272,
+  "h": 155
+ },
+ "f_n = \\frac{nv}{2L}": {
+  "plik": "w_e489367e309cf73b.png",
+  "w": 265,
+  "h": 137
+ },
+ "f_n = \\frac{nv}{4L}": {
+  "plik": "w_e08b2d73ea86362d.png",
+  "w": 265,
+  "h": 137
+ },
+ "f_n = \\frac{v}{2nL}": {
+  "plik": "w_e4fde093baf735d2.png",
+  "w": 306,
+  "h": 137
+ },
+ "h \\approx 6{,}63\\cdot10^{-34}": {
+  "plik": "w_42324a7049d9fa17.png",
+  "w": 475,
+  "h": 84
+ },
+ "h\\nu = W + E_{k,\\max}": {
+  "plik": "w_a4d8bd31e7105712.png",
+  "w": 526,
+  "h": 80
+ },
+ "h\\nu = W - E_{k,\\max}": {
+  "plik": "w_4a9c903698047859.png",
+  "w": 527,
+  "h": 80
+ },
+ "h\\nu = \\frac{W}{E_{k,\\max}}": {
+  "plik": "w_f1ae04ac8b937dff.png",
+  "w": 381,
+  "h": 174
+ },
+ "k_B": {
+  "plik": "w_3961ff6fe7bdf787.png",
+  "w": 90,
+  "h": 71
+ },
+ "n": {
+  "plik": "w_d1854cae891ec7b2.png",
+  "w": 53,
+  "h": 42
+ },
+ "n = \\frac{c}{v}": {
+  "plik": "w_530888af2de6ae5b.png",
+  "w": 194,
+  "h": 137
+ },
+ "n_1\\cos\\theta_1 = n_2\\cos\\theta_2": {
+  "plik": "w_2516430781e64a25.png",
+  "w": 589,
+  "h": 71
+ },
+ "n_1\\sin\\theta_1 = n_2\\sin\\theta_2": {
+  "plik": "w_03efd4852de5d3ab.png",
+  "w": 574,
+  "h": 71
+ },
+ "n_1\\theta_1 = n_2\\theta_2": {
+  "plik": "w_b3a4ec5966d18c58.png",
+  "w": 360,
+  "h": 71
+ },
+ "p + \\rho v^2 + \\rho g h = \\mathrm{const}": {
+  "plik": "w_4027089a594d6bcf.png",
+  "w": 670,
+  "h": 84
+ },
+ "p + \\tfrac{1}{2}\\rho v + \\rho h = \\mathrm{const}": {
+  "plik": "w_6613fd1bcf0d2286.png",
+  "w": 646,
+  "h": 94
+ },
+ "p + \\tfrac{1}{2}\\rho v^2 + \\rho g h = \\mathrm{const}": {
+  "plik": "w_459de93cbefd2f40.png",
+  "w": 709,
+  "h": 95
+ },
+ "pV = Nk_BT": {
+  "plik": "w_8f9ff289b852c9b9.png",
+  "w": 383,
+  "h": 74
+ },
+ "pV = \\frac{nR}{T}": {
+  "plik": "w_bc045c992ac3d294.png",
+  "w": 300,
+  "h": 155
+ },
+ "pV = \\mathrm{const}": {
+  "plik": "w_2a97444b5d5f46c6.png",
+  "w": 349,
+  "h": 73
+ },
+ "pV = nRT": {
+  "plik": "w_a0ae056ec434a1d7.png",
+  "w": 336,
+  "h": 73
+ },
+ "pV = nRT^2": {
+  "plik": "w_b58a057b6acbe3f7.png",
+  "w": 364,
+  "h": 84
+ },
+ "pV^\\kappa = \\mathrm{const}": {
+  "plik": "w_d25d0d3ab0b81df1.png",
+  "w": 381,
+  "h": 74
+ },
+ "p\\,v\\,h = \\mathrm{const}": {
+  "plik": "w_aa145b0483a29646.png",
+  "w": 392,
+  "h": 74
+ },
+ "p^\\kappa V = \\mathrm{const}": {
+  "plik": "w_297d08e6d8aa22ad.png",
+  "w": 381,
+  "h": 74
+ },
+ "r^{-2}": {
+  "plik": "w_7e436e5afebf3d0c.png",
+  "w": 111,
+  "h": 71
+ },
+ "v = F\\mu": {
+  "plik": "w_314deb106033a612.png",
+  "w": 234,
+  "h": 73
+ },
+ "v = \\frac{F}{\\mu}": {
+  "plik": "w_4b2d3dda4392e389.png",
+  "w": 207,
+  "h": 168
+ },
+ "v = \\frac{\\lambda}{f}": {
+  "plik": "w_09a2d699352b463c.png",
+  "w": 195,
+  "h": 169
+ },
+ "v = \\frac{f}{\\lambda}": {
+  "plik": "w_7ee0c1ed7f69bc84.png",
+  "w": 195,
+  "h": 156
+ },
+ "v = \\lambda f": {
+  "plik": "w_dac633601e953619.png",
+  "w": 220,
+  "h": 74
+ },
+ "v = \\lambda f^2": {
+  "plik": "w_9e5fb409b60ee575.png",
+  "w": 248,
+  "h": 84
+ },
+ "v = \\sqrt{\\frac{F}{\\mu}}": {
+  "plik": "w_cfcb98defd232682.png",
+  "w": 277,
+  "h": 224
+ },
+ "v = \\sqrt{\\frac{\\mu}{F}}": {
+  "plik": "w_9d029ee0c3aedc76.png",
+  "w": 277,
+  "h": 182
+ },
+ "v = v_0 + at": {
+  "plik": "w_52bb38305dc6c0b4.png",
+  "w": 345,
+  "h": 65
+ },
+ "v_{\\mathrm{rms}} = \\frac{3RT}{M}": {
+  "plik": "w_aa1f7331d94d3a79.png",
+  "w": 370,
+  "h": 155
+ },
+ "v_{\\mathrm{rms}} = \\sqrt{\\frac{3M}{RT}}": {
+  "plik": "w_eabbf265e1e5610f.png",
+  "w": 411,
+  "h": 182
+ },
+ "v_{\\mathrm{rms}} = \\sqrt{\\frac{3RT}{M}}": {
+  "plik": "w_48ca1e29cdadff23.png",
+  "w": 440,
+  "h": 182
+ },
+ "v_{\\mathrm{rms}} = \\sqrt{\\frac{RT}{3M}}": {
+  "plik": "w_0c467a10cf7f0f2c.png",
+  "w": 411,
+  "h": 182
+ },
+ "x = v_0 t^2 + at": {
+  "plik": "w_54492cca8885f8db.png",
+  "w": 400,
+  "h": 81
+ },
+ "x = x_0 + \\tfrac{1}{2}at": {
+  "plik": "w_64de2db0a2e6ba56.png",
+  "w": 392,
+  "h": 94
+ },
+ "x = x_0 + v_0 t + \\tfrac{1}{2}at^2": {
+  "plik": "w_cf155a0fc85008e9.png",
+  "w": 589,
+  "h": 95
+ },
+ "x = x_0 + vt": {
+  "plik": "w_970e97d368d56255.png",
+  "w": 353,
+  "h": 65
+ },
+ "x(t) = A\\sin(\\omega t + \\varphi)": {
+  "plik": "w_653d0824a1db6d10.png",
+  "w": 619,
+  "h": 82
+ },
+ "z = \\frac{v_0^2 \\sin 2\\alpha}{g}": {
+  "plik": "w_54aff8f1c3fb433c.png",
+  "w": 401,
+  "h": 176
  }
 }

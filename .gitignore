@@ -12,3 +12,5 @@ android/klucz.properties
 *.aux
 *.log
 *.out
+android/app/src/main/assets/wzory/
+android/app/src/main/assets/grafiki/
