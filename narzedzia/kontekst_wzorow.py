@@ -47,10 +47,26 @@ def main():
         linie = t.splitlines()
         for i, l in enumerate(linie):
             m = NAGLOWEK.match(l)
-            if m and not m.group(2).strip().endswith("..."):
+            # tytul rozdzialu nie zawiera znaku rownosci ani cyfr jednostek —
+            # bez tego linia w rodzaju "7 N = 14.003074 u." udaje naglowek
+            if m and not m.group(2).strip().endswith("...") \
+                   and "=" not in m.group(2) \
+                   and sum(c.isdigit() for c in m.group(2)) <= 2:
                 ost = f"{m.group(1)} {m.group(2).strip()}"
                 lok.append((i / max(len(linie), 1), ost))
         naglowki[nr] = lok
+
+    # Strony podsumowan i materialow dodatkowych nie maja numerowanych naglowkow,
+    # wiec bez tego dostawalyby ostatni naglowek zwyklego rozdzialu — myląco.
+    specjalne = {}
+    for nr, t in enumerate(strony, 1):
+        g = t[:400]
+        if re.search(r"Materia[łl]y dodatkowe", g):
+            specjalne[nr] = "Materiały dodatkowe"
+        elif re.search(r"Podsumowanie", g):
+            specjalne[nr] = "Podsumowanie modułu"
+        elif re.search(r"Test kontrolny|–\s*Test", g):
+            specjalne[nr] = "Test kontrolny"
 
     d = json.loads(PLIK.read_text(encoding="utf-8"))
     WYS_STRONY_PX = 1650   # wysokosc renderu strony przy 150 dpi
@@ -59,8 +75,11 @@ def main():
         nr = w["strona"]
         # udzial wysokosci, na ktorym stoi wzor — porownujemy z pozycjami naglowkow
         ulamek = min(max(w.get("y", 0) / WYS_STRONY_PX, 0.0), 1.0)
-        pasujace = [h for (poz, h) in naglowki.get(nr, []) if poz <= ulamek]
-        w["rozdzial"] = pasujace[-1] if pasujace else wejsciowy.get(nr, "")
+        if nr in specjalne:
+            w["rozdzial"] = specjalne[nr]
+        else:
+            pasujace = [h for (poz, h) in naglowki.get(nr, []) if poz <= ulamek]
+            w["rozdzial"] = pasujace[-1] if pasujace else wejsciowy.get(nr, "")
         # zdanie opisowe: najpierw z tej strony, jak brak — z poprzedniej
         z = zdania(strony[nr - 1]) if nr - 1 < len(strony) else []
         if not z and nr - 2 >= 0:

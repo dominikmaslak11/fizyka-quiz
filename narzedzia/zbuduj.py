@@ -123,9 +123,11 @@ def main():
         KOMENTARZE = {}
     z_komentarzem = 0
     for w in wyciag.get("kluczowe", []):
-        numer = (w.get("rozdzial") or "").split(" ")[0]
-        if numer in KOMENTARZE:
-            w["komentarz"] = KOMENTARZE[numer]
+        rozdz = w.get("rozdzial") or ""
+        # najpierw pelna nazwa (dla "Materiały dodatkowe"), potem sam numer
+        klucz = rozdz if rozdz in KOMENTARZE else rozdz.split(" ")[0]
+        if klucz in KOMENTARZE:
+            w["komentarz"] = KOMENTARZE[klucz]
             z_komentarzem += 1
     print(f"  wzorów z komentarzem: {z_komentarzem} z {len(wyciag.get('kluczowe', []))}")
 

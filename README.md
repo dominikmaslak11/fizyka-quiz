@@ -69,6 +69,13 @@ Komentarze są kluczowane **numerem rozdziału**, a nie nazwą pliku obrazka —
 zależą od numeru strony i kolejności wycinania, więc zmieniałyby się przy każdej zmianie
 filtra. Jeden wpis w `bank/komentarze.py` obsługuje wszystkie wzory z danego rozdziału.
 
+**Pokrycie: 310 z 310 wzorów**, 156 wpisów komentarza.
+
+Wzory z podsumowań i materiałów dodatkowych dostają własne etykiety zamiast numeru rozdziału.
+Tamte strony nie mają numerowanych nagłówków, więc bez tego dziedziczyłyby ostatni nagłówek
+zwykłego rozdziału i były opisane myląco — dwanaście wzorów z podsumowania modułu XI
+trafiało w ten sposób pod „38.4.3 Źródła energii gwiazd".
+
 ## Wyciąg z podręcznika
 
 Oprócz pytań pisanych ręcznie aplikacja zawiera materiał wyciągnięty z podręcznika
