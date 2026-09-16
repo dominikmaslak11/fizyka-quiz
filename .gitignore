@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+postepy.json
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/klucz.properties
+*.apk
+*.jks
+*.keystore
+*.aux
+*.log
+*.out

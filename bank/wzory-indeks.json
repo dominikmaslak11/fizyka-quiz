@@ -1,0 +1,27 @@
+{
+ "E_k = \\tfrac{1}{2}mv^2": {
+  "plik": "w_56e3fa843be1a9d1.png",
+  "w": 346,
+  "h": 95
+ },
+ "F = ma": {
+  "plik": "w_8cc1a6366d1c72ca.png",
+  "w": 253,
+  "h": 60
+ },
+ "\\Delta x \\,\\Delta p \\geq \\frac{\\hbar}{2}": {
+  "plik": "w_477f3c0db5e91cfd.png",
+  "w": 355,
+  "h": 155
+ },
+ "\\nabla \\times \\vec{B} = \\mu_0\\vec{J} + \\mu_0\\varepsilon_0\\frac{\\partial \\vec{E}}{\\partial t}": {
+  "plik": "w_3ec1ee9ee9975738.png",
+  "w": 736,
+  "h": 174
+ },
+ "\\oint \\vec{E}\\cdot d\\vec{A} = \\frac{Q}{\\varepsilon_0}": {
+  "plik": "w_e5fa3d88f5403e0e.png",
+  "w": 451,
+  "h": 167
+ }
+}
