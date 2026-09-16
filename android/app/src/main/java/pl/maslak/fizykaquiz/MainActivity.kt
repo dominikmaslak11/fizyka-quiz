@@ -42,6 +42,17 @@ class MainActivity : AppCompatActivity() {
         findViewById<Button>(R.id.btnBledy).setOnClickListener { start("bledy") }
         findViewById<Button>(R.id.btnReset).setOnClickListener { potwierdzReset() }
 
+        // Materiał z podręcznika — ten sam filtr modułu co dla quizu.
+        mapOf(R.id.btnWzory to "wzory", R.id.btnDefinicje to "definicje",
+              R.id.btnPrawa to "prawa", R.id.btnZadania to "zadania").forEach { (id, rodzaj) ->
+            findViewById<Button>(id).setOnClickListener {
+                startActivity(Intent(this, MaterialyActivity::class.java).apply {
+                    putExtra("rodzaj", rodzaj)
+                    putExtra("modul", wybranyModul())
+                })
+            }
+        }
+
         findViewById<TextView>(R.id.txtZrodlo).text =
             "Na podstawie: ${Bank.zrodloTytul}, AGH Kraków 2023 — licencja ${Bank.zrodloLicencja}.\n" +
             "${Bank.zrodloUrl}\nWzory składane w LaTeX-u. Aplikacja działa bez internetu."
@@ -52,7 +63,8 @@ class MainActivity : AppCompatActivity() {
         pokazPule()
         val (u, db, r) = Postepy(this).statystyki()
         findViewById<TextView>(R.id.txtPodsumowanie).text =
-            if (r == 0) "${Bank.pytania.size} pytań w ${Bank.moduly.size} modułach. Jeszcze nic nie rozwiązane."
+            if (r == 0) "${Bank.pytania.size} pytań · ${Bank.kluczowe.size} wzorów · " +
+                        "${Bank.definicje.size} definicji · ${Bank.prawa.size} praw · ${Bank.zadania.size} zadań"
             else "${Bank.pytania.size} pytań · przerobione $u · skuteczność ${db * 100 / r}% ($db/$r)"
         rysujModuly()
     }
@@ -89,7 +101,7 @@ class MainActivity : AppCompatActivity() {
             wiersz.addView(TextView(this).apply {
                 text = m.id; setTextColor(kolor); textSize = 12f
                 setTypeface(typeface, android.graphics.Typeface.BOLD)
-                layoutParams = LinearLayout.LayoutParams(dp(38), LinearLayout.LayoutParams.WRAP_CONTENT)
+                layoutParams = LinearLayout.LayoutParams(dp(48), LinearLayout.LayoutParams.WRAP_CONTENT)
             })
             wiersz.addView(TextView(this).apply {
                 text = m.nazwa; setTextColor(resources.getColor(R.color.tekst, null)); textSize = 12f

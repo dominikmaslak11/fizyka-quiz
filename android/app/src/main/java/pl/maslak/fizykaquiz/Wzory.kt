@@ -19,8 +19,11 @@ object Wzory {
     private val ZNACZNIK = Regex("""\[\[(w_[0-9a-f]+)]]""")
     private val pamiec = HashMap<String, Drawable?>()
 
-    /** Ile razy wyzszy od tekstu ma byc wzor jednowierszowy. */
-    private const val SKALA = 1.35f
+    /**
+     * Ile razy wiekszy od wysokosci czcionki ma byc firet wzoru.
+     * 1.0 znaczy "wzor tej samej wielkosci co tekst wokol".
+     */
+    private const val SKALA = 1.05f
 
     private fun wczytaj(ctx: Context, nazwa: String): Drawable? = pamiec.getOrPut(nazwa) {
         try {
@@ -48,9 +51,12 @@ object Wzory {
             if (d == null) {
                 sb.append("[wzór]")
             } else {
-                val wys = rozmiarTekstuPx * SKALA
-                val skala = wys / d.intrinsicHeight
-                d.setBounds(0, 0, (d.intrinsicWidth * skala).toInt(), wys.toInt())
+                // WSZYSTKIE wzory skalujemy tym samym wspolczynnikiem, liczonym z firetu.
+                // Skalowanie do wspolnej wysokosci obrazka byloby bledem: wzor z ulamkiem
+                // jest wyzszy, wiec wyszedlby drobniejszy od jednowierszowego.
+                val skala = (rozmiarTekstuPx * SKALA) / Bank.emPx
+                d.setBounds(0, 0, (d.intrinsicWidth * skala).toInt(),
+                            (d.intrinsicHeight * skala).toInt())
                 val start = sb.length
                 sb.append("￼")   // znak zastepczy pod obrazek
                 sb.setSpan(ImageSpan(d, ImageSpan.ALIGN_BASELINE),

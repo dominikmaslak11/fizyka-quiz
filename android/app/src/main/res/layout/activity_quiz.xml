@@ -28,7 +28,8 @@
             <TextView android:id="@+id/txtPytanie" android:layout_width="match_parent"
                 android:layout_height="wrap_content" android:layout_marginTop="6dp"
                 android:textColor="@color/tekst" android:textSize="17sp"
-                android:textStyle="bold" android:lineSpacingMultiplier="1.25" />
+                android:textStyle="bold" android:lineSpacingMultiplier="1.35"
+                android:includeFontPadding="false" android:paddingTop="8dp" />
 
             <LinearLayout android:id="@+id/boxOdpowiedzi" android:layout_width="match_parent"
                 android:layout_height="wrap_content" android:orientation="vertical"
@@ -43,7 +44,8 @@
                 <TextView android:id="@+id/txtWyjasnienie" android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:layout_marginTop="6dp"
                     android:textColor="@color/tekst" android:textSize="14sp"
-                    android:lineSpacingMultiplier="1.3" />
+                    android:lineSpacingMultiplier="1.4" android:includeFontPadding="false"
+                    android:paddingTop="6dp" />
                 <TextView android:id="@+id/txtRozdzial" android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:layout_marginTop="8dp"
                     android:textColor="@color/szary" android:textSize="12sp" />

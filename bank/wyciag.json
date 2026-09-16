@@ -1,0 +1,3590 @@
+{
+ "definicje": [
+  {
+   "strona": 20,
+   "modul": "M1",
+   "kontekst": "Dział Fizyki zajmujący się opisem ruchu ciał nazywamy kinematyką.",
+   "tresc": "Pod pojęciem ruchu rozumiemy zmiany wzajemnego położenia jednych ciał względem drugich wraz z upływem czasu."
+  },
+  {
+   "strona": 20,
+   "modul": "M1",
+   "kontekst": "będziemy posługiwać się pojęciem punktu materialnego .",
+   "tresc": "Punkty materialne to obiekty obdarzone masą, których rozmiary (objętość) możemy zaniedbać."
+  },
+  {
+   "strona": 20,
+   "modul": "M1",
+   "kontekst": "2.2 Prędkość",
+   "tresc": "Prędkość definiujemy jako zmianę położenia ciała w jednostce czasu."
+  },
+  {
+   "strona": 22,
+   "modul": "M1",
+   "kontekst": "",
+   "tresc": "Prędkość chwilowa jest pochodną drogi względem czasu."
+  },
+  {
+   "strona": 22,
+   "modul": "M1",
+   "kontekst": "średniej . Prędkość średnia ciała w przedziale czasu t jest zdefiniowana jako",
+   "tresc": "x  x0 v                                        (2.4) t"
+  },
+  {
+   "strona": 23,
+   "modul": "M1",
+   "kontekst": "2.3 Przyspieszenie",
+   "tresc": "Przyspieszeniem nazywamy tempo zmian prędkości."
+  },
+  {
+   "strona": 24,
+   "modul": "M1",
+   "kontekst": "względem t.",
+   "tresc": "dv a                                         (2.6) dt"
+  },
+  {
+   "strona": 35,
+   "modul": "M1",
+   "kontekst": "Nieznaną masę m definiujemy jako",
+   "tresc": "v0 m  m0                                          (4.1) v"
+  },
+  {
+   "strona": 35,
+   "modul": "M1",
+   "kontekst": "4.1.3 Pęd",
+   "tresc": "Pęd ciała definiujemy jako iloczyn jego masy i prędkości (wektorowej)"
+  },
+  {
+   "strona": 35,
+   "modul": "M1",
+   "kontekst": "4.1.4 Siła",
+   "tresc": "Jeżeli na ciało o masie m działa siła F, to definiujemy ją jako zmianę w czasie pędu tego ciała."
+  },
+  {
+   "strona": 37,
+   "modul": "M1",
+   "kontekst": "fizyczne: definicję inercjalnego układu odniesienia .",
+   "tresc": "Pierwsza zasada dynamiki stwierdza, że jeżeli na ciało nie działa żadna siła (lub gdy siła wypadkowa jest równa zeru) to istnieje taki układ odniesienia, w którym to ciało spoczywa lub porusza się ruchem jednostajnym prostoliniowym. Taki układ nazywamy układem inercjalnym."
+  },
+  {
+   "strona": 45,
+   "modul": "M1",
+   "kontekst": "o iloczyn ma0.",
+   "tresc": "Iloczyn masy i przyspieszenia unoszenia (ze znakiem minus) nazywamy siłą bezwładności Fb."
+  },
+  {
+   "strona": 51,
+   "modul": "M1",
+   "kontekst": "6.3 Ciężar",
+   "tresc": "Ciężar definiujemy jako siłę ciężkości działającą na ciało."
+  },
+  {
+   "strona": 52,
+   "modul": "M1",
+   "kontekst": "m     r",
+   "tresc": "Wektor γ(r) dany równaniem (6.13) nazywamy natężeniem pola grawitacyjnego."
+  },
+  {
+   "strona": 71,
+   "modul": "M2",
+   "kontekst": "i kierunku zgodnym z kierunkiem ruchu, możemy zdefiniować pracę W.",
+   "tresc": "Praca W wykonana przez stałą siłę F jest iloczynem skalarnym tej siły F i wektora przesunięcia s."
+  },
+  {
+   "strona": 76,
+   "modul": "M2",
+   "kontekst": " t  2                2    2",
+   "tresc": "Połowę iloczynu masy ciała i kwadratu prędkości nazywamy energią kinetyczną Ek ciała o masie m."
+  },
+  {
+   "strona": 77,
+   "modul": "M2",
+   "kontekst": "większą moc .",
+   "tresc": "Moc definiujemy jako ilość wykonanej pracy (lub przekazanej energii) do czasu w jakim została ona wykonana."
+  },
+  {
+   "strona": 79,
+   "modul": "M2",
+   "kontekst": "całkowita praca jest równa zeru.",
+   "tresc": "Siła jest zachowawcza, jeżeli praca wykonana przez tę siłę nad punktem materialnym, który porusza się po dowolnej drodze zamkniętej jest równa zeru."
+  },
+  {
+   "strona": 79,
+   "modul": "M2",
+   "kontekst": "wykonana praca różna od zera.",
+   "tresc": "Siła jest niezachowawcza jeżeli praca wykonana przez tę siłę nad punktem materialnym, który porusza się po dowolnej drodze zamkniętej nie jest równa zeru."
+  },
+  {
+   "strona": 81,
+   "modul": "M2",
+   "kontekst": "te same punkty A i B.",
+   "tresc": "Siłę nazywamy zachowawczą jeżeli praca wykonana przez nią nad punktem materialnym poruszającym się między dwoma punktami zależy tylko od tych punktów, a nie od łączącej je drogi. Siłę nazywamy niezachowawczą jeżeli praca wykonana przez nią nad punktem materialnym poruszającym się między dwoma punktami zależy od drogi łączącej te punkty."
+  },
+  {
+   "strona": 86,
+   "modul": "M2",
+   "kontekst": "E p (r )  mV (r )                                        (8.19)",
+   "tresc": "Funkcję V(r) nazywamy potencjałem pola grawitacyjnego i definiujemy jako stosunek grawitacyjnej energii potencjalnej masy m do wartości tej masy."
+  },
+  {
+   "strona": 98,
+   "modul": "M2",
+   "kontekst": "przewidzieć wynik zderzenia.",
+   "tresc": "Gdy dwa ciała zderzają się to zderzenie może być sprężyste (elastyczne) lub niesprężyste (nieelastyczne) w zależności od tego czy energia kinetyczna jest zachowana podczas tego zderzenia czy też nie."
+  },
+  {
+   "strona": 119,
+   "modul": "M3",
+   "kontekst": "tego punktu jest definiowany jako",
+   "tresc": "τ  rF                                    (11.5)"
+  },
+  {
+   "strona": 120,
+   "modul": "M3",
+   "kontekst": "pędu. Wielkość L nazywamy momentem pędu       i definiujemy jako",
+   "tresc": "L r p                                    (11.7)"
+  },
+  {
+   "strona": 122,
+   "modul": "M3",
+   "kontekst": "Wielkość w nawiasie nazywamy momentem bezwładności I                   , który definiujemy jako",
+   "tresc": "I   ri 2 mi                                   (11.14) i"
+  },
+  {
+   "strona": 122,
+   "modul": "M3",
+   "kontekst": "a dla ciągłego rozkładu masy",
+   "tresc": "I   r2 d m                                     (11.15)"
+  },
+  {
+   "strona": 127,
+   "modul": "M3",
+   "kontekst": "12.1 Siła harmoniczna, drgania swobodne",
+   "tresc": "Siłą harmoniczną (sprężystości) nazywamy siłę działającą na ciało proporcjonalną do przesunięcia tego ciała od początku układu i skierowaną ku początkowi układu."
+  },
+  {
+   "strona": 136,
+   "modul": "M3",
+   "kontekst": "Q , który jest definiowany jako",
+   "tresc": "Ezmagazynowana               E     E Q  2π                          2π                                (12.33) Estracona w1okresie          P / f P /"
+  },
+  {
+   "strona": 160,
+   "modul": "M4",
+   "kontekst": "zaczynają drgać. W ten sposób zaburzenie przechodzi przez cały ośrodek.",
+   "tresc": "Ruchem falowym nazywamy rozchodzenie się zaburzenia w ośrodku."
+  },
+  {
+   "strona": 177,
+   "modul": "M4",
+   "kontekst": "następująco:",
+   "tresc": "Ciśnienie definiujemy jako stosunek siły parcia działającej na jednostkę powierzchni do wielkości tej powierzchni."
+  },
+  {
+   "strona": 178,
+   "modul": "M4",
+   "kontekst": "",
+   "tresc": "Długość wektora S jest równa polu powierzchni S, jego kierunek jest prostopadły do powierzchni, a zwrot na zewnątrz powierzchni."
+  },
+  {
+   "strona": 199,
+   "modul": "M5",
+   "kontekst": "następujące założenia dotyczące cząsteczek gazów:",
+   "tresc": "Cząsteczki gazu doskonałego traktujemy jako punkty materialne (objętość cząsteczek gazu jest o wiele mniejsza niż objętość zajmowana przez gaz i dlatego z dobrym przybliżeniem przyjmujemy, że ich objętość jest równa zeru). W gazie doskonałym zderzenia z innymi cząsteczkami oraz ze ściankami naczynia są sprężyste i dlatego całkowita energia cząsteczek jest równa ich energii kinetycznej; energia potencjalna jest stale równa zeru (nie ma przyciągania ani odpychania pomiędzy cząsteczkami)."
+  },
+  {
+   "strona": 202,
+   "modul": "M5",
+   "kontekst": "teorii kinetycznej, czyli przy podejściu mikroskopowym.",
+   "tresc": "Temperaturę bezwzględną definiujmy jako wielkość wprost proporcjonalną do średniej energii kinetycznej cząsteczek."
+  },
+  {
+   "strona": 208,
+   "modul": "M5",
+   "kontekst": "15.5 Ciepło właściwe",
+   "tresc": "Ciepło właściwe substancji definiujemy jako dQ/dT czyli ilość ciepła, którą trzeba dostarczyć do jednostki masy, żeby spowodować jednostkową zmianę jej temperatury."
+  },
+  {
+   "strona": 213,
+   "modul": "M5",
+   "kontekst": "teraz pojęcie średniej drogi swobodnej    .",
+   "tresc": "Średnią drogę swobodną definiujemy jako średnią odległość przemywaną przez cząsteczkę pomiędzy kolejnymi zderzeniami."
+  },
+  {
+   "strona": 218,
+   "modul": "M5",
+   "kontekst": "",
+   "tresc": "Proces nazywamy odwracalnym gdy za pomocą bardzo małej (różniczkowej) zmiany otoczenia można wywołać proces odwrotny do niego tzn. przebiegający po tej samej drodze w przeciwnym kierunku."
+  },
+  {
+   "strona": 221,
+   "modul": "M5",
+   "kontekst": "określoną dla stanu równowagi, taką że dla procesu odwracalnego",
+   "tresc": "dQ dS                                      (16.15) T"
+  },
+  {
+   "strona": 223,
+   "modul": "M5",
+   "kontekst": "Z definicji entropia układu jest równa",
+   "tresc": "S = k ln                                (16.23"
+  },
+  {
+   "strona": 241,
+   "modul": "M6",
+   "kontekst": "",
+   "tresc": "Analogicznie definiujemy natężenie pola elektrycznego jako siłę działającą na ładunek próbny q (umieszczony w danym punkcie przestrzeni) podzieloną przez ten ładunek."
+  },
+  {
+   "strona": 244,
+   "modul": "M6",
+   "kontekst": "Żeby móc z niego skorzystać poznamy najpierw pojęcie strumienia pola elektrycznego .",
+   "tresc": "Strumień  pola elektrycznego przez powierzchnię S definiujemy jako iloczyn skalarny wektora powierzchni S i natężenia pola elektrycznego E."
+  },
+  {
+   "strona": 254,
+   "modul": "M6",
+   "kontekst": "elektrycznym.",
+   "tresc": "Potencjał elektryczny definiujemy jako energię potencjalną pola elektrycznego podzieloną przez jednostkowy ładunek."
+  },
+  {
+   "strona": 261,
+   "modul": "M6",
+   "kontekst": "następująco",
+   "tresc": "Pojemnością elektryczną nazywamy stosunek ładunku kondensatora do różnicy potencjałów (napięcia) między okładkami."
+  },
+  {
+   "strona": 262,
+   "modul": "M6",
+   "kontekst": "przewodnika.",
+   "tresc": "Pojemnością elektryczną przewodnika nazywamy stosunek ładunku umieszczonego na przewodniku do potencjału jaki ma ten przewodnik w polu elektrycznym wytworzonym przez ten ładunek."
+  },
+  {
+   "strona": 282,
+   "modul": "M7",
+   "kontekst": "Przepływ prądu przez przewodnik jest opisywany przez natężenie prądu.",
+   "tresc": "Natężenie prądu elektrycznego definiujemy jako ilość ładunku jaka przepływa przez przekrój poprzeczny przewodnika w jednostce czasu. Q I                                              (21.1) t"
+  },
+  {
+   "strona": 283,
+   "modul": "M7",
+   "kontekst": "Wielkością związaną z natężeniem prądu jest gęstość prądu.",
+   "tresc": "Gęstość prądu elektrycznego definiowana jest jako natężenie prądu na jednostkę powierzchni przekroju poprzecznego przewodnika."
+  },
+  {
+   "strona": 290,
+   "modul": "M7",
+   "kontekst": "q",
+   "tresc": "Miarą SEM jest różnica potencjałów (napięcie) na biegunach źródła prądu w warunkach, kiedy przez ogniwo nie płynie prąd (ogniwo otwarte)."
+  },
+  {
+   "strona": 295,
+   "modul": "M7",
+   "kontekst": "zapisujemy w postaci równania wektorowego",
+   "tresc": "F  qv  B                                  (22.1)"
+  },
+  {
+   "strona": 304,
+   "modul": "M7",
+   "kontekst": "Wielkość wektorową",
+   "tresc": "μ  IS                                   (22.19)"
+  },
+  {
+   "strona": 313,
+   "modul": "M7",
+   "kontekst": "Zgodnie z prawem Biota-Savarta pole dB w punkcie P wynosi",
+   "tresc": "0 I d l  r dB                                           (23.15) 4π     r3"
+  },
+  {
+   "strona": 345,
+   "modul": "M8",
+   "kontekst": "o amplitudzie I0 jest taka sama jak prądu stałego o natężeniu",
+   "tresc": "I0 I sk                                        (25.31) 2"
+  },
+  {
+   "strona": 346,
+   "modul": "M8",
+   "kontekst": "",
+   "tresc": "U0 U sk                                      (25.32) 2"
+  },
+  {
+   "strona": 401,
+   "modul": "M9",
+   "kontekst": "powinna mieć dużą zdolność rozdzielczą , którą definiujemy jako",
+   "tresc": " R                                        (30.21) "
+  }
+ ],
+ "prawa": [
+  {
+   "strona": 36,
+   "modul": "M1",
+   "kontekst": "Sformułowanie pierwszej zasady dynamiki Newtona:",
+   "tresc": "Ciało, na które nie działa żadna siła (lub gdy siła wypadkowa jest równa zeru) pozostaje w spoczynku lub porusza się ze stałą prędkością po linii prostej."
+  },
+  {
+   "strona": 36,
+   "modul": "M1",
+   "kontekst": "Sformułowanie drugiej zasady dynamiki Newtona:",
+   "tresc": "Tempo zmian pędu ciała jest równe sile wypadkowej działającej na to ciało. Dla ciała o stałej masie sprowadza się to do iloczynu masy i przyspieszenia ciała."
+  },
+  {
+   "strona": 37,
+   "modul": "M1",
+   "kontekst": "Sformułowanie trzeciej zasady dynamiki Newtona:",
+   "tresc": "Gdy dwa ciała oddziałują wzajemnie, to siła wywierana przez ciało drugie na ciało pierwsze jest równa i przeciwnie skierowana do siły, jaką ciało pierwsze działa na drugie."
+  },
+  {
+   "strona": 42,
+   "modul": "M1",
+   "kontekst": "empiryczne.",
+   "tresc": "Ts jest w przybliżeniu niezależna od wielkości pola powierzchni styku ciał; Ts jest proporcjonalna do siły z jaką jedna powierzchnia naciska na drugą."
+  },
+  {
+   "strona": 43,
+   "modul": "M1",
+   "kontekst": "",
+   "tresc": "Tk nie zależy od prędkości względnej poruszania się powierzchni."
+  },
+  {
+   "strona": 47,
+   "modul": "M1",
+   "kontekst": "powszechnego ciążenia.",
+   "tresc": "Każde dwa ciała o masach m1 i m2 przyciągają się wzajemnie siłą grawitacji wprost proporcjonalną do iloczynu mas, a odwrotnie proporcjonalną do kwadratu odległości między nimi."
+  },
+  {
+   "strona": 50,
+   "modul": "M1",
+   "kontekst": "z wynikami pomiarowymi pozycji planet z bardzo dużą dokładnością",
+   "tresc": "1. Pierwsze prawo Keplera: Każda planeta krąży po orbicie eliptycznej, ze Słońcem w jednym z ognisk tej elipsy. 2. Drugie prawo Keplera (prawo równych pól): Linia łącząca Słońce i planetę zakreśla równe pola w równych odstępach czasu. 3. Trzecie prawo Keplera: Sześciany półosi wielkich orbit dowolnych dwóch planet mają się do siebie jak kwadraty ich okresów obiegu (półoś wielka jest połową najdłuższej cięciwy elipsy)."
+  },
+  {
+   "strona": 52,
+   "modul": "M1",
+   "kontekst": "z dokładnością do 1010.",
+   "tresc": "Te wyniki wskazują, że masa bezwładna jest równa masie grawitacyjnej. To stwierdzenie nazywa się zasadą równoważności."
+  },
+  {
+   "strona": 76,
+   "modul": "M2",
+   "kontekst": "Na podstawie wzorów (7.8) i (7.9) widzimy, że",
+   "tresc": "Praca wykonana przez siłę F działającą na ciało o masie m jest równa zmianie energii kinetycznej tego ciała."
+  },
+  {
+   "strona": 87,
+   "modul": "M2",
+   "kontekst": "Równanie (8.27) wyraża zasadę zachowania energii mechanicznej.",
+   "tresc": "Zasada zachowania energii mechanicznej mówi, że dla ciała podlegającego działaniu siły zachowawczej, suma energii kinetycznej i potencjalnej jest stała."
+  },
+  {
+   "strona": 89,
+   "modul": "M2",
+   "kontekst": "Z równania (8.30) wynika, że",
+   "tresc": "Energia całkowita, tj. suma energii kinetycznej, energii potencjalnej i energii wewnętrznej w układzie odosobnionym nie zmienia się. Mamy więc zasadę zachowania energii całkowitej. Inaczej mówiąc energia może być przekształcana z jednej formy w inną, ale nie może być wytwarzana ani niszczona; energia całkowita jest wielkością stałą."
+  },
+  {
+   "strona": 93,
+   "modul": "M2",
+   "kontekst": "Z równania (9.9) wynika, że",
+   "tresc": "Środek masy układu punktów materialnych porusza się w taki sposób, jakby cała masa układu była skupiona w środku masy i jakby wszystkie siły zewnętrzne nań działały."
+  },
+  {
+   "strona": 94,
+   "modul": "M2",
+   "kontekst": "P  M v śr .m.                                         (9.12)",
+   "tresc": "Całkowity pęd układu punktów materialnych jest równy iloczynowi całkowitej masy układu i prędkości jego środka masy."
+  },
+  {
+   "strona": 95,
+   "modul": "M2",
+   "kontekst": "Ten warunek wyraża zasadę zachowania pędu.",
+   "tresc": "Jeżeli wypadkowa sił zewnętrznych działających na układ jest równa zeru, to całkowity wektor pędu układu pozostaje stały."
+  },
+  {
+   "strona": 120,
+   "modul": "M3",
+   "kontekst": "dt",
+   "tresc": "Wypadkowy moment siły działający na punkt materialny jest równy prędkości zmian momentu pędu."
+  },
+  {
+   "strona": 120,
+   "modul": "M3",
+   "kontekst": "Analogicznie możemy sformułować pierwszą zasadę dynamiki ruchu obrotowego",
+   "tresc": "Ciało sztywne, na które nie działa moment siły pozostaje w spoczynku lub porusza się ruchem obrotowym jednostajnym."
+  },
+  {
+   "strona": 121,
+   "modul": "M3",
+   "kontekst": "oraz trzecią zasadę dynamiki ruchu obrotowego",
+   "tresc": "Jeżeli dwa ciała oddziałują wzajemnie, to moment sił z jakim działa ciało drugie na ciało pierwsze jest równy i przeciwnie skierowany do momentu siły, z jakim ciało pierwsze działa na drugie."
+  },
+  {
+   "strona": 121,
+   "modul": "M3",
+   "kontekst": "Zauważmy, że",
+   "tresc": "Jeżeli na układ nie działa zewnętrzny moment siły (lub wypadkowy moment sił zewnętrznych jest równy zeru) to całkowity moment pędu układu pozostaje stały."
+  },
+  {
+   "strona": 124,
+   "modul": "M3",
+   "kontekst": "środek masy i równoległej do danej. Związek ten wyraża się zależnością",
+   "tresc": "I  I śt .m.  Md 2                                (11.20)"
+  },
+  {
+   "strona": 126,
+   "modul": "M3",
+   "kontekst": "Widzimy, że",
+   "tresc": "Ruch ciała będący złożeniem ruchu postępowego środka masy i obrotowego względem osi przechodzącej przez środek masy jest równoważny ruchowi obrotowemu wokół osi przechodzącej przez punkt styczności ciała z powierzchnią, po której się ono toczy."
+  },
+  {
+   "strona": 138,
+   "modul": "M3",
+   "kontekst": "z częstością ω różną od częstości własnej ω0. W takiej sytuacji",
+   "tresc": "Drgania (wymuszone) odbywają się z częstością siły zewnętrznej, a nie z częstością własną."
+  },
+  {
+   "strona": 141,
+   "modul": "M3",
+   "kontekst": "obowiązuje zasada niezależności ruchów.",
+   "tresc": "To, że drgania odbywają się niezależnie oznacza, że przemieszczenie punktu materialnego jest po prostu sumą przemieszczeń składowych. Ta zasada dodawania przemieszczeń nosi nazwę superpozycji drgań."
+  },
+  {
+   "strona": 170,
+   "modul": "M4",
+   "kontekst": "harmonicznych ujmuje twierdzenie Fouriera, które mówi, że",
+   "tresc": "Dowolne drganie okresowe o okresie T możemy przedstawić jako kombinację liniową (sumę) drgań harmonicznych o okresach danych wzorem Tn = T/n, gdzie n jest liczbą naturalną."
+  },
+  {
+   "strona": 174,
+   "modul": "M4",
+   "kontekst": "13.8 Zjawisko Dopplera",
+   "tresc": "Zjawisko Dopplera polega na pozornej zmianie częstotliwości fali z powodu ruchu obserwatora lub źródła fali."
+  },
+  {
+   "strona": 181,
+   "modul": "M4",
+   "kontekst": "Zjawisko to opisuje prawo Pascala, które można następująco sformułować:",
+   "tresc": "Ciśnienie zewnętrzne wywierane na zamknięty płyn jest przekazywane niezmienione na każdą część płynu oraz na ścianki naczynia."
+  },
+  {
+   "strona": 182,
+   "modul": "M4",
+   "kontekst": "Możemy więc sformułować prawo Archimedesa:",
+   "tresc": "Ciało w całości lub częściowo zanurzone w płynie jest wypierane ku górze siłą równą ciężarowi wypartego przez to ciało płynu."
+  },
+  {
+   "strona": 184,
+   "modul": "M4",
+   "kontekst": "Otrzymany związek nosi nazwę równania ciągłości. Wynika z niego, że",
+   "tresc": "Prędkość płynu nieściśliwego przy ustalonym przepływie jest odwrotnie proporcjonalna do pola przekroju strugi."
+  },
+  {
+   "strona": 202,
+   "modul": "M5",
+   "kontekst": "sobą. Formułujemy teraz postulat nazywany zerowa zasadą termodynamiki.",
+   "tresc": "Jeżeli ciała 1 i 3 są w równowadze termicznej, a także ciała 2 i 3 są w równowadze termicznej to ciała 1 i 2 są w tej samej równowadze termicznej."
+  },
+  {
+   "strona": 204,
+   "modul": "M5",
+   "kontekst": "jest bardzo duża i obowiązuje mechanika Newtonowska to:",
+   "tresc": "Dostępna energia rozkłada się w równych porcjach na wszystkie niezależne sposoby, w jakie cząsteczka może ją absorbować."
+  },
+  {
+   "strona": 205,
+   "modul": "M5",
+   "kontekst": "",
+   "tresc": "Średnia energia kinetyczna na każdy stopień swobody jest taka sama dla wszystkich cząsteczek."
+  },
+  {
+   "strona": 206,
+   "modul": "M5",
+   "kontekst": "Zgodnie z zasadą zachowania energii",
+   "tresc": "Ciepło pobrane przez układ jest równe wzrostowi energii wewnętrznej układu plus pracy wykonanej przez układ nad otoczeniem zewnętrznym."
+  },
+  {
+   "strona": 207,
+   "modul": "M5",
+   "kontekst": "",
+   "tresc": "Zmiana energii wewnętrznej układu, przy przejściu pomiędzy dwoma stanami, zależy wyłącznie od tego jaki jest stan początkowy i końcowy przejścia."
+  },
+  {
+   "strona": 220,
+   "modul": "M5",
+   "kontekst": "termodynamiki. Poniżej podane zostały równoważne sformułowania tej zasady:",
+   "tresc": "Niemożliwa jest przemiana, której jedynym wynikiem byłaby zamiana na pracę ciepła pobranego ze źródła mającego wszędzie jednakową temperaturę."
+  },
+  {
+   "strona": 220,
+   "modul": "M5",
+   "kontekst": "ciepła do zbiornika zimniejszego.",
+   "tresc": "Żadna cyklicznie pracująca maszyna nie może bez zmian w otoczeniu przenosić w sposób ciągły ciepła z jednego ciała do drugiego o wyższej temperaturze."
+  },
+  {
+   "strona": 220,
+   "modul": "M5",
+   "kontekst": "do cieplejszego.",
+   "tresc": "Żadna cykliczna maszyna cieplna pracująca pomiędzy temperaturami T1 i T2 nie może mieć sprawności większej niż (T1  T2)/T1."
+  },
+  {
+   "strona": 221,
+   "modul": "M5",
+   "kontekst": "Natomiast drugą zasadę termodynamiki wiążemy z pojęciem entropii      .",
+   "tresc": "Druga zasada termodynamiki mówi, że w układzie zamkniętym entropia S nie może maleć to znaczy dS  0."
+  },
+  {
+   "strona": 221,
+   "modul": "M5",
+   "kontekst": "więc dla procesu odwracalnego dS = 0 na podstawie równania (16.15). Oznacza to, że",
+   "tresc": "221"
+  },
+  {
+   "strona": 238,
+   "modul": "M6",
+   "kontekst": "sformułowana przez Franklina mówi, że",
+   "tresc": "Wypadkowy ładunek elektryczny w układzie zamkniętym jest stały."
+  },
+  {
+   "strona": 238,
+   "modul": "M6",
+   "kontekst": "punktowych ) znajdujących się w odległości r od siebie w próżni opisuje prawo Coulomba",
+   "tresc": "Każde dwa ładunki punktowe q1 i q2 oddziałują wzajemnie siłą wprost proporcjonalną do iloczynu tych ładunków, a odwrotnie proporcjonalną do kwadratu odległości między nimi."
+  },
+  {
+   "strona": 240,
+   "modul": "M6",
+   "kontekst": "17.2.1 Zasada superpozycji",
+   "tresc": "Gdy mamy do czynienia z kilkoma naładowanymi ciałami, siłę wypadkową, analogicznie jak w przypadku siły grawitacyjnej, obliczamy dodając wektorowo poszczególne siły dwuciałowe."
+  },
+  {
+   "strona": 246,
+   "modul": "M6",
+   "kontekst": "Gaussa",
+   "tresc": "Qwewn.  E d S  4π kQ         wewn.    0 (18.8)"
+  },
+  {
+   "strona": 258,
+   "modul": "M6",
+   "kontekst": "",
+   "tresc": "Powierzchnia każdego przewodnika w stanie ustalonym jest powierzchnią stałego potencjału (powierzchnią ekwipotencjalną)."
+  },
+  {
+   "strona": 259,
+   "modul": "M6",
+   "kontekst": "Korzystamy z zasady superpozycji:",
+   "tresc": "Całkowity potencjał pola pochodzącego od układu ładunków punktowych w dowolnym punkcie obliczamy sumując potencjały od poszczególnych ładunków."
+  },
+  {
+   "strona": 263,
+   "modul": "M6",
+   "kontekst": "Sd 2",
+   "tresc": "Jeżeli w jakimś punkcie przestrzeni istnieje pole elektryczne o natężeniu E to możemy uważać, że w tym punkcie jest zmagazynowana energia w ilości ½ε0E2 na jednostkę objętości."
+  },
+  {
+   "strona": 265,
+   "modul": "M6",
+   "kontekst": "polaryzacji elektrycznej .",
+   "tresc": "Gdy dielektryk umieścimy w polu elektrycznym to pojawiają się indukowane ładunki powierzchniowe, które wytwarzają pole elektryczne przeciwne do zewnętrznego pola elektrycznego."
+  },
+  {
+   "strona": 284,
+   "modul": "M7",
+   "kontekst": "Ten ważny wynik doświadczalny jest treścią prawa Ohma, które stwierdza, że",
+   "tresc": "Stosunek napięcia przyłożonego do przewodnika do natężenia prądu przepływającego przez ten przewodnik jest stały i nie zależy ani od napięcia ani od natężenia prądu."
+  },
+  {
+   "strona": 291,
+   "modul": "M7",
+   "kontekst": "Zgodnie z prawem Ohma Uz = IRz więc",
+   "tresc": "  I ( Rw  Rz )                         (21.21)"
+  },
+  {
+   "strona": 291,
+   "modul": "M7",
+   "kontekst": "prądów i napięć posługujemy się prawami Kirchhoffa.",
+   "tresc": "Pierwsze prawo Kirchhoffa: Twierdzenie o punkcie rozgałęzienia. Algebraiczna suma natężeń prądów przepływających przez punkt rozgałęzienia (węzeł) jest równa zeru."
+  },
+  {
+   "strona": 291,
+   "modul": "M7",
+   "kontekst": "i 1",
+   "tresc": "Drugie prawo Kirchhoffa: Twierdzenie o obwodzie zamkniętym. Algebraiczna suma sił elektromotorycznych i przyrostów napięć w dowolnym obwodzie zamkniętym jest równa zeru (spadek napięcia jest przyrostem ujemnym napięcia)."
+  },
+  {
+   "strona": 298,
+   "modul": "M7",
+   "kontekst": "",
+   "tresc": "To, że linie pola B są zawsze liniami zamkniętymi stanowi fundamentalną różnicę między stałym polem magnetycznym i elektrycznym, którego linie zaczynają się i kończą na ładunkach."
+  },
+  {
+   "strona": 309,
+   "modul": "M7",
+   "kontekst": "",
+   "tresc": " Bdl   I  0                                (23.1)"
+  },
+  {
+   "strona": 329,
+   "modul": "M8",
+   "kontekst": "",
+   "tresc": "d B                                            (24.1) dt"
+  },
+  {
+   "strona": 330,
+   "modul": "M8",
+   "kontekst": "możemy wyznaczyć na podstawie reguły Lenza. Według niej",
+   "tresc": "Prąd indukowany ma taki kierunek, że wytwarzany przez niego własny strumień magnetyczny przeciwdziała pierwotnym zmianom strumienia, które go wywołały."
+  },
+  {
+   "strona": 334,
+   "modul": "M8",
+   "kontekst": "",
+   "tresc": "Gdy natężenie prądu przepływającego przez obwód zmienia się to zmienia się też, wytworzony przez ten prąd, strumień pola magnetycznego przenikający obwód, więc zgodnie z prawem indukcji Faradaya indukuje się w obwodzie SEM."
+  },
+  {
+   "strona": 336,
+   "modul": "M8",
+   "kontekst": "2 0",
+   "tresc": "Jeżeli w jakimś punkcie przestrzeni istnieje pole magnetyczne o indukcji B to możemy 1 B2 uważać, że w tym punkcie jest zmagazynowana energia w ilości             na jednostkę 2 0 objętości"
+  },
+  {
+   "strona": 347,
+   "modul": "M8",
+   "kontekst": "zeru",
+   "tresc": " Bd S  0                                    (26.2) S"
+  },
+  {
+   "strona": 348,
+   "modul": "M8",
+   "kontekst": "Ogólnie:",
+   "tresc": "Zmianom pola magnetycznego towarzyszy zawsze powstanie pola elektrycznego."
+  },
+  {
+   "strona": 349,
+   "modul": "M8",
+   "kontekst": "które możemy wyrazić następująco:",
+   "tresc": "Cyrkulacja wektora natężenia pola E po dowolnym zamkniętym konturze jest równa szybkości zmiany strumienia magnetycznego przechodzącego przez ten kontur."
+  },
+  {
+   "strona": 351,
+   "modul": "M8",
+   "kontekst": "Podsumowując:",
+   "tresc": "Zmianom pola elektrycznego towarzyszy zawsze powstanie pola magnetycznego."
+  },
+  {
+   "strona": 376,
+   "modul": "M9",
+   "kontekst": "Odbiciem i załamaniem rządzą dwa następujące prawa:",
+   "tresc": "Prawo odbicia: Promień padający, promień odbity i normalna do powierzchni granicznej wystawiona w punkcie padania promienia leżą w jednej płaszczyźnie i kąt padania równa się kątowi odbicia α1 = α2."
+  },
+  {
+   "strona": 376,
+   "modul": "M9",
+   "kontekst": "kąt padania równa się kątowi odbicia α1 = α2.",
+   "tresc": "Prawo załamania: Stosunek sinusa kata padania do sinusa kąta załamania jest równy stosunkowi bezwzględnego współczynnika załamania ośrodka drugiego n2 do bezwzględnego współczynnika załamania ośrodka pierwszego n1, czyli współczynnikowi względnemu załamania światła ośrodka drugiego względem pierwszego."
+  },
+  {
+   "strona": 381,
+   "modul": "M9",
+   "kontekst": "chwili w przyszłości, jeżeli znamy jego obecne położenie.",
+   "tresc": "Zasada Huygensa mówi, że wszystkie punkty czoła fali można uważać za źródła nowych fal kulistych. Położenie czoła fali po czasie t będzie dane przez powierzchnię styczną do tych fal kulistych."
+  },
+  {
+   "strona": 402,
+   "modul": "M9",
+   "kontekst": "określa prawo Bragga",
+   "tresc": "2d sin   m ,    m  1, 2, 3,.....(maksima)               (30.22)"
+  },
+  {
+   "strona": 405,
+   "modul": "M9",
+   "kontekst": "Ponieważ natężenie światła jest proporcjonalne do kwadratu amplitudy więc",
+   "tresc": "I  I 0 cos 2                                 (31.1)"
+  },
+  {
+   "strona": 407,
+   "modul": "M9",
+   "kontekst": "",
+   "tresc": "n2 tg         n2,1                            (31.5) n1"
+  },
+  {
+   "strona": 410,
+   "modul": "M9",
+   "kontekst": "Zasadę Fermata formułujemy w następujący sposób:",
+   "tresc": "Promień świetlny biegnący z jednego punktu do drugiego przebywa drogę, na której przebycie trzeba zużyć w porównaniu z innymi, sąsiednimi drogami, minimum albo maksimum czasu."
+  },
+  {
+   "strona": 423,
+   "modul": "M10",
+   "kontekst": "wartości są różne.",
+   "tresc": "Emisja energetyczna promieniowania ciała doskonale czarnego (nie jego powierzchni) zmienia się wraz z temperaturą według prawa Stefana-Boltzmanna R T4                                     (32.2)"
+  },
+  {
+   "strona": 423,
+   "modul": "M10",
+   "kontekst": "Rys. 32.3. Widmo promieniowania ciała doskonale czarnego w wybranych temperaturach",
+   "tresc": "Długość fali dla której przypada maksimum emisji jest zgodnie z prawem Wiena odwrotnie proporcjonalna do temperatury ciała."
+  },
+  {
+   "strona": 425,
+   "modul": "M10",
+   "kontekst": "częstotliwość drgań.",
+   "tresc": "Oscylatory te, według Plancka, nie mogą mieć dowolnej energii, ale tylko ściśle określone wartości dane wzorem E  n hv                                  (32.4)"
+  },
+  {
+   "strona": 425,
+   "modul": "M10",
+   "kontekst": "E  hv                                          (32.5)",
+   "tresc": "Oznacza to, że dopóki oscylator pozostaje w jednym ze swoich stanów kwantowych dopóty ani nie emituje ani nie absorbuje energii. Mówimy, że znajduje się w stanie stacjonarnym ."
+  },
+  {
+   "strona": 430,
+   "modul": "M10",
+   "kontekst": "pochłonięty. Wówczas energia fotonu zostanie przekazana elektronowi.",
+   "tresc": "Jeżeli do wyrwania elektronu z metalu potrzebna jest energia W to wówczas hv  W  Ekmax                                (32.12)"
+  },
+  {
+   "strona": 447,
+   "modul": "M10",
+   "kontekst": "Jako pierwszy fizyczną interpretację funkcji falowej zaproponował M. Born.",
+   "tresc": " 2 Zasugerował, że wielkość                   w dowolnym punkcie przedstawia miarę prawdopodobieństwa, że cząstka znajdzie się w pobliżu tego punktu to znaczy w jakimś obszarze wokół tego punktu np. w przedziale x, x+dx."
+  },
+  {
+   "strona": 448,
+   "modul": "M10",
+   "kontekst": "Głosi ona, że",
+   "tresc": "Iloczyn nieokreśloności pędu cząstki i nieokreśloności jej położenia w danym kierunku jest zawsze większy od stałej Plancka."
+  },
+  {
+   "strona": 448,
+   "modul": "M10",
+   "kontekst": "wykonanie tego pomiaru.",
+   "tresc": "Jeżeli cząstka posiada energię E, to dokładność jej wyznaczenia ΔE zależy od czasu pomiaru Δt zgodnie z relacją. E t  / 2                                      (35.3)"
+  },
+  {
+   "strona": 473,
+   "modul": "M11",
+   "kontekst": "Podsumowując",
+   "tresc": "Wartość orbitalnego momentu pędu elektronu w atomie i jego rzut na oś z przyjmują ściśle określone wartości zależne od liczb kwantowych l i ml."
+  },
+  {
+   "strona": 474,
+   "modul": "M11",
+   "kontekst": "automatycznie są generowane grupy o liczebności 2, 8, 18, 32. Pauli zapostulował, że",
+   "tresc": "W atomie wieloelektronowym w tym samym stanie kwantowym, może znajdować się co najwyżej jeden elektron."
+  },
+  {
+   "strona": 475,
+   "modul": "M11",
+   "kontekst": "więc zasada Pauliego może być sformułowana następująco",
+   "tresc": "W atomie wieloelektronowym elektrony muszą się różnić przynajmniej jedną liczbą kwantową."
+  },
+  {
+   "strona": 482,
+   "modul": "M11",
+   "kontekst": "Ponadto, bardzo ważne jest to, że",
+   "tresc": "W emisji spontanicznej mamy do czynienia z fotonami, których fazy i kierunki są rozłożone przypadkowo. Natomiast foton wysyłany w procesie emisji wymuszonej ma taką samą fazę oraz taki sam kierunek ruchu jak foton wymuszający."
+  },
+  {
+   "strona": 497,
+   "modul": "M11",
+   "kontekst": "zależy od temperatury zgodnie z prawem Curie",
+   "tresc": "C                                       (37.3) T"
+  },
+  {
+   "strona": 506,
+   "modul": "M11",
+   "kontekst": "Skąd ostatecznie otrzymujemy wykładnicze prawo rozpadu.",
+   "tresc": "N (t )  N (0) e   t                        (38.17)"
+  },
+  {
+   "strona": 522,
+   "modul": "M11",
+   "kontekst": "negatywny i musimy uznać, że",
+   "tresc": "Prędkość światła w próżni c = 2.998·108 m/s jest jednakowa we wszystkich inercjalnych układach odniesienia."
+  },
+  {
+   "strona": 523,
+   "modul": "M11",
+   "kontekst": "i mierzonymi z różnych układów odniesienia jest różny. W konsekwencji",
+   "tresc": "Każdy obserwator stwierdza, że poruszający się zegar idzie wolniej niż identyczny zegar w spoczynku."
+  }
+ ],
+ "zadania": [
+  {
+   "strona": 68,
+   "nr": 1,
+   "tresc": "Na rysunku poniżej przedstawiono wykres zależności drogi od czasu dla pewnego ciała. Oblicz prędkość ciała w trzeciej i piątej sekundzie ruchu oraz prędkość średnią dla całego ruchu.",
+   "modul": "M1"
+  },
+  {
+   "strona": 68,
+   "nr": 2,
+   "tresc": "Ze skrzyżowania rusza samochód w chwili, kiedy na następnym skrzyżowaniu odległym o d = 0.5 km zapala się zielone światło. Cykl zmiany świateł jest następujący: zielone- żółte-czerwone-zielone-żółte-czerwone itd., a czas świecenia się świateł przedstawia się następująco: zielone-t1 = 25 s, żółte-t2 = 3 s, czerwone-t3 = 20. Z jaką prędkością (średnią) powinien jechać samochód, aby na najbliższe skrzyżowanie wjechał przy zielonym świetle w dowolnym kolejnym cyklu zmiany świateł?",
+   "modul": "M1"
+  },
+  {
+   "strona": 68,
+   "nr": 3,
+   "tresc": "Z wieży wyrzucono jednocześnie dwa ciała z jednakową prędkością v0, jedno pionowo do góry, a drugie pionowo w dół. Jak zmienia się z biegiem czasu odległość między tymi ciałami?",
+   "modul": "M1"
+  },
+  {
+   "strona": 68,
+   "nr": 4,
+   "tresc": "Zależność wektora położenia ciała od czasu dana jest wzorem: r(t) = [1 + t, 2t  t2]. Oblicz wartości bezwzględne prędkości początkowej i przyspieszenia.",
+   "modul": "M1"
+  },
+  {
+   "strona": 68,
+   "nr": 5,
+   "tresc": "Dwa klocki, o masach m = 1 kg i M = 2 kg, połączone sznurkiem są podnoszone pionowo do góry ze stałą prędkością (rysunek poniżej). Jaka jest siła przyłożona do górnego sznurka, a jakie jest napięcie sznurka łączącego oba klocki?",
+   "modul": "M1"
+  },
+  {
+   "strona": 69,
+   "nr": 6,
+   "tresc": "Odpowiedz na pytania (odpowiedź uzasadnij). Czy ciało może mieć zerową prędkość, a niezerowe przyspieszenie? Jeżeli wartość prędkości ciała pozostaje stała, to czy przyspieszenie tego ciała musi być równe zeru?",
+   "modul": "M1"
+  },
+  {
+   "strona": 69,
+   "nr": 7,
+   "tresc": "Kruszenie kopalin silnym strumieniem wody jest jedną z metod stosowanych w górnictwie. Oblicz siłę, z jaką działa strumień wody o gęstości  = 103 kg/m3 i przekroju poprzecznym S = 0.01 m2 poruszający się z prędkością v = 50 m/s. Zauważ, że przy zderzeniu ze ścianą woda traci całkowicie swój pęd.",
+   "modul": "M1"
+  },
+  {
+   "strona": 69,
+   "nr": 8,
+   "tresc": "Dwie nieruchome łodzie znajdujące się na jeziorze połączone są długim sznurem. Człowiek znajdujący się na pierwszej łodzi ciągnie sznur działając siłą F = 50 N. Oblicz prędkość względną obu łodzi po czasie t = 4 s działania siły. Ciężar pierwszej łodzi wraz z człowiekiem wynosi Q1 = 2000 N, a ciężar drugiej łodzi Q2 = 800 N. Opory ruchu można pominąć.",
+   "modul": "M1"
+  },
+  {
+   "strona": 69,
+   "nr": 9,
+   "tresc": "Sanki ześlizgują się z górki o wysokości h = 4 m i kącie nachylenia  = 30º i dalej z rozpędu ślizgają się jeszcze po poziomym śniegu poza nią, zatrzymując się w odległość 10 m od podnóża górki. Ile wynosi współczynnik tarcia sanek o śnieg?",
+   "modul": "M1"
+  },
+  {
+   "strona": 69,
+   "nr": 10,
+   "tresc": "Platforma kolejowa jest załadowana skrzyniami. Współczynnik tarcia statycznego między skrzyniami, a podłogą platformy wynosi 0.3. Pociąg, w którego składzie znajduje się platforma, jedzie z prędkością 60 km/h. Na jakim najkrótszym odcinku można zatrzymać pociąg, żeby nie spowodowało to ślizgania się skrzyń?",
+   "modul": "M1"
+  },
+  {
+   "strona": 69,
+   "nr": 11,
+   "tresc": "Jak daleko od Ziemi w kierunku Słońca musi znajdować się ciało, żeby przyciąganie grawitacyjne Słońca zrównoważyło przyciąganie ziemskie? Słońce znajduje się w odległości 1.49·108 km od Ziemi, a jego masa równa się 3.24·105 masy Ziemi.",
+   "modul": "M1"
+  },
+  {
+   "strona": 114,
+   "nr": 1,
+   "tresc": "Ciało porusza się ruchem prostoliniowym po gładkiej poziomej powierzchni. Prędkość tego ciała zmienia się w czasie ruchu tak jak pokazano na rysunku poniżej. Określ czy praca wykonana przez siłę wypadkową w kolejnych przedziałach czasu t1, t2, t3 i t4 jest dodatnia, ujemna czy równa zeru?",
+   "modul": "M2"
+  },
+  {
+   "strona": 114,
+   "nr": 2,
+   "tresc": "W wyniku działania siły tarcia ciało o masie m = 5 kg zmniejsza swoją prędkość od wartości v1 = 10 m/s do wartości v2 = 6 m/s. Jaką pracę wykonała siła tarcia?",
+   "modul": "M2"
+  },
+  {
+   "strona": 114,
+   "nr": 3,
+   "tresc": "Siła, której zależność od położenia jest pokazana na rysunku poniżej, przesuwa ciało o masie m = 1 kg wzdłuż linii prostej po poziomej powierzchni. Jaką pracę wykonuje ta siła przesuwając ciało od położenia x0 = 0 do położenia x = 10 m ? Jaką prędkość uzyskuje to ciało na drodze 10 m, przy zaniedbaniu tarcia i wszelkich oporów? Prędkość początkowa ciała v0 = 0.",
+   "modul": "M2"
+  },
+  {
+   "strona": 114,
+   "nr": 4,
+   "tresc": "Pod działaniem siły pęd ciała wzrósł dwukrotnie. Ile razy wzrosła energia kinetyczna tego ciała?",
+   "modul": "M2"
+  },
+  {
+   "strona": 114,
+   "nr": 5,
+   "tresc": "Sformułuj zasadę zachowania energii mechanicznej.",
+   "modul": "M2"
+  },
+  {
+   "strona": 115,
+   "nr": 6,
+   "tresc": "Ciało o masie m = 1 kg rzucono pionowo w górę z prędkością v0 = 20 m/s. Ile wynosiła energia potencjalna a ile energia kinetyczna tego ciała na wysokości 15 m? Opory powietrza pomijamy. Należy przyjąć g = 10 m/s2.",
+   "modul": "M2"
+  },
+  {
+   "strona": 115,
+   "nr": 7,
+   "tresc": "Ciało, któremu nadano prędkość v0 pionowo w górę, wzniosło się z powierzchni planety na wysokość równą jej promieniowi. Jaką prędkość należy nadać ciału na powierzchni tej planety, aby oddaliło się od niej nieskończenie daleko?",
+   "modul": "M2"
+  },
+  {
+   "strona": 115,
+   "nr": 8,
+   "tresc": "Na układ działa stała siła zewnętrzna. Odpowiedz, czy układ zachowuje swój całkowity pęd? Odpowiedź uzasadnij.",
+   "modul": "M2"
+  },
+  {
+   "strona": 115,
+   "nr": 9,
+   "tresc": "Pocisk o masie m = 2 kg wystrzelono z prędkością v = 400 m/s z działa o masie M1 = 2000 kg a następnie taki sam pocisk, z tą samą prędkością z działa o masie M2 = 3000 kg. Porównaj energie odrzutu obu dział oraz ich pędy zaraz po wystrzeleniu pocisku.",
+   "modul": "M2"
+  },
+  {
+   "strona": 115,
+   "nr": 10,
+   "tresc": "Obiekt o masie m poruszający się z prędkością v uderza w inny spoczywający obiekt o masie dwukrotnie większej. Obliczyć prędkość obiektów tuż po zderzeniu, zakładając, że zderzenie jest całkowicie niesprężyste.",
+   "modul": "M2"
+  },
+  {
+   "strona": 115,
+   "nr": 11,
+   "tresc": "Jaki warunek musi być spełniony aby w trakcie całkowicie niesprężystego zderzenia dwóch ciał ich energia kinetyczna (jaką miały przed zderzeniem) zamieniła się całkowicie w ich energię wewnętrzną (po zderzeniu)?",
+   "modul": "M2"
+  },
+  {
+   "strona": 157,
+   "nr": 1,
+   "tresc": "Na rysunku poniżej pokazano kulkę o masie m zawieszoną na końcu sznurka o długości L poruszającą się w płaszczyźnie poziomej, po okręgu ze stałą prędkością v. Gdy kulka zatacza okrąg, sznurek porusza się po powierzchni stożkowej i dlatego wahadło to nazywamy wahadłem stożkowym. Znajdź czas, w jakim kulka wykonuje jeden pełny obrót.",
+   "modul": "M3"
+  },
+  {
+   "strona": 157,
+   "nr": 2,
+   "tresc": "Niewielkie ciało ześlizguje się bez tarcia z powierzchni półkuli o promieniu R. Na jakiej wysokości ciało oderwie się od niej?",
+   "modul": "M3"
+  },
+  {
+   "strona": 157,
+   "nr": 3,
+   "tresc": "Na końcach pręta o długości 0.4 m, zamocowane są małe kule o masie m = 0.2 kg każda. Oblicz moment bezwładności tego układu względem osi prostopadłej do pręta, przechodzącej przez: a) środek pręta, b) przez jego koniec. Masa pręta M = 0.4 kg.",
+   "modul": "M3"
+  },
+  {
+   "strona": 157,
+   "nr": 4,
+   "tresc": "Na obwodzie jednorodnego krążka o masie M = 1 kg i promieniu R = 10 cm nawinięta jest lekka nitka. Do końca nitki przymocowane jest ciało o masie m = 0.5 kg. Znajdź przyspieszenie kątowe krążka, i przyspieszenie styczne ciała o masie m. Jakie jest naprężenie nitki? Krążek obraca się bez tarcia.",
+   "modul": "M3"
+  },
+  {
+   "strona": 157,
+   "nr": 5,
+   "tresc": "6. Mamy do dyspozycji sprężynę, którą można rozciągnąć o 2cm przykładając do niej siłę 8 N. Sprężynę zamocowano poziomo i do jej końca przyczepiono ciało o masie 1 kg. Następnie rozciągnięto ją o 4 cm od położenia równowagi i puszczono. Ponieważ ciało ślizga się po powierzchni bez tarcia zatem wykonuje ruch harmoniczny prosty. Oblicz",
+   "modul": "M3"
+  },
+  {
+   "strona": 158,
+   "nr": 7,
+   "tresc": "Ciało znajduje się na poziomej powierzchni, która porusza się poziomo prostym ruchem harmonicznym z częstotliwością dwóch drgań na sekundę. Współczynnik tarcia statycznego między ciałem a tą powierzchnią wynosi 1. Jak duża może być amplituda tego ruchu, aby ciało nie ślizgało się po powierzchni?",
+   "modul": "M3"
+  },
+  {
+   "strona": 158,
+   "nr": 8,
+   "tresc": "W jakiej odległości od środka należy zamocować jednorodny pręt o długości l = 1 m, aby pręt tworzył wahadło fizyczne o najmniejszym okresie?",
+   "modul": "M3"
+  },
+  {
+   "strona": 158,
+   "nr": 9,
+   "tresc": "Oblicz jaki jest współczynnik tłumienia  ruchu harmonicznego jeżeli jego amplituda maleje dwukrotnie w czasie t = 1 min. Ile razy zmalała w tym czasie energia drgań?",
+   "modul": "M3"
+  },
+  {
+   "strona": 197,
+   "nr": 1,
+   "tresc": "Fala akustyczna o częstotliwości 1000 Hz rozchodzi się z prędkością 330 m/s. O ile są oddalone od siebie punkty, które mają przeciwne fazy? O ile zmienia się faza w danym punkcie przestrzeni w czasie t = 2.5·10-4 s ?",
+   "modul": "M4"
+  },
+  {
+   "strona": 197,
+   "nr": 2,
+   "tresc": "Napisz równanie fali rozchodzącej się w ujemnym kierunku osi x, której amplituda wynosi 1 mm, częstotliwości 660 Hz, a prędkość rozchodzenia się 330 m/s.",
+   "modul": "M4"
+  },
+  {
+   "strona": 197,
+   "nr": 3,
+   "tresc": "Jaka jest amplituda fali wypadkowej powstałej w wyniku nałożenia się dwóch fal harmonicznych o takiej samej częstotliwości i amplitudach równych odpowiednio 1 cm i 2 cm jeżeli oscylacje różnią się w fazie o π/2 . Fale rozchodzą się w jednym kierunku.",
+   "modul": "M4"
+  },
+  {
+   "strona": 197,
+   "nr": 4,
+   "tresc": "Jakie musi być naprężenie struny o długości 50 cm i masie 50 g, żeby dawała ona ton podstawowy o częstotliwości 1000 Hz?",
+   "modul": "M4"
+  },
+  {
+   "strona": 197,
+   "nr": 5,
+   "tresc": "Źródło dźwięku o częstotliwości 500 Hz oddala się od obserwatora w stronę pionowej ściany, z prędkością 5 m/s. Oblicz częstotliwość dźwięku odbieranego przez obserwatora bezpośrednio ze źródła i dźwięku odbitego od ściany. Czy obserwator słyszy dudnienia? Prędkość dźwięku w powietrzu wynosi 330 m/s.",
+   "modul": "M4"
+  },
+  {
+   "strona": 197,
+   "nr": 6,
+   "tresc": "Podnośnik hydrauliczny składa się z dwóch tłoków połączonych ze sobą tak jak na rysunku poniżej. Duży tłok ma średnicę 1 m, a mały 0.01 m. Jaką siłę trzeba przyłożyć do mniejszego tłoka, żeby podnieść samochód o masie m = 1000 kg?",
+   "modul": "M4"
+  },
+  {
+   "strona": 197,
+   "nr": 7,
+   "tresc": "Balon o masie 360 kg i objętości 600 m3 jest przymocowany do ziemi za pomocą pionowej liny. Oblicz jaka jest siła napinająca linę? Gęstość powietrza  = 1.3 kg/m3.",
+   "modul": "M4"
+  },
+  {
+   "strona": 197,
+   "nr": 8,
+   "tresc": "Siła nośna wywierana na skrzydło samolotu wynosi 10 N na każdy cm2 skrzydła. Jaka jest prędkość przepływu powietrza ponad skrzydłem jeżeli pod skrzydłem przepływa ono z prędkością 200 m/s?",
+   "modul": "M4"
+  },
+  {
+   "strona": 236,
+   "nr": 1,
+   "tresc": "W komorze laboratoryjnej osiągnięto próżnię 10-8 Pa. Jaka ilość cząsteczek znajduje się w 1cm3 takiej komory w temperaturze 20 ºC?",
+   "modul": "M5"
+  },
+  {
+   "strona": 236,
+   "nr": 2,
+   "tresc": "Na rysunku poniżej pokazano cykl przemian gazu doskonałego w układzie współrzędnych p - V. Narysuj ten sam cykl we współrzędnych p - T.",
+   "modul": "M5"
+  },
+  {
+   "strona": 236,
+   "nr": 3,
+   "tresc": "Jak zmieni się średnia wartość energii kinetycznej jednego mola argonu (gaz jednoatomowy) jeżeli dostarczymy mu Q = 3000 J ciepła w warunkach stałej objętości.",
+   "modul": "M5"
+  },
+  {
+   "strona": 236,
+   "nr": 4,
+   "tresc": "Jakie jest ciepło właściwe na gram a) helu (masa atomowa 4, gaz jednoatomowy), b) wodoru (masa atomowa 1, gaz dwuatomowy), c) tlenu (masa atomowa 16, gaz dwuatomowy) jeżeli gazy te utrzymujemy w stałej objętości?",
+   "modul": "M5"
+  },
+  {
+   "strona": 236,
+   "nr": 5,
+   "tresc": "Jeden mol tlenu (gaz dwuatomowy) został ogrzany od temperatury 300 K do 400 K przy stałym ciśnieniu. Jaką ilość ciepła dostarczono do układu, jaka jest zmiana jego energii wewnętrznej i jaka praca została wykonana?",
+   "modul": "M5"
+  },
+  {
+   "strona": 236,
+   "nr": 6,
+   "tresc": "Jeden mol powietrza pod ciśnieniem p1 = 105 Pa i o objętości V1 = 22.4 l, został sprężony do połowy objętości początkowej a) izotermicznie, b) izobarycznie. Porównaj pracę wykonaną w obu przypadkach.",
+   "modul": "M5"
+  },
+  {
+   "strona": 236,
+   "nr": 7,
+   "tresc": "Silnik Carnota pracuje ze sprawnością 1 = 40%. Jak należy zmienić temperaturę grzejnika, aby sprawność wzrosła do2 = 50%. Temperatura chłodnicy jest stała i wynosi 300 K.",
+   "modul": "M5"
+  },
+  {
+   "strona": 236,
+   "nr": 8,
+   "tresc": "Oblicz zmianę entropii 1 g lodu o temperaturze 0C, który topi się w sposób odwracalny przechodząc w wodę o tej samej temperaturze. Ciepło topnienia wynosi 3.3·105 J/kg.",
+   "modul": "M5"
+  },
+  {
+   "strona": 279,
+   "nr": 1,
+   "tresc": "Dwie identyczne kulki o masie m = 10 mg każda są zawieszone na izolowanych niciach o długości 50 cm. Gdy kulki naładujemy identycznymi ładunkami, a nitki zaczepimy w tym samym punkcie, to kulki w wyniku odpychania oddalą się na odległość r = 50 cm. Oblicz ładunek elektryczny kulek.",
+   "modul": "M6"
+  },
+  {
+   "strona": 279,
+   "nr": 2,
+   "tresc": "Dwa identyczne ładunki q znajdują się w odległości d od siebie. W którym punkcie na symetralnej odcinka d natężenie wypadkowego pola elektrycznego osiąga wartość maksymalną?",
+   "modul": "M6"
+  },
+  {
+   "strona": 279,
+   "nr": 3,
+   "tresc": "W obszar pola elektrycznego (patrz rysunek poniżej) wpada pod kątem  = 45 elektron poruszający się z prędkością 6·106 m/s. Natężenie pola E = 2·103 N/C i jest skierowane do góry. Odległość między płytkami d = 2 cm, a ich długość l = 10 cm. Czy elektron uderzy w którąś z płytek? Jeżeli tak, to w którym miejscu?",
+   "modul": "M6"
+  },
+  {
+   "strona": 279,
+   "nr": 4,
+   "tresc": "Wyznacz natężenie pola elektrycznego w odległości 10 cm od nieskończenie długiego pręta naładowanego z liniową gęstością  = 5 C/m.",
+   "modul": "M6"
+  },
+  {
+   "strona": 279,
+   "nr": 5,
+   "tresc": "Długi przewodzący walec, na którym umieszczono ładunek +q, otoczony jest, jak pokazano na rysunku poniżej przez przewodzącą, cylindryczną powłokę o ładunku -2q. Zastosuj prawo Gaussa dla znalezienia: (a) natężenia pola elektrycznego w punktach na zewnątrz powłoki, (b) natężenia pola elektrycznego w obszarze między walcem a powłoką.",
+   "modul": "M6"
+  },
+  {
+   "strona": 279,
+   "nr": 6,
+   "tresc": "Wyznacz wartość natężenia pola elektrycznego E w funkcji odległości od środka wydrążonej kuli o promieniu wewnętrznym R1 i promieniu zewnętrznym R2 wykonanej z dielektryka (rysunek poniżej). Kula jest naładowana jednorodnie ładunkiem Q. Narysuj wykres E(r).",
+   "modul": "M6"
+  },
+  {
+   "strona": 280,
+   "nr": 7,
+   "tresc": ".Mała kulka, o masie m = 1 mg i ładunku q = 2·108 C wisi na jedwabnej nitce, która tworzy kąt 30 z dużą, naładowaną, nieprzewodzącą płytą, jak pokazano na rysunku poniżej. Oblicz powierzchniową gęstość ładunku  płyty.",
+   "modul": "M6"
+  },
+  {
+   "strona": 280,
+   "nr": 8,
+   "tresc": "Między okładki kondensatora naładowanego do napięcia 500 V wprowadzono dielektryk o przenikalności r = 2. Jaki ładunek został wyindukowany na cm2 powierzchni dielektryka, jeżeli odległość między okładkami kondensatora wynosi 2 mm?",
+   "modul": "M6"
+  },
+  {
+   "strona": 280,
+   "nr": 9,
+   "tresc": "Warstwa dielektryczna o przenikalności r i grubości x została umieszczona pomiędzy odległymi o d (d > x) okładkami kondensatora płaskiego (rysunek). Jak zmieniła się pojemność kondensatora?",
+   "modul": "M6"
+  },
+  {
+   "strona": 325,
+   "nr": 1,
+   "tresc": "W czasie wyładowania atmosferycznego stosunkowo nieduży ładunek jest przenoszony w bardzo krótkim czasie. Oblicz natężenie prądu błyskawicy, jeżeli w trakcie jej trwania zostaje przeniesiony pomiędzy Ziemią i chmurą ładunek Q = 50 C w czasie t = 1 ms.",
+   "modul": "M7"
+  },
+  {
+   "strona": 325,
+   "nr": 2,
+   "tresc": "Każda z krawędzi sześcianu pokazanego na rysunku ma oporność równą r = 1 . Jakie jest natężenie prądu pobieranego z baterii o sile elektromotorycznej  = 6 V i zerowym oporze wewnętrznym połączonej z tym sześcianem? Zauważ, że prąd wpływający do punktu A dzieli się na trzy równe części, a prąd wpływający do punktu B dzieli się na dwie równe części.",
+   "modul": "M7"
+  },
+  {
+   "strona": 325,
+   "nr": 3,
+   "tresc": "Korzystając z praw Kirchhoffa oblicz natężenia prądów płynących przez każdy z oporów w obwodzie pokazanym na rysunku poniżej. Wartości sił elektromotorycznych wynoszą odpowiednio  = 2 V i  = 1 V, a ich opory wewnętrzne są zaniedbywalnie małe. Jakie są kierunki płynących prądów?",
+   "modul": "M7"
+  },
+  {
+   "strona": 325,
+   "nr": 4,
+   "tresc": "Grzejnik o mocy 1 kW pracuje w sieci o napięciu 220 V. Jak zmieni się ilość wydzielanego ciepła gdy napięcie w sieci spadnie do 200 V ?",
+   "modul": "M7"
+  },
+  {
+   "strona": 325,
+   "nr": 5,
+   "tresc": "Z drutu miedzianego o średnicy  = 1 mm i długości l = 50 cm wykonano pętlę, którą podłączono do źródła prądu (rysunek poniżej). Jaka jest oporność całkowita obwodu? Oporność właściwą miedzi przyjmij równą  = 1.8·10-8 cm.",
+   "modul": "M7"
+  },
+  {
+   "strona": 326,
+   "nr": 6,
+   "tresc": "Elektrony poruszające się w kineskopie monitora mają energię kinetyczną E = 12 keV. Monitor jest tak zorientowany, że elektrony poruszają się poziomo z północy na południe. Składowa pionowa ziemskiego pola magnetycznego jest skierowana w dół i ma wartość indukcji B = 5·10-5 T. Jakie jest odchylenie elektronów po przebyciu w kineskopie drogi 25 cm?",
+   "modul": "M7"
+  },
+  {
+   "strona": 326,
+   "nr": 7,
+   "tresc": "Proton, deuteron (jądro izotopu wodoru zawierające 1 proton i 1 neutron) oraz cząstka alfa (jądro helu zawierające 2 protony i 2 neutrony) są przyspieszane w polu elektrycznym tą samą różnicą potencjałów, a następnie wchodzą w obszar pola magnetycznego B, poruszając się prostopadle do niego. Porównaj energie kinetyczne cząstek i promienie torów kołowych w polu magnetycznym.",
+   "modul": "M7"
+  },
+  {
+   "strona": 326,
+   "nr": 8,
+   "tresc": "Oblicz wartość indukcji magnetycznej B w odległości 1 cm od nieskończenie długiego, prostoliniowego przewodnika, w którym płynie prąd o natężeniu I = 5 A. Jaki jest kierunek i zwrot wektora B.",
+   "modul": "M7"
+  },
+  {
+   "strona": 326,
+   "nr": 9,
+   "tresc": "Solenoid o długości l = 50 cm i średnicy  = 10 cm ma 500 zwojów. Oblicz pole magnetyczne B wewnątrz solenoidu. Jaki jest strumień pola magnetycznego w solenoidzie?",
+   "modul": "M7"
+  },
+  {
+   "strona": 326,
+   "nr": 10,
+   "tresc": ",W przewodniku składającym się z dwóch prostoliniowych odcinków o długości l = 20 cm każdy i półkola o promieniu R = 10 cm płynie prąd o natężeniu I = 1 A (rysunek). Oblicz pole magnetyszne w w środku półkola (punkt P). Jak jest zwrot wektora B?",
+   "modul": "M7"
+  },
+  {
+   "strona": 372,
+   "nr": 1,
+   "tresc": "Jaka siła elektromotoryczna indukuje się w metalowym pręcie o długości l = 20 cm, jeżeli przewodnik ten obraca się w polu magnetycznym o indukcji B = 0.5 T, w płaszczyźnie prostopadłej do kierunku pola magnetycznego wokół osi przechodzącej przez koniec pręta. Pręt wykonuje 60 obrotów w ciągu sekundy.",
+   "modul": "M8"
+  },
+  {
+   "strona": 372,
+   "nr": 2,
+   "tresc": "W cewce o współczynniku samoindukcji L = 0.1 H natężenie prądu maleje jednostajnie od wartości I = 0.5 A do zera w czasie 0.01 s. Jaka siła elektromotoryczna indukcji powstaje podczas wyłączania prądu?",
+   "modul": "M8"
+  },
+  {
+   "strona": 372,
+   "nr": 3,
+   "tresc": "W kołowej pętli o średnicy 10 cm płynie prąd 100 A. Jaka jest gęstość energii w środku tej pętli?",
+   "modul": "M8"
+  },
+  {
+   "strona": 372,
+   "nr": 4,
+   "tresc": "Transformator osiedlowy dostarcza średnio 100 kW mocy przy napięciu skutecznym 230 V. Napięcie skuteczne po stronie pierwotnej transformatora wynosi 10 kV. Jaki jest stosunek zwojów N1/N2 w transformatorze i jaki jest wypadkowy opór obciążenia w uzwojeniu wtórnym? Zakładamy, że transformator jest idealny, a obciążenie czysto opornościowe.",
+   "modul": "M8"
+  },
+  {
+   "strona": 372,
+   "nr": 5,
+   "tresc": "Obwód drgający składa się z kondensatora o pojemności C = 1 pF oraz cewki o współczynniku samoindukcji L = 1 H. Jaki jest okres, częstotliwość i częstość oscylacji w obwodzie? Jaka jest długość fali elektromagnetycznej wypromieniowywanej przez ten obwód i z jakiego pasma pochodzi?",
+   "modul": "M8"
+  },
+  {
+   "strona": 372,
+   "nr": 6,
+   "tresc": "Obwód składa się z połączonych szeregowo oporu R = 10 , cewki o współczynniku samoindukcji L = 1 H i kondensatora o pojemności C = 10 F. Przy jakiej częstości  napięcia zasilającego wystąpi rezonans, a przy jakiej prąd w obwodzie wyniesie połowę wartości maksymalnej?",
+   "modul": "M8"
+  },
+  {
+   "strona": 372,
+   "nr": 7,
+   "tresc": "Napięcie skuteczne w obwodzie prądu zmiennego o częstotliwości f = 50 Hz wynosi 230 V. Natężenie skuteczne I = 1 A, a moc średnia P = 110 W. Jakie jest przesunięcie w fazie pomiędzy prądem i napięciem w tym obwodzie?",
+   "modul": "M8"
+  },
+  {
+   "strona": 372,
+   "nr": 8,
+   "tresc": "Przedstaw równania Maxwella w postaci uogólnionej. Omów fakty doświadczalne związane z tymi prawami.",
+   "modul": "M8"
+  },
+  {
+   "strona": 372,
+   "nr": 9,
+   "tresc": "W jakim zakresie widma promieniowania elektromagnetycznego leżą fale o długościach 1m, 1cm, 0.5 m, 1010 m?",
+   "modul": "M8"
+  },
+  {
+   "strona": 419,
+   "nr": 1,
+   "tresc": "W pewnym ośrodku prędkość światła o długości fali 550 nm wynosi 2·108 m/s. Jaki jest współczynnik załamania tego ośrodka dla tej fali? Jaka jest długość tej fali w powietrzu?",
+   "modul": "M9"
+  },
+  {
+   "strona": 419,
+   "nr": 2,
+   "tresc": "Pod jakim kątem  pada światło na płytkę kwarcową o współczynniku załamania n = 1.5 jeżeli promień odbity jest prostopadły do promienia załamanego?",
+   "modul": "M9"
+  },
+  {
+   "strona": 419,
+   "nr": 3,
+   "tresc": "Przedmiot znajduje się w wodzie na głębokości h (rysunek). Na jakiej głębokości h' widzi go obserwator? Współczynnik załamania wody n = 1.33.",
+   "modul": "M9"
+  },
+  {
+   "strona": 419,
+   "nr": 4,
+   "tresc": "Obraz interferencyjny powstaje na ekranie w odległości l = 1 m od dwóch wąskich szczelin, których rozstaw wynosi 0.1 mm. Oblicz długość fali padającego światła monochromatycznego jeżeli wiadomo, że trzeci jasny prążek znajduje się 15 mm od środkowego maksimum.",
+   "modul": "M9"
+  },
+  {
+   "strona": 419,
+   "nr": 5,
+   "tresc": "Jaka jest odległość kątowa pomiędzy pierwszym i drugim maksimum obrazu interferencyjnego dwóch wąskich szczelin z zadania 4?",
+   "modul": "M9"
+  },
+  {
+   "strona": 419,
+   "nr": 6,
+   "tresc": "Na gruba płytkę szklaną o współczynniku załamania nsz = 1.5 naniesiono cienką warstwę przezroczystego materiału o współczynniku załamania n = 1.25. Na warstwę pada prostopadle światło białe. Znajdź grubość tej warstwy jeżeli wiadomo, że dla fali o długości 600 nm obserwujemy interferencję powodującą całkowite wygaszenie, a dla fali 700 nm maksymalne wzmocnienie.",
+   "modul": "M9"
+  },
+  {
+   "strona": 419,
+   "nr": 7,
+   "tresc": "Światło o długości 500 nm pada na siatkę dyfrakcyjną mającą 1000 nacięć na centymetr długości. Jaka jest odległość między prążkiem zerowym, a obrazem pierwszego rzędu na ekranie odległym od siatki o 4 m?",
+   "modul": "M9"
+  },
+  {
+   "strona": 419,
+   "nr": 8,
+   "tresc": "Stosując okulary polaroidowe można uniknąć światła odbitego od różnych powierzchni. Jaki musi być kąt padania światła i jaki kierunek (pionowy czy poziomy) osi polaroidu w okularach, żeby wyeliminować całkowicie światło odbite od powierzchni wody (n = 1.33). Na jakiej wysokości kątowej nad horyzontem znajduje się wówczas Słońce?",
+   "modul": "M9"
+  },
+  {
+   "strona": 470,
+   "nr": 1,
+   "tresc": "Włókno wolframowe żarówki o mocy 60 W ma średnicę d = 0.3 mm i długość równą l = 10 cm. Oblicz temperaturę spirali, zakładając, że zdolność emisji spirali wolframowej wynosi e = 0.26 zdolności emisyjnej ciała doskonale czarnego.",
+   "modul": "M10"
+  },
+  {
+   "strona": 470,
+   "nr": 2,
+   "tresc": "Praca wyjścia dla litu wynosi W = 2.3 eV. Czy wystąpi efekt fotoelektryczny, gdy oświetlimy jego powierzchnię kolejno światłem o długości 500 nm i 650 nm ?",
+   "modul": "M10"
+  },
+  {
+   "strona": 470,
+   "nr": 3,
+   "tresc": "Światło żółte o długości  = 589 nm jest rejestrowane przez oko ludzkie przy minimalnej mocy promieniowania padającego na siatkówkę P = 1.7·108 W. Jaka jest ilość fotonów padających na siatkówkę oka w ciągu jednej sekundy?",
+   "modul": "M10"
+  },
+  {
+   "strona": 470,
+   "nr": 4,
+   "tresc": "Jakie powinno być napięcie hamowania, jeśli praca wyjścia z metalu wynosi W = 2.3 eV, a oświetlany jest promieniowaniem o długości 400 nm ? Jaka jest maksymalna prędkość elektronów wybijanych z powierzchni tego metalu?",
+   "modul": "M10"
+  },
+  {
+   "strona": 470,
+   "nr": 5,
+   "tresc": "Fotony o długości fali  = 0.005 nm zderzają się ze swobodnymi elektronami. Jaka jest długość fotonu rozproszonego odpowiednio pod kątem 30, 90 i 180?",
+   "modul": "M10"
+  },
+  {
+   "strona": 470,
+   "nr": 6,
+   "tresc": "Gazowy wodór został wzbudzony do stanu n = 4. Jaką energię zaabsorbował atom? Ile linii zaobserwujemy w widmie emisyjnym tego gazu?",
+   "modul": "M10"
+  },
+  {
+   "strona": 470,
+   "nr": 7,
+   "tresc": "Jaka energia jest potrzebna do usunięcia poza atom wodoru elektronu znajdującego się w stanie n = 6 ?",
+   "modul": "M10"
+  },
+  {
+   "strona": 470,
+   "nr": 8,
+   "tresc": "Ile wynosi długość fali de Broglie'a tak zwanych neutronów termicznych w temperaturze 3 300 K ? Energia kinetyczna takiego neutronu jest równa kT , gdzie k jest stałą 2 Boltzmanna.",
+   "modul": "M10"
+  },
+  {
+   "strona": 470,
+   "nr": 9,
+   "tresc": "Spróbuj pokazać, że jeżeli niepewność położenia cząstki jest równa długości jej fali de Broglie'a to niepewność jej prędkości jest równa tej prędkości.",
+   "modul": "M10"
+  },
+  {
+   "strona": 518,
+   "nr": 1,
+   "tresc": "Ile elektronów w atomie Ge, będącym w stanie podstawowym, znajduje się w stanach o n=3in=4?",
+   "modul": "M11"
+  },
+  {
+   "strona": 518,
+   "nr": 2,
+   "tresc": "Najmniejsza długość fali promieniowania X emitowanego z próbki wynosi min = 2·10−10 m. Jaki jest najcięższy pierwiastek występujący w tej próbce?",
+   "modul": "M11"
+  },
+  {
+   "strona": 518,
+   "nr": 3,
+   "tresc": "Ile elektronów przewodnictwa znajduje się w gramie germanu domieszkowanego arsenem, jeżeli ilość domieszki wynosi 1018 atomów arsenu na jeden mol atomów germanu?",
+   "modul": "M11"
+  },
+  {
+   "strona": 518,
+   "nr": 4,
+   "tresc": "Oblicz orbitalny moment magnetyczny elektronu dla pierwszych trzech orbit wodoru.",
+   "modul": "M11"
+  },
+  {
+   "strona": 518,
+   "nr": 5,
+   "tresc": "Moment dipolowy atomu żelaza wynosi 1.8 10−23 Am2. Jaki jest moment dipolowy żelaznej igły kompasu wykonanej w kształcie płytki o wymiarach 3 cm  5 mm  1 mm jeżeli momenty magnetyczne wszystkich atomów są ustawione w jednym kierunku?",
+   "modul": "M11"
+  },
+  {
+   "strona": 518,
+   "nr": 6,
+   "tresc": "Który z czasów jest dłuższy: czas połowicznego zaniku czy średni czas życia atomu promieniotwórczego?",
+   "modul": "M11"
+  },
+  {
+   "strona": 518,
+   "nr": 7,
+   "tresc": "Jaką ilość cząstek  wyemituje, w ciągu 1 sekundy, 1 gram izotopu uranu 238 92 U o połowicznym czasie zaniku T = 4.5·109 lat?",
+   "modul": "M11"
+  },
+  {
+   "strona": 518,
+   "nr": 8,
+   "tresc": "Oblicz maksymalną energię cząstek − emitowanych przez promieniotwórczy węgiel 14 6C w następującej reakcji 146 C  147 N    . Masa 146 C = 14.003242 u, a masa 14 7 N = 14.003074 u.",
+   "modul": "M11"
+  },
+  {
+   "strona": 518,
+   "nr": 9,
+   "tresc": "Ile gramów uranu trzeba zużywać dziennie w elektrowniach jądrowych, żeby wyprodukować 1 GW energii elektrycznej? Sprawność przemiany wynosi 30%.",
+   "modul": "M11"
+  },
+  {
+   "strona": 518,
+   "nr": 10,
+   "tresc": "Podczas wybuchu bomby wodorowej zachodzi reakcja termojądrowa, w której z deuteru i trytu powstają jądra helu 21 H  31 H  24 He  01 n . Oblicz ilość energii jaka wydzieli się podczas wybuchu, w którym powstaje 1 kg He. Masa atomu 21 H = 2.014102 u, masa 3 1 H = 3.016049 u, masa 42 He = 4.002604, a masa neutronu 01 n = 1.008665 u.",
+   "modul": "M11"
+  }
+ ],
+ "kluczowe": [
+  {
+   "plik": "k_018_0",
+   "strona": 18,
+   "modul": "M1",
+   "w": 314,
+   "h": 50
+  },
+  {
+   "plik": "k_019_0",
+   "strona": 19,
+   "modul": "M1",
+   "w": 298,
+   "h": 53
+  },
+  {
+   "plik": "k_020_3",
+   "strona": 20,
+   "modul": "M1",
+   "w": 128,
+   "h": 84
+  },
+  {
+   "plik": "k_022_1",
+   "strona": 22,
+   "modul": "M1",
+   "w": 97,
+   "h": 84
+  },
+  {
+   "plik": "k_024_0",
+   "strona": 24,
+   "modul": "M1",
+   "w": 128,
+   "h": 77
+  },
+  {
+   "plik": "k_024_2",
+   "strona": 24,
+   "modul": "M1",
+   "w": 196,
+   "h": 83
+  },
+  {
+   "plik": "k_026_0",
+   "strona": 26,
+   "modul": "M1",
+   "w": 132,
+   "h": 46
+  },
+  {
+   "plik": "k_026_1",
+   "strona": 26,
+   "modul": "M1",
+   "w": 358,
+   "h": 77
+  },
+  {
+   "plik": "k_026_2",
+   "strona": 26,
+   "modul": "M1",
+   "w": 384,
+   "h": 84
+  },
+  {
+   "plik": "k_028_0",
+   "strona": 28,
+   "modul": "M1",
+   "w": 299,
+   "h": 61
+  },
+  {
+   "plik": "k_028_1",
+   "strona": 28,
+   "modul": "M1",
+   "w": 164,
+   "h": 53
+  },
+  {
+   "plik": "k_028_2",
+   "strona": 28,
+   "modul": "M1",
+   "w": 225,
+   "h": 84
+  },
+  {
+   "plik": "k_029_0",
+   "strona": 29,
+   "modul": "M1",
+   "w": 303,
+   "h": 83
+  },
+  {
+   "plik": "k_031_0",
+   "strona": 31,
+   "modul": "M1",
+   "w": 207,
+   "h": 84
+  },
+  {
+   "plik": "k_032_0",
+   "strona": 32,
+   "modul": "M1",
+   "w": 122,
+   "h": 84
+  },
+  {
+   "plik": "k_035_2",
+   "strona": 35,
+   "modul": "M1",
+   "w": 105,
+   "h": 50
+  },
+  {
+   "plik": "k_035_4",
+   "strona": 35,
+   "modul": "M1",
+   "w": 100,
+   "h": 77
+  },
+  {
+   "plik": "k_036_0",
+   "strona": 36,
+   "modul": "M1",
+   "w": 183,
+   "h": 77
+  },
+  {
+   "plik": "k_036_4",
+   "strona": 36,
+   "modul": "M1",
+   "w": 426,
+   "h": 77
+  },
+  {
+   "plik": "k_041_1",
+   "strona": 41,
+   "modul": "M1",
+   "w": 113,
+   "h": 50
+  },
+  {
+   "plik": "k_042_1",
+   "strona": 42,
+   "modul": "M1",
+   "w": 105,
+   "h": 83
+  },
+  {
+   "plik": "k_043_1",
+   "strona": 43,
+   "modul": "M1",
+   "w": 105,
+   "h": 84
+  },
+  {
+   "plik": "k_044_0",
+   "strona": 44,
+   "modul": "M1",
+   "w": 120,
+   "h": 50
+  },
+  {
+   "plik": "k_046_0",
+   "strona": 46,
+   "modul": "M1",
+   "w": 141,
+   "h": 83
+  },
+  {
+   "plik": "k_047_2",
+   "strona": 47,
+   "modul": "M1",
+   "w": 138,
+   "h": 77
+  },
+  {
+   "plik": "k_052_1",
+   "strona": 52,
+   "modul": "M1",
+   "w": 216,
+   "h": 77
+  },
+  {
+   "plik": "k_056_0",
+   "strona": 56,
+   "modul": "M1",
+   "w": 234,
+   "h": 76
+  },
+  {
+   "plik": "k_056_1",
+   "strona": 56,
+   "modul": "M1",
+   "w": 96,
+   "h": 77
+  },
+  {
+   "plik": "k_056_2",
+   "strona": 56,
+   "modul": "M1",
+   "w": 163,
+   "h": 77
+  },
+  {
+   "plik": "k_056_3",
+   "strona": 56,
+   "modul": "M1",
+   "w": 108,
+   "h": 77
+  },
+  {
+   "plik": "k_057_0",
+   "strona": 57,
+   "modul": "M1",
+   "w": 125,
+   "h": 50
+  },
+  {
+   "plik": "k_060_0",
+   "strona": 60,
+   "modul": "M1",
+   "w": 200,
+   "h": 50
+  },
+  {
+   "plik": "k_060_1",
+   "strona": 60,
+   "modul": "M1",
+   "w": 155,
+   "h": 50
+  },
+  {
+   "plik": "k_062_0",
+   "strona": 62,
+   "modul": "M1",
+   "w": 194,
+   "h": 77
+  },
+  {
+   "plik": "k_071_1",
+   "strona": 71,
+   "modul": "M2",
+   "w": 216,
+   "h": 43
+  },
+  {
+   "plik": "k_074_0",
+   "strona": 74,
+   "modul": "M2",
+   "w": 303,
+   "h": 84
+  },
+  {
+   "plik": "k_075_1",
+   "strona": 75,
+   "modul": "M2",
+   "w": 414,
+   "h": 96
+  },
+  {
+   "plik": "k_076_1",
+   "strona": 76,
+   "modul": "M2",
+   "w": 132,
+   "h": 77
+  },
+  {
+   "plik": "k_076_3",
+   "strona": 76,
+   "modul": "M2",
+   "w": 148,
+   "h": 50
+  },
+  {
+   "plik": "k_077_1",
+   "strona": 77,
+   "modul": "M2",
+   "w": 89,
+   "h": 77
+  },
+  {
+   "plik": "k_077_2",
+   "strona": 77,
+   "modul": "M2",
+   "w": 152,
+   "h": 77
+  },
+  {
+   "plik": "k_077_3",
+   "strona": 77,
+   "modul": "M2",
+   "w": 100,
+   "h": 77
+  },
+  {
+   "plik": "k_081_0",
+   "strona": 81,
+   "modul": "M2",
+   "w": 138,
+   "h": 50
+  },
+  {
+   "plik": "k_082_0",
+   "strona": 82,
+   "modul": "M2",
+   "w": 162,
+   "h": 50
+  },
+  {
+   "plik": "k_082_1",
+   "strona": 82,
+   "modul": "M2",
+   "w": 179,
+   "h": 50
+  },
+  {
+   "plik": "k_083_0",
+   "strona": 83,
+   "modul": "M2",
+   "w": 258,
+   "h": 90
+  },
+  {
+   "plik": "k_083_1",
+   "strona": 83,
+   "modul": "M2",
+   "w": 187,
+   "h": 83
+  },
+  {
+   "plik": "k_085_0",
+   "strona": 85,
+   "modul": "M2",
+   "w": 180,
+   "h": 77
+  },
+  {
+   "plik": "k_086_0",
+   "strona": 86,
+   "modul": "M2",
+   "w": 164,
+   "h": 50
+  },
+  {
+   "plik": "k_086_2",
+   "strona": 86,
+   "modul": "M2",
+   "w": 240,
+   "h": 84
+  },
+  {
+   "plik": "k_086_3",
+   "strona": 86,
+   "modul": "M2",
+   "w": 152,
+   "h": 85
+  },
+  {
+   "plik": "k_087_0",
+   "strona": 87,
+   "modul": "M2",
+   "w": 172,
+   "h": 90
+  },
+  {
+   "plik": "k_087_1",
+   "strona": 87,
+   "modul": "M2",
+   "w": 228,
+   "h": 50
+  },
+  {
+   "plik": "k_089_0",
+   "strona": 89,
+   "modul": "M2",
+   "w": 224,
+   "h": 51
+  },
+  {
+   "plik": "k_089_2",
+   "strona": 89,
+   "modul": "M2",
+   "w": 250,
+   "h": 50
+  },
+  {
+   "plik": "k_092_0",
+   "strona": 92,
+   "modul": "M2",
+   "w": 185,
+   "h": 84
+  },
+  {
+   "plik": "k_093_0",
+   "strona": 93,
+   "modul": "M2",
+   "w": 194,
+   "h": 83
+  },
+  {
+   "plik": "k_093_1",
+   "strona": 93,
+   "modul": "M2",
+   "w": 183,
+   "h": 84
+  },
+  {
+   "plik": "k_093_2",
+   "strona": 93,
+   "modul": "M2",
+   "w": 149,
+   "h": 50
+  },
+  {
+   "plik": "k_094_1",
+   "strona": 94,
+   "modul": "M2",
+   "w": 137,
+   "h": 50
+  },
+  {
+   "plik": "k_094_3",
+   "strona": 94,
+   "modul": "M2",
+   "w": 125,
+   "h": 77
+  },
+  {
+   "plik": "k_106_0",
+   "strona": 106,
+   "modul": "M2",
+   "w": 195,
+   "h": 84
+  },
+  {
+   "plik": "k_108_0",
+   "strona": 108,
+   "modul": "M2",
+   "w": 310,
+   "h": 77
+  },
+  {
+   "plik": "k_117_0",
+   "strona": 117,
+   "modul": "M3",
+   "w": 224,
+   "h": 77
+  },
+  {
+   "plik": "k_118_0",
+   "strona": 118,
+   "modul": "M3",
+   "w": 228,
+   "h": 77
+  },
+  {
+   "plik": "k_118_1",
+   "strona": 118,
+   "modul": "M3",
+   "w": 120,
+   "h": 121
+  },
+  {
+   "plik": "k_119_2",
+   "strona": 119,
+   "modul": "M3",
+   "w": 492,
+   "h": 46
+  },
+  {
+   "plik": "k_120_0",
+   "strona": 120,
+   "modul": "M3",
+   "w": 489,
+   "h": 49
+  },
+  {
+   "plik": "k_120_1",
+   "strona": 120,
+   "modul": "M3",
+   "w": 120,
+   "h": 76
+  },
+  {
+   "plik": "k_121_1",
+   "strona": 121,
+   "modul": "M3",
+   "w": 240,
+   "h": 76
+  },
+  {
+   "plik": "k_121_3",
+   "strona": 121,
+   "modul": "M3",
+   "w": 255,
+   "h": 76
+  },
+  {
+   "plik": "k_122_1",
+   "strona": 122,
+   "modul": "M3",
+   "w": 499,
+   "h": 54
+  },
+  {
+   "plik": "k_123_0",
+   "strona": 123,
+   "modul": "M3",
+   "w": 88,
+   "h": 43
+  },
+  {
+   "plik": "k_123_1",
+   "strona": 123,
+   "modul": "M3",
+   "w": 162,
+   "h": 76
+  },
+  {
+   "plik": "k_123_2",
+   "strona": 123,
+   "modul": "M3",
+   "w": 127,
+   "h": 76
+  },
+  {
+   "plik": "k_124_1",
+   "strona": 124,
+   "modul": "M3",
+   "w": 519,
+   "h": 54
+  },
+  {
+   "plik": "k_127_1",
+   "strona": 127,
+   "modul": "M3",
+   "w": 104,
+   "h": 46
+  },
+  {
+   "plik": "k_127_2",
+   "strona": 127,
+   "modul": "M3",
+   "w": 163,
+   "h": 47
+  },
+  {
+   "plik": "k_128_0",
+   "strona": 128,
+   "modul": "M3",
+   "w": 249,
+   "h": 83
+  },
+  {
+   "plik": "k_128_1",
+   "strona": 128,
+   "modul": "M3",
+   "w": 336,
+   "h": 83
+  },
+  {
+   "plik": "k_128_2",
+   "strona": 128,
+   "modul": "M3",
+   "w": 210,
+   "h": 47
+  },
+  {
+   "plik": "k_129_0",
+   "strona": 129,
+   "modul": "M3",
+   "w": 127,
+   "h": 127
+  },
+  {
+   "plik": "k_129_1",
+   "strona": 129,
+   "modul": "M3",
+   "w": 186,
+   "h": 86
+  },
+  {
+   "plik": "k_130_0",
+   "strona": 130,
+   "modul": "M3",
+   "w": 217,
+   "h": 89
+  },
+  {
+   "plik": "k_132_0",
+   "strona": 132,
+   "modul": "M3",
+   "w": 154,
+   "h": 88
+  },
+  {
+   "plik": "k_133_0",
+   "strona": 133,
+   "modul": "M3",
+   "w": 304,
+   "h": 84
+  },
+  {
+   "plik": "k_134_0",
+   "strona": 134,
+   "modul": "M3",
+   "w": 191,
+   "h": 84
+  },
+  {
+   "plik": "k_135_0",
+   "strona": 135,
+   "modul": "M3",
+   "w": 236,
+   "h": 88
+  },
+  {
+   "plik": "k_135_2",
+   "strona": 135,
+   "modul": "M3",
+   "w": 159,
+   "h": 60
+  },
+  {
+   "plik": "k_136_0",
+   "strona": 136,
+   "modul": "M3",
+   "w": 643,
+   "h": 93
+  },
+  {
+   "plik": "k_137_0",
+   "strona": 137,
+   "modul": "M3",
+   "w": 174,
+   "h": 51
+  },
+  {
+   "plik": "k_137_1",
+   "strona": 137,
+   "modul": "M3",
+   "w": 309,
+   "h": 88
+  },
+  {
+   "plik": "k_138_1",
+   "strona": 138,
+   "modul": "M3",
+   "w": 210,
+   "h": 47
+  },
+  {
+   "plik": "k_139_0",
+   "strona": 139,
+   "modul": "M3",
+   "w": 351,
+   "h": 84
+  },
+  {
+   "plik": "k_139_1",
+   "strona": 139,
+   "modul": "M3",
+   "w": 564,
+   "h": 84
+  },
+  {
+   "plik": "k_139_2",
+   "strona": 139,
+   "modul": "M3",
+   "w": 565,
+   "h": 91
+  },
+  {
+   "plik": "k_140_0",
+   "strona": 140,
+   "modul": "M3",
+   "w": 179,
+   "h": 60
+  },
+  {
+   "plik": "k_140_1",
+   "strona": 140,
+   "modul": "M3",
+   "w": 202,
+   "h": 88
+  },
+  {
+   "plik": "k_141_1",
+   "strona": 141,
+   "modul": "M3",
+   "w": 288,
+   "h": 51
+  },
+  {
+   "plik": "k_146_0",
+   "strona": 146,
+   "modul": "M3",
+   "w": 164,
+   "h": 75
+  },
+  {
+   "plik": "k_148_0",
+   "strona": 148,
+   "modul": "M3",
+   "w": 120,
+   "h": 76
+  },
+  {
+   "plik": "k_148_1",
+   "strona": 148,
+   "modul": "M3",
+   "w": 120,
+   "h": 51
+  },
+  {
+   "plik": "k_163_0",
+   "strona": 163,
+   "modul": "M4",
+   "w": 152,
+   "h": 45
+  },
+  {
+   "plik": "k_163_1",
+   "strona": 163,
+   "modul": "M4",
+   "w": 152,
+   "h": 46
+  },
+  {
+   "plik": "k_163_2",
+   "strona": 163,
+   "modul": "M4",
+   "w": 222,
+   "h": 77
+  },
+  {
+   "plik": "k_164_0",
+   "strona": 164,
+   "modul": "M4",
+   "w": 78,
+   "h": 77
+  },
+  {
+   "plik": "k_164_1",
+   "strona": 164,
+   "modul": "M4",
+   "w": 227,
+   "h": 84
+  },
+  {
+   "plik": "k_164_2",
+   "strona": 164,
+   "modul": "M4",
+   "w": 311,
+   "h": 76
+  },
+  {
+   "plik": "k_164_3",
+   "strona": 164,
+   "modul": "M4",
+   "w": 200,
+   "h": 46
+  },
+  {
+   "plik": "k_164_4",
+   "strona": 164,
+   "modul": "M4",
+   "w": 186,
+   "h": 76
+  },
+  {
+   "plik": "k_166_0",
+   "strona": 166,
+   "modul": "M4",
+   "w": 160,
+   "h": 84
+  },
+  {
+   "plik": "k_166_1",
+   "strona": 166,
+   "modul": "M4",
+   "w": 100,
+   "h": 89
+  },
+  {
+   "plik": "k_167_0",
+   "strona": 167,
+   "modul": "M4",
+   "w": 318,
+   "h": 50
+  },
+  {
+   "plik": "k_168_0",
+   "strona": 168,
+   "modul": "M4",
+   "w": 361,
+   "h": 46
+  },
+  {
+   "plik": "k_168_1",
+   "strona": 168,
+   "modul": "M4",
+   "w": 192,
+   "h": 46
+  },
+  {
+   "plik": "k_168_2",
+   "strona": 168,
+   "modul": "M4",
+   "w": 310,
+   "h": 50
+  },
+  {
+   "plik": "k_169_0",
+   "strona": 169,
+   "modul": "M4",
+   "w": 155,
+   "h": 43
+  },
+  {
+   "plik": "k_170_0",
+   "strona": 170,
+   "modul": "M4",
+   "w": 99,
+   "h": 77
+  },
+  {
+   "plik": "k_170_1",
+   "strona": 170,
+   "modul": "M4",
+   "w": 222,
+   "h": 89
+  },
+  {
+   "plik": "k_172_0",
+   "strona": 172,
+   "modul": "M4",
+   "w": 455,
+   "h": 90
+  },
+  {
+   "plik": "k_172_1",
+   "strona": 172,
+   "modul": "M4",
+   "w": 153,
+   "h": 77
+  },
+  {
+   "plik": "k_175_0",
+   "strona": 175,
+   "modul": "M4",
+   "w": 180,
+   "h": 91
+  },
+  {
+   "plik": "k_176_0",
+   "strona": 176,
+   "modul": "M4",
+   "w": 160,
+   "h": 89
+  },
+  {
+   "plik": "k_178_1",
+   "strona": 178,
+   "modul": "M4",
+   "w": 84,
+   "h": 77
+  },
+  {
+   "plik": "k_178_2",
+   "strona": 178,
+   "modul": "M4",
+   "w": 84,
+   "h": 76
+  },
+  {
+   "plik": "k_184_0",
+   "strona": 184,
+   "modul": "M4",
+   "w": 132,
+   "h": 43
+  },
+  {
+   "plik": "k_186_0",
+   "strona": 186,
+   "modul": "M4",
+   "w": 258,
+   "h": 83
+  },
+  {
+   "plik": "k_188_0",
+   "strona": 188,
+   "modul": "M4",
+   "w": 187,
+   "h": 91
+  },
+  {
+   "plik": "k_193_0",
+   "strona": 193,
+   "modul": "M4",
+   "w": 147,
+   "h": 89
+  },
+  {
+   "plik": "k_193_1",
+   "strona": 193,
+   "modul": "M4",
+   "w": 164,
+   "h": 89
+  },
+  {
+   "plik": "k_200_0",
+   "strona": 200,
+   "modul": "M5",
+   "w": 141,
+   "h": 54
+  },
+  {
+   "plik": "k_201_0",
+   "strona": 201,
+   "modul": "M5",
+   "w": 216,
+   "h": 89
+  },
+  {
+   "plik": "k_202_2",
+   "strona": 202,
+   "modul": "M5",
+   "w": 163,
+   "h": 89
+  },
+  {
+   "plik": "k_202_3",
+   "strona": 202,
+   "modul": "M5",
+   "w": 130,
+   "h": 45
+  },
+  {
+   "plik": "k_202_4",
+   "strona": 202,
+   "modul": "M5",
+   "w": 128,
+   "h": 46
+  },
+  {
+   "plik": "k_204_1",
+   "strona": 204,
+   "modul": "M5",
+   "w": 172,
+   "h": 50
+  },
+  {
+   "plik": "k_205_1",
+   "strona": 205,
+   "modul": "M5",
+   "w": 155,
+   "h": 77
+  },
+  {
+   "plik": "k_205_2",
+   "strona": 205,
+   "modul": "M5",
+   "w": 128,
+   "h": 77
+  },
+  {
+   "plik": "k_205_3",
+   "strona": 205,
+   "modul": "M5",
+   "w": 463,
+   "h": 77
+  },
+  {
+   "plik": "k_205_4",
+   "strona": 205,
+   "modul": "M5",
+   "w": 476,
+   "h": 77
+  },
+  {
+   "plik": "k_206_1",
+   "strona": 206,
+   "modul": "M5",
+   "w": 141,
+   "h": 84
+  },
+  {
+   "plik": "k_206_2",
+   "strona": 206,
+   "modul": "M5",
+   "w": 176,
+   "h": 45
+  },
+  {
+   "plik": "k_206_3",
+   "strona": 206,
+   "modul": "M5",
+   "w": 302,
+   "h": 77
+  },
+  {
+   "plik": "k_206_4",
+   "strona": 206,
+   "modul": "M5",
+   "w": 187,
+   "h": 46
+  },
+  {
+   "plik": "k_208_1",
+   "strona": 208,
+   "modul": "M5",
+   "w": 172,
+   "h": 84
+  },
+  {
+   "plik": "k_210_0",
+   "strona": 210,
+   "modul": "M5",
+   "w": 130,
+   "h": 50
+  },
+  {
+   "plik": "k_211_0",
+   "strona": 211,
+   "modul": "M5",
+   "w": 649,
+   "h": 90
+  },
+  {
+   "plik": "k_211_1",
+   "strona": 211,
+   "modul": "M5",
+   "w": 148,
+   "h": 50
+  },
+  {
+   "plik": "k_214_0",
+   "strona": 214,
+   "modul": "M5",
+   "w": 145,
+   "h": 84
+  },
+  {
+   "plik": "k_215_0",
+   "strona": 215,
+   "modul": "M5",
+   "w": 329,
+   "h": 105
+  },
+  {
+   "plik": "k_216_0",
+   "strona": 216,
+   "modul": "M5",
+   "w": 240,
+   "h": 84
+  },
+  {
+   "plik": "k_219_0",
+   "strona": 219,
+   "modul": "M5",
+   "w": 187,
+   "h": 84
+  },
+  {
+   "plik": "k_219_1",
+   "strona": 219,
+   "modul": "M5",
+   "w": 177,
+   "h": 83
+  },
+  {
+   "plik": "k_221_1",
+   "strona": 221,
+   "modul": "M5",
+   "w": 99,
+   "h": 84
+  },
+  {
+   "plik": "k_221_4",
+   "strona": 221,
+   "modul": "M5",
+   "w": 113,
+   "h": 77
+  },
+  {
+   "plik": "k_223_1",
+   "strona": 223,
+   "modul": "M5",
+   "w": 503,
+   "h": 41
+  },
+  {
+   "plik": "k_225_0",
+   "strona": 225,
+   "modul": "M5",
+   "w": 128,
+   "h": 84
+  },
+  {
+   "plik": "k_238_3",
+   "strona": 238,
+   "modul": "M6",
+   "w": 125,
+   "h": 77
+  },
+  {
+   "plik": "k_241_1",
+   "strona": 241,
+   "modul": "M6",
+   "w": 89,
+   "h": 84
+  },
+  {
+   "plik": "k_241_2",
+   "strona": 241,
+   "modul": "M6",
+   "w": 323,
+   "h": 84
+  },
+  {
+   "plik": "k_244_1",
+   "strona": 244,
+   "modul": "M6",
+   "w": 224,
+   "h": 46
+  },
+  {
+   "plik": "k_246_1",
+   "strona": 246,
+   "modul": "M6",
+   "w": 596,
+   "h": 84
+  },
+  {
+   "plik": "k_248_0",
+   "strona": 248,
+   "modul": "M6",
+   "w": 210,
+   "h": 84
+  },
+  {
+   "plik": "k_249_0",
+   "strona": 249,
+   "modul": "M6",
+   "w": 249,
+   "h": 84
+  },
+  {
+   "plik": "k_251_0",
+   "strona": 251,
+   "modul": "M6",
+   "w": 125,
+   "h": 84
+  },
+  {
+   "plik": "k_251_1",
+   "strona": 251,
+   "modul": "M6",
+   "w": 100,
+   "h": 84
+  },
+  {
+   "plik": "k_252_0",
+   "strona": 252,
+   "modul": "M6",
+   "w": 100,
+   "h": 83
+  },
+  {
+   "plik": "k_253_0",
+   "strona": 253,
+   "modul": "M6",
+   "w": 89,
+   "h": 83
+  },
+  {
+   "plik": "k_254_0",
+   "strona": 254,
+   "modul": "M6",
+   "w": 196,
+   "h": 75
+  },
+  {
+   "plik": "k_255_0",
+   "strona": 255,
+   "modul": "M6",
+   "w": 215,
+   "h": 85
+  },
+  {
+   "plik": "k_255_2",
+   "strona": 255,
+   "modul": "M6",
+   "w": 129,
+   "h": 77
+  },
+  {
+   "plik": "k_255_3",
+   "strona": 255,
+   "modul": "M6",
+   "w": 325,
+   "h": 83
+  },
+  {
+   "plik": "k_256_1",
+   "strona": 256,
+   "modul": "M6",
+   "w": 358,
+   "h": 84
+  },
+  {
+   "plik": "k_261_1",
+   "strona": 261,
+   "modul": "M6",
+   "w": 101,
+   "h": 77
+  },
+  {
+   "plik": "k_261_2",
+   "strona": 261,
+   "modul": "M6",
+   "w": 163,
+   "h": 77
+  },
+  {
+   "plik": "k_262_1",
+   "strona": 262,
+   "modul": "M6",
+   "w": 85,
+   "h": 77
+  },
+  {
+   "plik": "k_263_0",
+   "strona": 263,
+   "modul": "M6",
+   "w": 345,
+   "h": 85
+  },
+  {
+   "plik": "k_263_1",
+   "strona": 263,
+   "modul": "M6",
+   "w": 185,
+   "h": 77
+  },
+  {
+   "plik": "k_264_0",
+   "strona": 264,
+   "modul": "M6",
+   "w": 91,
+   "h": 77
+  },
+  {
+   "plik": "k_266_0",
+   "strona": 266,
+   "modul": "M6",
+   "w": 179,
+   "h": 84
+  },
+  {
+   "plik": "k_266_2",
+   "strona": 266,
+   "modul": "M6",
+   "w": 155,
+   "h": 83
+  },
+  {
+   "plik": "k_273_0",
+   "strona": 273,
+   "modul": "M6",
+   "w": 164,
+   "h": 84
+  },
+  {
+   "plik": "k_274_0",
+   "strona": 274,
+   "modul": "M6",
+   "w": 160,
+   "h": 50
+  },
+  {
+   "plik": "k_282_1",
+   "strona": 282,
+   "modul": "M7",
+   "w": 72,
+   "h": 72
+  },
+  {
+   "plik": "k_283_2",
+   "strona": 283,
+   "modul": "M7",
+   "w": 77,
+   "h": 77
+  },
+  {
+   "plik": "k_283_3",
+   "strona": 283,
+   "modul": "M7",
+   "w": 216,
+   "h": 77
+  },
+  {
+   "plik": "k_285_0",
+   "strona": 285,
+   "modul": "M7",
+   "w": 148,
+   "h": 77
+  },
+  {
+   "plik": "k_285_3",
+   "strona": 285,
+   "modul": "M7",
+   "w": 100,
+   "h": 77
+  },
+  {
+   "plik": "k_286_0",
+   "strona": 286,
+   "modul": "M7",
+   "w": 96,
+   "h": 45
+  },
+  {
+   "plik": "k_288_0",
+   "strona": 288,
+   "modul": "M7",
+   "w": 89,
+   "h": 43
+  },
+  {
+   "plik": "k_289_0",
+   "strona": 289,
+   "modul": "M7",
+   "w": 245,
+   "h": 83
+  },
+  {
+   "plik": "k_290_0",
+   "strona": 290,
+   "modul": "M7",
+   "w": 100,
+   "h": 84
+  },
+  {
+   "plik": "k_290_2",
+   "strona": 290,
+   "modul": "M7",
+   "w": 141,
+   "h": 50
+  },
+  {
+   "plik": "k_291_0",
+   "strona": 291,
+   "modul": "M7",
+   "w": 522,
+   "h": 50
+  },
+  {
+   "plik": "k_291_2",
+   "strona": 291,
+   "modul": "M7",
+   "w": 96,
+   "h": 72
+  },
+  {
+   "plik": "k_291_4",
+   "strona": 291,
+   "modul": "M7",
+   "w": 179,
+   "h": 72
+  },
+  {
+   "plik": "k_295_0",
+   "strona": 295,
+   "modul": "M7",
+   "w": 515,
+   "h": 46
+  },
+  {
+   "plik": "k_301_0",
+   "strona": 301,
+   "modul": "M7",
+   "w": 99,
+   "h": 84
+  },
+  {
+   "plik": "k_303_0",
+   "strona": 303,
+   "modul": "M7",
+   "w": 128,
+   "h": 46
+  },
+  {
+   "plik": "k_304_0",
+   "strona": 304,
+   "modul": "M7",
+   "w": 116,
+   "h": 51
+  },
+  {
+   "plik": "k_304_1",
+   "strona": 304,
+   "modul": "M7",
+   "w": 128,
+   "h": 45
+  },
+  {
+   "plik": "k_304_2",
+   "strona": 304,
+   "modul": "M7",
+   "w": 485,
+   "h": 46
+  },
+  {
+   "plik": "k_304_3",
+   "strona": 304,
+   "modul": "M7",
+   "w": 113,
+   "h": 46
+  },
+  {
+   "plik": "k_304_4",
+   "strona": 304,
+   "modul": "M7",
+   "w": 250,
+   "h": 46
+  },
+  {
+   "plik": "k_305_0",
+   "strona": 305,
+   "modul": "M7",
+   "w": 433,
+   "h": 84
+  },
+  {
+   "plik": "k_306_0",
+   "strona": 306,
+   "modul": "M7",
+   "w": 116,
+   "h": 50
+  },
+  {
+   "plik": "k_307_0",
+   "strona": 307,
+   "modul": "M7",
+   "w": 105,
+   "h": 84
+  },
+  {
+   "plik": "k_309_0",
+   "strona": 309,
+   "modul": "M7",
+   "w": 521,
+   "h": 58
+  },
+  {
+   "plik": "k_309_1",
+   "strona": 309,
+   "modul": "M7",
+   "w": 172,
+   "h": 58
+  },
+  {
+   "plik": "k_310_0",
+   "strona": 310,
+   "modul": "M7",
+   "w": 100,
+   "h": 77
+  },
+  {
+   "plik": "k_310_1",
+   "strona": 310,
+   "modul": "M7",
+   "w": 120,
+   "h": 77
+  },
+  {
+   "plik": "k_312_0",
+   "strona": 312,
+   "modul": "M7",
+   "w": 113,
+   "h": 50
+  },
+  {
+   "plik": "k_313_0",
+   "strona": 313,
+   "modul": "M7",
+   "w": 224,
+   "h": 84
+  },
+  {
+   "plik": "k_313_2",
+   "strona": 313,
+   "modul": "M7",
+   "w": 532,
+   "h": 77
+  },
+  {
+   "plik": "k_333_0",
+   "strona": 333,
+   "modul": "M8",
+   "w": 113,
+   "h": 84
+  },
+  {
+   "plik": "k_334_1",
+   "strona": 334,
+   "modul": "M8",
+   "w": 138,
+   "h": 77
+  },
+  {
+   "plik": "k_334_2",
+   "strona": 334,
+   "modul": "M8",
+   "w": 122,
+   "h": 77
+  },
+  {
+   "plik": "k_335_0",
+   "strona": 335,
+   "modul": "M8",
+   "w": 138,
+   "h": 78
+  },
+  {
+   "plik": "k_336_0",
+   "strona": 336,
+   "modul": "M8",
+   "w": 302,
+   "h": 78
+  },
+  {
+   "plik": "k_338_0",
+   "strona": 338,
+   "modul": "M8",
+   "w": 152,
+   "h": 78
+  },
+  {
+   "plik": "k_338_1",
+   "strona": 338,
+   "modul": "M8",
+   "w": 153,
+   "h": 50
+  },
+  {
+   "plik": "k_338_2",
+   "strona": 338,
+   "modul": "M8",
+   "w": 326,
+   "h": 84
+  },
+  {
+   "plik": "k_338_3",
+   "strona": 338,
+   "modul": "M8",
+   "w": 120,
+   "h": 78
+  },
+  {
+   "plik": "k_340_0",
+   "strona": 340,
+   "modul": "M8",
+   "w": 278,
+   "h": 77
+  },
+  {
+   "plik": "k_340_1",
+   "strona": 340,
+   "modul": "M8",
+   "w": 191,
+   "h": 50
+  },
+  {
+   "plik": "k_341_0",
+   "strona": 341,
+   "modul": "M8",
+   "w": 179,
+   "h": 113
+  },
+  {
+   "plik": "k_341_1",
+   "strona": 341,
+   "modul": "M8",
+   "w": 265,
+   "h": 131
+  },
+  {
+   "plik": "k_341_2",
+   "strona": 341,
+   "modul": "M8",
+   "w": 258,
+   "h": 105
+  },
+  {
+   "plik": "k_341_3",
+   "strona": 341,
+   "modul": "M8",
+   "w": 161,
+   "h": 84
+  },
+  {
+   "plik": "k_341_4",
+   "strona": 341,
+   "modul": "M8",
+   "w": 152,
+   "h": 50
+  },
+  {
+   "plik": "k_345_0",
+   "strona": 345,
+   "modul": "M8",
+   "w": 164,
+   "h": 77
+  },
+  {
+   "plik": "k_345_1",
+   "strona": 345,
+   "modul": "M8",
+   "w": 358,
+   "h": 89
+  },
+  {
+   "plik": "k_347_0",
+   "strona": 347,
+   "modul": "M8",
+   "w": 512,
+   "h": 75
+  },
+  {
+   "plik": "k_349_0",
+   "strona": 349,
+   "modul": "M8",
+   "w": 225,
+   "h": 76
+  },
+  {
+   "plik": "k_350_0",
+   "strona": 350,
+   "modul": "M8",
+   "w": 264,
+   "h": 77
+  },
+  {
+   "plik": "k_352_0",
+   "strona": 352,
+   "modul": "M8",
+   "w": 288,
+   "h": 89
+  },
+  {
+   "plik": "k_352_1",
+   "strona": 352,
+   "modul": "M8",
+   "w": 85,
+   "h": 83
+  },
+  {
+   "plik": "k_353_0",
+   "strona": 353,
+   "modul": "M8",
+   "w": 183,
+   "h": 89
+  },
+  {
+   "plik": "k_354_0",
+   "strona": 354,
+   "modul": "M8",
+   "w": 186,
+   "h": 89
+  },
+  {
+   "plik": "k_356_0",
+   "strona": 356,
+   "modul": "M8",
+   "w": 152,
+   "h": 84
+  },
+  {
+   "plik": "k_376_2",
+   "strona": 376,
+   "modul": "M9",
+   "w": 179,
+   "h": 84
+  },
+  {
+   "plik": "k_376_3",
+   "strona": 376,
+   "modul": "M9",
+   "w": 179,
+   "h": 83
+  },
+  {
+   "plik": "k_379_0",
+   "strona": 379,
+   "modul": "M9",
+   "w": 255,
+   "h": 90
+  },
+  {
+   "plik": "k_380_0",
+   "strona": 380,
+   "modul": "M9",
+   "w": 125,
+   "h": 78
+  },
+  {
+   "plik": "k_380_1",
+   "strona": 380,
+   "modul": "M9",
+   "w": 138,
+   "h": 84
+  },
+  {
+   "plik": "k_385_0",
+   "strona": 385,
+   "modul": "M9",
+   "w": 463,
+   "h": 84
+  },
+  {
+   "plik": "k_385_1",
+   "strona": 385,
+   "modul": "M9",
+   "w": 464,
+   "h": 77
+  },
+  {
+   "plik": "k_388_0",
+   "strona": 388,
+   "modul": "M9",
+   "w": 278,
+   "h": 50
+  },
+  {
+   "plik": "k_390_0",
+   "strona": 390,
+   "modul": "M9",
+   "w": 89,
+   "h": 77
+  },
+  {
+   "plik": "k_392_0",
+   "strona": 392,
+   "modul": "M9",
+   "w": 392,
+   "h": 45
+  },
+  {
+   "plik": "k_393_0",
+   "strona": 393,
+   "modul": "M9",
+   "w": 476,
+   "h": 76
+  },
+  {
+   "plik": "k_394_0",
+   "strona": 394,
+   "modul": "M9",
+   "w": 179,
+   "h": 89
+  },
+  {
+   "plik": "k_395_0",
+   "strona": 395,
+   "modul": "M9",
+   "w": 186,
+   "h": 77
+  },
+  {
+   "plik": "k_395_1",
+   "strona": 395,
+   "modul": "M9",
+   "w": 266,
+   "h": 46
+  },
+  {
+   "plik": "k_395_2",
+   "strona": 395,
+   "modul": "M9",
+   "w": 330,
+   "h": 84
+  },
+  {
+   "plik": "k_396_0",
+   "strona": 396,
+   "modul": "M9",
+   "w": 200,
+   "h": 52
+  },
+  {
+   "plik": "k_397_0",
+   "strona": 397,
+   "modul": "M9",
+   "w": 264,
+   "h": 89
+  },
+  {
+   "plik": "k_399_0",
+   "strona": 399,
+   "modul": "M9",
+   "w": 480,
+   "h": 45
+  },
+  {
+   "plik": "k_402_0",
+   "strona": 402,
+   "modul": "M9",
+   "w": 659,
+   "h": 49
+  },
+  {
+   "plik": "k_405_0",
+   "strona": 405,
+   "modul": "M9",
+   "w": 517,
+   "h": 50
+  },
+  {
+   "plik": "k_411_0",
+   "strona": 411,
+   "modul": "M9",
+   "w": 90,
+   "h": 50
+  },
+  {
+   "plik": "k_413_0",
+   "strona": 413,
+   "modul": "M9",
+   "w": 194,
+   "h": 50
+  },
+  {
+   "plik": "k_423_1",
+   "strona": 423,
+   "modul": "M10",
+   "w": 105,
+   "h": 50
+  },
+  {
+   "plik": "k_425_1",
+   "strona": 425,
+   "modul": "M10",
+   "w": 100,
+   "h": 46
+  },
+  {
+   "plik": "k_425_2",
+   "strona": 425,
+   "modul": "M10",
+   "w": 100,
+   "h": 43
+  },
+  {
+   "plik": "k_429_0",
+   "strona": 429,
+   "modul": "M10",
+   "w": 132,
+   "h": 50
+  },
+  {
+   "plik": "k_430_0",
+   "strona": 430,
+   "modul": "M10",
+   "w": 89,
+   "h": 43
+  },
+  {
+   "plik": "k_430_2",
+   "strona": 430,
+   "modul": "M10",
+   "w": 162,
+   "h": 50
+  },
+  {
+   "plik": "k_431_0",
+   "strona": 431,
+   "modul": "M10",
+   "w": 152,
+   "h": 77
+  },
+  {
+   "plik": "k_433_0",
+   "strona": 433,
+   "modul": "M10",
+   "w": 302,
+   "h": 84
+  },
+  {
+   "plik": "k_438_0",
+   "strona": 438,
+   "modul": "M10",
+   "w": 133,
+   "h": 78
+  },
+  {
+   "plik": "k_439_0",
+   "strona": 439,
+   "modul": "M10",
+   "w": 247,
+   "h": 90
+  },
+  {
+   "plik": "k_439_1",
+   "strona": 439,
+   "modul": "M10",
+   "w": 258,
+   "h": 77
+  },
+  {
+   "plik": "k_440_0",
+   "strona": 440,
+   "modul": "M10",
+   "w": 350,
+   "h": 89
+  },
+  {
+   "plik": "k_440_1",
+   "strona": 440,
+   "modul": "M10",
+   "w": 349,
+   "h": 89
+  },
+  {
+   "plik": "k_441_0",
+   "strona": 441,
+   "modul": "M10",
+   "w": 358,
+   "h": 90
+  },
+  {
+   "plik": "k_443_0",
+   "strona": 443,
+   "modul": "M10",
+   "w": 270,
+   "h": 77
+  },
+  {
+   "plik": "k_443_1",
+   "strona": 443,
+   "modul": "M10",
+   "w": 78,
+   "h": 78
+  },
+  {
+   "plik": "k_445_0",
+   "strona": 445,
+   "modul": "M10",
+   "w": 310,
+   "h": 77
+  },
+  {
+   "plik": "k_448_1",
+   "strona": 448,
+   "modul": "M10",
+   "w": 151,
+   "h": 129
+  },
+  {
+   "plik": "k_448_3",
+   "strona": 448,
+   "modul": "M10",
+   "w": 142,
+   "h": 45
+  },
+  {
+   "plik": "k_449_1",
+   "strona": 449,
+   "modul": "M10",
+   "w": 275,
+   "h": 89
+  },
+  {
+   "plik": "k_450_1",
+   "strona": 450,
+   "modul": "M10",
+   "w": 682,
+   "h": 89
+  },
+  {
+   "plik": "k_451_0",
+   "strona": 451,
+   "modul": "M10",
+   "w": 312,
+   "h": 50
+  },
+  {
+   "plik": "k_451_1",
+   "strona": 451,
+   "modul": "M10",
+   "w": 576,
+   "h": 122
+  },
+  {
+   "plik": "k_460_0",
+   "strona": 460,
+   "modul": "M10",
+   "w": 204,
+   "h": 66
+  },
+  {
+   "plik": "k_472_0",
+   "strona": 472,
+   "modul": "M11",
+   "w": 177,
+   "h": 145
+  },
+  {
+   "plik": "k_476_0",
+   "strona": 476,
+   "modul": "M11",
+   "w": 200,
+   "h": 84
+  },
+  {
+   "plik": "k_480_0",
+   "strona": 480,
+   "modul": "M11",
+   "w": 120,
+   "h": 77
+  },
+  {
+   "plik": "k_480_1",
+   "strona": 480,
+   "modul": "M11",
+   "w": 273,
+   "h": 89
+  },
+  {
+   "plik": "k_483_0",
+   "strona": 483,
+   "modul": "M11",
+   "w": 160,
+   "h": 66
+  },
+  {
+   "plik": "k_496_0",
+   "strona": 496,
+   "modul": "M11",
+   "w": 247,
+   "h": 50
+  },
+  {
+   "plik": "k_500_0",
+   "strona": 500,
+   "modul": "M11",
+   "w": 228,
+   "h": 50
+  },
+  {
+   "plik": "k_502_1",
+   "strona": 502,
+   "modul": "M11",
+   "w": 132,
+   "h": 46
+  },
+  {
+   "plik": "k_506_0",
+   "strona": 506,
+   "modul": "M11",
+   "w": 531,
+   "h": 50
+  },
+  {
+   "plik": "k_507_0",
+   "strona": 507,
+   "modul": "M11",
+   "w": 77,
+   "h": 77
+  },
+  {
+   "plik": "k_507_1",
+   "strona": 507,
+   "modul": "M11",
+   "w": 130,
+   "h": 50
+  },
+  {
+   "plik": "k_507_2",
+   "strona": 507,
+   "modul": "M11",
+   "w": 128,
+   "h": 43
+  },
+  {
+   "plik": "k_521_0",
+   "strona": 521,
+   "modul": "M11",
+   "w": 120,
+   "h": 43
+  },
+  {
+   "plik": "k_521_2",
+   "strona": 521,
+   "modul": "M11",
+   "w": 295,
+   "h": 77
+  },
+  {
+   "plik": "k_521_3",
+   "strona": 521,
+   "modul": "M11",
+   "w": 313,
+   "h": 77
+  },
+  {
+   "plik": "k_523_0",
+   "strona": 523,
+   "modul": "M11",
+   "w": 264,
+   "h": 147
+  },
+  {
+   "plik": "k_524_0",
+   "strona": 524,
+   "modul": "M11",
+   "w": 255,
+   "h": 120
+  },
+  {
+   "plik": "k_524_1",
+   "strona": 524,
+   "modul": "M11",
+   "w": 249,
+   "h": 147
+  },
+  {
+   "plik": "k_525_0",
+   "strona": 525,
+   "modul": "M11",
+   "w": 228,
+   "h": 58
+  },
+  {
+   "plik": "k_526_0",
+   "strona": 526,
+   "modul": "M11",
+   "w": 161,
+   "h": 108
+  },
+  {
+   "plik": "k_527_0",
+   "strona": 527,
+   "modul": "M11",
+   "w": 180,
+   "h": 121
+  },
+  {
+   "plik": "k_528_0",
+   "strona": 528,
+   "modul": "M11",
+   "w": 99,
+   "h": 45
+  },
+  {
+   "plik": "k_528_1",
+   "strona": 528,
+   "modul": "M11",
+   "w": 400,
+   "h": 50
+  },
+  {
+   "plik": "k_528_2",
+   "strona": 528,
+   "modul": "M11",
+   "w": 289,
+   "h": 78
+  }
+ ]
+}

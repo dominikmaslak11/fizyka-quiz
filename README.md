@@ -5,7 +5,9 @@ i wyświetlane w treści pytań, wykresy i schematy rysowane programowo.
 Działa w pełni offline.
 
 **78 pytań** w 11 modułach, **304 wzorów** złożonych w LaTeX-u
-i 11 ilustracji rysowanych programowo.
+i 11 ilustracji rysowanych programowo. Do tego **wyciąg z całego podręcznika**:
+**310 wzorów kluczowych**, **52 definicji**,
+**82 praw i twierdzeń** oraz **101 zadań** z testów kończących moduły.
 
 ## Źródło materiału
 
@@ -41,6 +43,29 @@ zachowania atrybucji i tej samej licencji dla utworów pochodnych.
 | M9 | Optyka | 6 | 28–31 (optyka geometryczna i falowa, interferencja, dyfrakcja, polaryzacja) |
 | M10 | Fizyka kwantowa | 6 | 32–35 (fizyka kwantowa, fale i cząstki, mechanika kwantowa) |
 | M11 | Atomy, ciało stałe, jądro | 6 | 36–38 (atomy wieloelektronowe, materia skondensowana, fizyka jądrowa) |
+
+## Wyciąg z podręcznika
+
+Oprócz pytań pisanych ręcznie aplikacja zawiera materiał wyciągnięty z podręcznika
+programowo przez `narzedzia/wyciag_pdf.py`:
+
+| co | ile | jak wyciągane |
+|---|---|---|
+| **wzory kluczowe** | 310 | autor wyróżnia najważniejsze wzory **czystym żółtym tłem** (255,255,0). Skrypt renderuje każdą stronę, znajduje żółte obszary i wycina je jako osobne obrazki |
+| **definicje** | 52 | bloki zaczynające się słowem „Definicja" i ciągnące się wcięciem |
+| **prawa i twierdzenia** | 82 | bloki „Prawo, zasada, twierdzenie" |
+| **zadania** | 101 | testy kończące każdy moduł |
+
+Przynależność do modułu ustalana jest z **żywej paginy** („Moduł VII – …"), a nie z numeru
+strony, bo numeracja drukowana rozjeżdża się z numeracją PDF.
+
+⚠ **Filtr na wycinkach.** Sama detekcja żółtego wyłapuje też ikonki i tła ramek, więc wycinki
+przechodzą przez filtr odrzucający zbyt małe, pozbawione ciemnego tekstu oraz zawierające
+kolory inne niż żółty i czarny. Z 441 surowych wycinków zostaje 310 prawdziwych wzorów.
+
+⚠ **Zadania z testów są otwarte i podręcznik nie podaje do nich rozwiązań.** W aplikacji są
+więc treściami do samodzielnego przeliczenia, a nie pytaniami zamkniętymi. Aplikacja mówi
+o tym wprost na ekranie zadań.
 
 ## Jak to jest zrobione
 

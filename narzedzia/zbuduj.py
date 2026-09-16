@@ -98,8 +98,12 @@ def main():
             "wyjasnienie": podmien(p["wyj"], indeks),
         })
 
+    # material wyciagniety z podrecznika: wzory kluczowe, definicje, prawa, zadania
+    wyciag_plik = KATALOG / "bank" / "wyciag.json"
+    wyciag = json.loads(wyciag_plik.read_text(encoding="utf-8")) if wyciag_plik.exists() else {}
+
     dane = {
-        "wersja": "1.0",
+        "wersja": "1.1",
         "zrodlo": {
             "tytul": "Zbigniew Kąkol, „Fizyka dla inżynierów”",
             "wydawca": "Wydział Fizyki i Informatyki Stosowanej, AGH w Krakowie, 2023",
@@ -108,9 +112,17 @@ def main():
         },
         "moduly": [{"id": k, "nazwa": n, "kolor": c, "rozdzialy": ROZDZIALY[k]}
                    for k, n, c in MODULY],
+        # em_px jest jednakowe dla wszystkich wzorow (staly PT i DPI przy skladaniu).
+        # Aplikacja skaluje kazdy obrazek TYM SAMYM wspolczynnikiem, a nie do wspolnej
+        # wysokosci — inaczej wzor z ulamkiem wychodzilby drobniejszy od jednowierszowego.
+        "em_px": wzory.EM_PX,
         "wzory": {v["plik"].removesuffix(".png"): {"w": v["w"], "h": v["h"]}
                   for v in indeks.values()},
         "pytania": wyjscie,
+        "kluczowe": wyciag.get("kluczowe", []),
+        "definicje": [d | {"id": f"D{i+1:03d}"} for i, d in enumerate(wyciag.get("definicje", []))],
+        "prawa": [d | {"id": f"P{i+1:03d}"} for i, d in enumerate(wyciag.get("prawa", []))],
+        "zadania": [d | {"id": f"Z{i+1:03d}"} for i, d in enumerate(wyciag.get("zadania", []))],
     }
 
     cel = KATALOG / "android" / "app" / "src" / "main" / "assets" / "pytania.json"
@@ -122,7 +134,10 @@ def main():
     for k, _, _ in MODULY:
         n = sum(1 for p in wyjscie if p["modul"] == k)
         print(f"  {k:4s} {NAZWY[k][:40]:42s} {n:3d}")
-    print(f"\n  Pytań: {len(wyjscie)}   Wzorów: {len(indeks)}")
+    print(f"\n  Pytań: {len(wyjscie)}   Wzorów w pytaniach: {len(indeks)}")
+    print(f"  Z podręcznika: {len(dane['kluczowe'])} wzorów kluczowych, "
+          f"{len(dane['definicje'])} definicji, {len(dane['prawa'])} praw, "
+          f"{len(dane['zadania'])} zadań")
 
 
 if __name__ == "__main__":

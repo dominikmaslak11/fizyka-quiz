@@ -99,26 +99,52 @@ class QuizActivity : AppCompatActivity() {
         boxOdp.removeAllViews()
         val rozmiarOdp = Wzory.sp(this, 15f)
         p.odpowiedzi.forEachIndexed { i, tresc ->
-            val b = Button(this).apply {
-                text = TextUtilsPrefix(LITERY[i], Wzory.zloz(this@QuizActivity, tresc, rozmiarOdp))
-                gravity = Gravity.START or Gravity.CENTER_VERTICAL
-                isAllCaps = false
-                setTextSize(TypedValue.COMPLEX_UNIT_SP, 15f)
-                setTextColor(resources.getColor(R.color.tekst, null))
-                setBackgroundResource(R.drawable.tlo_odpowiedzi)
-                setPadding(28, 30, 28, 30)
-                layoutParams = LinearLayout.LayoutParams(
-                    LinearLayout.LayoutParams.MATCH_PARENT,
-                    LinearLayout.LayoutParams.WRAP_CONTENT).apply { topMargin = 14 }
-                setOnClickListener { wybierz(i) }
-            }
-            boxOdp.addView(b)
+            boxOdp.addView(zbudujOdpowiedz(i, tresc, rozmiarOdp))
         }
     }
 
-    /** Skleja literę odpowiedzi z treścią, która może zawierać obrazki wzorów. */
-    private fun TextUtilsPrefix(litera: String, tresc: CharSequence): CharSequence =
-        android.text.SpannableStringBuilder("$litera)  ").append(tresc)
+    /**
+     * Wiersz odpowiedzi: litera w stalej kolumnie po lewej, tresc obok.
+     *
+     * Litera jest w osobnym widoku, a nie wklejona w tekst, bo przy wysokim wzorze
+     * (ulamek pod pierwiastkiem) sklejona litera wyladowalaby przy dolnej krawedzi —
+     * ImageSpan wyrownuje do linii pisma, wiec wysoki obrazek spycha tekst w dol.
+     */
+    private fun zbudujOdpowiedz(i: Int, tresc: String, rozmiar: Float): View {
+        val wiersz = LinearLayout(this).apply {
+            orientation = LinearLayout.HORIZONTAL
+            gravity = Gravity.CENTER_VERTICAL
+            setBackgroundResource(R.drawable.tlo_odpowiedzi)
+            setPadding(26, 26, 26, 26)
+            isClickable = true
+            layoutParams = LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.MATCH_PARENT,
+                LinearLayout.LayoutParams.WRAP_CONTENT).apply { topMargin = 14 }
+            setOnClickListener { wybierz(i) }
+        }
+        wiersz.addView(TextView(this).apply {
+            text = "${LITERY[i]})"
+            setTextSize(TypedValue.COMPLEX_UNIT_SP, 15f)
+            setTextColor(resources.getColor(R.color.szary, null))
+            setTypeface(typeface, android.graphics.Typeface.BOLD)
+            layoutParams = LinearLayout.LayoutParams(
+                (34 * resources.displayMetrics.density).toInt(),
+                LinearLayout.LayoutParams.WRAP_CONTENT)
+        })
+        wiersz.addView(TextView(this).apply {
+            text = Wzory.zloz(this@QuizActivity, tresc, rozmiar)
+            setTextSize(TypedValue.COMPLEX_UNIT_SP, 15f)
+            setTextColor(resources.getColor(R.color.tekst, null))
+            setLineSpacing(0f, 1.25f)
+            // Zapas u gory: wzor osadzony przez ImageSpan wystaje ponad wysokosc wiersza
+            // i bez tego znaki gorne (np. stopien albo potega) sa przycinane.
+            includeFontPadding = false
+            setPadding(0, (rozmiar * 0.45f).toInt(), 0, (rozmiar * 0.12f).toInt())
+            layoutParams = LinearLayout.LayoutParams(
+                0, LinearLayout.LayoutParams.WRAP_CONTENT, 1f)
+        })
+        return wiersz
+    }
 
     private fun wybierz(w: Int) {
         if (odpowiedziano) return

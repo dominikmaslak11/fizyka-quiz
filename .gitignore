@@ -14,3 +14,4 @@ android/klucz.properties
 *.out
 android/app/src/main/assets/wzory/
 android/app/src/main/assets/grafiki/
+android/app/src/main/assets/kluczowe/

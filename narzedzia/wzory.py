@@ -15,6 +15,8 @@ WYJSCIE = KATALOG / "android" / "app" / "src" / "main" / "assets" / "wzory"
 INDEKS = KATALOG / "bank" / "wzory-indeks.json"
 
 DPI = 420          # wysokie, zeby wzor byl ostry na ekranie telefonu
+PT  = 12           # wielkosc czcionki w szablonie — razem z DPI daje stala wielkosc firetu
+EM_PX = DPI * PT / 72.0   # ile pikseli ma firet (em) na kazdym obrazku
 KOLOR = "1C2530"   # ten sam kolor co tekst w aplikacji
 
 SZABLON = r"""\documentclass[preview,border=1pt,12pt]{standalone}
